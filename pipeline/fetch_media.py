@@ -1,5 +1,8 @@
-"""Download real photos per scene from Wikimedia Commons (several per scene for fast cuts) and record license/credit."""
-import json, os, sys, time, pathlib, requests
+"""Download real images per scene and record license/credit.
+Generic everyday-life scenes (query with no capitalised word, e.g. "1950s family dinner table") take frames from real
+1945-1969 films of the Prelinger Archives on archive.org (public domain); scenes naming something specific
+(e.g. "1955 Chevrolet Bel Air", "Jonas Salk") use Wikimedia Commons photos. Either source falls back to the other."""
+import json, os, random, re, subprocess, sys, time, pathlib, requests
 
 API = "https://commons.wikimedia.org/w/api.php"
 HEADERS = {"User-Agent": "growing-up-america-channel/1.0 (github.com/viniciushoscher-ctrl/growing-up-america)"}
@@ -57,6 +60,84 @@ def pick(query, used):
     return None
 
 
+# ---------- Prelinger Archives film frames ----------
+IA = "https://archive.org"
+STOP = {"vintage", "american", "america", "old", "retro", "the", "a", "of", "and", "in", "with", "to", "for", "on", "at", "from", "your"}
+FILMS = pathlib.Path("/tmp/films"); _films, _used_frames = {}, set()
+
+
+def wants_film(query):
+    return not re.search(r"\b[A-Z][a-z]", query)
+
+
+def film_terms(query):
+    words = [w for w in re.sub(r"\b(19\d\ds?|\d{2}s)\b", " ", query.lower()).split() if w not in STOP]
+    return words[:3]
+
+
+def ia_search(words):
+    q = "collection:prelinger AND year:[1945 TO 1969] AND (" + " AND ".join(f"(title:{w} OR subject:{w} OR description:{w})" for w in words) + ")"
+    for attempt in range(5):
+        try:
+            r = requests.get(f"{IA}/advancedsearch.php", params={"q": q, "fl[]": ["identifier", "title", "year"], "rows": 15,
+                             "sort[]": "downloads desc", "output": "json"}, headers=HEADERS, timeout=60)
+            if r.ok: return r.json()["response"]["docs"]
+        except (requests.RequestException, ValueError, KeyError):
+            pass
+        time.sleep(5 * (attempt + 1))
+    return []
+
+
+def film_file(ident):
+    """Smallest h.264/MPEG4 derivative of the film, downloaded once per run."""
+    if ident in _films: return _films[ident]
+    _films[ident] = None
+    try:
+        files = requests.get(f"{IA}/metadata/{ident}", headers=HEADERS, timeout=60).json().get("files", [])
+    except (requests.RequestException, ValueError):
+        return None
+    mp4 = [f for f in files if f.get("name", "").endswith(".mp4") and 1e6 < int(f.get("size", 0) or 0) < 400e6]
+    if not mp4: return None
+    f = min(mp4, key=lambda f: int(f["size"]))
+    if DRY: _films[ident] = (f"{IA}/download/{ident}/{f['name']}", 600.0); return _films[ident]
+    FILMS.mkdir(exist_ok=True); path = FILMS / f"{ident}.mp4"
+    if not path.exists(): path.write_bytes(download(f"{IA}/download/{ident}/{f['name']}"))
+    try:
+        dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(path)],
+                                   capture_output=True, text=True).stdout.strip())
+    except ValueError:
+        return None
+    _films[ident] = (path, dur); return _films[ident]
+
+
+def pick_film(query):
+    words = film_terms(query)
+    docs = []
+    while words and not docs:
+        docs = ia_search(words); words = words[:-1]
+    random.shuffle(docs)
+    for d in docs[:6]:
+        ff = film_file(d["identifier"])
+        if not ff: continue
+        src, dur = ff
+        for _ in range(12):
+            t = round(random.uniform(dur * 0.06, dur * 0.94), 1)
+            key = (d["identifier"], int(t // 4))  # never two frames from the same 4 seconds
+            if key in _used_frames: continue
+            _used_frames.add(key)
+            return {"title": f"{d.get('title', d['identifier'])} ({d.get('year', '')}) at {t}s", "src": src, "t": t,
+                    "page": f"{IA}/details/{d['identifier']}", "license": "Public domain (Prelinger Archives)",
+                    "artist": "Prelinger Archives"}
+    return None
+
+
+def save_frame(m, f):
+    """One frame from the film, cropped to 16:9 and upscaled so the slow zoom stays sharp enough."""
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(m["t"]), "-i", str(m["src"]), "-frames:v", "1",
+                    "-vf", "crop=iw:min(ih\\,iw*9/16),scale=2880:-2:flags=lanczos", "-q:v", "2", str(f)], check=True)
+    return f.exists() and f.stat().st_size > 5000
+
+
 DRY = bool(os.environ.get("DRY"))  # DRY=1: only search and print which photo each scene would get (no downloads)
 
 
@@ -69,6 +150,12 @@ def main(video):
         for k in range(s.get("cuts", 2)):
             f = d / "media" / f"{i}_{k}.jpg"
             q = s["query"]
+            if s.get("film", wants_film(q)):
+                fm = pick_film(q)
+                if fm and (DRY or save_frame(fm, f)):
+                    if DRY: print("SCENE", i, k, "|", q, "| FILM", fm["title"]); last = last or True; continue
+                    last = f; credits.append({k2: v for k2, v in fm.items() if k2 not in ("src", "t")} | {"scene": i, "cut": k})
+                    print(i, k, "film", fm["title"]); continue
             m = pick(q, used)
             while m is None and len(q.split()) > 2:  # query too narrow: drop the last word and retry
                 q = " ".join(q.split()[:-1]); m = pick(q, used)
