@@ -1,0 +1,12 @@
+- John Glenn's Friendship 7 orbital flight, February 20, 1962 (NASA)
+- Bell System Princess telephone introduced 1959 (AT&T archives)
+- Mr. Coffee drip coffee maker introduced 1972
+- Corning Ware introduced 1958; Pyroceram developed from missile nose-cone research (Corning Museum of Glass)
+- Ermal Fraze, pull-tab can top; Iron City Beer (Pittsburgh Brewing) first to use it in 1962
+- Swanson TV dinners introduced 1953-54
+- Amana Radarange, first popular countertop home microwave, 1967
+- Tang introduced by General Foods 1959; flown on NASA Gemini missions from 1965
+- Betty Crocker created by Washburn Crosby Company in 1921 (General Mills)
+- Mastering the Art of French Cooking published October 1961; The French Chef premiered on WGBH 1963
+- Surgeon General's report on smoking and health, January 11, 1964
+- Tupperware home-party sales model, 1950s (Smithsonian National Museum of American History)

@@ -1,0 +1,19 @@
+- Salk vaccine announced safe and effective, April 12, 1955 (History.com / University of Michigan)
+- Disneyland opened July 17, 1955 (Disney archives)
+- Mickey Mouse Club and Captain Kangaroo premiered October 3, 1955; Gunsmoke premiered September 10, 1955
+- Rock Around the Clock reached No. 1 on Billboard in July 1955
+- Elvis Presley on The Ed Sullivan Show, September 9, 1956, ~60 million viewers (History.com): https://www.history.com/this-day-in-history/september-9/elvis-presley-first-appearance-the-ed-sullivan-show
+- The Beatles on The Ed Sullivan Show, February 9, 1964, ~73 million viewers: https://en.wikipedia.org/wiki/The_Beatles_on_The_Ed_Sullivan_Show
+- TV households in the mid-1950s: https://en.wikipedia.org/wiki/Television_in_the_United_States
+- Median family income 1955 ~$4,400 (US Census Bureau, Current Population Reports P60)
+- Federal minimum wage $0.75, raised to $1.00 on March 1, 1956 (US Department of Labor)
+- Prices in 1955: https://www.officialdata.org/prices-in-1955
+- 1955 Chevrolet Bel Air: https://thehenryford.org/artifact/142552
+- Under God added to the Pledge of Allegiance, June 14, 1954
+- Ray Kroc's first McDonald's, Des Plaines, Illinois, April 15, 1955
+- Rosa Parks arrested December 1, 1955, Montgomery, Alabama
+- Federal-Aid Highway Act signed June 29, 1956
+- Sputnik 1 launched October 4, 1957
+- Wham-O Hula Hoop, 1958; Barbie, March 1959
+- Kennedy-Nixon debate, September 26, 1960; Cuban Missile Crisis, October 1962; JFK assassination, November 22, 1963
+- Ford Mustang introduced April 17, 1964, base price $2,368

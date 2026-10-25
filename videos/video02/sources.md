@@ -1,0 +1,16 @@
+- Voting age 21 in most states until the 26th Amendment, July 1, 1971 (Georgia and Kentucky allowed 18 earlier)
+- Selective Service: registration at 18 under the Universal Military Training and Service Act of 1951
+- Elvis Presley draft notice December 20, 1957; inducted March 24, 1958 (US Army / Graceland)
+- Federal minimum wage $1.00 from March 1, 1956 (US Department of Labor)
+- SSA National Average Wage Index 1957: $3,641.72 (ssa.gov/oact/cola/AWI.html)
+- Median gross rent 1960: $71 (US Census Bureau, Historical Census of Housing Tables)
+- Median age at first marriage, late 1950s: women ~20, men ~22-23 (US Census Bureau, Table MS-2)
+- US births 1957: ~4.3 million, baby boom peak (CDC / NCHS Vital Statistics)
+- Ford Edsel introduced September 4, 1957
+- American Bandstand national ABC debut, August 5, 1957
+- Jack Kerouac, On the Road, September 1957; West Side Story opened on Broadway September 26, 1957
+- Little Rock Nine, September 1957; 101st Airborne deployed September 24, 1957
+- Sputnik 1 launched October 4, 1957; Leave It to Beaver premiered October 4, 1957 (CBS)
+- National Defense Education Act, September 1958
+- 1957-58 H2N2 'Asian flu' pandemic: ~116,000 US deaths (CDC)
+- Unemployment peaked ~7.5% in mid-1958 (Bureau of Labor Statistics)

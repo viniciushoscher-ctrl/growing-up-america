@@ -1,0 +1,22 @@
+name: photocheck
+on:
+  workflow_dispatch:
+    inputs:
+      videos:
+        description: "space-separated folder names under videos/ (search only, no downloads)"
+        required: true
+permissions:
+  contents: read
+jobs:
+  photocheck:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests
+      - name: Search photos (dry run)
+        run: |
+          for V in ${{ inputs.videos }}; do
+            echo "=== $V"
+            DRY=1 python pipeline/fetch_media.py "$V" || echo "FAILED $V"
+          done

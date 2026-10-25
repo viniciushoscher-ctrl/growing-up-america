@@ -1,0 +1,33 @@
+name: shorts-from-final
+on:
+  workflow_dispatch:
+    inputs:
+      video:
+        description: "video folder name already delivered on branch deliveries-<video>"
+        required: true
+permissions:
+  contents: write
+jobs:
+  shorts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: code
+      - uses: actions/checkout@v4
+        with:
+          ref: deliveries-${{ inputs.video }}
+          path: del
+      - name: Install ffmpeg
+        run: sudo apt-get update -y && sudo apt-get install -y ffmpeg fonts-dejavu-core
+      - name: Cut 5 Shorts from the finished video
+        run: |
+          V="${{ inputs.video }}"
+          cat del/deliveries/$V/parts/$V.mp4.part* > /tmp/$V.mp4
+          python3 code/pipeline/shorts_from_final.py /tmp/$V.mp4 del/deliveries/$V/captions.srt del/deliveries/$V/chapters.txt del/deliveries/$V/shorts
+      - name: Push the Shorts to the deliveries branch
+        run: |
+          cd del
+          git config user.name "render-bot" && git config user.email "render-bot@users.noreply.github.com"
+          git add -f deliveries && git commit -q -m "shorts ${{ inputs.video }}" && git push origin HEAD:deliveries-${{ inputs.video }}
