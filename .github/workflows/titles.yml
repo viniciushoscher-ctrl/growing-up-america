@@ -2,6 +2,11 @@ name: titles
 # Read-only research: nostalgia videos, views vs channel size, to learn which titles get views.
 on:
   workflow_dispatch:
+    inputs:
+      set:
+        description: "nostalgia (our niche) or other (other niches, newest uploads, for trends)"
+        required: true
+        default: nostalgia
 permissions:
   contents: write
 concurrency: titles
@@ -13,6 +18,8 @@ jobs:
       - uses: actions/checkout@v4
       - run: pip install -q -U yt-dlp
       - run: python pipeline/title_research.py
+        env:
+          SET: ${{ inputs.set }}
       - name: Save the results
         if: always()
         run: |

@@ -2,7 +2,7 @@
 usage: title_research.py  (runs on the Actions runner; uses yt-dlp page listings only, no API key)
 Outlier score = video views / median views of that channel's last 30 uploads. Also views / subscribers.
 Writes research/titles/latest.json and latest.md."""
-import datetime as dt, json, pathlib, statistics, subprocess, sys
+import datetime as dt, json, os, pathlib, statistics, subprocess, sys
 
 QUERIES = [
     "growing up in the 1950s", "growing up in 1960s america", "growing up in the 1970s america",
@@ -13,6 +13,15 @@ QUERIES = [
     "america in the 1950s what it was really like", "small town america 1950s", "1980s nostalgia america",
     "if you were born in the 1950s", "forgotten things from the 1960s",
 ]
+# other niches, most recent uploads first (ytsearchdate), to borrow title mechanics and catch trends
+OTHER = [
+    "history documentary", "the untold story of", "what happened to", "true crime documentary",
+    "mystery documentary", "the rise and fall of", "how they built", "abandoned places documentary",
+    "sleep history documentary", "survival story", "forgotten history", "why nobody talks about",
+    "the dark history of", "things nobody tells you about", "the truth about", "inside the life of",
+    "the day that changed america", "americana documentary", "old hollywood stars then and now", "halloween history",
+]
+SET = os.environ.get("SET", "nostalgia")
 OUT = pathlib.Path("research/titles")
 MAX_CHANNELS = 150
 
@@ -24,8 +33,9 @@ def ytdlp(*args):
 
 def main():
     vids = {}
-    for q in QUERIES:
-        for l in ytdlp("--flat-playlist", "-j", f"ytsearch50:{q}").splitlines():
+    queries, prefix = (OTHER, "ytsearchdate50") if SET == "other" else (QUERIES, "ytsearch50")
+    for q in queries:
+        for l in ytdlp("--flat-playlist", "-j", f"{prefix}:{q}").splitlines():
             if not l.startswith("{"): continue
             e = json.loads(l)
             if e.get("id") and (e.get("duration") or 0) >= 300:
@@ -55,14 +65,14 @@ def main():
                      "per_sub": round(v["views"] / c["subs"], 1) if c["subs"] else None})
     rows.sort(key=lambda r: -(r["outlier"] or 0))
     OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / "latest.json").write_text(json.dumps({"videos": rows, "channels": chans}, indent=1, ensure_ascii=False))
-    md = [f"# Nostalgia title research ({dt.date.today()}, {len(rows)} long videos, {len(chans)} channels)", "",
+    (OUT / f"{SET}.json").write_text(json.dumps({"videos": rows, "channels": chans}, indent=1, ensure_ascii=False))
+    md = [f"# Title research: {SET} ({dt.date.today()}, {len(rows)} long videos, {len(chans)} channels)", "",
           "outlier = views ÷ median views of the channel's last 30 uploads · per sub = views ÷ subscribers", "",
           "| outlier | per sub | views | subs | channel median | min | channel | title |", "|---|---|---|---|---|---|---|---|"]
     for r in rows[:300]:
         md.append(f"| {r['outlier']} | {r['per_sub']} | {r['views']:,} | {r['subs']:,} | {r['channel_median']:,} | {r['minutes']} | "
                   f"{(r['channel'] or '').replace('|', '/')} | [{(r['title'] or '').replace('|', '/')}]({r['url']}) |")
-    (OUT / "latest.md").write_text("\n".join(md) + "\n")
+    (OUT / f"{SET}.md").write_text("\n".join(md) + "\n")
     print("done", len(rows))
     if not rows: sys.exit("no results (YouTube may be blocking the runner)")
 
