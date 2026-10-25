@@ -1,7 +1,8 @@
-"""Read-only title research: which nostalgia videos get views, and how big the channel is (outliers = views far above subscribers).
-usage: title_research.py  (runs on the Actions runner; uses yt-dlp, no API key)
+"""Read-only title research: which nostalgia videos get views, compared with their channel (outliers).
+usage: title_research.py  (runs on the Actions runner; uses yt-dlp page listings only, no API key)
+Outlier score = video views / median views of that channel's last 30 uploads. Also views / subscribers.
 Writes research/titles/latest.json and latest.md."""
-import datetime as dt, json, pathlib, subprocess, sys
+import datetime as dt, json, pathlib, statistics, subprocess, sys
 
 QUERIES = [
     "growing up in the 1950s", "growing up in 1960s america", "growing up in the 1970s america",
@@ -13,41 +14,53 @@ QUERIES = [
     "if you were born in the 1950s", "forgotten things from the 1960s",
 ]
 OUT = pathlib.Path("research/titles")
+MAX_CHANNELS = 150
 
 
 def ytdlp(*args):
-    r = subprocess.run(["yt-dlp", "--no-warnings", "--ignore-errors", *args], capture_output=True, text=True, timeout=1800)
-    return [json.loads(l) for l in r.stdout.splitlines() if l.startswith("{")]
+    r = subprocess.run(["yt-dlp", "--no-warnings", "--ignore-errors", *args], capture_output=True, text=True, timeout=600)
+    return r.stdout
 
 
 def main():
-    seen = {}
+    vids = {}
     for q in QUERIES:
-        for e in ytdlp("--flat-playlist", "-j", f"ytsearch40:{q}"):
-            if e.get("id") and (e.get("duration") or 0) >= 300:  # long videos only
-                seen.setdefault(e["id"], q)
-        print(q, len(seen), flush=True)
+        for l in ytdlp("--flat-playlist", "-j", f"ytsearch50:{q}").splitlines():
+            if not l.startswith("{"): continue
+            e = json.loads(l)
+            if e.get("id") and (e.get("duration") or 0) >= 300:
+                vids.setdefault(e["id"], {"title": e.get("title"), "views": e.get("view_count") or 0,
+                                          "minutes": round((e.get("duration") or 0) / 60), "channel": e.get("channel"),
+                                          "channel_id": e.get("channel_id"), "url": f"https://www.youtube.com/watch?v={e['id']}", "query": q})
+        print(q, len(vids), flush=True)
+    # channel baseline: subscribers and median views of the latest uploads (page listing, no player requests)
+    by_ch = {}
+    for v in vids.values():
+        if v["channel_id"]: by_ch[v["channel_id"]] = max(by_ch.get(v["channel_id"], 0), v["views"])
+    chans = {}
+    for cid in sorted(by_ch, key=lambda c: -by_ch[c])[:MAX_CHANNELS]:
+        out = ytdlp("--flat-playlist", "-J", "--playlist-items", "1:30", f"https://www.youtube.com/channel/{cid}/videos")
+        try: j = json.loads(out)
+        except ValueError: continue
+        views = [e.get("view_count") for e in j.get("entries") or [] if e.get("view_count")]
+        chans[cid] = {"subs": j.get("channel_follower_count") or 0, "median": int(statistics.median(views)) if views else 0,
+                      "recent": [{"title": e.get("title"), "views": e.get("view_count") or 0} for e in (j.get("entries") or [])[:30]]}
+        print("channel", len(chans), j.get("channel"), chans[cid]["subs"], chans[cid]["median"], flush=True)
     rows = []
-    ids = list(seen)
-    for i in range(0, len(ids), 25):
-        batch = [f"https://www.youtube.com/watch?v={v}" for v in ids[i:i + 25]]
-        for v in ytdlp("-j", "--skip-download", *batch):
-            up = v.get("upload_date")
-            age = (dt.date.today() - dt.date(int(up[:4]), int(up[4:6]), int(up[6:]))).days if up else None
-            views, subs = v.get("view_count") or 0, v.get("channel_follower_count") or 0
-            rows.append({"title": v.get("title"), "url": v.get("webpage_url"), "channel": v.get("channel"),
-                         "subs": subs, "views": views, "ratio": round(views / subs, 1) if subs else None,
-                         "age_days": age, "views_per_day": int(views / max(age or 1, 1)),
-                         "minutes": round((v.get("duration") or 0) / 60), "query": seen[v["id"]]})
-        print("details", len(rows), flush=True)
-    rows.sort(key=lambda r: -(r["ratio"] or 0))
+    for v in vids.values():
+        c = chans.get(v["channel_id"])
+        if not c: continue
+        rows.append({**v, "subs": c["subs"], "channel_median": c["median"],
+                     "outlier": round(v["views"] / c["median"], 1) if c["median"] else None,
+                     "per_sub": round(v["views"] / c["subs"], 1) if c["subs"] else None})
+    rows.sort(key=lambda r: -(r["outlier"] or 0))
     OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / "latest.json").write_text(json.dumps(rows, indent=1, ensure_ascii=False))
-    md = [f"# Nostalgia title research ({dt.date.today()}, {len(rows)} long videos)", "",
-          "Sorted by views ÷ subscribers (outliers first).", "",
-          "| views/subs | views | subs | age (d) | views/day | min | channel | title |", "|---|---|---|---|---|---|---|---|"]
-    for r in rows[:250]:
-        md.append(f"| {r['ratio']} | {r['views']:,} | {r['subs']:,} | {r['age_days']} | {r['views_per_day']:,} | {r['minutes']} | "
+    (OUT / "latest.json").write_text(json.dumps({"videos": rows, "channels": chans}, indent=1, ensure_ascii=False))
+    md = [f"# Nostalgia title research ({dt.date.today()}, {len(rows)} long videos, {len(chans)} channels)", "",
+          "outlier = views ÷ median views of the channel's last 30 uploads · per sub = views ÷ subscribers", "",
+          "| outlier | per sub | views | subs | channel median | min | channel | title |", "|---|---|---|---|---|---|---|---|"]
+    for r in rows[:300]:
+        md.append(f"| {r['outlier']} | {r['per_sub']} | {r['views']:,} | {r['subs']:,} | {r['channel_median']:,} | {r['minutes']} | "
                   f"{(r['channel'] or '').replace('|', '/')} | [{(r['title'] or '').replace('|', '/')}]({r['url']}) |")
     (OUT / "latest.md").write_text("\n".join(md) + "\n")
     print("done", len(rows))
