@@ -133,13 +133,26 @@ def pick_film(query):
             if key in _used_frames: continue
             _used_frames.add(key)
             return {"title": f"{d.get('title', d['identifier'])} ({d.get('year', '')}) at {t}s", "src": src, "t": t,
-                    "page": f"{IA}/details/{d['identifier']}", "license": "Public domain (Prelinger Archives)",
+                    "page": f"{IA}/details/{d['identifier']}", "dur": dur, "license": "Public domain (Prelinger Archives)",
                     "artist": "Prelinger Archives"}
     return None
 
 
+def brightness(src, t):
+    """Mean luma (0-255) of the frame at t, read from a 32x18 grey thumbnail."""
+    raw = subprocess.run(["ffmpeg", "-loglevel", "error", "-ss", str(t), "-i", str(src), "-frames:v", "1",
+                          "-vf", "scale=32:18,format=gray", "-f", "rawvideo", "-"], capture_output=True).stdout
+    return sum(raw) / len(raw) if raw else 0
+
+
 def save_frame(m, f):
-    """One frame from the film, cropped to 16:9 and upscaled so the slow zoom stays sharp enough."""
+    """One frame from the film, cropped to 16:9 and upscaled so the slow zoom stays sharp enough.
+    Black frames (fades, night scenes, dark leader) are skipped for another moment of the same film."""
+    for _ in range(6):
+        if brightness(m["src"], m["t"]) >= 30: break
+        m["t"] = round(random.uniform(m["dur"] * 0.06, m["dur"] * 0.94), 1)
+    else:
+        return False
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(m["t"]), "-i", str(m["src"]), "-frames:v", "1",
                     "-vf", "crop=iw:min(ih\\,iw*9/16),scale=2880:-2:flags=lanczos", "-q:v", "2", str(f)], check=True)
     return f.exists() and f.stat().st_size > 5000
