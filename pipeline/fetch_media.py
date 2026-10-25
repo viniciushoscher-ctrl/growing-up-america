@@ -67,7 +67,13 @@ FILMS = pathlib.Path("/tmp/films"); _films, _used_frames = {}, set()
 
 
 def wants_film(query):
-    return not re.search(r"\b[A-Z][a-z]", query)
+    # a named subject (Levittown, Chevrolet Bel Air) goes to Commons; "American" alone does not count
+    return not re.search(r"\b(?!America\b|American\b)[A-Z][a-z]", query)
+
+
+# films about war, crime, disease or disaster: wrong mood for a nostalgia scene unless the query asks for it
+DARK = re.compile(r"prison|warfare|biological|psycholog|military|army|navy|tornado|gun|crime|criminal|delinquen|venereal|"
+                  r"drug|narcotic|alcohol|poverty|disease|accident|death|police|riot|atomic|bomb|nuclear|enemy|soviet|commun", re.I)
 
 
 def film_terms(query):
@@ -115,6 +121,7 @@ def pick_film(query):
     docs = []
     while words and not docs:
         docs = ia_search(words); words = words[:-1]
+    docs = [d for d in docs if not (DARK.search(str(d.get("title", ""))) and not DARK.search(query))]
     random.shuffle(docs)
     for d in docs[:6]:
         ff = film_file(d["identifier"])
