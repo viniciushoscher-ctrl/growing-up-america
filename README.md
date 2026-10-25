@@ -8,11 +8,15 @@ A produção segue o mesmo modelo do canal Pickup Reality (repositório `america
 
 | Horário (Nova York) | Ângulo | Molde de título | Exemplo |
 |---|---|---|---|
-| 9h | Jornada de um ano | Growing Up in [ANO] America: From [X] to [Y] | Growing Up in 1955 America: From Your First Bicycle to Your First Car |
+| 9h | Jornada de um ano | Growing Up in [ANO] America: [promessa de perda ou emoção] | Growing Up in 1955 America: The World That Vanished Forever |
 | 14h | Marco de idade ou fase da vida | If You Turned 18 in [ANO], This Is What Adulthood Really Looked Like | If You Turned 18 in 1957, This Is What Adulthood Really Looked Like |
 | 19h | Tema do dia a dia | What Every American [X] Had in [ANO] (That Nobody Remembers Now) | What Every American Kitchen Had in 1962 (That Nobody Remembers Now) |
 
 O uploader converte os horários de Nova York para UTC sozinho, inclusive na troca do horário de verão. No horário de Brasília, isso dá 10h, 15h e 20h até 31/10/2026 e 11h, 16h e 21h a partir de 1/11/2026.
+
+## Títulos
+
+O título é a parte mais importante. A regra, feita com dados de outliers do nicho e de outros nichos, está em **[TITULOS.md](TITULOS.md)**. Leia antes de criar qualquer título. A pesquisa é atualizada pelo workflow `titles` (`set` = `nostalgia` ou `other`).
 
 ## Padrão de cada vídeo
 
@@ -40,7 +44,7 @@ O uploader converte os horários de Nova York para UTC sozinho, inclusive na tro
 
 | Vídeo | Título | Cenas | Duração estimada | Situação |
 |---|---|---|---|---|
-| video01 | Growing Up in 1955 America: From Your First Bicycle to Your First Car | 96 | cerca de 33 min | roteiro pronto |
+| video01 | Growing Up in 1955 America: The World That Vanished Forever | 96 | cerca de 33 min | roteiro pronto |
 | video02 | If You Turned 18 in 1957, This Is What Adulthood Really Looked Like | 83 | cerca de 31 min | roteiro pronto |
 | video03 | What Every American Kitchen Had in 1962 (That Nobody Remembers Now) | 81 | cerca de 30 min | roteiro pronto |
 

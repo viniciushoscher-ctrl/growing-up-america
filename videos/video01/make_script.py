@@ -217,7 +217,7 @@ sc("""Now I'd love to hear from you. In the comments below, tell me what year yo
 sc("""And if this brought back memories, you'll enjoy our next journey. Because if you turned eighteen in nineteen fifty-seven, your story is waiting for you, right here. Thank you for spending this time with me. Until next time, take care of yourself.""",
    "1950s American street town", "NEXT: IF YOU TURNED 18 IN 1957")
 
-save("video01", "Growing Up in 1955 America: From Your First Bicycle to Your First Car", [
+save("video01", "Growing Up in 1955 America: The World That Vanished Forever", [
     "Salk vaccine announced safe and effective, April 12, 1955 (History.com / University of Michigan)",
     "Disneyland opened July 17, 1955 (Disney archives)",
     "Mickey Mouse Club and Captain Kangaroo premiered October 3, 1955; Gunsmoke premiered September 10, 1955",
