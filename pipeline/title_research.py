@@ -33,9 +33,12 @@ def ytdlp(*args):
 
 def main():
     vids = {}
-    queries, prefix = (OTHER, "ytsearchdate50") if SET == "other" else (QUERIES, "ytsearch50")
+    # other niches: YouTube search filtered to uploads from this month, sorted by view count (sp=CAMSBAgEEAE%3D)
+    month = lambda q: ("--playlist-items", "1:50", "https://www.youtube.com/results?search_query=" + q.replace(" ", "+") + "&sp=CAMSBAgEEAE%3D")
+    queries = OTHER if SET == "other" else QUERIES
     for q in queries:
-        for l in ytdlp("--flat-playlist", "-j", f"{prefix}:{q}").splitlines():
+        src = month(q) if SET == "other" else (f"ytsearch50:{q}",)
+        for l in ytdlp("--flat-playlist", "-j", *src).splitlines():
             if not l.startswith("{"): continue
             e = json.loads(l)
             if e.get("id") and (e.get("duration") or 0) >= 300:
