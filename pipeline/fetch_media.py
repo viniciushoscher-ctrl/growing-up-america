@@ -44,7 +44,7 @@ def taken_year(meta):
 
 
 def pick(query, used, old=False):
-    """old=True: only photos taken before 1990 (or undated), so a 1950s scene does not get today's Disneyland."""
+    """old=True: only photos dated before 1990, so a 1950s scene does not get today's Disneyland."""
     params = {
         "action": "query", "format": "json", "generator": "search",
         "gsrsearch": f"{query} filetype:bitmap", "gsrnamespace": 6, "gsrlimit": 30,
@@ -61,7 +61,7 @@ def pick(query, used, old=False):
         lic = meta.get("LicenseShortName", {}).get("value", "")
         if not lic.startswith(("CC", "Public domain", "PD")):
             continue
-        if old and (taken_year(meta) or 0) >= 1990:
+        if old and (taken_year(meta) or 9999) >= 1990:  # undated photos are usually recent uploads too
             continue
         artist = meta.get("Artist", {}).get("value", "unknown")
         return {"title": p["title"], "url": info["thumburl"], "page": info["descriptionurl"],
