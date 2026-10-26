@@ -17,7 +17,8 @@ jobs:
       - name: Install tools
         run: |
           sudo apt-get update -y && sudo apt-get install -y ffmpeg fonts-dejavu-core
-          pip install piper-tts requests
+          pip install piper-tts requests pillow
+          pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu && pip install open_clip_torch
           mkdir -p voices && cd voices
           B=https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/ryan/high
           curl -sSLO $B/en_US-ryan-high.onnx && curl -sSLO $B/en_US-ryan-high.onnx.json

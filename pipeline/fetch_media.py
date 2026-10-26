@@ -2,7 +2,8 @@
 Generic everyday-life scenes (query with no capitalised word, e.g. "1950s family dinner table") take frames from real
 1945-1969 films of the Prelinger Archives on archive.org (public domain); scenes naming something specific
 (e.g. "1955 Chevrolet Bel Air", "Jonas Salk") use Wikimedia Commons photos. Either source falls back to the other."""
-import json, os, random, re, subprocess, sys, time, pathlib, requests
+import io, json, os, random, re, subprocess, sys, time, pathlib, requests
+from PIL import Image, ImageStat
 
 API = "https://commons.wikimedia.org/w/api.php"
 HEADERS = {"User-Agent": "growing-up-america-channel/1.0 (github.com/viniciushoscher-ctrl/growing-up-america)"}
@@ -51,6 +52,7 @@ def pick(query, used, old=False):
         "prop": "imageinfo", "iiprop": "url|size|mime|extmetadata", "iiurlwidth": 1920,
     }
     pages = api_pages(params)
+    cands = []
     for p in sorted(pages.values(), key=lambda x: x.get("index", 0)):
         info = (p.get("imageinfo") or [{}])[0]
         if info.get("mime") != "image/jpeg" or info.get("width", 0) < 2000:
@@ -64,9 +66,20 @@ def pick(query, used, old=False):
         if old and (taken_year(meta) or 9999) >= 1990:  # undated photos are usually recent uploads too
             continue
         artist = meta.get("Artist", {}).get("value", "unknown")
-        return {"title": p["title"], "url": info["thumburl"], "page": info["descriptionurl"],
-                "license": lic, "artist": artist}
-    return None
+        cands.append({"title": p["title"], "url": info["thumburl"], "page": info["descriptionurl"],
+                      "license": lic, "artist": artist})
+        if len(cands) >= (6 if CLIP else 1): break
+    if not cands or not CLIP: return cands[0] if cands else None
+    imgs = []
+    for c in cands:  # score small thumbnails, download the full one only for the winner
+        try:
+            r = requests.get(c["url"].replace("/1920px-", "/330px-"), headers=HEADERS, timeout=30); r.raise_for_status()
+            imgs.append(Image.open(io.BytesIO(r.content)).convert("RGB"))
+        except Exception:
+            imgs.append(Image.new("RGB", (330, 186)))
+    scores = fit(imgs, query)
+    best = max(range(len(cands)), key=lambda i: scores[i])
+    return cands[best] | {"fit": scores[best]}
 
 
 # ---------- Prelinger Archives film frames ----------
@@ -132,19 +145,61 @@ def pick_film(query):
         docs = ia_search(words); words = words[:-1]
     docs = [d for d in docs if not (DARK.search(str(d.get("title", ""))) and not DARK.search(query))]
     random.shuffle(docs)
+    cands = []  # (doc, src, dur, t, small image): a few moments from up to 3 films, CLIP keeps the one that fits best
     for d in docs[:6]:
+        if len({c[0]["identifier"] for c in cands}) >= 3: break
         ff = film_file(d["identifier"])
         if not ff: continue
         src, dur = ff
-        for _ in range(12):
+        for _ in range(5 if CLIP else 1):
             t = round(random.uniform(dur * 0.06, dur * 0.94), 1)
-            key = (d["identifier"], int(t // 4))  # never two frames from the same 4 seconds
-            if key in _used_frames: continue
-            _used_frames.add(key)
-            return {"title": f"{d.get('title', d['identifier'])} ({d.get('year', '')}) at {t}s", "src": src, "t": t,
-                    "page": f"{IA}/details/{d['identifier']}", "dur": dur, "license": "Public domain (Prelinger Archives)",
-                    "artist": "Prelinger Archives"}
-    return None
+            if (d["identifier"], int(t // 4)) in _used_frames: continue  # never two frames from the same 4 seconds
+            img = None if DRY else small_frame(src, t)
+            if not DRY and (img is None or ImageStat.Stat(img.convert("L")).mean[0] < 30): continue
+            cands.append((d, src, dur, t, img))
+        if cands and not CLIP: break
+    if not cands: return None
+    best = max(zip(fit([c[4] for c in cands], query), cands), key=lambda x: x[0]) if CLIP else (None, cands[0])
+    score, (d, src, dur, t, _) = best
+    _used_frames.add((d["identifier"], int(t // 4)))
+    return {"title": f"{d.get('title', d['identifier'])} ({d.get('year', '')}) at {t}s", "src": src, "t": t,
+            "page": f"{IA}/details/{d['identifier']}", "dur": dur, "license": "Public domain (Prelinger Archives)",
+            "artist": "Prelinger Archives", "fit": score}
+
+
+def small_frame(src, t):
+    png = subprocess.run(["ffmpeg", "-loglevel", "error", "-ss", str(t), "-i", str(src), "-frames:v", "1",
+                          "-vf", "crop=iw:min(ih\\,iw*9/16),scale=336:-2", "-f", "image2pipe", "-vcodec", "png", "-"],
+                         capture_output=True).stdout
+    try:
+        return Image.open(io.BytesIO(png)).convert("RGB")
+    except Exception:
+        return None
+
+
+# ---------- CLIP: does the picture actually show what the scene talks about? ----------
+NEG = ["a cartoon or animated drawing", "a title card or a screen full of text", "a dark blurry frame"]
+
+
+def load_clip():
+    if DRY or os.environ.get("CLIP") == "0": return None
+    try:
+        import open_clip, torch
+        model, _, prep = open_clip.create_model_and_transforms("ViT-B-32", pretrained="laion2b_s34b_b79k")
+        return model.eval(), prep, open_clip.get_tokenizer("ViT-B-32"), torch
+    except Exception as e:  # no CLIP: fall back to the first frame found, as before
+        print("CLIP unavailable:", e); return None
+
+
+def fit(imgs, query):
+    """For each image, the probability that it is "a photo of <query>" rather than a cartoon, a text card or a black
+    frame."""
+    model, prep, tok, torch = CLIP
+    texts = [f"an old photo of {re.sub(r'[0-9]{4}s?', '', query).strip()}"] + NEG
+    with torch.no_grad():
+        im = model.encode_image(torch.stack([prep(i) for i in imgs])); tx = model.encode_text(tok(texts))
+        im = im / im.norm(dim=-1, keepdim=True); tx = tx / tx.norm(dim=-1, keepdim=True)
+        return (100 * im @ tx.T).softmax(dim=-1)[:, 0].tolist()
 
 
 def brightness(src, t):
@@ -172,6 +227,7 @@ OBJECT = re.compile(r"vintage|museum|Chevrolet|Cadillac|Ford|Plymouth|Edsel|Must
                     r"Corning|Tupperware|Mixmaster|Princess telephone|Mason jars|Formica", re.I)
 
 DRY = bool(os.environ.get("DRY"))  # DRY=1: only search and print which photo each scene would get (no downloads)
+CLIP = load_clip()
 
 
 def main(video):
@@ -188,7 +244,7 @@ def main(video):
                 if fm and (DRY or save_frame(fm, f)):
                     if DRY: print("SCENE", i, k, "|", q, "| FILM", fm["title"]); last = last or True; continue
                     last = f; credits.append({k2: v for k2, v in fm.items() if k2 not in ("src", "t")} | {"scene": i, "cut": k})
-                    print(i, k, "film", fm["title"]); continue
+                    print(i, k, "film", fm["title"], "fit", fm.get("fit")); continue
                 fm = None
             m = None
             # period photos first; a modern photo only when nothing else exists ("modern": true allows it, e.g. a restored car)
@@ -205,7 +261,7 @@ def main(video):
             if m is None and fm:
                 if DRY: print("SCENE", i, k, "|", s["query"], "| FILM", fm["title"]); last = last or True; continue
                 last = f; credits.append({k2: v for k2, v in fm.items() if k2 not in ("src", "t")} | {"scene": i, "cut": k})
-                print(i, k, "film", fm["title"]); continue
+                print(i, k, "film", fm["title"], "fit", fm.get("fit")); continue
             if m is None:  # search exhausted: reuse the last photo rather than fail the whole video
                 if DRY: print("SCENE", i, k, "|", s["query"], "|", "REUSE" if last else "NONE"); last = last or True; continue
                 if last is None: raise SystemExit("no photo found for scene %d: %s" % (i, s["query"]))
@@ -215,7 +271,7 @@ def main(video):
                 print("SCENE", i, k, "|", s["query"], "|", m["title"]); last = True; continue
             f.write_bytes(download(m["url"])); last = f
             credits.append({**m, "scene": i, "cut": k})
-            print(i, k, m["title"], m["license"])
+            print(i, k, m["title"], m["license"], "fit", m.get("fit"))
     if not DRY: (d / "credits.json").write_text(json.dumps(credits, indent=2))
 
 
