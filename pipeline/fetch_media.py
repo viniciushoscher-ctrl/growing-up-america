@@ -37,7 +37,14 @@ def download(url):
     raise SystemExit(f"download failed: {url}")
 
 
-def pick(query, used):
+def taken_year(meta):
+    """Year the photo was taken, from Commons metadata (None when unknown)."""
+    m = re.search(r"\b(1[89]\d\d|20\d\d)\b", re.sub(r"<[^>]+>", "", meta.get("DateTimeOriginal", {}).get("value", "")))
+    return int(m.group(1)) if m else None
+
+
+def pick(query, used, old=False):
+    """old=True: only photos taken before 1990 (or undated), so a 1950s scene does not get today's Disneyland."""
     params = {
         "action": "query", "format": "json", "generator": "search",
         "gsrsearch": f"{query} filetype:bitmap", "gsrnamespace": 6, "gsrlimit": 30,
@@ -53,6 +60,8 @@ def pick(query, used):
         meta = info.get("extmetadata", {})
         lic = meta.get("LicenseShortName", {}).get("value", "")
         if not lic.startswith(("CC", "Public domain", "PD")):
+            continue
+        if old and (taken_year(meta) or 0) >= 1990:
             continue
         artist = meta.get("Artist", {}).get("value", "unknown")
         return {"title": p["title"], "url": info["thumburl"], "page": info["descriptionurl"],
@@ -158,6 +167,10 @@ def save_frame(m, f):
     return f.exists() and f.stat().st_size > 5000
 
 
+# objects that survive in museums and car shows: a photo taken today still shows the real 1950s thing
+OBJECT = re.compile(r"vintage|museum|Chevrolet|Cadillac|Ford|Plymouth|Edsel|Mustang|Schwinn|Lionel|Sputnik|Explorer 1|Pyrex|"
+                    r"Corning|Tupperware|Mixmaster|Princess telephone|Mason jars|Formica", re.I)
+
 DRY = bool(os.environ.get("DRY"))  # DRY=1: only search and print which photo each scene would get (no downloads)
 
 
@@ -169,16 +182,30 @@ def main(video):
     for i, s in enumerate(script["scenes"]):
         for k in range(s.get("cuts", 2)):
             f = d / "media" / f"{i}_{k}.jpg"
-            q = s["query"]
+            q, fm = s["query"], None
             if s.get("film", wants_film(q)):
                 fm = pick_film(q)
                 if fm and (DRY or save_frame(fm, f)):
                     if DRY: print("SCENE", i, k, "|", q, "| FILM", fm["title"]); last = last or True; continue
                     last = f; credits.append({k2: v for k2, v in fm.items() if k2 not in ("src", "t")} | {"scene": i, "cut": k})
                     print(i, k, "film", fm["title"]); continue
-            m = pick(q, used)
-            while m is None and len(q.split()) > 2:  # query too narrow: drop the last word and retry
-                q = " ".join(q.split()[:-1]); m = pick(q, used)
+                fm = None
+            m = None
+            # period photos first; a modern photo only when nothing else exists ("modern": true allows it, e.g. a restored car)
+            for old in ((False,) if s.get("modern", bool(OBJECT.search(s["query"]))) else (True, False)):
+                q = s["query"]; m = pick(q, used, old)
+                while m is None and len(q.split()) > 2:  # query too narrow: drop the last word and retry
+                    q = " ".join(q.split()[:-1]); m = pick(q, used, old)
+                if m or not old: break
+                if not s.get("film", wants_film(s["query"])):  # no period photo on Commons: try a film frame
+                    fm = pick_film(s["query"])
+                    if fm and (DRY or save_frame(fm, f)):
+                        break
+                    fm = None
+            if m is None and fm:
+                if DRY: print("SCENE", i, k, "|", s["query"], "| FILM", fm["title"]); last = last or True; continue
+                last = f; credits.append({k2: v for k2, v in fm.items() if k2 not in ("src", "t")} | {"scene": i, "cut": k})
+                print(i, k, "film", fm["title"]); continue
             if m is None:  # search exhausted: reuse the last photo rather than fail the whole video
                 if DRY: print("SCENE", i, k, "|", s["query"], "|", "REUSE" if last else "NONE"); last = last or True; continue
                 if last is None: raise SystemExit("no photo found for scene %d: %s" % (i, s["query"]))
