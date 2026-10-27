@@ -1,0 +1,9 @@
+- Suburban share of the U.S. population about 31% in 1960: U.S. Census Bureau, Demographic Trends in the 20th Century (2002)
+- Homes lacking complete plumbing facilities: about 35% in 1950: U.S. Census Bureau, Historical Census of Housing Tables
+- Women's labor force participation about 34% in 1950 and 38% in 1960; married women about 30% in 1960: Bureau of Labor Statistics
+- Poverty rate 22.4% in 1959 (about 39.5 million people): U.S. Census Bureau, Historical Poverty Tables
+- Michael Harrington, The Other America (1962)
+- About 57,879 polio cases in 1952; Salk vaccine announced April 12, 1955: CDC; University of Michigan
+- Motor vehicle death rate per 100 million vehicle miles about 6 in the mid-1950s vs about 1.3 recently: National Safety Council; NHTSA
+- Senate Subcommittee on Juvenile Delinquency hearings on comic books (1954) and the Comics Code Authority: U.S. Senate Historical Office
+- Brown v. Board of Education (1954); Montgomery Bus Boycott (1955-56); Little Rock Nine (1957): National Archives; National Park Service
