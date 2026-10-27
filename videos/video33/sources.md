@@ -1,0 +1,7 @@
+- Frank W. Woolworth's five-cent counter (Watertown, 1878), Utica store (1879), Lancaster store (1879): Woolworth Company history; Smithsonian
+- F. W. Woolworth Company formed 1912 with 596 stores: Woolworth Company history
+- Woolworth Building, completed 1913, 792 feet, tallest building in the world until 1930, paid for in cash (about $13.5 million): New York City Landmarks Preservation Commission
+- Greensboro sit-in, February 1, 1960 (Ezell Blair Jr., Franklin McCain, Joseph McNeil, David Richmond); counter integrated July 25, 1960: Smithsonian National Museum of American History
+- Woolco (1962-1983 in the U.S.), first Kmart and first Walmart in 1962: company histories
+- Last U.S. Woolworth five-and-dime stores closed in 1997; company renamed Venator Group (1998) and Foot Locker, Inc. (2001): The New York Times; Foot Locker, Inc.
+- International Civil Rights Center and Museum, Greensboro (opened 2010)
