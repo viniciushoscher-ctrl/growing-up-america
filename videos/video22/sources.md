@@ -1,0 +1,9 @@
+- Home heating fuel 1950 (coal about 35% of homes): U.S. Census Bureau, Historical Census of Housing Tables, House Heating Fuel
+- Homes lacking complete plumbing in 1950 (about 35%): U.S. Census Bureau, Historical Census of Housing Tables
+- Room air conditioning in about 12% of U.S. homes by 1960: U.S. Census Bureau
+- About 41% of households had no car in 1950: U.S. Department of Transportation; Census of Housing
+- Work-related deaths around 15,000 a year in the early 1950s: National Safety Council, Accident Facts
+- Measles: about 3-4 million infections and 400-500 deaths a year before the 1963 vaccine: CDC
+- Community water fluoridation began in Grand Rapids, Michigan in 1945: CDC
+- Housework time studies (about 50 hours a week): Joann Vanek, Scientific American (1974)
+- Average size of new single-family homes about 1,000 square feet in 1950: National Association of Home Builders

@@ -1,0 +1,6 @@
+- Adult smoking rate about 42% in 1965: CDC
+- TV Guide was the best-selling U.S. weekly magazine in the 1960s: Magazine Publishers of America; TV Guide history
+- Swanson TV dinners introduced 1953: Smithsonian National Museum of American History
+- La-Z-Boy reclining chair history: La-Z-Boy Incorporated
+- Color TV in about 7% of U.S. households in 1965 and around 40% by 1969: Nielsen; Television Bureau of Advertising
+- Aluminum Christmas trees (Aluminum Specialty Company, 1959-1960s): Smithsonian Magazine

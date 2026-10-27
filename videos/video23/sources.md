@@ -1,0 +1,9 @@
+- Homeownership rate 43.6% in 1940 and 61.9% in 1960: U.S. Census Bureau, Historical Census of Housing Tables
+- Median home value $11,900 in 1960 (and about $7,400 in 1950): U.S. Census Bureau, Historical Census of Housing Tables
+- Median family income about $4,780 in 1956: U.S. Census Bureau, Current Population Reports P-60
+- Median home price to median household income ratio about 5 or more recently: Harvard Joint Center for Housing Studies
+- Federal Housing Administration (1934) and the G.I. Bill / Servicemen's Readjustment Act (1944): HUD; U.S. Department of Veterans Affairs
+- Mortgage interest rates around 4.5-5% in the mid-1950s: Federal Housing Administration; Federal Reserve historical data
+- Redlining, Shelley v. Kraemer (1948) and the Fair Housing Act (1968): National Archives; HUD
+- Average new single-family home about 1,000 square feet in 1950: National Association of Home Builders
+- Median age of first-time buyers in the mid-30s: National Association of Realtors, Profile of Home Buyers and Sellers
