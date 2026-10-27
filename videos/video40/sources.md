@@ -1,0 +1,7 @@
+- Downtown department stores and their decline: Vicki Howard, From Main Street to Mall: The Rise and Fall of the American Department Store (2015)
+- Store pneumatic tube cash systems (Lamson Company): Smithsonian National Museum of American History
+- Charge plates, the metal predecessors of credit cards (1930s-1960s): Smithsonian National Museum of American History
+- Marshall Field's Walnut Room (opened 1907): Chicago History Museum
+- Filene's Basement automatic markdown plan (since 1909): Boston Public Library
+- Gimbels closed 1986-87; J.L. Hudson's downtown Detroit store closed 1983, imploded October 24, 1998: Detroit Historical Society; The New York Times
+- Federated/May merger (2005) and conversion of regional stores to Macy's (2006): Macy's, Inc.

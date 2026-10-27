@@ -1,0 +1,6 @@
+- 1918 influenza pandemic, about 675,000 U.S. deaths: CDC
+- First monthly Social Security benefits paid January 1940; average retired worker benefit about $74 a month in 1960: Social Security Administration
+- Medicare signed July 30, 1965: Social Security Administration
+- Poverty rate age 65+ about 35% in 1959: U.S. Census Bureau, Historical Poverty Tables
+- Nineteenth Amendment ratified August 18, 1920: National Archives
+- U.S. life expectancy at birth about 69.7 years in 1960: CDC National Center for Health Statistics
