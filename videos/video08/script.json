@@ -1,0 +1,231 @@
+{
+ "id": "video08",
+ "angle": "angle 2 \u00b7 a stage of life",
+ "length_scale": 1.45,
+ "title": "1962 vs 2026: Who Actually Had It Better at 30?",
+ "scenes": [
+  {
+   "text": "Imagine two people. Both of them are turning thirty. One turns thirty in nineteen sixty-two. The other turns thirty this year, in twenty twenty-six. They're the same age, maybe even from the same town. But they are living in two completely different Americas.",
+   "query": "1960s young couple portrait",
+   "caption": "TWO PEOPLE, BOTH THIRTY",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "The one in nineteen sixty-two was born in nineteen thirty-two, in the depths of the Great Depression. As a child, he heard about the war on the radio. As a young man, he may have served in Korea. And by thirty, he is already a husband, a father and a homeowner.",
+   "query": "1960s young father family home",
+   "caption": "BORN IN 1932",
+   "cuts": 8
+  },
+  {
+   "text": "So let's put them side by side. Home. Work. Money. Marriage. Children. Health. And the things that don't show up in any statistic at all. And then let's try to answer an honest question. Who actually had it better at thirty?",
+   "query": "1960s family suburban house lawn",
+   "caption": "WHO HAD IT BETTER?",
+   "cuts": 5
+  },
+  {
+   "text": "And the thirty-year-old of twenty twenty-six? Born in nineteen ninety-six. A child when the twin towers fell. A teenager in the middle of the great recession. Starting a career just as a pandemic shut the world down. Two very different childhoods, leading to two very different thirtieth birthdays.",
+   "query": "1960s birthday party cake family",
+   "caption": "BORN IN 1996",
+   "cuts": 3
+  },
+  {
+   "text": "Let's start with the house. In the early sixties, the typical new house sold for around eighteen thousand dollars. A typical family earned around six thousand a year. So a home cost roughly three years of income, and a thirty-year-old with a steady job could usually buy one.",
+   "query": "1960s new suburban house for sale",
+   "caption": "THREE YEARS OF INCOME",
+   "cuts": 3,
+   "chapter": "The house"
+  },
+  {
+   "text": "Today, the typical new house sells for around four hundred thousand dollars, and a typical household earns around eighty thousand dollars a year. So a home costs about five years of income, before you even count today's interest rates and insurance. That gap is the single biggest difference between these two lives.",
+   "query": "modern suburban houses construction",
+   "caption": "FIVE YEARS OF INCOME",
+   "cuts": 3
+  },
+  {
+   "text": "In nineteen sixty-two, the average age of a first-time home buyer was in the twenties. Today, it's well into the thirties. Our thirty-year-old in nineteen sixty-two has a mortgage, a lawn and a garage. A great many thirty-year-olds today are still renting, and some are living with their parents.",
+   "query": "1960s young couple new house keys",
+   "caption": "A MORTGAGE AT 30",
+   "cuts": 3
+  },
+  {
+   "text": "But look closer at the two houses. The nineteen sixty-two house was small, often around a thousand or twelve hundred square feet, with one bathroom for the whole family, no air conditioning, and a single-car garage. The typical new house today is about twice that size, with central air and two or three bathrooms.",
+   "query": "1960s small house family living room",
+   "caption": "HALF THE SIZE",
+   "cuts": 3
+  },
+  {
+   "text": "The children in nineteen sixty-two usually shared bedrooms, two or three to a room, sometimes in bunk beds. There was one telephone, one television and one car. The idea that every child would have a room of their own was a luxury, not an expectation. And yet nobody felt poor. Everybody they knew lived the same way.",
+   "query": "1960s children bunk beds bedroom",
+   "caption": "SHARED BEDROOMS",
+   "cuts": 3
+  },
+  {
+   "text": "Getting the mortgage was simpler too. You went to the local bank or savings and loan, sat down with a man who might know your father, and showed him your pay stubs. Many veterans bought with almost no money down, thanks to the GI Bill. A handshake and a signature, and a few weeks later you had the keys.",
+   "query": "1960s bank loan officer couple",
+   "caption": "A HANDSHAKE AT THE BANK",
+   "cuts": 3
+  },
+  {
+   "text": "In nineteen sixty-two, a thirty-year-old man with a high school diploma could find steady work in a factory, a railroad, a utility company or a store, and expect to stay there for decades. Many jobs came with a pension that would pay him every month for the rest of his life.",
+   "query": "1960s factory workers steady job",
+   "caption": "A JOB FOR DECADES",
+   "cuts": 3,
+   "chapter": "Work and pay"
+  },
+  {
+   "text": "Today, the thirty-year-old has probably had five or six jobs already. Many of the factories are gone. Pensions have mostly been replaced by retirement accounts that depend on the stock market. On the other hand, there are careers today that simply didn't exist in nineteen sixty-two, and many of them pay very well.",
+   "query": "1960s office men working desks",
+   "caption": "FIVE OR SIX JOBS",
+   "cuts": 3
+  },
+  {
+   "text": "For women, the difference is enormous. In nineteen sixty-two, a thirty-year-old woman was usually expected to stay home with her children. If she worked, her choices were often limited to teaching, nursing, secretarial work or retail, and she was usually paid much less than a man for the same job. Today, women make up nearly half of the workforce, in every profession.",
+   "query": "1960s women office typists",
+   "caption": "TWO DIFFERENT WORLDS FOR WOMEN",
+   "cuts": 3
+  },
+  {
+   "text": "In nineteen sixty-two, one paycheck was usually enough to support the whole family. Today, in most families with children, both parents work. Two incomes are often needed to cover what one income covered back then. That's one of the hardest facts about the comparison, and almost everybody feels it.",
+   "query": "1960s father leaving for work family",
+   "caption": "ONE PAYCHECK VS TWO",
+   "cuts": 3
+  },
+  {
+   "text": "The work week in nineteen sixty-two was forty hours, and when the whistle blew, the work was over. Nobody called you at dinner. Nobody sent you a message at ten o'clock at night. Today's thirty-year-old may earn more in real terms, but for many, the work never really stops. It follows them home in their pocket.",
+   "query": "1960s men leaving factory gate evening",
+   "caption": "WHEN THE WHISTLE BLEW",
+   "cuts": 3
+  },
+  {
+   "text": "Now the everyday prices. In nineteen sixty-two, a gallon of gas cost around thirty cents. A loaf of bread around twenty cents. A new car around twenty-five hundred dollars, which was less than half a year's pay. Today, the average new car costs well over forty thousand dollars, more than half a year's income for a typical household.",
+   "query": "1960s new car dealership showroom",
+   "caption": "A CAR FOR HALF A YEAR'S PAY",
+   "cuts": 3,
+   "chapter": "What things cost"
+  },
+  {
+   "text": "But many things are far cheaper today, measured in hours of work. A television in nineteen sixty-two could cost two or three weeks of pay, and it showed three channels in black and white. Clothing, appliances, a long-distance phone call, a plane ticket. Many of those cost a working family far more back then than they do now.",
+   "query": "1960s family watching television console",
+   "caption": "SOME THINGS COST MORE THEN",
+   "cuts": 3
+  },
+  {
+   "text": "And health care was a different world. In nineteen sixty-two, a visit to the doctor might cost five dollars, and he might come to your house. But there was much less that medicine could do. Medicare didn't exist yet. Many hospitals were small. And plenty of illnesses that are treatable today were simply a matter of luck.",
+   "query": "1960s doctor house call family",
+   "caption": "THE DOCTOR CAME TO YOU",
+   "cuts": 3
+  },
+  {
+   "text": "Life expectancy for a baby born in America in nineteen sixty-two was around seventy years. Today it's close to seventy-nine. Our thirty-year-old in twenty twenty-six can expect to live longer, and to be healthier in old age, than almost anyone in nineteen sixty-two could have imagined.",
+   "query": "1960s hospital nurse patient",
+   "caption": "SEVENTY VS SEVENTY-NINE",
+   "cuts": 3
+  },
+  {
+   "text": "Smoking was everywhere in nineteen sixty-two. More than four out of ten American adults smoked, in offices, on airplanes, in hospitals, even in doctors' waiting rooms. The Surgeon General's famous report on smoking and health didn't come out until January of nineteen sixty-four. Today, only about one adult in nine smokes.",
+   "query": "1960s men smoking office",
+   "caption": "FOUR OUT OF TEN SMOKED",
+   "cuts": 3
+  },
+  {
+   "text": "In nineteen sixty-two, the typical man married at around twenty-three, and the typical woman at around twenty. By thirty, most of them had been married for several years and had two or three children, sometimes more. The baby boom was still going strong.",
+   "query": "1960s young family children yard",
+   "caption": "MARRIED AT TWENTY",
+   "cuts": 3,
+   "chapter": "Marriage and children"
+  },
+  {
+   "text": "Today, the typical age at a first marriage is around thirty for men and twenty-eight or twenty-nine for women. So our thirty-year-old in twenty twenty-six may just be getting married, or may not be married at all. Many are waiting longer to have children, and having fewer of them.",
+   "query": "1960s wedding couple church",
+   "caption": "MARRIED AT THIRTY",
+   "cuts": 3
+  },
+  {
+   "text": "Raising children looked different too. In nineteen sixty-two, kids played outside all day without supervision. Mothers sent them out after breakfast and called them in for supper. Today, children are watched far more closely, driven to every activity, and kept busy with schedules that would have amazed a nineteen sixty-two mother.",
+   "query": "1960s children playing street",
+   "caption": "OUTSIDE ALL DAY",
+   "cuts": 3
+  },
+  {
+   "text": "And the cost of raising them has changed most of all. In nineteen sixty-two, a family with three children could get by on one income, with hand-me-down clothes and a state college costing a few hundred dollars a year in tuition. Today, child care and college tuition are among the biggest worries any young family faces.",
+   "query": "1960s college students campus",
+   "caption": "COLLEGE FOR A FEW HUNDRED",
+   "cuts": 3
+  },
+  {
+   "text": "Most thirty-year-olds in nineteen sixty-two had not gone to college at all. Only about one adult in twelve had a four-year degree. A high school diploma was enough to build a good life. Today, more than a third of adults have a bachelor's degree, and many young people start their thirties still paying off the loans for it.",
+   "query": "1960s high school graduation caps",
+   "caption": "ONE IN TWELVE HAD A DEGREE",
+   "cuts": 3
+  },
+  {
+   "text": "A typical evening in nineteen sixty-two. Dinner at six, with the whole family at the table. The news at six-thirty. A game show or a western at seven. The children in bed by eight-thirty. The parents on the porch or in front of the television, maybe with a neighbor stopping by. And the phone, on the wall, rarely rang after nine.",
+   "query": "1960s family dinner table evening",
+   "caption": "AN EVENING IN 1962",
+   "cuts": 3,
+   "chapter": "Daily life"
+  },
+  {
+   "text": "A typical evening in twenty twenty-six. Dinner, if everybody's home at the same time. Then every member of the family on a different screen, in a different room, watching something different. More choices than anyone in nineteen sixty-two could imagine. But often, a lot less together.",
+   "query": "1960s family living room together",
+   "caption": "MORE CHOICES, LESS TOGETHER",
+   "cuts": 3
+  },
+  {
+   "text": "In nineteen sixty-two, our thirty-year-old knew his neighbors by name. He belonged to a church, a union local, a bowling league, or a lodge like the Elks or the Rotary. Membership in clubs and community groups was at an all-time high. That kind of belonging is much harder to find today.",
+   "query": "1960s men bowling league",
+   "caption": "THE BOWLING LEAGUE",
+   "cuts": 3
+  },
+  {
+   "text": "Shopping was a trip into town, with a list. If a store didn't have what you needed, you ordered it from the catalog and waited two weeks. Today's thirty-year-old can have almost anything delivered to the door the next day. That's a kind of convenience no one in nineteen sixty-two could have dreamed of.",
+   "query": "1960s woman shopping department store",
+   "caption": "WAIT TWO WEEKS",
+   "cuts": 3
+  },
+  {
+   "text": "Vacations were simpler too. A week at the lake, or a road trip in the station wagon to see the Grand Canyon or the grandparents. Flying was a luxury for the wealthy, and people dressed up to board an airplane. Today a young couple can fly across the country for less than a week's pay, in jeans.",
+   "query": "1960s family road trip station wagon",
+   "caption": "DRESSED UP TO FLY",
+   "cuts": 3
+  },
+  {
+   "text": "And yet the nineteen sixty-two world had real fears of its own. That autumn, during the Cuban Missile Crisis, families listened to the radio and wondered if the world would end. Schoolchildren practiced hiding under their desks. Every generation of thirty-year-olds has its own reasons to lie awake at night.",
+   "query": "1960s family listening radio news",
+   "caption": "OCTOBER 1962",
+   "cuts": 3
+  },
+  {
+   "text": "So what's the verdict? In nineteen sixty-two, the big things were easier. A house, a car and a family were within reach for a young couple with ordinary jobs and one income. Communities were tight. The future felt like it was going to be better than the past.",
+   "query": "1960s happy family new car",
+   "caption": "THE BIG THINGS WERE EASIER",
+   "cuts": 3,
+   "chapter": "Who had it better?"
+  },
+  {
+   "text": "In twenty twenty-six, the small things are easier and life lasts longer. Medicine is better. Food is more varied. Travel is cheaper. Women and minorities have choices that were closed to them in nineteen sixty-two. But the big things, the house and the security, are much harder to reach.",
+   "query": "1960s airport travelers airplane",
+   "caption": "THE SMALL THINGS ARE EASIER",
+   "cuts": 3
+  },
+  {
+   "text": "And some things simply can't be compared. A nineteen sixty-two thirty-year-old who was Black, in much of the country, could not eat at certain lunch counters, vote freely, or buy a house in certain neighborhoods. For millions of Americans, the good old days were not good at all. That's part of the honest answer too.",
+   "query": "1960s civil rights march",
+   "caption": "NOT GOOD FOR EVERYONE",
+   "cuts": 3
+  },
+  {
+   "text": "Maybe the honest answer is this. The thirty-year-old of nineteen sixty-two had less, but was more sure of it. The thirty-year-old of today has more, but is less sure of all of it. And if you were thirty in the sixties or seventies yourself, you probably have your own opinion.",
+   "query": "1960s older couple porch",
+   "caption": "LESS, BUT MORE SURE",
+   "cuts": 3
+  },
+  {
+   "text": "So tell us in the comments. How old were you when you bought your first house, and what did it cost? And who do you think had it better? We read every comment. And stay with us, because next we'll learn the money-saving tricks that every grandmother used in nineteen fifty-five. Thank you for spending this time with me.",
+   "query": "1960s suburban street houses evening",
+   "caption": "WHO HAD IT BETTER?",
+   "cuts": 3
+  }
+ ]
+}

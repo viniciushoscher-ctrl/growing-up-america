@@ -1,0 +1,9 @@
+- Median family income 1962 (about $5,956): U.S. Census Bureau, Current Population Reports P60
+- Median sales price of new houses (about $18,000 in 1963; about $400,000 in 2024-2025): U.S. Census Bureau, New Residential Sales
+- Median household income about $80,000 (2023): U.S. Census Bureau, Income in the United States 2023
+- Median age at first marriage (1960s: about 22.8 men, 20.3 women; recent: about 30 men, 28 women): U.S. Census Bureau, Historical Marital Status Tables MS-2
+- Life expectancy at birth about 70 (1962) and about 78-79 (recent): CDC National Center for Health Statistics
+- Average new-vehicle transaction price above $40,000 (2024-2025): Kelley Blue Book / Cox Automotive
+- Medicare created July 30, 1965: Social Security Amendments of 1965
+- Adult smoking about 42% (1965) and about 11% (2022); Surgeon General's report January 11, 1964: CDC
+- Adults 25+ with a bachelor's degree: 7.7% (1960), about 38% (2022): U.S. Census Bureau, Educational Attainment tables
