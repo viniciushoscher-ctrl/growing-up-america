@@ -1,0 +1,246 @@
+{
+ "id": "video37",
+ "angle": "angle 1 \u00b7 a place and a time",
+ "length_scale": 1.45,
+ "title": "Saturday at the Mall in 1984: The America We Lost",
+ "scenes": [
+  {
+   "text": "It's a Saturday morning in nineteen eighty-four. You've got twenty dollars from your paper route in your pocket, your hair is feathered just right, and your mom is dropping you and your friends off at the main entrance. She'll pick you up at four, by the fountain. You walk through the glass doors, and there it is. The mall.",
+   "query": "1980s Shopping Mall entrance",
+   "caption": "SATURDAY, 1984",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "In the nineteen eighties, the shopping mall was the center of American life, especially for teenagers. It was where you shopped, ate, played video games, saw movies, met friends and maybe met someone special. In those years, America built new malls at a remarkable pace, and by the end of the decade there were thousands of them.",
+   "query": "1980s Shopping Mall interior atrium",
+   "caption": "THE CENTER OF AMERICAN LIFE",
+   "cuts": 8
+  },
+  {
+   "text": "So let's spend a Saturday at the mall in nineteen eighty-four. From opening time to closing time. The stores, the food court, the arcade, the music and the people. If you were there, you might just hear the fountain splashing and smell the Cinnabon.",
+   "query": "1980s Shopping Mall fountain",
+   "caption": "FROM OPENING TO CLOSING",
+   "cuts": 5
+  },
+  {
+   "text": "The mall had been growing for decades. The first fully enclosed mall, Southdale Center in Edina, Minnesota, had opened in nineteen fifty-six. Through the sixties and seventies, malls spread to every suburb in the country. By the eighties, they had pulled the shoppers away from downtown Main Streets almost everywhere. The mall had become the new Main Street.",
+   "query": "Southdale Center Edina Minnesota",
+   "caption": "THE NEW MAIN STREET",
+   "cuts": 3
+  },
+  {
+   "text": "At ten o'clock, the metal gates rolled up on hundreds of storefronts. The mall was clean and quiet. The first people inside were the mall walkers, older men and women in tracksuits and white sneakers, walking laps in the air conditioning. Many malls opened early just for them.",
+   "query": "1980s Shopping Mall corridor stores",
+   "caption": "THE MALL WALKERS",
+   "cuts": 3,
+   "chapter": "Opening time"
+  },
+  {
+   "text": "The malls of the eighties were bright and modern, with skylights, glass elevators, brass railings, potted palm trees and huge fountains. Some had ice skating rinks, carousels or even small amusement parks. Shoppers threw coins into the fountains and made wishes. Some malls collected thousands of dollars a year from them for charity.",
+   "query": "1980s Mall Skylight Atrium Fountain",
+   "caption": "THE FOUNTAIN",
+   "cuts": 3
+  },
+  {
+   "text": "At each end of the mall stood the anchor stores, the big department stores. Sears, J.C. Penney, Montgomery Ward, Macy's or a regional chain like Hudson's, Marshall Field's or Bullock's. Parents shopped there for clothes, appliances and towels. Kids went there to use the restroom and look at the electronics.",
+   "query": "1980s Sears department store Mall",
+   "caption": "THE ANCHOR STORES",
+   "cuts": 3
+  },
+  {
+   "text": "Getting there was half the adventure. Teenagers without a license begged rides from parents or older siblings. In some towns, a city bus stopped right at the mall entrance. Kids rode their bikes for miles and locked them to the rack outside Sears. And once you got your license, driving your friends to the mall on Saturday was the whole point of having a car.",
+   "query": "1980s Mall parking lot cars",
+   "caption": "GETTING THERE",
+   "cuts": 3
+  },
+  {
+   "text": "In between were the smaller stores, and for teenagers, they were the real attraction. There was the record store, like Sam Goody or Camelot Music, with racks of vinyl albums and cassette tapes. In nineteen eighty-four, everyone was buying Michael Jackson's Thriller, Prince's Purple Rain, Bruce Springsteen's Born in the U.S.A. and Madonna.",
+   "query": "1980s Record Store cassettes albums",
+   "caption": "SAM GOODY",
+   "cuts": 3,
+   "chapter": "The stores"
+  },
+  {
+   "text": "There was the bookstore, B. Dalton or Waldenbooks, where kids read comic books and magazines without buying them until a clerk shooed them away. There was Radio Shack, with its batteries, walkie-talkies and the new TRS-80 computer. And there was Spencer Gifts, with its black lights, lava lamps, gag gifts and posters.",
+   "query": "1980s Waldenbooks Bookstore Mall",
+   "caption": "WALDENBOOKS AND RADIO SHACK",
+   "cuts": 3
+  },
+  {
+   "text": "For clothes, teenagers went to The Limited, Chess King, Merry-Go-Round, County Seat and The Gap. The fashion of eighty-four meant parachute pants, Members Only jackets, Swatch watches, jelly bracelets, leg warmers and acid-wash jeans. Girls wore big bangs held up with Aqua Net hairspray. Boys wore Izod shirts with the collar popped up.",
+   "query": "1980s Teenagers Fashion Mall",
+   "caption": "MEMBERS ONLY",
+   "cuts": 3
+  },
+  {
+   "text": "Then there was the shoe store. Nike Air Jordans wouldn't arrive until the following year, but in nineteen eighty-four, kids wanted Nike, Reebok, Converse high-tops and Vans. Girls wanted Keds and jelly shoes. And at the Foot Locker, the clerks wore referee shirts and measured your feet with a metal Brannock device, just like the shoe stores of their parents' day.",
+   "query": "1980s Foot Locker Shoe Store",
+   "caption": "THE REFEREE SHIRTS",
+   "cuts": 3
+  },
+  {
+   "text": "And there was the toy store, KB Toys or Kay-Bee, packed with He-Man figures, Transformers, which arrived that very year, Care Bears, Strawberry Shortcake and Rubik's Cubes. And everyone was looking for a Cabbage Patch Kid. The year before, at Christmas of nineteen eighty-three, parents had literally fought in stores to get one.",
+   "query": "1980s Cabbage Patch Kids doll",
+   "caption": "CABBAGE PATCH KIDS",
+   "cuts": 3,
+   "modern": true
+  },
+  {
+   "text": "And there was the electronics store, where crowds gathered around the newest gadgets. The Sony Walkman, which let you carry your music anywhere. Boom boxes the size of suitcases. Atari and ColecoVision game consoles. And at the very end of January nineteen eighty-four, Apple introduced the Macintosh computer, with a famous television ad during the Super Bowl.",
+   "query": "1980s Electronics Store televisions",
+   "caption": "THE NEWEST GADGETS",
+   "cuts": 3
+  },
+  {
+   "text": "For many kids, the best part of the mall was the arcade. Aladdin's Castle, Tilt, or Time Out. Dark rooms full of flashing lights and electronic sounds, where every game cost a quarter. The change machine on the wall turned your dollar bills into a stack of quarters, and they disappeared fast.",
+   "query": "1980s Video Arcade games",
+   "caption": "A QUARTER A GAME",
+   "cuts": 3,
+   "chapter": "The arcade"
+  },
+  {
+   "text": "The games of nineteen eighty-four were legends. Pac-Man, Ms. Pac-Man, Donkey Kong, Galaga, Centipede, Frogger and Dragon's Lair. The best players drew a crowd. They put their initials on the high score screen. And a kid who could play Galaga for an hour on one quarter was famous at school on Monday.",
+   "query": "Pac-Man Arcade cabinet",
+   "caption": "PAC-MAN",
+   "cuts": 3,
+   "modern": true
+  },
+  {
+   "text": "Parents left younger kids at the arcade while they shopped. Older kids hung out there for hours. It was loud, dark and a little bit rough around the edges, and that was exactly why teenagers loved it.",
+   "query": "1980s Arcade teenagers playing",
+   "caption": "LOUD AND DARK",
+   "cuts": 3
+  },
+  {
+   "text": "Next door, there might be a photo booth. Four pictures for a dollar, printed in a strip a few minutes later. Friends crammed into the tiny booth, made silly faces, and split the strip. Many people still have those little strips tucked into old yearbooks and shoeboxes, the only photos they have of that afternoon.",
+   "query": "1980s Photo Booth strip friends",
+   "caption": "FOUR PICTURES FOR A DOLLAR",
+   "cuts": 3
+  },
+  {
+   "text": "By noon, everyone was hungry, and everyone headed to the food court. The food court was a new idea in the seventies and eighties. A big open area full of tables, surrounded by counters selling every kind of fast food. Pizza, tacos, Chinese food, hot dogs and hamburgers, all in one place.",
+   "query": "1980s Food Court Mall",
+   "caption": "THE FOOD COURT",
+   "cuts": 3,
+   "chapter": "The food court"
+  },
+  {
+   "text": "There was Orange Julius, with its frothy orange drink. Hot Dog on a Stick, where the employees wore those famous striped uniforms and tall hats. Sbarro for pizza. Chick-fil-A, which started in a mall in Atlanta. And the Great American Cookie Company, with giant cookies, and the smell of fresh pretzels drifting through the whole mall.",
+   "query": "Orange Julius stand Mall",
+   "caption": "ORANGE JULIUS",
+   "cuts": 3
+  },
+  {
+   "text": "Teenagers sat at the food court for hours, nursing one soda. They gossiped, flirted, made plans, and watched everyone go by. For a generation of kids, the food court was what the soda fountain had been to their parents. The place where everyone met.",
+   "query": "1980s Teenagers Food Court table",
+   "caption": "WHERE EVERYONE MET",
+   "cuts": 3
+  },
+  {
+   "text": "And the sweet smells were everywhere. Cinnabon opened its first store in a mall near Seattle in nineteen eighty-five, and the smell of its cinnamon rolls would soon fill malls across the country. There were candy stores selling jelly beans by the pound, made famous by President Reagan, who kept a jar of them on his desk.",
+   "query": "1980s Candy Store jelly beans",
+   "caption": "JELLY BEANS",
+   "cuts": 3
+  },
+  {
+   "text": "Hanging out at the mall was a national pastime. Parents felt it was safe. It was indoors, there were security guards, and nothing bad was supposed to happen at the mall. So kids were dropped off for whole afternoons. They walked laps, window shopped, and went nowhere in particular.",
+   "query": "1980s Teenagers walking Mall",
+   "caption": "HANGING OUT",
+   "cuts": 3,
+   "chapter": "Hanging out"
+  },
+  {
+   "text": "Kids called them mall rats. They had no money to spend, but they knew every store, every clerk and every bench. They knew which store had the cutest employees and which security guard would kick you out for sitting on the fountain. The mall was their neighborhood.",
+   "query": "1980s Teenagers sitting bench Mall",
+   "caption": "MALL RATS",
+   "cuts": 3
+  },
+  {
+   "text": "Teenagers had their first jobs at the mall too. Scooping ice cream, folding sweaters at the Gap, selling shoes at Foot Locker or working the counter at Hot Dog on a Stick. A sixteen-year-old in nineteen eighty-four earned the minimum wage of three thirty-five an hour. And you got an employee discount.",
+   "query": "1980s Shoe Store Mall employee",
+   "caption": "$3.35 AN HOUR",
+   "cuts": 3
+  },
+  {
+   "text": "And the mall had its own soundtrack. Soft music played from speakers in the ceiling, easy-listening versions of popular songs. Each store played its own music too, so walking down the corridor meant hearing a dozen songs at once. The splash of the fountain. The beep of the cash registers. The squeak of sneakers on the shiny tile floor.",
+   "query": "1980s Mall interior shoppers",
+   "caption": "THE SOUNDTRACK",
+   "cuts": 3
+  },
+  {
+   "text": "In the afternoon, there was a movie. Many malls had a movie theater with two to six screens. In the summer of nineteen eighty-four, it might have been Ghostbusters, Indiana Jones and the Temple of Doom, Gremlins or The Karate Kid. Tickets cost about three dollars and fifty cents.",
+   "query": "1980s Movie Theater Mall marquee",
+   "caption": "GHOSTBUSTERS",
+   "cuts": 3,
+   "chapter": "The afternoon"
+  },
+  {
+   "text": "Families came in the afternoon too. Mothers with strollers. Fathers looking at power tools at Sears. Grandparents resting on the benches. Little kids riding the coin-operated horses and rocket ships. On weekends, there might be a car show in the center court, a craft fair, or a school choir singing.",
+   "query": "1980s Family shopping Mall stroller",
+   "caption": "THE WHOLE FAMILY",
+   "cuts": 3
+  },
+  {
+   "text": "And at Christmas, the mall was magical. Giant decorations hung from the ceiling. Santa sat on a throne in the center court, and the line to see him stretched for an hour. Shoppers carried armloads of bags. And the sound of carols mixed with the splashing of the fountain.",
+   "query": "1980s Christmas Mall Santa",
+   "caption": "CHRISTMAS AT THE MALL",
+   "cuts": 3
+  },
+  {
+   "text": "By four o'clock, your feet hurt, your money was gone, and your mom was waiting by the fountain. You had a bag from the record store with one cassette in it, a Swatch you'd been saving for, and a story about who you saw at the food court. It had been a great day.",
+   "query": "1980s Mall teenagers shopping bags",
+   "caption": "YOUR MONEY WAS GONE",
+   "cuts": 3,
+   "chapter": "Closing time"
+  },
+  {
+   "text": "At nine o'clock, the stores closed. The gates rolled down. The lights dimmed. The cleaning crews came out with their floor polishers. And in the empty parking lot, the last cars pulled away under the tall orange lights. Tomorrow, it would all start again.",
+   "query": "1980s Mall parking lot night",
+   "caption": "THE GATES ROLLED DOWN",
+   "cuts": 3
+  },
+  {
+   "text": "So what happened to the mall? In the nineties and two thousands, things began to change. Big-box stores like Walmart and Target offered lower prices. Outlet malls and strip centers grew. Then came online shopping. Amazon, founded in nineteen ninety-four, made it possible to buy almost anything without leaving home.",
+   "query": "1990s Big Box store",
+   "caption": "ONLINE SHOPPING",
+   "cuts": 3,
+   "modern": true,
+   "chapter": "What happened"
+  },
+  {
+   "text": "The anchor stores began to close. Sears, J.C. Penney and Macy's shut hundreds of locations. When an anchor closed, the smaller stores lost their customers too. Many malls fell into decline. Today, hundreds of American malls are dead or dying, with empty storefronts, dry fountains and silent food courts.",
+   "query": "closed Shopping Mall empty",
+   "caption": "DEAD MALLS",
+   "cuts": 3,
+   "modern": true
+  },
+  {
+   "text": "Some malls have been torn down and replaced with apartments, offices or outdoor shopping centers. Some have become churches, schools or medical centers. Photographers travel the country taking pictures of abandoned malls, and people watch videos of them online, feeling a strange nostalgia for a place that once felt so ordinary.",
+   "query": "abandoned Shopping Mall interior",
+   "caption": "A STRANGE NOSTALGIA",
+   "cuts": 3,
+   "modern": true
+  },
+  {
+   "text": "What did we lose? Not just stores. We lost a place where the whole community gathered, under one roof, on a Saturday afternoon. Teenagers, parents, grandparents and toddlers, all in the same place at the same time. Today, we mostly shop alone, on our phones.",
+   "query": "1980s Shopping Mall crowd people",
+   "caption": "UNDER ONE ROOF",
+   "cuts": 3,
+   "chapter": "The America we lost"
+  },
+  {
+   "text": "If you were a teenager in nineteen eighty-four, you remember. The Orange Julius. The arcade. The record store. The fountain full of pennies. Your friends, your feathered hair and your Walkman. The mall was your world, and for a few years, it was everybody's.",
+   "query": "Sony Walkman 1980s",
+   "caption": "IT WAS YOUR WORLD",
+   "cuts": 3,
+   "modern": true
+  },
+  {
+   "text": "So tell us in the comments. What was the name of your mall? What was your favorite store, and what did you always eat at the food court? Did you have a job at the mall? We read every comment. Next time, we're looking at what it meant to turn thirty in nineteen seventy-nine. Thank you for spending this time with me.",
+   "query": "1980s Shopping Mall sign",
+   "caption": "WHAT WAS YOUR MALL?",
+   "cuts": 3
+  }
+ ]
+}

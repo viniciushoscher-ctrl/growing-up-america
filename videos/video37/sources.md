@@ -1,0 +1,8 @@
+- Growth in the number of U.S. shopping centers in the 1980s: International Council of Shopping Centers
+- 1984 best-selling albums (Thriller, Purple Rain, Born in the U.S.A.): Billboard; RIAA
+- Transformers toy line launched in the U.S. in 1984: Hasbro
+- Cabbage Patch Kids Christmas 1983 shortages: The New York Times; The Strong National Museum of Play
+- Chick-fil-A's first restaurant in a mall, Greenbriar Mall, Atlanta, 1967: Chick-fil-A
+- Federal minimum wage $3.35 an hour (1981-1990): U.S. Department of Labor
+- Average U.S. movie ticket about $3.36 in 1984: National Association of Theatre Owners
+- Amazon founded in 1994: Amazon.com

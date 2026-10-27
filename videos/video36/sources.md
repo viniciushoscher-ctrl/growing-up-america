@@ -1,0 +1,8 @@
+- Green bean casserole created 1955 by Dorcas Reilly, Campbell Soup Company test kitchen: Campbell Soup Company; The New York Times obituary (2018)
+- Betty Crocker's Picture Cook Book (1950): General Mills
+- Swanson TV dinner introduced 1953, about 98 cents: Smithsonian National Museum of American History
+- Birds Eye fish sticks introduced 1953: Smithsonian Magazine
+- Kraft Macaroni & Cheese Dinner introduced 1937: Kraft Heinz
+- Retail price of hamburger about 50 cents a pound in the late 1950s: Bureau of Labor Statistics average price data
+- Catholic Friday abstinence from meat (relaxed in the U.S. in 1966): U.S. Conference of Catholic Bishops
+- Food spending about 20% of disposable income in the late 1950s and about 10-11% recently: USDA Economic Research Service, Food Expenditure Series

@@ -10,8 +10,9 @@ def ch(name):
     _next[0] = name
 
 
-def sc(text, query, caption, cuts=3):
-    s = {"text": " ".join(text.split()), "query": query, "caption": caption, "cuts": cuts}
+def sc(text, query, caption, cuts=3, **extra):
+    """extra keys go straight into the scene, e.g. modern=True lets fetch_media use a recent photo (a dead mall)."""
+    s = {"text": " ".join(text.split()), "query": query, "caption": caption, "cuts": cuts, **extra}
     if _next[0]:
         s["chapter"] = _next[0]; _next[0] = None
     S.append(s)
