@@ -17,7 +17,9 @@ def sc(text, query, caption, cuts=3):
     S.append(s)
 
 
-def save(vid, title, sources, angle):
+def save(vid, title, sources, angle, minutes=(20.2, 60)):
+    """minutes: allowed estimated length. Channels without phone verification cap uploads at 15 min, so short
+    videos use minutes=(12, 14.5): renders came out about 7% shorter than this estimate (video01: 32.5 est, 30.2 real)."""
     d = pathlib.Path(sys.argv[0]).resolve().parent
     if S and "chapter" not in S[0]:
         S[0]["chapter"] = "Intro"
@@ -29,5 +31,5 @@ def save(vid, title, sources, angle):
     words = sum(len(s["text"].split()) for s in S)
     mins = round(words * SCALE / 212, 1)
     print(vid, len(S), "scenes", words, "words", mins, "min")
-    if mins < 20.2:  # real renders run 1-6% longer (video60: 21.0 est, 22.3 real; video61: 21.7 est, 21.9 real)
-        raise SystemExit(f"{vid}: too short ({mins} min), every phase-2 video must run over 20 minutes")
+    if not minutes[0] <= mins <= minutes[1]:  # keep the estimate conservative
+        raise SystemExit(f"{vid}: {mins} min is outside {minutes[0]}-{minutes[1]} min")

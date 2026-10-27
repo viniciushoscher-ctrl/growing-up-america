@@ -1,0 +1,4 @@
+- 1973-74 oil embargo, odd-even gasoline rationing and gas station flag system: U.S. Department of Energy / Federal Energy Office records; contemporary press (1973-74)
+- U.S. inflation above 10% in 1974: Bureau of Labor Statistics, CPI-U annual data
+- President Nixon's resignation, televised August 8, 1974: National Archives
+- Photographs: DOCUMERICA project, U.S. Environmental Protection Agency (1971-1977), public domain, via Wikimedia Commons / National Archives
