@@ -1,0 +1,4 @@
+- Union membership about one third of nonagricultural workers in the mid-1950s: Bureau of Labor Statistics, Handbook of Labor Statistics; Monthly Labor Review
+- AFL-CIO merger, December 5, 1955: AFL-CIO history
+- Deindustrialization of manufacturing towns from the late 1960s: Bureau of Labor Statistics manufacturing employment series
+- Film footage: Prelinger Archives (public domain) via the Internet Archive
