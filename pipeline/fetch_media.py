@@ -178,7 +178,9 @@ def small_frame(src, t):
 
 
 # ---------- CLIP: does the picture actually show what the scene talks about? ----------
-NEG = ["a cartoon or animated drawing", "a title card or a screen full of text", "a dark blurry frame"]
+# the last two catch travel films and industrial films that match a generic query (video07: a Thai temple, Rome, a circuit board)
+NEG = ["a cartoon or animated drawing", "a title card or a screen full of text", "a dark blurry frame",
+       "a temple, palace or landmark in Asia or Europe", "a close-up of machinery or electronic parts"]
 
 
 def load_clip():
