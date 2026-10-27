@@ -1,0 +1,12 @@
+- Color TV in about half of U.S. TV households in 1972: Nielsen; Television Bureau of Advertising
+- Married women's labor force participation about 41% in 1972: Bureau of Labor Statistics
+- Title IX of the Education Amendments signed June 23, 1972: U.S. Department of Education
+- All in the Family, No. 1 show of the 1971-72 season; M*A*S*H and The Waltons premiered September 1972: Nielsen; Paley Center for Media
+- The New Price Is Right premiered September 4, 1972: CBS
+- HBO launched November 8, 1972, Wilkes-Barre, Pennsylvania: HBO
+- Magnavox Odyssey (1972) and Atari Pong (1972): The Strong National Museum of Play
+- Average U.S. gasoline price about $0.36 a gallon in 1972: U.S. Energy Information Administration
+- Nixon visit to China, February 1972; Watergate break-in June 17, 1972: National Archives
+- Mark Spitz seven gold medals, 1972 Munich Olympics; Apollo 17, December 1972: International Olympic Committee; NASA
+- EPA established December 1970; first Earth Day April 22, 1970: EPA
+- Photos: EPA DOCUMERICA project (1971-1977), U.S. National Archives, public domain

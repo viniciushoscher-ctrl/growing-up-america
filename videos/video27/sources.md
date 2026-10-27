@@ -1,0 +1,10 @@
+- Over 100,000 soda fountains in the U.S. at their peak (1920s-1950s): Anne Cooper Funderburg, Sundae Best: A History of Soda Fountains (2002)
+- Dr Pepper created 1885 in Waco, Texas; Coca-Cola created 1886 by John Pemberton, first sold at Jacobs' Pharmacy: Dr Pepper Museum; The Coca-Cola Company
+- Pepsi-Cola, originally 'Brad's Drink' (1893), Caleb Bradham, New Bern, North Carolina: PepsiCo
+- Robert M. Green and the ice cream soda, Philadelphia, 1874: Funderburg, Sundae Best
+- Soda jerk slang: H. T. Webster and others; American Speech journal (1936)
+- Coca-Cola price of five cents from 1886 to 1959: The Coca-Cola Company; Daniel Levy and Andrew Young, 'The Real Thing' (2004)
+- Greensboro sit-in, February 1, 1960; counter section at the Smithsonian National Museum of American History
+- McDonald's franchising began April 1955 (Ray Kroc, Des Plaines, Illinois): McDonald's Corporation
+- Woolworth's U.S. five-and-dime stores closed in 1997: The New York Times
+- Lexington Candy Shop, New York City, opened 1925

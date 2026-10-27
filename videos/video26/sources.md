@@ -1,0 +1,8 @@
+- John Glenn orbital flight February 20, 1962; Gordon Cooper's Faith 7, May 15-16, 1963: NASA
+- About 92% of U.S. households had a television in 1963: Nielsen; Television Bureau of Advertising
+- The Beverly Hillbillies, No. 1 show of the 1962-63 season: Nielsen
+- Easy-Bake Oven introduced 1963 by Kenner: The Strong National Museum of Play
+- Cuban Missile Crisis, October 1962: John F. Kennedy Presidential Library
+- 'Fingertips Pt. 2' by Little Stevie Wonder, No. 1 in August 1963: Billboard
+- 'I Want to Hold Your Hand' U.S. release December 26, 1963: Capitol Records; Billboard
+- Assassination of President Kennedy, November 22, 1963, and the state funeral: John F. Kennedy Presidential Library

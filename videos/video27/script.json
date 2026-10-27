@@ -1,0 +1,234 @@
+{
+ "id": "video27",
+ "angle": "angle 3 \u00b7 an everyday theme",
+ "length_scale": 1.45,
+ "title": "What Happened to the Soda Fountain?",
+ "scenes": [
+  {
+   "text": "There was a time when every town in America had one. You walked into the drugstore, past the cough syrup and the greeting cards, and there it was. A long marble counter. A row of chrome stools with red leather tops. Shining spigots, glass jars of syrup, and a young man in a white paper hat, ready to make you anything you wanted.",
+   "query": "1950s drugstore soda fountain counter stools",
+   "caption": "THE SODA FOUNTAIN",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "At its peak, America had more than a hundred thousand soda fountains. They were where kids went after school, where couples went on dates, and where old men sat every morning with a cup of coffee. Today, only a few hundred remain, most of them in museums, or kept alive by a handful of stubborn owners.",
+   "query": "1950s teenagers soda fountain booth",
+   "caption": "MORE THAN 100,000",
+   "cuts": 8
+  },
+  {
+   "text": "So what happened to the soda fountain? Let's go back to where it started, how it became the heart of American towns, what you could order there, and why it disappeared.",
+   "query": "1950s small town drugstore exterior",
+   "caption": "WHAT HAPPENED?",
+   "cuts": 5
+  },
+  {
+   "text": "The soda fountain started with medicine. In the early eighteen hundreds, people believed that bubbly mineral water from natural springs was good for their health. Scientists figured out how to make carbonated water artificially, and pharmacists began selling it as a cure for upset stomachs, headaches and nerves.",
+   "query": "19th century pharmacy apothecary",
+   "caption": "IT STARTED AS MEDICINE",
+   "cuts": 3,
+   "chapter": "Medicine in a glass"
+  },
+  {
+   "text": "Pharmacists began adding flavors. Lemon, ginger, sarsaparilla, root beer. Then came sweeter syrups like vanilla, strawberry and chocolate. And some of those drinks became world famous. In eighteen eighty-five, a pharmacist in Waco, Texas, created Dr Pepper. In eighteen eighty-six, a pharmacist in Atlanta, John Pemberton, created Coca-Cola.",
+   "query": "John Pemberton Coca-Cola pharmacist",
+   "caption": "1886: COCA-COLA",
+   "cuts": 3
+  },
+  {
+   "text": "Coca-Cola was first sold at Jacobs' Pharmacy in Atlanta, for five cents a glass, from the soda fountain. In eighteen ninety-three, a pharmacist in New Bern, North Carolina, invented a drink he called Brad's Drink. A few years later, he renamed it Pepsi-Cola. Most of America's great soft drinks were born at a soda fountain counter.",
+   "query": "Pepsi Cola New Bern North Carolina",
+   "caption": "BORN AT THE COUNTER",
+   "cuts": 3
+  },
+  {
+   "text": "The fountains themselves became works of art. In the late eighteen hundreds, companies built huge soda fountains of marble, onyx and silver, some as tall as a room, decorated with statues and fancy lamps. They cost thousands of dollars, a fortune at the time. A grand soda fountain was a sign that a town had arrived.",
+   "query": "Victorian marble soda fountain",
+   "caption": "WORKS OF ART",
+   "cuts": 3
+  },
+  {
+   "text": "The ice cream soda was born in eighteen seventy-four, in Philadelphia. According to the most popular story, a man named Robert Green was selling soda at a celebration and ran out of cream. So he used vanilla ice cream instead. The crowd loved it. Within a few years, ice cream sodas were the rage all over the country.",
+   "query": "ice cream soda glass",
+   "caption": "1874: THE ICE CREAM SODA",
+   "cuts": 3,
+   "chapter": "Temperance and the ice cream soda"
+  },
+  {
+   "text": "Then came the sundae. Some towns had laws against selling soda on Sundays, because soda was seen as too indulgent for the Lord's day. So, the story goes, fountain owners served ice cream with syrup on top, and no soda. They called it a Sunday, and later changed the spelling to sundae. Several towns still argue about who invented it.",
+   "query": "ice cream sundae dish",
+   "caption": "THE SUNDAY SUNDAE",
+   "cuts": 3
+  },
+  {
+   "text": "And then, Prohibition. When alcohol was banned in nineteen twenty, the saloons closed. And many of them turned into soda fountains. Some bartenders became soda jerks. The soda fountain became the respectable place to meet friends and socialize. During the twenties, soda fountains boomed.",
+   "query": "1920s soda fountain drugstore interior",
+   "caption": "PROHIBITION",
+   "cuts": 3
+  },
+  {
+   "text": "Even the Great Depression didn't kill the soda fountain. A nickel Coke or a dime sundae was one of the few treats that struggling families could still afford. Some drugstores served cheap lunches to people out of work. And during the Second World War, soda fountains near army bases were packed with young soldiers far from home.",
+   "query": "1930s drugstore soda fountain customers",
+   "caption": "THROUGH THE DEPRESSION",
+   "cuts": 3
+  },
+  {
+   "text": "The man behind the counter was called a soda jerk, because of the way he jerked the spigot handle back and forth to pour carbonated water. Being a soda jerk was a great job for a teenage boy. It paid decently, it was fun, and you got to talk to everyone in town, especially the girls.",
+   "query": "1950s soda jerk white hat counter",
+   "caption": "THE SODA JERK",
+   "cuts": 3,
+   "chapter": "The soda jerk"
+  },
+  {
+   "text": "Soda jerks had their own slang, a fast language shouted to each other across the counter. Adam's ale was a glass of water. Burn one meant a chocolate malted. Eighty-six meant we're out of it. Hold the hail meant no ice. A pair of drawers was two cups of coffee. And a black cow was a root beer float.",
+   "query": "1950s soda fountain counter man",
+   "caption": "BURN ONE",
+   "cuts": 3
+  },
+  {
+   "text": "Good soda jerks were showmen. They tossed scoops of ice cream in the air and caught them in the glass. They slid sodas down the counter. They knew every regular customer's order by heart. Many famous people worked as soda jerks when they were young, and many said it taught them how to talk to anybody.",
+   "query": "1950s soda jerk making sundae",
+   "caption": "SHOWMEN",
+   "cuts": 3
+  },
+  {
+   "text": "So what could you order? The menu was long. A cherry Coke, made fresh with a squirt of cherry syrup. A lime rickey. A chocolate egg cream, which had neither eggs nor cream, just milk, chocolate syrup and seltzer. A root beer float, or a Coke float with vanilla ice cream.",
+   "query": "1950s soda fountain menu board",
+   "caption": "THE MENU",
+   "cuts": 3,
+   "chapter": "What you could order"
+  },
+  {
+   "text": "There were milkshakes, made in a tall metal cup on a green Hamilton Beach mixer, and served with the extra in the cup on the side. There were malteds, made with malted milk powder. And there was the banana split, three scoops with chocolate, strawberry and pineapple sauce, whipped cream, nuts and a cherry on top.",
+   "query": "1950s milkshake mixer metal cup",
+   "caption": "THE MALTED",
+   "cuts": 3
+  },
+  {
+   "text": "Many soda fountains also served lunch. Grilled cheese, tuna salad sandwiches, egg salad, chicken noodle soup and hot dogs. In the fifties, a sandwich and a Coke might cost about forty cents. Women shopping downtown stopped in for a light lunch. Businessmen sat at the counter with a newspaper.",
+   "query": "1950s lunch counter sandwich soda",
+   "caption": "LUNCH AT THE COUNTER",
+   "cuts": 3
+  },
+  {
+   "text": "The prices were small. In nineteen fifty, a Coke at the fountain was usually a nickel, as it had been for more than fifty years. An ice cream soda was around fifteen to twenty cents. A sundae, twenty-five. A banana split, thirty-five cents. With a quarter, a kid could have a very good afternoon.",
+   "query": "1950s children soda fountain counter",
+   "caption": "A NICKEL COKE",
+   "cuts": 3
+  },
+  {
+   "text": "And the fountain had its own special sounds. The hiss of the carbonated water. The whir of the mixer. The clink of the long spoon against a tall glass. The pop of a straw being pulled out of a paper wrapper, and then the wrapper being blown across the counter at your little brother.",
+   "query": "1950s milkshake glass straw counter",
+   "caption": "THE SOUNDS",
+   "cuts": 3
+  },
+  {
+   "text": "By the nineteen forties and fifties, the soda fountain was the heart of American towns. After school, it filled with teenagers. They crowded the booths, played the jukebox, flirted, gossiped and did homework. Many first dates happened there, over two straws in one milkshake.",
+   "query": "1950s teenagers soda fountain booth jukebox",
+   "caption": "TWO STRAWS",
+   "cuts": 3,
+   "chapter": "The heart of the town"
+  },
+  {
+   "text": "In the morning, the counter belonged to the regulars. Farmers, shop owners, retired men and the town's police officer. They drank coffee, read the paper and settled the problems of the world. In many towns, important business deals were made over a cup of coffee at the drugstore counter.",
+   "query": "1950s men drinking coffee counter morning",
+   "caption": "THE REGULARS",
+   "cuts": 3
+  },
+  {
+   "text": "The soda fountain was also a place where kids learned to be grown-ups. They ordered on their own, paid with their own money, and minded their manners, because the pharmacist knew their parents. And if they misbehaved, word got home before they did.",
+   "query": "1950s boy ordering soda counter",
+   "caption": "WORD GOT HOME",
+   "cuts": 3
+  },
+  {
+   "text": "Some soda fountains were famous far beyond their towns. Schwab's Pharmacy in Hollywood was said to be where movie stars were discovered. Walgreens built its early reputation on its fountains, and is often credited with popularizing the malted milkshake in the nineteen twenties. For millions of Americans, Walgreens meant a milkshake before it meant a prescription.",
+   "query": "1920s Walgreens drugstore",
+   "caption": "SCHWAB'S AND WALGREENS",
+   "cuts": 3
+  },
+  {
+   "text": "But not every American was welcome at the soda fountain. In much of the South, lunch counters were segregated by law, and Black customers were refused service. On February first, nineteen sixty, four Black college students sat down at the Woolworth's lunch counter in Greensboro, North Carolina, and asked for coffee.",
+   "query": "Greensboro sit-in Woolworth lunch counter 1960",
+   "caption": "GREENSBORO, 1960",
+   "cuts": 3,
+   "chapter": "A place of struggle"
+  },
+  {
+   "text": "They were refused, but they stayed in their seats until the store closed. The next day, they came back with more students. Within weeks, sit-ins had spread to dozens of cities. By that summer, the Greensboro Woolworth's lunch counter was integrated. Part of that counter is now in the Smithsonian in Washington.",
+   "query": "Greensboro Woolworth counter Smithsonian",
+   "caption": "THE SIT-INS",
+   "cuts": 3
+  },
+  {
+   "text": "So what happened? Part of the answer is the bottle and the can. In the forties and fifties, soft drinks in bottles became cheap and easy to buy at the grocery store. By the sixties, cans were common too. Families bought six-packs and kept them in the refrigerator at home. There was no need to go out for a Coke.",
+   "query": "1950s soda bottles six pack grocery store",
+   "caption": "THE SIX-PACK",
+   "cuts": 3,
+   "chapter": "The decline"
+  },
+  {
+   "text": "Another part of the answer is the car and the drive-in. In the fifties and sixties, teenagers had cars, and they wanted to go where they could park and eat. Drive-in restaurants and then fast food chains like McDonald's, which began franchising in nineteen fifty-five, offered burgers, fries and shakes quickly and cheaply.",
+   "query": "1950s drive-in restaurant carhop",
+   "caption": "THE DRIVE-IN",
+   "cuts": 3
+  },
+  {
+   "text": "Then the drugstores themselves changed. Big chain pharmacies like Walgreens, Rexall and Eckerd grew larger, and they found that the space taken by a soda fountain could earn more money selling cosmetics, greeting cards and other merchandise. The fountains took a lot of labor, and the profit was small.",
+   "query": "1960s chain drugstore interior",
+   "caption": "THE CHAIN DRUGSTORE",
+   "cuts": 3
+  },
+  {
+   "text": "And finally, downtown itself was emptying. As shopping moved to the malls on the edge of town, the old drugstores on Main Street lost their customers. One by one, through the sixties and seventies, the fountains were torn out. Marble counters were broken up. Stools were sold for scrap.",
+   "query": "1970s empty downtown main street",
+   "caption": "TORN OUT",
+   "cuts": 3
+  },
+  {
+   "text": "By the nineteen seventies, the soda fountain was largely gone. Some survived in dime stores and department stores into the eighties. Woolworth's kept its lunch counters until the very end of the company, in nineteen ninety-seven. But for most Americans, the soda fountain had become a memory.",
+   "query": "1970s Woolworth lunch counter",
+   "caption": "A MEMORY",
+   "cuts": 3
+  },
+  {
+   "text": "But not all of them are gone. Across America, a few hundred old-fashioned soda fountains still operate. Some have been running for more than a hundred years. Places like the Lexington Candy Shop in New York City, which opened in nineteen twenty-five, and old family drugstores in small towns across the Midwest and South.",
+   "query": "Lexington Candy Shop New York",
+   "caption": "STILL OPERATING",
+   "cuts": 3,
+   "chapter": "The survivors"
+  },
+  {
+   "text": "Many of them are run by families who have owned them for generations. They still use the original marble counters and the old syrup pumps. They still make cherry Cokes by hand. And on a summer afternoon, you'll find grandparents bringing their grandchildren, to show them what a real malted tastes like.",
+   "query": "old fashioned soda fountain counter today",
+   "caption": "A REAL MALTED",
+   "cuts": 3
+  },
+  {
+   "text": "And the soda fountain lives on in other ways. Every milkshake, every root beer float, every banana split you've ever eaten came from that counter. So did Coca-Cola, Pepsi and Dr Pepper. The soda fountain may be mostly gone, but its menu is still everywhere.",
+   "query": "root beer float glass",
+   "caption": "ITS MENU IS EVERYWHERE",
+   "cuts": 3
+  },
+  {
+   "text": "What we lost wasn't really the soda. It was the place. A counter where strangers sat side by side. A soda jerk who knew your name. A booth where you shared a milkshake with your first love. A place where the whole town, young and old, came together over something sweet.",
+   "query": "1950s soda fountain customers counter",
+   "caption": "IT WAS THE PLACE",
+   "cuts": 3,
+   "chapter": "What we lost"
+  },
+  {
+   "text": "If you grew up with a soda fountain, you remember the sound of the spinning stool, the hum of the mixer, the clink of the long spoon on the glass. And you remember exactly what you always ordered. That's how much it meant.",
+   "query": "1950s soda fountain stools chrome",
+   "caption": "WHAT YOU ALWAYS ORDERED",
+   "cuts": 3
+  },
+  {
+   "text": "So tell us in the comments. What was the name of your drugstore, and what did you always order at the soda fountain? Did you ever work behind the counter? We read every comment. Next time, we're going back to life on an American farm in nineteen fifty-five. Thank you for spending this time with me.",
+   "query": "1950s drugstore soda fountain",
+   "caption": "WHAT DID YOU ORDER?",
+   "cuts": 3
+  }
+ ]
+}
