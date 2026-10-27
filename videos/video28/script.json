@@ -1,0 +1,229 @@
+{
+ "id": "video28",
+ "angle": "angle 1 \u00b7 a place and a time",
+ "length_scale": 1.45,
+ "title": "Life on an American Farm in 1955: A World That Vanished",
+ "scenes": [
+  {
+   "text": "Before the sun comes up, a rooster crows. A light clicks on in the farmhouse kitchen. A man pulls on his boots by the back door, while his wife lights the stove. Out in the barn, the cows are waiting to be milked. It's four-thirty in the morning, in the spring of nineteen fifty-five, and on an American family farm, the day has already begun.",
+   "query": "1950s farm sunrise barn",
+   "caption": "4:30 A.M.",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "In nineteen fifty-five, there were still nearly five million farms in the United States, and around one in eight Americans lived on one. Most were family farms, small enough that one family could work them, with help from the neighbors at harvest time. Today, there are fewer than two million farms, and only about one in a hundred Americans lives on one.",
+   "query": "1950s family farm aerial fields",
+   "caption": "NEARLY 5 MILLION FARMS",
+   "cuts": 8
+  },
+  {
+   "text": "So let's spend a year on an American family farm in nineteen fifty-five. Season by season. The work, the food, the community, and the way of life that has almost completely disappeared. If you grew up on a farm, I think you'll smell the hay before we're halfway through.",
+   "query": "1950s farmhouse fields",
+   "caption": "A YEAR ON THE FARM",
+   "cuts": 5
+  },
+  {
+   "text": "Spring was planting season, and it was a race against the weather. Fields had to be plowed, disked and planted as soon as the ground dried out. In nineteen fifty-five, most farms finally had a tractor. A red Farmall, a green John Deere, or a gray Ford. Just a generation earlier, most of this work had been done with horses.",
+   "query": "1950s Farmall tractor plowing field",
+   "caption": "THE TRACTOR",
+   "cuts": 3,
+   "chapter": "Spring: planting"
+  },
+  {
+   "text": "Those tractors were simple. No cab, no air conditioning, no radio. The farmer sat on a metal seat in the wind, dust and sun, for twelve or fourteen hours a day. And many older farmers still kept a team of horses for small jobs, or just because they couldn't bear to part with them.",
+   "query": "1950s farmer tractor field dust",
+   "caption": "NO CAB",
+   "cuts": 3
+  },
+  {
+   "text": "A typical Midwest family farm in nineteen fifty-five grew a little of everything. Corn, oats, hay and soybeans. There were dairy cows, hogs and chickens. A big vegetable garden. Maybe an orchard. The farm produced much of what the family ate, and sold the rest.",
+   "query": "1950s farm cows pigs chickens barnyard",
+   "caption": "A LITTLE OF EVERYTHING",
+   "cuts": 3
+  },
+  {
+   "text": "Children helped from a very young age. A six-year-old gathered eggs and fed the chickens. A ten-year-old could drive the tractor in the field. Teenagers did the work of grown men. Schools in farm country often let out early in the spring and late in the fall, so children could help with planting and harvest.",
+   "query": "1950s farm children gathering eggs",
+   "caption": "CHILDREN WORKED",
+   "cuts": 3
+  },
+  {
+   "text": "Every single day, no matter the season, there were chores. On a dairy farm, the cows had to be milked twice a day, at dawn and at dusk, three hundred sixty-five days a year. No vacations. No sick days. Christmas morning started in the barn, just like every other morning.",
+   "query": "1950s farmer milking cow barn",
+   "caption": "TWICE A DAY, EVERY DAY",
+   "cuts": 3,
+   "chapter": "The daily chores"
+  },
+  {
+   "text": "By the fifties, many farms had milking machines, but plenty of small farms still milked by hand. A good milker could milk a cow in about five or ten minutes. The milk went into tall metal cans, which were cooled in a tank of cold water and picked up by a truck from the creamery.",
+   "query": "1950s milk cans farm truck",
+   "caption": "THE MILK CANS",
+   "cuts": 3
+  },
+  {
+   "text": "There were pigs to feed, chickens to tend, eggs to gather, and stalls to clean. Water to pump. Wood to chop. Fences to mend. Machinery to repair. A farmer had to be a mechanic, a veterinarian, a carpenter, a weatherman and a businessman, all at the same time.",
+   "query": "1950s farmer repairing fence",
+   "caption": "A MAN OF ALL TRADES",
+   "cuts": 3
+  },
+  {
+   "text": "The farm wife worked just as hard, and often harder. She cooked three big meals a day, from scratch, for her family and any hired men. She raised the children, kept the house, did the laundry, and tended the huge garden. She ran the chickens, and the money from selling eggs was often hers to keep, for things like shoes and school clothes.",
+   "query": "1950s farm wife kitchen cooking",
+   "caption": "THE EGG MONEY",
+   "cuts": 3,
+   "chapter": "The farm wife"
+  },
+  {
+   "text": "In the late summer and fall, she canned. Tomatoes, green beans, corn, peaches, pickles, jams and jellies. Hundreds of glass jars, lined up on shelves in the cellar. A good farm wife might can five hundred quarts or more a year. When winter came, that cellar was the family's grocery store.",
+   "query": "1950s woman canning jars kitchen",
+   "caption": "500 QUARTS",
+   "cuts": 3
+  },
+  {
+   "text": "Farm wives also made many of the family's clothes. Feed and flour came in cotton sacks printed with colorful patterns, and women sewed them into dresses, shirts, aprons and curtains. Mills printed the sacks in pretty designs on purpose, because they knew farm women would choose the feed with the nicest fabric.",
+   "query": "1950s feed sack dress girl",
+   "caption": "FEED SACK DRESSES",
+   "cuts": 3
+  },
+  {
+   "text": "The farmhouse itself was often old, built by a grandfather or great-grandfather. A big kitchen was the center of everything. Many farmhouses had only gotten electricity in the last ten or fifteen years. In nineteen thirty-five, only about one in ten farms had electric power. By nineteen fifty-five, thanks to the Rural Electrification Administration, almost all of them did.",
+   "query": "1950s farmhouse kitchen family",
+   "caption": "THE LIGHTS CAME ON",
+   "cuts": 3,
+   "chapter": "The farmhouse"
+  },
+  {
+   "text": "Farm families remember the day the electricity came. Some of them stood in the kitchen and turned the light switch on and off, over and over. Electricity meant a refrigerator, a washing machine, a radio, an electric pump and lights in the barn. It changed farm life more than almost anything else.",
+   "query": "1950s rural electric power lines farm",
+   "caption": "THE DAY THE ELECTRICITY CAME",
+   "cuts": 3
+  },
+  {
+   "text": "But indoor plumbing came more slowly. In nineteen fifty, many farmhouses still had no indoor bathroom. Families used an outhouse, and took baths in a tin tub in the kitchen on Saturday night, with water heated on the stove. By the end of the fifties, most farms had finally put in a bathroom.",
+   "query": "1950s rural outhouse farm",
+   "caption": "THE TIN TUB",
+   "cuts": 3
+  },
+  {
+   "text": "Many farms still had a party line telephone, shared with six or eight neighbors down the road. Each house had its own ring. Everyone knew everyone's business, because anyone could listen in. When there was an emergency, like a fire or a bad storm, the operator could ring every house on the line at once, and the neighbors came running.",
+   "query": "1950s farm woman telephone wall",
+   "caption": "THE PARTY LINE",
+   "cuts": 3
+  },
+  {
+   "text": "Summer meant haying, and haying was hard. The hay was cut, left to dry in the sun, raked into rows, and then baled. Each bale weighed fifty or sixty pounds, and had to be lifted by hand onto a wagon, then thrown up into the hayloft. Teenage boys bucked hay all summer and came out of it strong as oxen.",
+   "query": "1950s farmers baling hay wagon",
+   "caption": "BUCKING HAY",
+   "cuts": 3,
+   "chapter": "Summer: haying"
+  },
+  {
+   "text": "The race was always against the rain. Wet hay could rot, or even catch fire in the barn. So when the hay was ready, everybody worked, from sunup until dark. The kitchen sent out jugs of cold water, lemonade and iced tea, and sandwiches wrapped in dish towels.",
+   "query": "1950s farm family hay field",
+   "caption": "BEAT THE RAIN",
+   "cuts": 3
+  },
+  {
+   "text": "And summer evenings on the farm were beautiful. After supper, the family sat on the porch while the sun went down over the fields. Fireflies came out. Somewhere a cow called. The radio played a ball game or the Grand Ole Opry. And everyone went to bed early, because morning came very soon.",
+   "query": "1950s farmhouse porch evening family",
+   "caption": "SUMMER EVENINGS",
+   "cuts": 3
+  },
+  {
+   "text": "Fall was harvest, the most important time of the year. Corn was picked with a mechanical corn picker, and the ears were stored in a corncrib. Oats and wheat were cut and threshed. In earlier years, neighbors went from farm to farm with a shared threshing machine, and the whole community worked together.",
+   "query": "1950s corn harvest farm machinery",
+   "caption": "HARVEST",
+   "cuts": 3,
+   "chapter": "Fall: harvest"
+  },
+  {
+   "text": "Those threshing days were legendary for the food. The farm wives cooked enormous dinners for the crews. Fried chicken, roast beef, mashed potatoes, gravy, fresh bread, corn, green beans and four or five kinds of pie. The men ate at long tables in the yard, and the women competed to set the best table.",
+   "query": "1950s threshing dinner farm table",
+   "caption": "THRESHING DINNERS",
+   "cuts": 3
+  },
+  {
+   "text": "Fall also meant butchering. On a cold day in late fall, families butchered a hog or a steer for the winter. Neighbors came to help. Nothing was wasted. They made sausage, bacon, ham, lard and headcheese. Hams were cured and hung in the smokehouse. It was hard, messy work, and an important part of the year.",
+   "query": "1950s farm smokehouse",
+   "caption": "BUTCHERING DAY",
+   "cuts": 3
+  },
+  {
+   "text": "Winter was slower, but not easy. The cows still had to be milked, and the animals still had to be fed, in snow and bitter cold. Water froze in the troughs and had to be broken with an axe. Farmers repaired their machinery in the barn, and planned for next year.",
+   "query": "1950s farm winter snow barn",
+   "caption": "WINTER CHORES",
+   "cuts": 3,
+   "chapter": "Winter"
+  },
+  {
+   "text": "Winter was also the time for visiting. Farm families went to church suppers, card parties, and dances at the grange hall. Women held quilting bees. Men gathered at the feed store or the co-op to talk about prices and the weather. Children went sledding and skating on the frozen pond.",
+   "query": "1950s rural community hall dance",
+   "caption": "THE GRANGE HALL",
+   "cuts": 3
+  },
+  {
+   "text": "Many farm children in nineteen fifty-five still went to one-room schoolhouses. One teacher taught all eight grades in a single room, heated by a wood stove. The older children helped the younger ones. In nineteen thirty, there were about one hundred and fifty thousand one-room schools in America. By the late fifties, most were closing, as country schools were combined into bigger districts.",
+   "query": "1950s one room schoolhouse children",
+   "caption": "THE ONE-ROOM SCHOOL",
+   "cuts": 3,
+   "chapter": "School and community"
+  },
+  {
+   "text": "Farm kids joined 4-H, where they raised calves, pigs, lambs and chickens, sewed dresses and baked pies, and showed them at the county fair. The fair was the high point of the summer. A blue ribbon at the county fair was a matter of enormous pride for the whole family.",
+   "query": "1950s 4-H children calf county fair",
+   "caption": "4-H AND THE COUNTY FAIR",
+   "cuts": 3
+  },
+  {
+   "text": "And the whole community leaned on each other. When a barn burned down, neighbors gathered to raise a new one. When a farmer was hurt or sick, neighbors harvested his crops for free. Nobody had to ask. It was simply understood that farm families took care of each other.",
+   "query": "1950s farmers working together",
+   "caption": "NOBODY HAD TO ASK",
+   "cuts": 3
+  },
+  {
+   "text": "So why did this world vanish? The answer is that farming changed faster than almost anything else in American life. Bigger tractors and machines could farm far more land with fewer people. A single farmer could do the work of five. And it took more and more money to buy those machines.",
+   "query": "1950s large tractor combine field",
+   "caption": "BIGGER MACHINES",
+   "cuts": 3,
+   "chapter": "The vanishing"
+  },
+  {
+   "text": "Prices for crops didn't keep up with costs. Farmers kept hearing the same hard advice from experts and officials. Get big, or get out. Many small farmers sold to their neighbors, and moved to town for factory jobs. Their children went to college and never came back. Between nineteen fifty and nineteen seventy, the number of farms in America was cut nearly in half.",
+   "query": "1950s farm auction sale",
+   "caption": "GET BIG OR GET OUT",
+   "cuts": 3
+  },
+  {
+   "text": "Then came the farm crisis of the nineteen eighties, when high interest rates and falling land values put thousands of family farms out of business. Auctions were held all over the Midwest. Farmers watched their tractors and their family land sold to the highest bidder. It was one of the saddest chapters in rural American history.",
+   "query": "1980s farm auction farmers",
+   "caption": "THE 1980s FARM CRISIS",
+   "cuts": 3
+  },
+  {
+   "text": "Today, American farms are bigger, more efficient and more productive than ever. But the family farm of nineteen fifty-five, with its milk cows, chickens, garden and canning cellar, has almost completely vanished. Many old farmhouses stand empty. Barns are falling down along country roads.",
+   "query": "old abandoned barn country road",
+   "caption": "WHAT REMAINS",
+   "cuts": 3,
+   "chapter": "What remains"
+  },
+  {
+   "text": "What remains is the memory. The smell of fresh-cut hay. The sound of a screen door slamming in July. The taste of fresh milk and homemade bread. The feeling of a whole community working together. For people who grew up on a farm, those memories never fade.",
+   "query": "1950s farm children field summer",
+   "caption": "THE MEMORY",
+   "cuts": 3
+  },
+  {
+   "text": "And the lessons remain too. Hard work. Self-reliance. Taking care of your neighbors. Not wasting anything. Generations of Americans who left the farm carried those lessons into the cities, the factories and the offices, and passed them on to their own children.",
+   "query": "1950s farm family portrait",
+   "caption": "THE LESSONS",
+   "cuts": 3
+  },
+  {
+   "text": "So tell us in the comments. Did you grow up on a farm, or visit grandparents who had one? What chore did you hate the most, and what did you love? We read every comment. Next, we're looking at what it was like to start college in nineteen sixty-six. Thank you for spending this time with me.",
+   "query": "1950s farm sunset fields",
+   "caption": "DID YOU GROW UP ON A FARM?",
+   "cuts": 3
+  }
+ ]
+}

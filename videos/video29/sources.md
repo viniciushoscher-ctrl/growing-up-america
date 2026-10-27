@@ -1,0 +1,8 @@
+- Total fall college enrollment about 3.6 million in 1960 and 8.6 million in 1970: National Center for Education Statistics, Digest of Education Statistics
+- Average tuition, fees, room and board at public four-year institutions about $1,000-$1,300 in the mid-1960s: NCES Digest of Education Statistics
+- Federal minimum wage $1.25 an hour (1963-1967): U.S. Department of Labor
+- Higher Education Act of 1965: U.S. Department of Education
+- U.S. troops in Vietnam about 385,000 at the end of 1966: National Archives; U.S. Department of Defense
+- Selective Service 2-S student deferment and the December 1, 1969 draft lottery: Selective Service System
+- Assassinations of Martin Luther King Jr. (April 4, 1968) and Robert F. Kennedy (June 6, 1968): National Archives
+- Kent State shootings, May 4, 1970: Kent State University; National Archives

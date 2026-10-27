@@ -1,0 +1,7 @@
+- About 4.8 million U.S. farms in 1954 and about 1.9 million recently; farm population about 12% of the U.S. in 1955: USDA Census of Agriculture; USDA Economic Research Service
+- Farms with electricity: about 11% in 1935, over 90% by the mid-1950s: USDA Rural Electrification Administration history
+- Feed and flour sack fabric printed for home sewing: Smithsonian National Museum of American History
+- About 149,000 one-room schools in 1929-30: National Center for Education Statistics, 120 Years of American Education
+- 'Get big or get out' farm policy advice (usually attributed to Earl Butz): USDA history
+- Number of farms fell from about 5.6 million in 1950 to 2.9 million in 1970: USDA Census of Agriculture
+- 1980s farm crisis: Federal Reserve History

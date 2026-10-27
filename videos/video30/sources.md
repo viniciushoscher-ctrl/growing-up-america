@@ -1,0 +1,13 @@
+- Rachel Carson, Silent Spring (1962); EPA ban on most DDT uses, 1972: U.S. Environmental Protection Agency
+- FDA ban on cyclamates, October 1969: U.S. Food and Drug Administration
+- FDA ban on FD&C Red No. 2, 1976; red M&M's removed 1976 and returned 1987: FDA; Mars, Incorporated
+- FDA determination that partially hydrogenated oils are not 'generally recognized as safe', 2015: FDA
+- PFOA phase-out by U.S. manufacturers by 2015 (EPA PFOA Stewardship Program): EPA
+- Fiesta red glaze contained uranium oxide (1936-1943 and 1959-1972): Oak Ridge Associated Universities; Homer Laughlin China Company
+- Phosphate detergent limits in the early 1970s and Lake Erie recovery: EPA Great Lakes program
+- Lead-based paint banned for residential use in 1978: U.S. Consumer Product Safety Commission; CDC
+- MSG 'Chinese restaurant syndrome' letter (New England Journal of Medicine, 1968) and FDA safety status: FDA
+- Refrigerator Safety Act of 1956: U.S. Consumer Product Safety Commission
+- Surgeon General's report (1964); cigarette warning labels (1966); broadcast cigarette ad ban (1971): CDC
+- Growth in dinner plate size: Koert van Ittersum and Brian Wansink, Journal of Consumer Research (2012)
+- Family meals and adolescent outcomes: National Center on Addiction and Substance Abuse at Columbia University
