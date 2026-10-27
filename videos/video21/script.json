@@ -1,0 +1,235 @@
+{
+ "id": "video21",
+ "angle": "angle 3 \u00b7 an everyday theme",
+ "length_scale": 1.45,
+ "title": "What Happened to the American Drive-In Theater?",
+ "scenes": [
+  {
+   "text": "Picture a warm summer night in nineteen fifty-eight. The sky is turning purple over a cornfield at the edge of town. A line of cars stretches down the highway, headlights on, waiting to pull in. Kids in pajamas are bouncing in the back seat. And up ahead, glowing against the dark, is a giant white screen. Tonight, the whole family is going to the drive-in.",
+   "query": "1950s drive-in movie theater cars night",
+   "caption": "A SUMMER NIGHT, 1958",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "At their peak, in the late nineteen fifties, there were more than four thousand drive-in theaters in America. Almost every town of any size had one. For a generation of Americans, the drive-in was where they saw their favorite movies, went on their first dates, and fell asleep in the back seat under the stars.",
+   "query": "1950s drive-in theater screen aerial",
+   "caption": "MORE THAN 4,000",
+   "cuts": 8
+  },
+  {
+   "text": "Today, there are only about three hundred left. So what happened? Let's tell the story of the American drive-in, how it started, what it was like to go, and why almost all of them disappeared.",
+   "query": "old drive-in theater screen field",
+   "caption": "ONLY ABOUT 300 LEFT",
+   "cuts": 5
+  },
+  {
+   "text": "The drive-in was invented by a man named Richard Hollingshead, in Camden, New Jersey. The story goes that his mother was a large woman who found movie theater seats uncomfortable. So he began experimenting in his own driveway. He mounted a projector on the hood of his car and hung a sheet between two trees.",
+   "query": "1930s automobile driveway house",
+   "caption": "A SHEET BETWEEN TWO TREES",
+   "cuts": 3,
+   "chapter": "A driveway in New Jersey"
+  },
+  {
+   "text": "He tested how to park the cars so everyone could see. He put blocks under the front wheels to tilt them up. He tested a lawn sprinkler, to see whether the movie could be watched in the rain. And on June sixth, nineteen thirty-three, he opened the first drive-in theater, on Crescent Boulevard in Pennsauken, New Jersey.",
+   "query": "1930s cars parked field",
+   "caption": "JUNE 6, 1933",
+   "cuts": 3
+  },
+  {
+   "text": "Admission was twenty-five cents per car, plus twenty-five cents per person, with a maximum of one dollar. The first film was a British comedy called Wives Beware. His slogan was simple. The whole family is welcome, regardless of how noisy the children are.",
+   "query": "1930s family car",
+   "caption": "THE WHOLE FAMILY IS WELCOME",
+   "cuts": 3
+  },
+  {
+   "text": "For the next ten years, drive-ins grew slowly. Then the Second World War ended, and everything changed. Soldiers came home, got married and had babies. Families bought cars. New highways stretched into the countryside. And land at the edge of town was cheap.",
+   "query": "1940s family new car",
+   "caption": "AFTER THE WAR",
+   "cuts": 3,
+   "chapter": "The boom"
+  },
+  {
+   "text": "In nineteen forty-five, there were fewer than a hundred drive-ins in the whole country. By nineteen fifty-eight, there were more than four thousand. In some years, more people watched movies at drive-ins than at regular indoor theaters. It was one of the fastest-growing businesses in America.",
+   "query": "1950s drive-in theater cars rows",
+   "caption": "FROM 100 TO 4,000",
+   "cuts": 3
+  },
+  {
+   "text": "Why did families love it so much? It was cheap. Many drive-ins charged by the carload, so a family of six could get in for a dollar. You didn't need a babysitter. You didn't need to dress up. The kids could come in their pajamas, and if they fell asleep, that was fine.",
+   "query": "1950s family station wagon drive-in",
+   "caption": "NO BABYSITTER NEEDED",
+   "cuts": 3
+  },
+  {
+   "text": "Mothers loved it too. A night at the indoor movies meant dressing the children up, keeping them quiet and hoping nobody cried. At the drive-in, a baby could cry, a toddler could climb over the seats, and nobody else had to hear it. Some drive-ins even warmed bottles at the snack bar, and a few had diaper services.",
+   "query": "1950s mother children car back seat",
+   "caption": "MOTHERS LOVED IT",
+   "cuts": 3
+  },
+  {
+   "text": "Going to the drive-in had a ritual. You arrived early, before dark, to get a good spot. Not too close, not too far, right in the middle. Dad pulled the car up onto the little hill, so the front wheels were tilted up toward the screen. Then you rolled down the window.",
+   "query": "1950s car parked drive-in evening",
+   "caption": "ARRIVE EARLY",
+   "cuts": 3,
+   "chapter": "Going to the drive-in"
+  },
+  {
+   "text": "Next to every parking space was a metal post with a speaker. You took the speaker off the post, hooked it over your car window, and turned up the volume. The sound was tinny, and it crackled, but nobody cared. Every so often, someone forgot it was there and drove away with the speaker still attached, pulling the wire right out of the post.",
+   "query": "1950s drive-in speaker car window",
+   "caption": "THE WINDOW SPEAKER",
+   "cuts": 3
+  },
+  {
+   "text": "Before the movie, kids ran to the playground right under the screen. Many drive-ins had swings, slides, a merry-go-round, even little trains and pony rides. Parents sat on the hood of the car and talked with the neighbors parked next to them. Then the sky got dark, the lights came up on the screen, and kids raced back to the car.",
+   "query": "1950s children playground drive-in",
+   "caption": "THE PLAYGROUND",
+   "cuts": 3
+  },
+  {
+   "text": "And then there was the snack bar. In the drive-in business, it was said that the owners made more money on the popcorn than on the movies. Some drive-ins earned more than half of their money at the snack bar. So they did everything they could to get you there.",
+   "query": "1950s drive-in snack bar concession stand",
+   "caption": "THE SNACK BAR",
+   "cuts": 3,
+   "chapter": "The snack bar"
+  },
+  {
+   "text": "Between the movies came the famous intermission ads. A dancing hot dog jumping into a bun. A singing box of popcorn. A clock counting down the minutes until the next feature. Let's all go to the lobby, they sang, to get ourselves a treat. Those little cartoons are still burned into the memory of millions of Americans.",
+   "query": "1950s cartoon hot dog popcorn advertisement",
+   "caption": "LET'S ALL GO TO THE LOBBY",
+   "cuts": 3
+  },
+  {
+   "text": "The snack bar sold hot dogs, hamburgers, popcorn, candy, pizza, French fries, ice cream and soft drinks in waxed paper cups. Some families brought their own food, packed in a cooler or a picnic basket. Fried chicken, sandwiches and a thermos of coffee. The owners didn't love it, but they rarely said no.",
+   "query": "1950s family picnic car food",
+   "caption": "FRIED CHICKEN IN THE CAR",
+   "cuts": 3
+  },
+  {
+   "text": "Most drive-ins showed a double feature, two movies for the price of one. The first one started at dusk, and the second one ended long after midnight. In the fifties, that might be a western with John Wayne, a monster movie like The Blob or Them, a musical, or a Disney film for the family.",
+   "query": "1950s western movie cowboy",
+   "caption": "THE DOUBLE FEATURE",
+   "cuts": 3,
+   "chapter": "The movies"
+  },
+  {
+   "text": "Drive-ins became famous for monster movies and science fiction. Giant ants, giant spiders, invaders from Mars and creatures from the black lagoon. Low-budget studios made films especially for drive-ins and teenagers. Kids would be scared out of their wits, then sleep in the back seat on the drive home.",
+   "query": "1950s science fiction movie monster",
+   "caption": "GIANT ANTS AND MARTIANS",
+   "cuts": 3
+  },
+  {
+   "text": "On some nights, the drive-in stayed open all night, showing three, four or even five movies in a row, from dusk to dawn. At the end, the sky was turning light, and the owners might serve free coffee and doughnuts to anyone still awake.",
+   "query": "1950s dawn sunrise field cars",
+   "caption": "DUSK TO DAWN",
+   "cuts": 3
+  },
+  {
+   "text": "And there were the mosquitoes. On a hot night with the windows down, they came by the hundreds. Drive-ins sold mosquito coils that you burned on the dashboard, filling the car with a smoky smell. Some even sprayed the lot with insecticide from a truck before the show. Almost everyone who went remembers the bites.",
+   "query": "1950s car window night summer",
+   "caption": "THE MOSQUITOES",
+   "cuts": 3
+  },
+  {
+   "text": "For teenagers, the drive-in meant something else entirely. It was the most private place a young couple could find. A car of their own, in the dark, far from their parents. Not surprisingly, adults called the drive-in the passion pit, and some towns worried about it a great deal.",
+   "query": "1950s teenage couple car night",
+   "caption": "THE PASSION PIT",
+   "cuts": 3,
+   "chapter": "The passion pit"
+  },
+  {
+   "text": "Owners tried to keep order. Ushers walked the rows with flashlights. Some drive-ins had rules against fogged-up windows. And teenagers found ways around the price of admission. The classic trick was to hide two or three friends in the trunk, then let them out once you parked. Many grown-ups today will admit they did exactly that.",
+   "query": "1950s teenagers car trunk",
+   "caption": "FRIENDS IN THE TRUNK",
+   "cuts": 3
+  },
+  {
+   "text": "For many couples, the drive-in was where it all began. A first date in a borrowed car. A first kiss during the second feature. A marriage, years later. Ask anyone who was a teenager in the fifties or sixties, and they probably have a drive-in story, though they might not tell you all of it.",
+   "query": "1950s young couple convertible",
+   "caption": "WHERE IT ALL BEGAN",
+   "cuts": 3
+  },
+  {
+   "text": "Drive-ins came in every size. In small towns, there might be a single screen in a field. Near the big cities, there were giant drive-ins with room for more than two thousand cars. The All-Weather Drive-In in Copiague, New York, covered twenty-eight acres and had an indoor viewing area, a cafeteria and a shuttle train.",
+   "query": "large drive-in theater aerial 1950s",
+   "caption": "2,000 CARS",
+   "cuts": 3,
+   "chapter": "Different kinds of drive-ins"
+  },
+  {
+   "text": "Some drive-ins had a section for walk-in viewers, with benches. Some had fly-in sections for small private airplanes. In winter, a few northern drive-ins offered electric car heaters that plugged in at each spot. And there were drive-ins with laundromats, so you could do the wash during the show.",
+   "query": "1950s small airplane field",
+   "caption": "FLY-IN DRIVE-INS",
+   "cuts": 3
+  },
+  {
+   "text": "So what happened? The first blow was television. By the late fifties, almost every home had a TV, and families could watch shows for free without leaving the living room. Attendance at all movie theaters dropped. Drive-ins, which depended on families, were hit hard.",
+   "query": "1950s family watching television",
+   "caption": "TELEVISION",
+   "cuts": 3,
+   "chapter": "The decline"
+  },
+  {
+   "text": "The second blow was daylight saving time. As more states adopted it in the sixties, the summer sun set an hour later. Since a drive-in couldn't start until dark, the first movie began later and later, sometimes after nine-thirty. Families with young children stopped going.",
+   "query": "summer sunset field",
+   "caption": "DAYLIGHT SAVING TIME",
+   "cuts": 3
+  },
+  {
+   "text": "The third blow was land. Drive-ins had been built on cheap land at the edge of town. But as the suburbs grew, that land became very valuable. A drive-in that made money only in summer could not compete with a shopping center, a housing development or a highway. Owners were offered more for the land than the theater could ever earn.",
+   "query": "1970s shopping center construction",
+   "caption": "THE LAND WAS WORTH MORE",
+   "cuts": 3
+  },
+  {
+   "text": "In the seventies, many struggling drive-ins turned to cheap action movies and adult films, which made them unwelcome to families. Then came cable television and the video cassette recorder in the late seventies and eighties. Now people could watch movies at home whenever they liked. By nineteen ninety, fewer than a thousand drive-ins were left.",
+   "query": "1980s VCR video cassette",
+   "caption": "THE VCR",
+   "cuts": 3
+  },
+  {
+   "text": "The last blow came in the two thousand tens, when Hollywood stopped shipping movies on film and switched to digital projection. Converting a drive-in to digital cost tens of thousands of dollars. For many small, family-owned drive-ins that only opened in summer, that was simply too much.",
+   "query": "old movie projector film reels",
+   "caption": "THE END OF FILM",
+   "cuts": 3
+  },
+  {
+   "text": "But the drive-in never completely died. Today, about three hundred are still operating across America. Many are run by families who have owned them for generations. Pennsylvania, Ohio, New York and Indiana have the most. And on a summer weekend, many of them are still full.",
+   "query": "drive-in theater screen sunset",
+   "caption": "STILL OPERATING",
+   "cuts": 3,
+   "chapter": "The ones that survived"
+  },
+  {
+   "text": "Shankweiler's Drive-In in Orefield, Pennsylvania, opened in nineteen thirty-four. It's the oldest drive-in still operating in America. Bengies Drive-In, near Baltimore, has one of the biggest screens in the country. And in twenty twenty, during the pandemic, drive-ins had a surprising comeback, as people looked for safe ways to see a movie together.",
+   "query": "Shankweiler's Drive-In Pennsylvania",
+   "caption": "SHANKWEILER'S, 1934",
+   "cuts": 3
+  },
+  {
+   "text": "Today, instead of window speakers, you tune your car radio to a special FM station. The movies are digital. But the rest is surprisingly the same. Families in pajamas. A snack bar with popcorn and hot dogs. A dancing hot dog between the features. And kids falling asleep in the back seat under the stars.",
+   "query": "family car drive-in night",
+   "caption": "STILL THE SAME",
+   "cuts": 3
+  },
+  {
+   "text": "For those who grew up with it, the drive-in was more than a movie. It was summer itself. The smell of popcorn and bug spray. The sound of crickets and the crackle of the speaker. The stars above the screen. A family together in the car, laughing at the same jokes.",
+   "query": "1950s drive-in theater night stars",
+   "caption": "IT WAS SUMMER ITSELF",
+   "cuts": 3,
+   "chapter": "What we remember"
+  },
+  {
+   "text": "And that's why the drive-in is still one of the most loved memories of American life. It belonged to a time when we had big cars, cheap gas, open land and long summer nights. It was a time when going out to the movies meant the whole family, piled into the car together.",
+   "query": "1950s family car road",
+   "caption": "THE WHOLE FAMILY",
+   "cuts": 3
+  },
+  {
+   "text": "So tell us in the comments. What was the name of your drive-in? What movie do you remember seeing there, and who were you with? Did you ever sneak someone in the trunk? We read every comment. Next time, we're looking at why the fifties were harder than you remember. Thank you for spending this time with me.",
+   "query": "1950s drive-in theater sign",
+   "caption": "WHAT WAS YOUR DRIVE-IN?",
+   "cuts": 3
+  }
+ ]
+}

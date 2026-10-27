@@ -1,0 +1,7 @@
+- Richard Hollingshead's first drive-in, Pennsauken (Camden), New Jersey, June 6, 1933; 25 cents per car plus 25 cents per person: New Jersey Historical Society; Smithsonian Magazine
+- Number of U.S. drive-ins: fewer than 100 in 1945 and over 4,000 around 1958: United Drive-In Theatre Owners Association; Kerry Segrave, Drive-in Theaters (1992)
+- All-Weather Drive-In, Copiague, New York (28 acres, about 2,500 cars): Kerry Segrave, Drive-in Theaters
+- 'Let's All Go to the Lobby' (1957) concession ad: Library of Congress National Film Registry
+- Effects of daylight saving time, land values, cable and VCRs on drive-ins: Smithsonian Magazine; United Drive-In Theatre Owners Association
+- Digital conversion around 2013 and about 300 drive-ins operating today: United Drive-In Theatre Owners Association
+- Shankweiler's Drive-In, Orefield, Pennsylvania (1934), oldest operating: Pennsylvania Historical and Museum Commission
