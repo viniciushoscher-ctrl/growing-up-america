@@ -1,0 +1,10 @@
+- Median family income about $5,090 in 1958: U.S. Census Bureau, Current Population Reports P-60
+- Federal minimum wage $1.00 an hour (1956-1961): U.S. Department of Labor
+- Consumer Price Index: $1 in 1958 is roughly $11 today: Bureau of Labor Statistics CPI Inflation Calculator
+- Average retail food prices in 1958 (bread, milk, eggs, coffee, butter, hamburger): Bureau of Labor Statistics, Estimated Retail Food Prices by Cities
+- McDonald's 15-cent hamburger (1955-1960s): McDonald's Corporation
+- Average gasoline price including taxes about 30 cents a gallon in 1958: U.S. Energy Information Administration
+- Average movie ticket about 68 cents in 1958: National Association of Theatre Owners
+- First-class postage rose from 3 to 4 cents on August 1, 1958: U.S. Postal Service
+- Average new car price around $2,500-$3,000 in the late 1950s; average new vehicle about $48,000 recently: Kelley Blue Book
+- Share of disposable income spent on food: about 20% in the late 1950s, about 10-11% recently: USDA Economic Research Service

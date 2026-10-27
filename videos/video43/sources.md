@@ -1,0 +1,8 @@
+- Armistice Day renamed Veterans Day by Public Law 83-380, June 1, 1954: U.S. Department of Veterans Affairs
+- About 16.1 million Americans served in WWII; about 405,000 died: U.S. Department of Veterans Affairs; National WWII Museum
+- About 350,000 American women served in uniform in WWII: National WWII Museum
+- Record number of U.S. marriages in 1946: CDC National Center for Health Statistics
+- Servicemen's Readjustment Act (G.I. Bill), signed June 22, 1944; about 7.8 million veterans used education benefits by 1956; veterans about 49% of college admissions in 1947: U.S. Department of Veterans Affairs
+- Korean War: about 1.8 million Americans served in theater, about 36,500 died; armistice July 27, 1953: U.S. Department of Veterans Affairs; Korean War Veterans Memorial
+- Seven U.S. presidents served in WWII (Eisenhower, Kennedy, Johnson, Nixon, Ford, Reagan, George H. W. Bush): National Archives
+- Tom Brokaw, The Greatest Generation (1998)

@@ -1,0 +1,227 @@
+{
+ "id": "video42",
+ "angle": "angle 3 \u00b7 an everyday theme",
+ "length_scale": 1.45,
+ "title": "What a Dollar Really Bought in 1958",
+ "scenes": [
+  {
+   "text": "Imagine you're holding a single dollar bill in nineteen fifty-eight. A crisp green George Washington. It doesn't sound like much. But in nineteen fifty-eight, that dollar could take you a surprisingly long way. It could buy you lunch, a movie, a tank of gas for the lawnmower, or a whole bag of groceries. So what could a dollar really buy?",
+   "query": "1950s dollar bill money hand",
+   "caption": "ONE DOLLAR",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "First, some perspective. In nineteen fifty-eight, the average American family earned about five thousand dollars a year. The minimum wage was a dollar an hour. So a dollar was about an hour of work for a teenager or an unskilled worker. And because of inflation, one dollar in nineteen fifty-eight is worth roughly eleven dollars today.",
+   "query": "1950s man paycheck worker",
+   "caption": "AN HOUR OF WORK",
+   "cuts": 8
+  },
+  {
+   "text": "So let's take that dollar and spend it. All over town. At the grocery store, the diner, the gas station, the movie theater, the five-and-dime and more. And at each stop, we'll see how far it went, and how that compares with today. Some of these prices will make you smile.",
+   "query": "1950s main street shops town",
+   "caption": "LET'S SPEND IT",
+   "cuts": 5
+  },
+  {
+   "text": "And money itself looked and felt different. In nineteen fifty-eight, dimes, quarters and half dollars were still made of ninety percent silver. A silver dollar coin was still common in the West. People carried more cash, and paid for almost everything with it. Checks were for bills, and credit cards were still rare. A man's wallet and a woman's coin purse held the family's spending money.",
+   "query": "1950s silver coins change purse",
+   "caption": "SILVER COINS",
+   "cuts": 3
+  },
+  {
+   "text": "Let's start at the grocery store. In nineteen fifty-eight, a dollar could buy a loaf of white bread for about nineteen cents, a quart of milk for about twenty-five cents, a dozen eggs for about sixty cents, and you'd still have a little change left. Or a pound of hamburger and a pound of potatoes, with a few cents to spare.",
+   "query": "1950s grocery store shelves woman shopping",
+   "caption": "BREAD, MILK AND EGGS",
+   "cuts": 3,
+   "chapter": "At the grocery store"
+  },
+  {
+   "text": "A pound of coffee cost about ninety cents, almost the whole dollar. That was considered expensive, and families watched coffee prices closely. A can of Campbell's soup was about ten cents. A box of corn flakes, about twenty-five. A pound of butter, around seventy-five cents. Many families bought margarine instead, because it was half the price.",
+   "query": "1950s coffee can grocery shelf",
+   "caption": "COFFEE WAS EXPENSIVE",
+   "cuts": 3
+  },
+  {
+   "text": "Fresh fruit and vegetables were cheap in season, and expensive out of season. Bananas might be about fifteen cents a pound. A head of lettuce, twenty cents. But strawberries in January were rare and costly, because there was little shipping from faraway places. Families ate what was in season, and canned or froze the rest.",
+   "query": "1950s produce section fruit vegetables",
+   "caption": "IN SEASON",
+   "cuts": 3
+  },
+  {
+   "text": "Shopping was also a game of stamps and coupons. Many supermarkets gave out S and H Green Stamps or Top Value Stamps with every purchase, about one stamp for every dime spent. Families licked them, pasted them into little books, and traded full books for toasters, lamps and towels at the redemption center. Many kitchens had something bought with stamps.",
+   "query": "1950s trading stamps book",
+   "caption": "GREEN STAMPS",
+   "cuts": 3
+  },
+  {
+   "text": "So how does that compare? Today, that dollar's worth of groceries, a loaf of bread, a quart of milk and a dozen eggs, would cost something like eight to ten dollars, depending on where you live. Food prices have gone up roughly the same as everything else. But families today spend a smaller share of their income on food than they did in nineteen fifty-eight.",
+   "query": "1950s checkout counter cashier groceries",
+   "caption": "THEN AND NOW",
+   "cuts": 3
+  },
+  {
+   "text": "Now let's go to lunch. At a diner or lunch counter in nineteen fifty-eight, a dollar could buy you a hamburger, French fries, a slice of pie and a cup of coffee, with a nickel left over for the tip. A hamburger might cost thirty to thirty-five cents. Coffee was a dime, and refills were free.",
+   "query": "1950s diner lunch counter hamburger",
+   "caption": "LUNCH FOR A DOLLAR",
+   "cuts": 3,
+   "chapter": "At the diner"
+  },
+  {
+   "text": "At the new fast food chains, it went even further. In nineteen fifty-eight, a McDonald's hamburger cost fifteen cents. French fries were ten cents, and a shake was twenty. So a dollar could buy lunch for two people at McDonald's, with change. McDonald's signs proudly counted how many millions of hamburgers they had sold.",
+   "query": "1950s McDonald's restaurant sign",
+   "caption": "15-CENT HAMBURGERS",
+   "cuts": 3
+  },
+  {
+   "text": "At a soda fountain, a dollar was a fortune. A Coke was a nickel, and had been for more than fifty years. An ice cream soda was about twenty cents. A milkshake, a quarter. With a dollar, a teenager could treat three or four friends to a round of Cokes and still have money for the jukebox.",
+   "query": "1950s soda fountain teenagers",
+   "caption": "A NICKEL COKE",
+   "cuts": 3
+  },
+  {
+   "text": "And at a nicer restaurant, a dollar still went a long way. A complete dinner, with soup, salad, a main course like roast chicken or a small steak, vegetables, rolls and dessert, might cost a dollar and a half to two dollars. Families went out to eat much less often than today, so a restaurant dinner was a special occasion, usually for a birthday or an anniversary.",
+   "query": "1950s family restaurant dinner",
+   "caption": "DINNER OUT",
+   "cuts": 3
+  },
+  {
+   "text": "Now let's fill up the car. In nineteen fifty-eight, a gallon of regular gasoline cost about thirty cents, including taxes. So a dollar bought more than three gallons. In a big car that got about fifteen miles to the gallon, that was a drive of about fifty miles. Enough for a Sunday drive in the country and back.",
+   "query": "1950s gas station attendant pumping gas",
+   "caption": "30 CENTS A GALLON",
+   "cuts": 3,
+   "chapter": "At the gas station"
+  },
+  {
+   "text": "And with that dollar, you didn't just get gas. An attendant in a uniform pumped it for you, washed your windshield, checked your oil and tire pressure, and might even give you a free glass, a road map or a set of steak knives. Full service was just how it was done.",
+   "query": "1950s gas station attendant cleaning windshield",
+   "caption": "FULL SERVICE",
+   "cuts": 3
+  },
+  {
+   "text": "A new car, by the way, cost about two thousand five hundred dollars in nineteen fifty-eight, for a basic Chevrolet or Ford. That was about half a year's income for an average family. Today, a new car costs well over forty thousand dollars on average, closer to most of a year's income.",
+   "query": "1958 Chevrolet Bel Air",
+   "caption": "$2,500 FOR A NEW CAR",
+   "cuts": 3
+  },
+  {
+   "text": "Even keeping up a car was cheap by today's standards. An oil change might cost a couple of dollars. A new tire, about fifteen to twenty dollars. And many men did their own repairs, with a few basic tools and a manual. But cars wore out faster too. By sixty or seventy thousand miles, many needed major work.",
+   "query": "1950s man repairing car engine",
+   "caption": "AN OIL CHANGE",
+   "cuts": 3
+  },
+  {
+   "text": "Next, the movies. In nineteen fifty-eight, an adult movie ticket cost about fifty to seventy-five cents in most theaters, and children paid a quarter. So a dollar could take a child to the movies four times. Or it could buy an adult ticket, a box of popcorn for a dime, and a candy bar for a nickel.",
+   "query": "1950s movie theater ticket booth",
+   "caption": "A QUARTER FOR KIDS",
+   "cuts": 3,
+   "chapter": "At the movies"
+  },
+  {
+   "text": "The Saturday matinee was the best deal of all. For a quarter, a child got a newsreel, cartoons, a cowboy serial, and a full-length feature. Some theaters ran double features. Parents dropped the kids off at noon and picked them up at four. That was a lot of entertainment for very little money.",
+   "query": "1950s children movie theater matinee",
+   "caption": "THE SATURDAY MATINEE",
+   "cuts": 3
+  },
+  {
+   "text": "At the drive-in, it went even further. Many drive-ins charged by the carload, a dollar for the whole car on bargain nights. A family of six could see two movies for a dollar. That's one reason drive-ins were so popular with young families in the fifties.",
+   "query": "1950s drive-in movie theater cars",
+   "caption": "A DOLLAR A CARLOAD",
+   "cuts": 3
+  },
+  {
+   "text": "Now let's go to the five-and-dime. Woolworth's, Kresge's or Ben Franklin. In nineteen fifty-eight, the name was a little old-fashioned, but many things still cost a dime or a quarter. A dollar could buy a spool of thread, a pack of needles, a comb, a box of crayons, a coloring book, and a bag of candy.",
+   "query": "1950s five and dime store counters",
+   "caption": "THE FIVE-AND-DIME",
+   "cuts": 3,
+   "chapter": "At the five-and-dime"
+  },
+  {
+   "text": "For kids, the five-and-dime was where a dollar felt like a million. Comic books cost a dime each. Baseball cards were a penny or a nickel a pack, with a slab of pink bubble gum. A yo-yo was about a quarter. A balsa wood glider, a dime. A bag of marbles, fifteen cents. A child with a dollar could walk out with a whole armful.",
+   "query": "1950s children comic books store",
+   "caption": "10-CENT COMIC BOOKS",
+   "cuts": 3
+  },
+  {
+   "text": "Penny candy was really a penny. Tootsie Rolls, Mary Janes, Bazooka gum, licorice whips, candy buttons on paper strips and wax bottles with sweet colored syrup. A candy bar was a nickel. A kid with a dime could get a little paper bag full of candy that would last all afternoon.",
+   "query": "1950s penny candy jar counter",
+   "caption": "PENNY CANDY",
+   "cuts": 3
+  },
+  {
+   "text": "And there were records. A forty-five r p m single, with one song on each side, cost about eighty-nine cents. So with a dollar, a teenager could buy the latest hit by Elvis, the Everly Brothers or Ricky Nelson, and still have a dime left. A long-playing album cost about three or four dollars, so most teenagers bought singles.",
+   "query": "1950s teenagers record store",
+   "caption": "89 CENTS FOR A 45",
+   "cuts": 3
+  },
+  {
+   "text": "Let's keep going around town. A haircut at the barbershop cost about a dollar to a dollar and a quarter, for men. For boys, maybe seventy-five cents. A shoeshine was a quarter. A daily newspaper was usually a nickel or a dime. A first-class stamp was four cents, after August of nineteen fifty-eight, up from three.",
+   "query": "1950s barbershop haircut",
+   "caption": "A DOLLAR HAIRCUT",
+   "cuts": 3,
+   "chapter": "Around town"
+  },
+  {
+   "text": "A phone call from a pay phone cost a dime in many places, though some cities still charged a nickel. A city bus ride was about fifteen cents. A pack of cigarettes cost around twenty-five cents. And a bottle of aspirin, or a tube of toothpaste, cost about the same.",
+   "query": "1950s phone booth man",
+   "caption": "A DIME FOR THE PAY PHONE",
+   "cuts": 3
+  },
+  {
+   "text": "A visit to the family doctor might cost three to five dollars, and he might come to your house. A night in a roadside motel, around five to seven dollars. A gallon of milk delivered to the door, about a dollar. And a pair of Levi's jeans cost about four dollars.",
+   "query": "1950s doctor office patient",
+   "caption": "THE DOCTOR'S VISIT",
+   "cuts": 3
+  },
+  {
+   "text": "And money could even be made from the trash. Soda bottles carried a deposit of two cents each, and kids collected them from ditches and empty lots and turned them in at the store. Newspapers and scrap metal could be sold to the junk man. A sharp-eyed kid with a wagon could earn a dollar on a Saturday, and spend it the same afternoon.",
+   "query": "1950s children wagon collecting bottles",
+   "caption": "TWO CENTS A BOTTLE",
+   "cuts": 3
+  },
+  {
+   "text": "What about the big things? The average new house in nineteen fifty-eight cost about twelve thousand dollars. A refrigerator, about three hundred. A new television set, black and white, around two hundred. A washing machine, about two hundred and fifty. Those were major purchases, often bought on installment plans.",
+   "query": "1950s appliance store televisions",
+   "caption": "THE BIG THINGS",
+   "cuts": 3,
+   "chapter": "The big things"
+  },
+  {
+   "text": "And college? At a public university in nineteen fifty-eight, tuition might be a couple of hundred dollars a year. Room and board, a few hundred more. A student could earn most of a year's college costs with a summer job. Today, the cost of a year at a public university is many times higher, even after inflation.",
+   "query": "1950s college students campus",
+   "caption": "COLLEGE",
+   "cuts": 3
+  },
+  {
+   "text": "Some things, though, were more expensive in nineteen fifty-eight than today, compared with incomes. Long distance phone calls cost a fortune. Air travel was a luxury, and a cross-country flight could cost a couple of weeks' pay. Televisions, radios and other electronics took a big bite out of a paycheck. Today, many of those things are far cheaper.",
+   "query": "1950s airplane passengers airport",
+   "caption": "SOME THINGS COST MORE",
+   "cuts": 3
+  },
+  {
+   "text": "So was life cheaper in nineteen fifty-eight? In some ways, yes. Housing, college, cars and food took a smaller share of a family's income than they do today. A single paycheck could support a family. In other ways, no. People earned much less, and many things we now take for granted were luxuries, or didn't exist at all.",
+   "query": "1950s family living room evening",
+   "caption": "WAS IT CHEAPER?",
+   "cuts": 3,
+   "chapter": "What a dollar meant"
+  },
+  {
+   "text": "But maybe the real difference was how people thought about a dollar. In nineteen fifty-eight, many adults had lived through the Depression. They knew what it meant to have nothing. So they respected every dollar. They saved, they budgeted, and they taught their children that money didn't grow on trees.",
+   "query": "1950s mother child piggy bank",
+   "caption": "MONEY DIDN'T GROW ON TREES",
+   "cuts": 3
+  },
+  {
+   "text": "If you were a child in nineteen fifty-eight, you might remember your first allowance, maybe a quarter or fifty cents a week. You remember exactly what it bought. A comic book, a candy bar and a Coke. And you remember the feeling of walking into a store with your own money, ready to spend it.",
+   "query": "1950s boy counting coins",
+   "caption": "YOUR FIRST ALLOWANCE",
+   "cuts": 3
+  },
+  {
+   "text": "So tell us in the comments. What was your allowance when you were a kid, and what did you spend it on? What price from the old days do you remember the most? We read every comment. Next time, we're remembering the men who came home on Veterans Day in nineteen fifty-five and built America. Thank you for spending this time with me.",
+   "query": "1950s children candy store counter",
+   "caption": "WHAT WAS YOUR ALLOWANCE?",
+   "cuts": 3
+  }
+ ]
+}
