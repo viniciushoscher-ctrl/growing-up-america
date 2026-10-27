@@ -1,0 +1,8 @@
+- Growth of high school driver education programs in the 1950s: American Driver and Traffic Safety Education Association
+- 'Signal 30' (1959) and other Highway Safety Foundation films, Mansfield, Ohio: Library of Congress
+- Average U.S. gasoline price about 31 cents a gallon in 1960: U.S. Energy Information Administration
+- Federal minimum wage $1.00 an hour (1956-1961): U.S. Department of Labor
+- 1960 hits ('Theme from A Summer Place', 'It's Now or Never', 'Cathy's Clown', 'The Twist'): Billboard
+- First televised presidential debate, September 26, 1960: John F. Kennedy Presidential Library
+- Greensboro sit-ins, February 1960: Smithsonian National Museum of American History
+- Median age at first marriage for women about 20.3 in 1960: U.S. Census Bureau

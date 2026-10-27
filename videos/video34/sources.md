@@ -1,0 +1,10 @@
+- Route 66 established 1926, about 2,448 miles from Chicago to Santa Monica, fully paved 1938, decommissioned 1985: National Park Service, Route 66 Corridor Preservation Program
+- John Steinbeck, The Grapes of Wrath (1939), 'the mother road'
+- '(Get Your Kicks on) Route 66' by Bobby Troup (1946), recorded by the Nat King Cole Trio: Library of Congress
+- Chain of Rocks Bridge (1929) and its 22-degree bend: Missouri Department of Transportation
+- Meramec Caverns barn advertising and Lester Dill: Missouri State Historic Preservation Office
+- First Holiday Inn, Memphis, 1952, Kemmons Wilson: InterContinental Hotels Group history
+- Route 66 midpoint at Adrian, Texas: Texas Historical Commission
+- Average U.S. gasoline price about 23 cents a gallon in 1956 (before taxes about 22-23 cents): U.S. Energy Information Administration
+- Federal-Aid Highway Act of 1956; last segment bypassed at Williams, Arizona, 1984: Federal Highway Administration
+- Disneyland opened July 17, 1955: The Walt Disney Company
