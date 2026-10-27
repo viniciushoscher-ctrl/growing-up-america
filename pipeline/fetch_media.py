@@ -238,7 +238,7 @@ def main(video):
     d = pathlib.Path("videos") / video
     script = json.loads((d / "script.json").read_text())
     (d / "media").mkdir(exist_ok=True)
-    used, credits, last = set(), [], None
+    used, credits, last, own = set(), [], None, []  # own: frames found for this video, for reuse
     for i, s in enumerate(script["scenes"]):
         for k in range(s.get("cuts", 2)):
             f = d / "media" / f"{i}_{k}.jpg"
@@ -247,7 +247,7 @@ def main(video):
                 fm = pick_film(q)
                 if fm and (DRY or save_frame(fm, f)):
                     if DRY: print("SCENE", i, k, "|", q, "| FILM", fm["title"]); last = last or True; continue
-                    last = f; credits.append({k2: v for k2, v in fm.items() if k2 not in ("src", "t")} | {"scene": i, "cut": k})
+                    last = f; own.append(f); credits.append({k2: v for k2, v in fm.items() if k2 not in ("src", "t")} | {"scene": i, "cut": k})
                     print(i, k, "film", fm["title"], "fit", fm.get("fit")); continue
                 fm = None
             m = None
@@ -264,16 +264,17 @@ def main(video):
                     fm = None
             if m is None and fm:
                 if DRY: print("SCENE", i, k, "|", s["query"], "| FILM", fm["title"]); last = last or True; continue
-                last = f; credits.append({k2: v for k2, v in fm.items() if k2 not in ("src", "t")} | {"scene": i, "cut": k})
+                last = f; own.append(f); credits.append({k2: v for k2, v in fm.items() if k2 not in ("src", "t")} | {"scene": i, "cut": k})
                 print(i, k, "film", fm["title"], "fit", fm.get("fit")); continue
             if m is None:  # search exhausted: reuse the last photo rather than fail the whole video
                 if DRY: print("SCENE", i, k, "|", s["query"], "|", "REUSE" if last else "NONE"); last = last or True; continue
                 if last is None: raise SystemExit("no photo found for scene %d: %s" % (i, s["query"]))
-                f.write_bytes(last.read_bytes()); print(i, k, "reuse"); continue
+                # a random recent frame rather than always the last one: video14 showed one miner four scenes in a row
+                f.write_bytes(random.choice(own[-12:-1] or own or [last]).read_bytes()); print(i, k, "reuse"); continue
             used.add(m["title"])
             if DRY:
                 print("SCENE", i, k, "|", s["query"], "|", m["title"]); last = True; continue
-            f.write_bytes(download(m["url"])); last = f
+            f.write_bytes(download(m["url"])); last = f; own.append(f)
             credits.append({**m, "scene": i, "cut": k})
             print(i, k, m["title"], m["license"], "fit", m.get("fit"))
     if not DRY: (d / "credits.json").write_text(json.dumps(credits, indent=2))
