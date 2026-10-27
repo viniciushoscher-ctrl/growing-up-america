@@ -1,0 +1,8 @@
+- Suburban share of the U.S. population about 31% in 1960 and over 50% today: U.S. Census Bureau, Demographic Trends in the 20th Century
+- Registered motor vehicles: about 31 million in 1945 and 74 million in 1960 (passenger cars about 26 million and 62 million): Federal Highway Administration, Highway Statistics
+- Federal-Aid Highway Act of 1956 (41,000-mile interstate system): Federal Highway Administration
+- Levittown, New York: about 17,400 houses, built 1947-1951; prices around $7,900: Levittown Historical Society
+- 'Little Boxes' by Malvina Reynolds (1962)
+- Southdale Center, Edina, Minnesota, opened October 8, 1956: Minnesota Historical Society
+- Redlining, restrictive covenants and the Fair Housing Act of 1968: HUD; National Archives
+- Betty Friedan, The Feminine Mystique (1963)

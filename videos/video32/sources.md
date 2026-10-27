@@ -1,0 +1,5 @@
+- Median earnings of men working full time, year-round, about $5,400 in 1960 (all male earners about $4,100): U.S. Census Bureau, Current Population Reports P-60
+- Sloan Wilson, The Man in the Gray Flannel Suit (1955)
+- Union membership about one-third of private-sector workers in the 1950s: Bureau of Labor Statistics
+- Benjamin Spock, The Common Sense Book of Baby and Child Care (1946, revised 1957)
+- Father Knows Best (1954-1960) and The Donna Reed Show (1958-1966): Paley Center for Media

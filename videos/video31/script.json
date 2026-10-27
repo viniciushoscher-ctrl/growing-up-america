@@ -1,0 +1,239 @@
+{
+ "id": "video31",
+ "angle": "angle 1 \u00b7 a place and a time",
+ "length_scale": 1.45,
+ "title": "The Suburbs in 1958: Why Everyone Left the City",
+ "scenes": [
+  {
+   "text": "In nineteen forty-five, most American families lived in cities, small towns or on farms. Fifteen years later, tens of millions of them had moved somewhere new. Somewhere that, just a few years before, had been a potato field, a cow pasture or a stretch of woods. They had moved to the suburbs.",
+   "query": "1950s suburb aerial new houses",
+   "caption": "THE GREAT MOVE",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "It was one of the biggest migrations in American history, and it happened in a single generation. By nineteen sixty, about one in three Americans lived in a suburb. Entire new towns appeared on the map, with names like Levittown, Park Forest, Lakewood and Daly City.",
+   "query": "1950s suburban street houses cars",
+   "caption": "ONE IN THREE",
+   "cuts": 8
+  },
+  {
+   "text": "So what was it really like to live in the suburbs in nineteen fifty-eight? And why did so many families leave the city behind? Let's go back and find out, from the cramped city apartment to the brand-new house with a yard.",
+   "query": "1950s family new house front lawn",
+   "caption": "WHY DID THEY LEAVE?",
+   "cuts": 5
+  },
+  {
+   "text": "To understand why people left, you have to picture where they came from. After the war, American cities were packed. Families lived in small apartments in old brick buildings, sometimes three generations in four rooms. Children slept two or three to a bed. The bathroom might be down the hall, shared with other families.",
+   "query": "1940s city tenement apartment family",
+   "caption": "THE CROWDED CITY",
+   "cuts": 3,
+   "chapter": "The crowded city"
+  },
+  {
+   "text": "There was also a terrible housing shortage. During the Depression and the war, almost no new homes had been built. When millions of soldiers came home, there was simply nowhere for them to live. Young couples moved in with their parents. Some lived in garages, basements, old streetcars and even chicken coops.",
+   "query": "1940s veterans housing shortage",
+   "caption": "NOWHERE TO LIVE",
+   "cuts": 3
+  },
+  {
+   "text": "City life could also be noisy, dirty and hot. Coal smoke darkened the air. Factories were right next to apartment buildings. Children played in the street, dodging trucks. And as the city grew more crowded, many families dreamed of something better for their kids. A yard. A tree. Fresh air.",
+   "query": "1940s city street children playing",
+   "caption": "A YARD AND A TREE",
+   "cuts": 3
+  },
+  {
+   "text": "And there was the baby boom. Young couples were having children faster than any generation before them. A family with three or four small kids simply didn't fit in a two-room apartment on the fourth floor of a walk-up. Mothers carried strollers up and down the stairs every day. A house with a yard wasn't a luxury. It felt like a necessity.",
+   "query": "1950s mother children apartment stairs",
+   "caption": "THE BABY BOOM",
+   "cuts": 3
+  },
+  {
+   "text": "Several things came together to make the suburbs possible. The first was money. The G.I. Bill offered veterans home loans with little or nothing down. The Federal Housing Administration insured long-term mortgages with low monthly payments. Suddenly, buying a house in the suburbs could cost less each month than renting an apartment in the city.",
+   "query": "1950s bank mortgage couple",
+   "caption": "THE G.I. BILL",
+   "cuts": 3,
+   "chapter": "What made it possible"
+  },
+  {
+   "text": "The second was the car. In nineteen forty-five, about twenty-five million cars were registered in America. By nineteen sixty, it was more than sixty million. With a car, a man could live twenty miles from his job and drive in every morning. The suburbs were built for the automobile, with driveways, garages and wide streets.",
+   "query": "1950s family car driveway",
+   "caption": "THE CAR",
+   "cuts": 3
+  },
+  {
+   "text": "The third was the highway. In nineteen fifty-six, President Eisenhower signed the Federal-Aid Highway Act, which created the interstate highway system. Forty-one thousand miles of new highways would connect the cities to the countryside, and make the suburbs easier to reach than ever.",
+   "query": "1950s highway construction",
+   "caption": "THE INTERSTATE",
+   "cuts": 3
+  },
+  {
+   "text": "And the fourth was a new way of building. A builder named William Levitt figured out how to build houses like Henry Ford built cars. His crews poured concrete slabs, and teams of workers moved down the street, each doing one job. At the peak, they finished about thirty houses a day.",
+   "query": "Levittown New York 1950s construction",
+   "caption": "30 HOUSES A DAY",
+   "cuts": 3
+  },
+  {
+   "text": "Builders across the country copied Levitt's methods. In Lakewood, California, crews built more than seventeen thousand homes in about three years. In Park Forest, Illinois, a whole planned town rose out of the prairie south of Chicago. All over America, farmland at the edge of every city turned into streets lined with brand-new houses almost overnight.",
+   "query": "Lakewood California 1950s aerial houses",
+   "caption": "LAKEWOOD AND PARK FOREST",
+   "cuts": 3
+  },
+  {
+   "text": "The first Levittown went up on Long Island, New York, starting in nineteen forty-seven. It had more than seventeen thousand houses. A basic house sold for about seven thousand nine hundred dollars. Veterans could buy one with no money down and a monthly payment of around sixty dollars.",
+   "query": "Levittown Long Island houses",
+   "caption": "LEVITTOWN, 1947",
+   "cuts": 3,
+   "chapter": "Levittown"
+  },
+  {
+   "text": "Each house came with a living room, a kitchen with modern appliances, two bedrooms, one bathroom and an unfinished attic. Some models even came with a built-in television set. Every house had a tree in the front yard. Lines of people waited for days to buy one.",
+   "query": "1950s Levittown house interior kitchen",
+   "caption": "LINES FOR DAYS",
+   "cuts": 3
+  },
+  {
+   "text": "Moving day was a thrill. Families arrived with a borrowed truck, a few pieces of furniture and boxes of dishes. The lawns were still mud. The trees were thin little sticks held up with stakes. There were no sidewalks yet, and sometimes no paved streets. But the children ran from room to room, and the parents could hardly believe it was really theirs.",
+   "query": "1950s family moving in new house",
+   "caption": "MOVING DAY",
+   "cuts": 3
+  },
+  {
+   "text": "Critics called the suburbs boring and identical. A famous song later mocked the little boxes made of ticky-tacky, that all looked just the same. But the families who lived there didn't care. They had a home of their own, and for most of them, it was the first time in their lives.",
+   "query": "1950s identical suburban houses row",
+   "caption": "LITTLE BOXES",
+   "cuts": 3
+  },
+  {
+   "text": "So what was a day in the suburbs like in nineteen fifty-eight? In the morning, fathers drove off to work, or walked to the train station to catch the commuter train into the city. Mothers stayed home with the children. The streets went quiet, except for the milkman, the mailman and the sound of a vacuum cleaner.",
+   "query": "1950s commuter train station men",
+   "caption": "THE COMMUTE",
+   "cuts": 3,
+   "chapter": "Life in the suburb"
+  },
+  {
+   "text": "And the streets were full of children. In nineteen fifty-eight, the baby boom was at its peak. In some suburbs, there were more children than adults. Kids played in huge groups, from one yard to the next. Kickball in the street, tag through the backyards, and bike rides to the edge of the development, where the fields began.",
+   "query": "1950s suburb children playing street bicycles",
+   "caption": "MORE KIDS THAN ADULTS",
+   "cuts": 3
+  },
+  {
+   "text": "The ranch house was the star of the suburbs. Long and low, all on one floor, with a picture window facing the street and sliding glass doors to a patio out back. Inside, there might be a family room, a new idea at the time, where kids could play and the family could watch television without messing up the living room.",
+   "query": "1950s ranch house exterior",
+   "caption": "THE RANCH HOUSE",
+   "cuts": 3
+  },
+  {
+   "text": "Mothers formed close friendships over coffee in each other's kitchens. They shared recipes, babysat for each other, and joined clubs. Bridge clubs, garden clubs, church groups and the PTA. Many women who moved to the suburbs say those friendships lasted for the rest of their lives.",
+   "query": "1950s women coffee kitchen neighbors",
+   "caption": "COFFEE IN THE KITCHEN",
+   "cuts": 3
+  },
+  {
+   "text": "On weekends, fathers became homeowners. They mowed the lawn, painted the trim, built a patio and grilled hamburgers on the new backyard barbecue. Do-it-yourself became a national hobby. Hardware stores and lumber yards did a booming business. A man's Saturday belonged to his house.",
+   "query": "1950s father backyard barbecue grill",
+   "caption": "THE BACKYARD BARBECUE",
+   "cuts": 3
+  },
+  {
+   "text": "Summer in the suburbs had its own sounds. Lawnmowers on Saturday morning. Sprinklers ticking across the grass. The bells of the ice cream truck. Screen doors slamming. Radios playing ball games on the patio. And at dusk, a dozen mothers calling a dozen children home for dinner, all at the same time.",
+   "query": "1950s suburb summer lawn sprinkler children",
+   "caption": "THE SOUNDS OF SUMMER",
+   "cuts": 3
+  },
+  {
+   "text": "The new suburbs had to build everything from scratch. There were no schools at first, so children rode buses to old schools miles away. Then new schools went up, sometimes two or three in a single year. Churches started in living rooms and garages, then built new buildings. Shopping centers rose in empty fields.",
+   "query": "1950s new elementary school building",
+   "caption": "BUILDING EVERYTHING",
+   "cuts": 3,
+   "chapter": "Building a community"
+  },
+  {
+   "text": "People joined everything. The Little League, the Cub Scouts, the Girl Scouts, the volunteer fire department, the Rotary Club and the Women's Club. They held block parties, Fourth of July parades and Christmas decoration contests. They were building a community from nothing, and many felt a real sense of belonging.",
+   "query": "1950s suburb block party neighbors",
+   "caption": "THE BLOCK PARTY",
+   "cuts": 3
+  },
+  {
+   "text": "And they shopped differently. Instead of walking to the corner grocer, families drove to the new supermarket, with huge aisles and a parking lot. In nineteen fifty-six, Southdale Center opened in Edina, Minnesota, the first fully enclosed, climate-controlled shopping mall in America. It was the shape of things to come.",
+   "query": "1950s supermarket parking lot cars",
+   "caption": "THE SUPERMARKET",
+   "cuts": 3
+  },
+  {
+   "text": "And on summer evenings, families drove to the drive-in movie, the drive-in restaurant and the new ice cream stand out on the highway. The suburbs created a whole new way of life built around the car. Station wagons became the family car of choice, big enough for the kids, the dog, the groceries and the Little League team.",
+   "query": "1950s station wagon family suburb",
+   "caption": "THE STATION WAGON",
+   "cuts": 3
+  },
+  {
+   "text": "But the suburbs were not open to everyone. Many developments, including Levittown, had rules that kept Black families from buying. Banks and the government refused to back loans in neighborhoods where Black families lived, a practice called redlining. Black veterans who had served their country often couldn't use their G.I. Bill benefits to buy a suburban home.",
+   "query": "1950s suburb houses street",
+   "caption": "WHO WAS LEFT OUT",
+   "cuts": 3,
+   "chapter": "Who was left out"
+  },
+  {
+   "text": "As white families moved out, many cities lost population, businesses and tax money. Neighborhoods declined. Downtown stores struggled. That pattern, which historians call white flight, shaped American cities for decades. It wasn't until the Fair Housing Act of nineteen sixty-eight that discrimination in housing was finally outlawed.",
+   "query": "1960s city neighborhood buildings",
+   "caption": "THE CITIES SUFFERED",
+   "cuts": 3
+  },
+  {
+   "text": "The suburbs had other problems too. For mothers without a car, the days could feel very long and lonely. Everything was far away. Some women felt cut off from the world, and in nineteen sixty-three, Betty Friedan wrote about that feeling in her book The Feminine Mystique.",
+   "query": "1950s housewife window lonely",
+   "caption": "LONG, LONELY DAYS",
+   "cuts": 3,
+   "chapter": "The problems"
+  },
+  {
+   "text": "Fathers spent hours a day commuting. Traffic jams became a new American problem. And critics worried that the suburbs were making Americans too similar, too focused on keeping up with the Joneses, the neighbors who always seemed to have a newer car or a bigger television.",
+   "query": "1950s traffic jam highway cars",
+   "caption": "KEEPING UP WITH THE JONESES",
+   "cuts": 3
+  },
+  {
+   "text": "There was also the cost of all that new stuff. To fill the new house, families bought furniture, appliances, a lawnmower and a second car, often on credit. Installment buying grew rapidly through the fifties. Many young couples found themselves stretched thin, working overtime and juggling monthly payments to keep up.",
+   "query": "1950s couple paying bills kitchen table",
+   "caption": "STRETCHED THIN",
+   "cuts": 3
+  },
+  {
+   "text": "And yet, for millions of families, the move to the suburbs worked. They had space, safety and fresh air. Their children had good schools and yards to play in. They built equity in a home that, decades later, would help pay for college and retirement.",
+   "query": "1950s family yard children playing",
+   "caption": "IT WORKED",
+   "cuts": 3,
+   "chapter": "Why it worked"
+  },
+  {
+   "text": "For many people who grew up there, the fifties suburb was a wonderful place to be a child. Packs of kids. Bikes everywhere. Woods and fields at the end of the street. Mothers at home. A sense that the whole neighborhood was watching out for you.",
+   "query": "1950s suburb children bicycles",
+   "caption": "A WONDERFUL PLACE TO BE A CHILD",
+   "cuts": 3
+  },
+  {
+   "text": "Today, more than half of all Americans live in suburbs. The houses have gotten bigger, the yards have gotten fancier, and the trees planted in nineteen fifty-eight have grown tall. But the basic dream is still the same. A house of your own, a little patch of grass, and a safe street for the kids.",
+   "query": "suburb tree lined street houses",
+   "caption": "THE DREAM IS STILL THE SAME",
+   "cuts": 3
+  },
+  {
+   "text": "If you grew up in a fifties suburb, you were part of one of the great changes in American history. Your parents took a big risk, moved somewhere brand new, and built a life from scratch. And they did it for you.",
+   "query": "1950s family portrait house",
+   "caption": "THEY DID IT FOR YOU",
+   "cuts": 3
+  },
+  {
+   "text": "And many of the original houses are still there. In Levittown today, you can still find a few original Cape Cods, though most have been expanded with second stories, new porches and big additions. Their owners love to show visitors the old photos, and point out the tree that was once a little stick in the mud.",
+   "query": "Levittown house today",
+   "caption": "STILL THERE",
+   "cuts": 3
+  },
+  {
+   "text": "So tell us in the comments. Did your family move to the suburbs in the fifties or sixties? Where did you move from, and where did you move to? What do you remember about that first house? We read every comment. Next time, we're looking at what it was like to be a dad in nineteen sixty. Thank you for spending this time with me.",
+   "query": "1950s suburb street sunset",
+   "caption": "WHERE DID YOU MOVE?",
+   "cuts": 3
+  }
+ ]
+}
