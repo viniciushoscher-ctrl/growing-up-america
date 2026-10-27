@@ -1,0 +1,7 @@
+- Median family income 1962 (about $5,956): U.S. Census Bureau, Current Population Reports P60
+- Federal minimum wage $1.15/hour (Sept 1961 - Sept 1963): U.S. Department of Labor
+- Social Security (OASDI) employee tax rate 3.125% in 1962: Social Security Administration, tax rate history
+- Median sales price of new houses, about $18,000 in 1963: U.S. Census Bureau, New Residential Sales
+- Average retail food prices (bread, eggs, ground beef, milk) early 1960s: Bureau of Labor Statistics, Average Price Data
+- First-class postage 4 cents, raised to 5 cents January 7, 1963: U.S. Postal Service, rates history
+- Average gasoline price about 30-31 cents per gallon in 1962: U.S. Energy Information Administration
