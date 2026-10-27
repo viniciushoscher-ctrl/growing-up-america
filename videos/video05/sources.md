@@ -1,0 +1,3 @@
+- Federal minimum wage $1.00/hour from March 1, 1956 to September 1961: U.S. Department of Labor, history of federal minimum wage rates
+- Sex-segregated help wanted columns in newspapers until the late 1960s-1973 (Pittsburgh Press v. Pittsburgh Commission on Human Relations, 1973): U.S. Supreme Court
+- Long-tenure employment and company pensions in the 1950s: Bureau of Labor Statistics, Monthly Labor Review historical articles
