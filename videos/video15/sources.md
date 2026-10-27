@@ -1,0 +1,8 @@
+- Origins of 'trick or treat' in the 1920s-1940s and wartime sugar rationing: Smithsonian Magazine; Library of Congress
+- Ben Cooper and Collegeville boxed costumes: Smithsonian National Museum of American History
+- Trick-or-Treat for UNICEF began in 1950 in Philadelphia ($17 collected): UNICEF USA
+- Candy corn created in the 1880s (Wunderlee Candy Company; Goelitz): National Confectioners Association
+- Universal 'Shock Theater' TV package released 1957: Library of Congress; NBCUniversal history
+- 'The Purple People Eater' by Sheb Wooley, No. 1 in June 1958; 'Monster Mash' No. 1 in 1962: Billboard
+- Research on Halloween candy tampering myths: Joel Best, University of Delaware
+- Halloween spending over $10 billion a year: National Retail Federation

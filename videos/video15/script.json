@@ -1,0 +1,236 @@
+{
+ "id": "video15",
+ "angle": "angle 3 \u00b7 an everyday theme",
+ "length_scale": 1.45,
+ "title": "Halloween 1958: What Trick-or-Treating Was Really Like",
+ "scenes": [
+  {
+   "text": "It's October thirty-first, nineteen fifty-eight. The sun is going down early, and the air smells like burning leaves. On every street in town, front porch lights are clicking on. Inside, kids are wriggling into costumes, and mothers are trying to get them to eat a little supper first. Nobody is listening. Tonight is Halloween.",
+   "query": "1950s Halloween children costumes",
+   "caption": "OCTOBER 31, 1958",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "If you were a child in nineteen fifty-eight, Halloween might have been the best night of the whole year, after Christmas. No school the next day? Not usually. But for a few hours, you could go out after dark, knock on every door on the block, and come home with a pillowcase full of candy.",
+   "query": "1950s children trick or treat door",
+   "caption": "THE BEST NIGHT",
+   "cuts": 8
+  },
+  {
+   "text": "So tonight, let's go trick-or-treating in nineteen fifty-eight. What we wore, what we got, how far we went, and why Halloween back then felt so different from today. If you were there, I think you'll remember that cool October air the moment we start.",
+   "query": "1950s autumn street houses leaves",
+   "caption": "LET'S GO BACK",
+   "cuts": 5
+  },
+  {
+   "text": "Here's something many people don't realize. In nineteen fifty-eight, trick-or-treating was still fairly new. The phrase \"trick or treat\" only became common across America in the late nineteen thirties and forties. Before that, Halloween was better known for pranks, and some of them were pretty rough.",
+   "query": "1940s Halloween party children",
+   "caption": "STILL FAIRLY NEW",
+   "cuts": 3,
+   "chapter": "A young holiday"
+  },
+  {
+   "text": "Boys tipped over outhouses, soaped windows, let the air out of tires and dragged gates into the street. In some towns, the damage got so bad that city leaders decided to give kids something better to do. Parades, parties and door-to-door treats were the answer. A treat, in other words, was a polite bribe to skip the trick.",
+   "query": "1950s Halloween parade small town",
+   "caption": "A POLITE BRIBE",
+   "cuts": 3
+  },
+  {
+   "text": "During the Second World War, sugar was rationed, and trick-or-treating mostly paused. But after the war, with sugar back and the baby boom filling every street with children, it took off. By the late fifties, it was a national tradition. Television shows, magazines and even cereal boxes all showed kids going door to door.",
+   "query": "1950s children Halloween masks street",
+   "caption": "AFTER THE WAR",
+   "cuts": 3
+  },
+  {
+   "text": "The costume came first. And in nineteen fifty-eight, there were two kinds. The homemade costume, and the store-bought one in a box. The homemade ones were usually the best. A white bedsheet with two eyeholes made a ghost. A burnt cork rubbed on the face made a hobo with a stubble beard.",
+   "query": "1950s child ghost costume bedsheet",
+   "caption": "THE BEDSHEET GHOST",
+   "cuts": 3,
+   "chapter": "The costume"
+  },
+  {
+   "text": "Mothers stayed up late sewing. Cowboy outfits, pirates, princesses, witches and fairies. Old clothes from the attic turned into a scarecrow. A cardboard box became a robot. And for a few years after the movie came out, every neighborhood seemed to have at least one little Davy Crockett in a coonskin cap.",
+   "query": "1950s children cowboy costumes",
+   "caption": "MOTHERS SEWED",
+   "cuts": 3
+  },
+  {
+   "text": "The store-bought costumes came from companies like Ben Cooper and Collegeville, sold at the five-and-dime for a couple of dollars. They came in a thin cardboard box with a cellophane window. Inside was a flimsy vinyl suit that tied in the back, and a hard plastic mask held on by a thin rubber band.",
+   "query": "1950s five and dime store Halloween costumes",
+   "caption": "THE BOX COSTUME",
+   "cuts": 3
+  },
+  {
+   "text": "You remember that mask. It had tiny eyeholes you could barely see through, and a little slit for your mouth. After ten minutes, your breath made the inside wet and warm. The rubber band pulled your hair. And by the third house, most kids had pushed the mask up on top of their heads anyway.",
+   "query": "1950s children plastic masks Halloween",
+   "caption": "YOU REMEMBER THAT MASK",
+   "cuts": 3
+  },
+  {
+   "text": "Next came the bag. Some kids carried a paper grocery sack, which worked fine until it rained. Others had a plastic jack-o'-lantern pail. But the serious trick-or-treaters carried a pillowcase. A pillowcase could hold a lot of candy, and a kid with a full pillowcase was a kid who knew what he was doing.",
+   "query": "1950s child paper bag trick or treat",
+   "caption": "THE PILLOWCASE",
+   "cuts": 3,
+   "chapter": "The bag"
+  },
+  {
+   "text": "Many kids also carried a little orange and black box for UNICEF. The Trick-or-Treat for UNICEF program started in nineteen fifty, in Philadelphia, when a group of children collected seventeen dollars for children overseas. By the late fifties, it was nationwide, and kids collected pennies, nickels and dimes along with their candy.",
+   "query": "1950s children UNICEF Halloween box",
+   "caption": "TRICK-OR-TREAT FOR UNICEF",
+   "cuts": 3
+  },
+  {
+   "text": "Before anyone went out, there was the pumpkin. Fathers usually handled the big knife, while the kids scooped out the stringy, slippery insides with a spoon. Mothers saved the seeds, washed them, salted them, and roasted them in the oven. The whole kitchen smelled like warm pumpkin.",
+   "query": "1950s family carving pumpkin kitchen",
+   "caption": "CARVING THE PUMPKIN",
+   "cuts": 3,
+   "chapter": "The jack-o'-lantern"
+  },
+  {
+   "text": "The faces were simple. Triangle eyes, a triangle nose, and a jagged smile with a few teeth. Then a real candle went inside, lit with a kitchen match. The jack-o'-lantern sat on the porch step, flickering in the dark, and by the end of the night, the top was usually scorched black.",
+   "query": "jack o lantern candle porch night",
+   "caption": "A REAL CANDLE",
+   "cuts": 3
+  },
+  {
+   "text": "And then, out the door. Here's the biggest difference from today. In nineteen fifty-eight, most kids went out without their parents. Older brothers and sisters took the little ones. Kids traveled in packs of five, six or ten, and covered blocks and blocks of the neighborhood. A ten-year-old might be gone for two or three hours.",
+   "query": "1950s group of children Halloween street night",
+   "caption": "NO PARENTS",
+   "cuts": 3,
+   "chapter": "The neighborhood"
+  },
+  {
+   "text": "The rules were simple. Stay together. Only go to houses with the porch light on. Say thank you. Be home by eight, or nine if you were older. And don't eat anything until you get home. That last rule was broken almost immediately by every child in America.",
+   "query": "1950s porch light house night",
+   "caption": "PORCH LIGHT ON",
+   "cuts": 3
+  },
+  {
+   "text": "Every neighborhood had its famous houses. The house that gave full-size candy bars, which you visited once in costume, and then again with your mask on backwards. The house with the scary decorations. The old lady who made you come inside and sing a song. And the dark house where nobody went.",
+   "query": "1950s neighborhood houses evening",
+   "caption": "THE FAMOUS HOUSES",
+   "cuts": 3
+  },
+  {
+   "text": "And there was always a little danger in the air, the fun kind. A big kid jumping out from behind a hedge. A dog barking in the dark. A dad sitting perfectly still on his porch dressed as a scarecrow, until he moved. Kids screamed, ran, laughed, and then went right back for more.",
+   "query": "1950s children running night Halloween",
+   "caption": "THE FUN KIND OF SCARY",
+   "cuts": 3
+  },
+  {
+   "text": "So what went into the bag? In the fifties, much of it was homemade or unwrapped. Popcorn balls held together with syrup and wrapped in wax paper. Caramel apples on a stick. Homemade fudge, cookies and brownies. Neighbors knew each other, so nobody thought twice about eating a treat from Mrs. Johnson down the street.",
+   "query": "1950s popcorn balls caramel apples",
+   "caption": "POPCORN BALLS",
+   "cuts": 3,
+   "chapter": "The treats"
+  },
+  {
+   "text": "There was also loose candy, often from big bowls, handed out by the handful. Candy corn, of course, which had been around since the eighteen eighties. Tootsie Rolls. Dubble Bubble gum. Wax lips and those little wax bottles with a sip of sweet colored liquid inside. Mary Janes, Bit-O-Honey and Necco wafers.",
+   "query": "1950s penny candy jar",
+   "caption": "CANDY CORN AND WAX LIPS",
+   "cuts": 3
+  },
+  {
+   "text": "Some houses gave apples or oranges, which kids politely accepted and secretly considered a waste of space. Some gave pennies, or even a nickel. And a few lucky houses gave real candy bars. A Hershey bar, a Baby Ruth, a Milky Way, or a Three Musketeers. In nineteen fifty-eight, a candy bar cost about a nickel.",
+   "query": "1950s candy bars store counter",
+   "caption": "A NICKEL CANDY BAR",
+   "cuts": 3
+  },
+  {
+   "text": "Halloween wasn't just trick-or-treating. Schools held costume parades, and children marched around the playground while parents watched. Churches and community centers held Halloween parties. And many families threw parties at home, in basements decorated with orange and black crepe paper.",
+   "query": "1950s school children Halloween costume parade",
+   "caption": "THE SCHOOL PARADE",
+   "cuts": 3,
+   "chapter": "Halloween parties"
+  },
+  {
+   "text": "The games were always the same, and always fun. Bobbing for apples in a washtub full of cold water, hands behind your back, until your face and your collar were soaked. Pin the tail on the black cat. A haunted house in the basement, where you stuck your hand in a bowl of cold spaghetti and somebody told you it was brains.",
+   "query": "1950s children bobbing for apples",
+   "caption": "BOBBING FOR APPLES",
+   "cuts": 3
+  },
+  {
+   "text": "Grown-ups had their own parties, with punch, doughnuts and fresh apple cider from the orchard. In farm country, there were hayrides under the stars, barn dances and corn mazes. And in many small towns, the whole community gathered for a bonfire, a parade down Main Street and a prize for the best costume.",
+   "query": "1950s hayride farm autumn",
+   "caption": "HAYRIDES AND CIDER",
+   "cuts": 3
+  },
+  {
+   "text": "And in nineteen fifty-eight, Halloween had a new companion: horror on television. In nineteen fifty-seven, a package of classic Universal monster movies called Shock Theater was sold to TV stations all over the country. Suddenly Dracula, Frankenstein and the Wolf Man were showing up in living rooms on Friday and Saturday nights.",
+   "query": "1950s family watching television night",
+   "caption": "SHOCK THEATER",
+   "cuts": 3,
+   "chapter": "Scary stories and spooky TV"
+  },
+  {
+   "text": "Local stations hired horror hosts to introduce the movies. Men and women in capes and fake fangs, with names like Zacherley, Vampira and Sir Graves Ghastly. Kids loved them. They stayed up late, hid behind the couch, and then lay awake in bed listening to every creak in the house.",
+   "query": "1950s horror movie monster Frankenstein",
+   "caption": "THE HORROR HOSTS",
+   "cuts": 3
+  },
+  {
+   "text": "Nineteen fifty-eight also gave us a hit song. That summer, The Purple People Eater by Sheb Wooley went to number one on the charts. Another monster novelty song, The Monster Mash, would follow in nineteen sixty-two. Monsters, it turned out, could be funny too.",
+   "query": "1950s teenagers record player",
+   "caption": "THE PURPLE PEOPLE EATER",
+   "cuts": 3
+  },
+  {
+   "text": "And then, the best part of the night. Coming home, cheeks red from the cold, and dumping the whole bag out on the living room rug. Sorting the candy into piles. The good stuff, the okay stuff, and the stuff nobody wanted. Then trading with your brothers and sisters, like Wall Street traders on a busy day.",
+   "query": "1950s children counting candy living room",
+   "caption": "DUMPING THE BAG",
+   "cuts": 3,
+   "chapter": "Coming home"
+  },
+  {
+   "text": "Mothers usually took a look through it all, and fathers somehow ended up with a few of the best candy bars. Kids ate far too much before bed, and woke up the next morning with a stomachache. The candy lasted for weeks, or for about two days, depending on the child.",
+   "query": "1950s father children candy",
+   "caption": "DAD TOOK A FEW",
+   "cuts": 3
+  },
+  {
+   "text": "And on November first, the town looked a little different. Smashed pumpkins in the street. Toilet paper hanging from a tree or two. Soap on a few windows. The big kids had still found time for some tricks. And at school, everyone compared their haul, and argued about which street had been the best.",
+   "query": "1950s school children classroom morning",
+   "caption": "NOVEMBER FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "So what changed? In the late sixties and seventies, the neighborhood began to change. Fewer people knew all their neighbors. And scary news stories, many of them rumors that were never proven, convinced parents that homemade treats and unwrapped candy were dangerous. Popcorn balls and fudge disappeared almost overnight.",
+   "query": "1970s children Halloween costumes",
+   "caption": "THE HOMEMADE TREATS VANISHED",
+   "cuts": 3,
+   "chapter": "What changed"
+  },
+  {
+   "text": "Researchers who later looked into those stories found almost no real cases of strangers poisoning Halloween candy. But the fear stuck. By the nineteen eighties, it was mostly wrapped, factory-made candy. Parents walked with their kids. Hospitals offered to X-ray candy bags. And Halloween slowly moved from the street to the church parking lot and the mall.",
+   "query": "1980s shopping mall Halloween children",
+   "caption": "THE FEAR STUCK",
+   "cuts": 3
+  },
+  {
+   "text": "Today, Americans spend more than ten billion dollars on Halloween every year. Costumes, decorations and candy fill whole stores. Grown-ups dress up as much as kids. But I'd bet that for many of you, no store-bought Halloween will ever top a bedsheet ghost, a pillowcase, a porch light and a popcorn ball.",
+   "query": "1950s small town Halloween night",
+   "caption": "MORE THAN $10 BILLION",
+   "cuts": 3
+  },
+  {
+   "text": "Halloween in nineteen fifty-eight was about freedom. For one night, kids ran the neighborhood. They were brave, a little scared, and completely happy. They knew every street and every house. And every grown-up on the block was part of it, turning on the porch light and filling the bowl.",
+   "query": "1950s children running street autumn",
+   "caption": "ONE NIGHT OF FREEDOM",
+   "cuts": 3,
+   "chapter": "The night we remember"
+  },
+  {
+   "text": "It was also about trust. Neighbors trusted each other's kids, and parents trusted the neighbors. That trust is what made it possible for a seven-year-old in a cardboard robot suit to walk up to a stranger's door in the dark and come home safe, with a bag of candy and a story to tell.",
+   "query": "1950s neighbors front porch children",
+   "caption": "IT WAS ABOUT TRUST",
+   "cuts": 3
+  },
+  {
+   "text": "So tell us in the comments. What was your favorite Halloween costume as a kid, and what was the best house in your neighborhood? Did you carry a pillowcase or a paper bag? We read every comment. Happy Halloween, from all of us here. And thank you for spending this time with me.",
+   "query": "jack o lantern porch night",
+   "caption": "WHAT WAS YOUR COSTUME?",
+   "cuts": 3
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+- Private-sector pension coverage around 40-45% in the mid-1970s: Employee Benefit Research Institute; Bureau of Labor Statistics
+- Studebaker plant closing (1963) and the Employee Retirement Income Security Act (ERISA, 1974): U.S. Department of Labor; Pension Benefit Guaranty Corporation
+- Social Security benefit increases 1970-72 and automatic cost-of-living adjustments from 1975: Social Security Administration history
+- CPI inflation 11.0% in 1974 and 9.1% in 1975: Bureau of Labor Statistics
+- Poverty rate age 65+: 35.2% in 1959, 15.3% in 1975: U.S. Census Bureau, Historical Poverty Tables
+- Medicare signed July 30, 1965 at the Truman Library; Harry Truman received card number one: Social Security Administration; Truman Library
+- Sun City, Arizona opened in 1960: Del Webb Corporation history
+- Retail prices 1975 (bread about $0.36, eggs about $0.77, ground beef about $0.85, gasoline about $0.57): BLS average price data; EIA
+- First-class postage 10 cents (March 1974) and 13 cents (December 1975): U.S. Postal Service
+- Average Social Security retired worker benefit about $200 a month in 1975: Social Security Administration Annual Statistical Supplement
+- Life expectancy at 65 for men about 13.7 years in 1975: National Center for Health Statistics
+- Photos: EPA DOCUMERICA project (1971-1977), U.S. National Archives, public domain
