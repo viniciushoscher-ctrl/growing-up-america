@@ -1,0 +1,8 @@
+- The Beatles at Shea Stadium, August 15, 1965, about 55,600 fans: The Beatles official history; New York Mets
+- 1965 hit songs ('Help!', 'Yesterday', 'Stop! In the Name of Love', '(I Can't Get No) Satisfaction', 'I Got You Babe', 'Mr. Tambourine Man'): Billboard
+- Mary Quant and the miniskirt (mid-1960s): Victoria and Albert Museum
+- 1965 films (The Sound of Music, Doctor Zhivago, Thunderball): American Film Institute
+- Median age at first marriage for women about 20.6 in 1965: U.S. Census Bureau
+- Betty Friedan, The Feminine Mystique (1963); FDA approval of the birth control pill (1960): FDA
+- Civil Rights Act of 1964, Title VII (sex discrimination in employment); National Organization for Women founded 1966: National Archives; NOW
+- Title IX of the Education Amendments (1972): U.S. Department of Education

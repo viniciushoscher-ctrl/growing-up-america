@@ -1,0 +1,4 @@
+- Weekly attendance at religious services about 49% in the mid-1950s: Gallup
+- Blue laws and McGowan v. Maryland, 366 U.S. 420 (1961): Oyez; National Archives
+- 1958 NFL Championship Game, Colts vs. Giants, 'The Greatest Game Ever Played': Pro Football Hall of Fame
+- Elvis Presley's first Ed Sullivan Show appearance, September 9, 1956, about 60 million viewers: Nielsen; The Ed Sullivan Show archives
