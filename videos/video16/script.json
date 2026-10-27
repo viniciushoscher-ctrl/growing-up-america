@@ -1,0 +1,236 @@
+{
+ "id": "video16",
+ "angle": "angle 1 \u00b7 a place and a time",
+ "length_scale": 1.45,
+ "title": "Growing Up in 1964 America: The Year Everything Changed",
+ "scenes": [
+  {
+   "text": "Some years just pass by. Others change everything. Nineteen sixty-four was one of those years. If you were a kid that year, you may not have known it at the time. But the world you woke up in on New Year's Day was very different from the world you went to sleep in on New Year's Eve.",
+   "query": "1960s family living room television",
+   "caption": "THE YEAR EVERYTHING CHANGED",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "It started in the shadow of a tragedy. Just weeks before, in November of nineteen sixty-three, President Kennedy had been killed in Dallas. The whole country was still in mourning. Children had watched their parents cry in front of the television. Christmas that year had been quiet in millions of homes.",
+   "query": "1960s family watching television sad",
+   "caption": "A COUNTRY IN MOURNING",
+   "cuts": 8
+  },
+  {
+   "text": "And then, nineteen sixty-four arrived, and it turned out to be a year of music, laughter, big ideas, and big changes. So let's walk through it, season by season, through the eyes of an American kid. If you were there, see how many of these moments you remember.",
+   "query": "1960s children playing street",
+   "caption": "SEASON BY SEASON",
+   "cuts": 5
+  },
+  {
+   "text": "On Sunday night, February ninth, nineteen sixty-four, families all over America gathered in front of the television to watch The Ed Sullivan Show. That night, Ed Sullivan introduced four young men from Liverpool, England. The Beatles. And for the next few minutes, nothing else in the country mattered.",
+   "query": "The Beatles Ed Sullivan Show 1964",
+   "caption": "FEBRUARY 9, 1964",
+   "cuts": 3,
+   "chapter": "Winter: the Beatles"
+  },
+  {
+   "text": "About seventy-three million people watched that broadcast. That was around four in ten Americans, in a single evening. Teenage girls screamed so loudly in the studio that you could barely hear the music. Fathers shook their heads at the long hair. And by Monday morning, every kid at school was talking about it.",
+   "query": "1960s teenagers screaming concert",
+   "caption": "73 MILLION VIEWERS",
+   "cuts": 3
+  },
+  {
+   "text": "By April, the Beatles held the top five spots on the Billboard singles chart, all at the same time. Nobody had ever done that before. Boys started combing their hair down over their foreheads. Guitars sold out in music stores. And thousands of kids started garage bands, practicing on Saturday afternoons until the neighbors complained.",
+   "query": "1960s teenage boys guitar band garage",
+   "caption": "THE TOP FIVE",
+   "cuts": 3
+  },
+  {
+   "text": "It's hard to overstate how much the Beatles lifted the country's spirits. After the darkness of November, here was something joyful and new. Many people who were kids at the time say that February night was when the sixties really began.",
+   "query": "1960s teenagers dancing record player",
+   "caption": "WHEN THE SIXTIES BEGAN",
+   "cuts": 3
+  },
+  {
+   "text": "A month earlier, in January of nineteen sixty-four, a very different kind of news came out. Surgeon General Luther Terry released a report that said, officially and clearly for the first time, that cigarette smoking caused lung cancer. It was front-page news everywhere.",
+   "query": "1960s newspaper headline man reading",
+   "caption": "JANUARY 1964",
+   "cuts": 3,
+   "chapter": "Winter: the surgeon general"
+  },
+  {
+   "text": "At the time, about forty-two percent of American adults smoked. Many kids' parents smoked in the house, in the car and at the dinner table. Ashtrays were on every coffee table. After the report, some parents quit, some tried to, and many just kept going. But the country's attitude toward smoking had begun to change, and it never went back.",
+   "query": "1960s man smoking cigarette living room",
+   "caption": "42% OF ADULTS SMOKED",
+   "cuts": 3
+  },
+  {
+   "text": "In April, the New York World's Fair opened in Flushing Meadows, Queens. Over two seasons, more than fifty million visitors came. And if your family took a trip there, you probably never forgot it. The symbol of the fair was the Unisphere, a giant steel globe, twelve stories high, surrounded by fountains.",
+   "query": "1964 New York World's Fair Unisphere",
+   "caption": "THE WORLD'S FAIR",
+   "cuts": 3,
+   "chapter": "Spring: the World's Fair"
+  },
+  {
+   "text": "The fair was all about the future. At the General Motors Futurama, visitors rode through a vision of cities under the sea and highways on the moon. At the Bell System pavilion, people could try the Picturephone, a telephone with a television screen. Walt Disney built It's a Small World, where children's dolls from around the world sang the same song.",
+   "query": "1964 World's Fair pavilion crowd",
+   "caption": "THE FUTURE",
+   "cuts": 3
+  },
+  {
+   "text": "Kids who went to the fair remember the Belgian waffles, with strawberries and whipped cream, which many Americans tasted there for the very first time. They remember the dinosaurs at the Sinclair pavilion, and the moving sidewalks. It felt like the future was right around the corner, and it was going to be wonderful.",
+   "query": "1964 World's Fair Sinclair dinosaurs",
+   "caption": "BELGIAN WAFFLES",
+   "cuts": 3
+  },
+  {
+   "text": "A day at the fair wasn't cheap for a big family. Adult tickets were two dollars, and children's tickets were a dollar. Add the drive, the parking, the food and a souvenir or two, and a family of six could spend a week's grocery money in a single afternoon. Most parents thought it was worth every penny.",
+   "query": "1960s family walking fair crowd",
+   "caption": "$2 A TICKET",
+   "cuts": 3
+  },
+  {
+   "text": "Also in April, the Ford Motor Company unveiled a brand-new car at the World's Fair. It was small, sporty and affordable, with a long hood and a short back. It was called the Mustang. The base price was about two thousand three hundred and sixty-eight dollars, and Ford sold more than four hundred thousand of them in the first year.",
+   "query": "1964 Ford Mustang",
+   "caption": "THE MUSTANG",
+   "cuts": 3,
+   "chapter": "Spring: a new car for the young"
+  },
+  {
+   "text": "The Mustang was made for the young. For the first time, a car company was designing a car specifically for people in their twenties, and the children right behind them. Teenage boys pinned pictures of it on their bedroom walls. It was the beginning of what people would soon call the pony car.",
+   "query": "1960s teenage boy car poster bedroom",
+   "caption": "MADE FOR THE YOUNG",
+   "cuts": 3
+  },
+  {
+   "text": "Then came the summer, and it was one of the most important summers in American history. On July second, nineteen sixty-four, President Lyndon Johnson signed the Civil Rights Act. It outlawed discrimination based on race, color, religion, sex or national origin in jobs, schools and public places like restaurants, hotels and theaters.",
+   "query": "Lyndon Johnson signing Civil Rights Act 1964",
+   "caption": "JULY 2, 1964",
+   "cuts": 3,
+   "chapter": "Summer: civil rights"
+  },
+  {
+   "text": "For millions of Black Americans, especially in the South, it meant something very simple. The right to sit at a lunch counter, stay in a hotel, or use the same restrooms as everyone else. Things that most Americans took for granted. Many people still remember watching the signing on television.",
+   "query": "1960s lunch counter diner",
+   "caption": "A SEAT AT THE COUNTER",
+   "cuts": 3
+  },
+  {
+   "text": "That summer was also called Freedom Summer. Hundreds of college students, many of them from the North, traveled to Mississippi to help Black citizens register to vote. It was dangerous work. Three young civil rights workers were murdered that June. The country was shocked, and the push for voting rights only grew stronger.",
+   "query": "1964 Freedom Summer Mississippi volunteers",
+   "caption": "FREEDOM SUMMER",
+   "cuts": 3
+  },
+  {
+   "text": "For most kids, though, summer of sixty-four was still summer. School let out in early June. Days started with cartoons and cereal, and ended when the streetlights came on. In between, there were bicycles, baseball, the swimming pool, and endless games of tag, hide and seek, and kick the can.",
+   "query": "1960s children riding bicycles summer",
+   "caption": "STREETLIGHTS",
+   "cuts": 3,
+   "chapter": "Summer: being a kid"
+  },
+  {
+   "text": "Family vacations meant piling into the station wagon, with no seat belts and the youngest kid lying in the back window. The interstate highways were still being built, so many trips took the old two-lane roads, past diners, motels and roadside attractions. Kids counted license plates from other states, and asked every ten minutes if they were there yet.",
+   "query": "1960s station wagon family vacation road",
+   "caption": "ARE WE THERE YET?",
+   "cuts": 3
+  },
+  {
+   "text": "Music came from a transistor radio, which by sixty-four was small enough to carry to the beach or the ballpark. The songs were the Beatles, of course, but also the Beach Boys singing I Get Around, the Supremes with Where Did Our Love Go, and Roy Orbison's Oh, Pretty Woman. A car radio at night, with the windows down, was pure magic.",
+   "query": "1960s teenagers transistor radio beach",
+   "caption": "THE TRANSISTOR RADIO",
+   "cuts": 3
+  },
+  {
+   "text": "And at the movies, there was Mary Poppins, which came out in August and became one of Disney's biggest hits ever. There was A Hard Day's Night, the Beatles' first movie. And there was Goldfinger, the James Bond movie that every older brother had to see. A ticket was about a dollar.",
+   "query": "1960s movie theater marquee",
+   "caption": "MARY POPPINS",
+   "cuts": 3
+  },
+  {
+   "text": "Nineteen sixty-four was a big year for toys too. That was the year Hasbro introduced G.I. Joe, which the company was careful to call an action figure, not a doll, so boys would play with it. He was twelve inches tall, with movable joints and a little scar on his right cheek.",
+   "query": "1960s boy playing with toy soldiers",
+   "caption": "G.I. JOE",
+   "cuts": 3,
+   "chapter": "Summer: toys"
+  },
+  {
+   "text": "Girls had Barbie, who had come out in nineteen fifty-nine and was by now a superstar. Kids also had Etch A Sketch, Slinky, Silly Putty, Hula Hoops and Mr. Potato Head. And in many homes, the most exciting thing of all was the big Sears Christmas catalog, which showed up in the fall and got worn out by December.",
+   "query": "1960s girl playing dolls",
+   "caption": "THE WISH BOOK",
+   "cuts": 3
+  },
+  {
+   "text": "In September, kids went back to school. And in nineteen sixty-four, those schools were bursting. The baby boom had filled classrooms to the walls. Many children sat in classes of thirty-five or forty. New schools were being built across the country, and some kids went to school in shifts, or in portable classrooms out in the parking lot.",
+   "query": "1960s crowded classroom children desks",
+   "caption": "BURSTING SCHOOLS",
+   "cuts": 3,
+   "chapter": "Fall: a new school year"
+  },
+  {
+   "text": "Nineteen sixty-four was also the last year of the baby boom. Births in America had peaked around nineteen fifty-seven, and nineteen sixty-four is usually counted as the final year. More than four million babies were born that year. Those kids, the youngest boomers, are now in their early sixties.",
+   "query": "1960s mother baby carriage",
+   "caption": "THE LAST BOOMERS",
+   "cuts": 3
+  },
+  {
+   "text": "Television was everywhere by then. On Thursday nights, it was Bewitched, which started that fall. On Friday nights, it was Gomer Pyle. Gilligan's Island debuted in September, and The Addams Family and The Munsters both started that fall too. And on Sunday nights, of course, the whole family watched Bonanza.",
+   "query": "1960s family watching television evening",
+   "caption": "THE FALL SEASON",
+   "cuts": 3
+  },
+  {
+   "text": "In November, America chose a president. Lyndon Johnson, who had taken office after Kennedy's death, ran against Senator Barry Goldwater of Arizona. Johnson won by one of the biggest landslides in history, carrying forty-four states and more than sixty-one percent of the popular vote.",
+   "query": "1964 presidential election campaign",
+   "caption": "A LANDSLIDE",
+   "cuts": 3,
+   "chapter": "Fall: the election"
+  },
+  {
+   "text": "Johnson promised what he called the Great Society, a war on poverty, more help for schools, and health care for older Americans. Many of those promises would become law in the next year, including Medicare. For a kid in nineteen sixty-four, politics was mostly something grown-ups argued about at the dinner table. But it would shape their whole lives.",
+   "query": "1960s family dinner table conversation",
+   "caption": "THE GREAT SOCIETY",
+   "cuts": 3
+  },
+  {
+   "text": "There was also a cloud on the horizon. In August, after a reported clash with North Vietnamese boats in the Gulf of Tonkin, Congress passed a resolution giving the president broad power to use force in Vietnam. Most Americans barely noticed. But within a few years, many of the boys who were in junior high in sixty-four would be sent there.",
+   "query": "1960s soldiers boarding airplane",
+   "caption": "THE GULF OF TONKIN",
+   "cuts": 3
+  },
+  {
+   "text": "By December, the country felt different. Christmas of nineteen sixty-four was brighter than the one before. That year, a new television special premiered on NBC. It was Rudolph the Red-Nosed Reindeer, made with stop-motion puppets and narrated by Burl Ives as a singing snowman. Kids have watched it every year since.",
+   "query": "1960s family Christmas tree living room",
+   "caption": "RUDOLPH",
+   "cuts": 3,
+   "chapter": "Christmas 1964"
+  },
+  {
+   "text": "Under the tree, there might have been a G.I. Joe, a Barbie, a new bicycle, or a Beatles album. Many kids got their first transistor radio or record player. And in thousands of homes, a kid opened a guitar, and their parents immediately regretted it.",
+   "query": "1960s children opening presents Christmas",
+   "caption": "A GUITAR UNDER THE TREE",
+   "cuts": 3
+  },
+  {
+   "text": "Looking back, nineteen sixty-four was the year the country turned a corner. It began in grief and ended in hope. The Beatles brought a new sound. The Civil Rights Act began to tear down a system of segregation. The World's Fair showed us the future. And the youngest baby boomers were born.",
+   "query": "1960s small town street people",
+   "caption": "THE YEAR WE TURNED A CORNER",
+   "cuts": 3,
+   "chapter": "Why 1964 mattered"
+  },
+  {
+   "text": "It was also the last year before many of the big storms of the later sixties. Before the war in Vietnam grew, before the riots and the assassinations of nineteen sixty-eight. For many people who were kids in sixty-four, it was the last year that felt simple, and the first year that felt new.",
+   "query": "1960s children playing backyard",
+   "caption": "THE LAST SIMPLE YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "If you were a kid in nineteen sixty-four, you were part of something. You saw the Beatles, maybe you went to the fair, and you grew up in a country that was changing fast. Those memories belong to a generation that would go on to change America itself.",
+   "query": "1960s family photo portrait",
+   "caption": "YOU WERE PART OF IT",
+   "cuts": 3
+  },
+  {
+   "text": "So tell us in the comments. How old were you in nineteen sixty-four, and what do you remember most? Did you watch the Beatles on Ed Sullivan? Did you go to the World's Fair? We read every comment. Next, we're looking at what it was like to be a teenager in nineteen fifty-nine. Thank you for spending this time with me.",
+   "query": "1960s sunset small town street",
+   "caption": "HOW OLD WERE YOU IN 1964?",
+   "cuts": 3
+  }
+ ]
+}

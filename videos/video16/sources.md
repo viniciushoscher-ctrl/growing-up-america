@@ -1,0 +1,12 @@
+- The Beatles on The Ed Sullivan Show, February 9, 1964, about 73 million viewers: Nielsen; Library of Congress
+- The Beatles hold the top five Billboard Hot 100 positions, April 4, 1964: Billboard
+- Surgeon General's report on smoking and health, January 11, 1964; adult smoking about 42%: CDC; U.S. Department of Health and Human Services
+- 1964-65 New York World's Fair, about 51 million visitors: New York Public Library; Queens Museum
+- Ford Mustang introduced April 17, 1964, base price $2,368, over 400,000 sold in the first year: Ford Motor Company archives
+- Civil Rights Act signed July 2, 1964: National Archives
+- Freedom Summer and the murders of Chaney, Goodman and Schwerner, June 1964: FBI; Library of Congress
+- G.I. Joe introduced by Hasbro in 1964: The Strong National Museum of Play
+- U.S. births peaked in 1957; 1964 the last baby boom year, about 4.03 million births: CDC National Center for Health Statistics
+- 1964 presidential election: Johnson 61.1% of the popular vote, 44 states and D.C.: National Archives
+- Gulf of Tonkin Resolution, August 7, 1964: National Archives
+- Rudolph the Red-Nosed Reindeer premiered on NBC, December 6, 1964: Library of Congress

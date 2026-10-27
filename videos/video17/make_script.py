@@ -1,0 +1,110 @@
+import sys; sys.path.insert(0, __import__("os").path.join(__import__("os").path.dirname(__file__), "..", "..", "pipeline"))
+from scriptkit import sc, ch, save
+
+# Video 17 · angle 2 (a stage of life, one teenager's week) · afternoon slot · day 6
+# If You Were a Teenager in 1959, This Was Your Life
+
+sc("""If you were a teenager in nineteen fifty-nine, you were living through something brand new. You were part of the first generation in history to be called teenagers, with your own music, your own money, your own clothes and your own language. Grown-ups didn't quite know what to make of you. And honestly, you didn't always know either.""",
+   "1950s teenagers high school hallway", "THE FIRST TEENAGERS")
+sc("""In nineteen fifty-nine, there were about eighteen million American teenagers, and the number was growing fast as the oldest baby boomers got closer. Businesses had just discovered that teenagers had money to spend. Magazines, record companies, soda makers and clothing stores all wanted your attention.""",
+   "1950s teenagers soda fountain", "18 MILLION TEENAGERS")
+sc("""So let's spend a week as a teenager in nineteen fifty-nine. From Monday morning in homeroom to Saturday night at the drive-in. If you were there, I think you'll feel like you're sixteen again by the end.""",
+   "1950s teenagers walking to school", "ONE WEEK IN 1959")
+
+ch("Monday: getting ready")
+sc("""Monday morning started with a fight over the bathroom. Most houses had just one, and a family with four kids had to take turns. Girls had set their hair in pin curls or rollers the night before, and slept on them. Boys combed their hair with Brylcreem or Vitalis. A little dab will do ya, as the commercial said.""",
+   "1950s teenage girl hair curlers mirror", "ONE BATHROOM")
+sc("""Girls wore full skirts or straight skirts below the knee, with a blouse and a cardigan sweater. Pants were usually not allowed at school. On their feet, saddle shoes or penny loafers, with white bobby socks. Some still wore a poodle skirt, though by fifty-nine they were going out of style.""",
+   "1950s teenage girls skirts saddle shoes", "SADDLE SHOES")
+sc("""Boys wore slacks with a belt, a button-down shirt and maybe a sweater vest. Blue jeans were for weekends, and many schools banned them in class. A boy who wore his jeans rolled at the cuff with a white T-shirt and a leather jacket was making a statement, and the principal noticed.""",
+   "1950s teenage boys jeans t-shirts", "NO JEANS IN CLASS")
+sc("""Breakfast was quick. Cereal with milk, toast, or a glass of orange juice made from frozen concentrate. Then out the door. Most teenagers walked to school, or rode a big yellow school bus. A lucky few had a friend with a car, and that friend was very popular indeed.""",
+   "1950s family breakfast kitchen cereal", "OUT THE DOOR")
+
+ch("Tuesday: school")
+sc("""High school in nineteen fifty-nine was more crowded than ever, and more serious too. In October of nineteen fifty-seven, the Soviet Union had launched Sputnik. Suddenly, the country was worried that American students were falling behind. Congress passed the National Defense Education Act in fifty-eight, and schools poured money into science, math and foreign languages.""",
+   "1950s high school science class students", "AFTER SPUTNIK")
+sc("""Teachers were strict. You stood up when you answered a question. You called them Mister and Missus. Chewing gum got you sent to the principal's office. And many schools still allowed paddling. Homework was done by hand, with a fountain pen or a ballpoint, and you'd better have neat handwriting.""",
+   "1950s classroom teacher students desks", "MISTER AND MISSUS")
+sc("""Boys took shop class, where they built birdhouses, bookshelves and sometimes worked on car engines. Girls took home economics, where they learned to cook, sew and run a household budget. It was assumed that most girls would marry young, and many of them did.""",
+   "1950s home economics class girls cooking", "SHOP AND HOME EC")
+sc("""Lunch was in the cafeteria, on a tray. Sloppy joes, fish sticks on Friday, mashed potatoes, a carton of milk and a square of cake. Or you brought your lunch in a brown paper bag. Tables were divided, almost by unwritten law. The athletes, the brains, the greasers and the popular kids each had their spot.""",
+   "1950s school cafeteria students lunch", "THE CAFETERIA")
+sc("""And then there were the clubs. Glee club, the school paper, the yearbook, the debate team, Future Farmers of America and Future Homemakers of America. Almost everyone belonged to something. Pictures from those clubs fill the old yearbooks, rows of serious young faces in crew cuts and ponytails, all of them certain the world was waiting for them.""",
+   "1950s high school yearbook club students", "THE CLUBS")
+
+ch("Wednesday: after school")
+sc("""After school, many teenagers went straight to work. A part-time job was normal. Boys delivered newspapers, bagged groceries, pumped gas, or worked as soda jerks. Girls babysat, worked at the five-and-dime, or answered phones. The minimum wage in nineteen fifty-nine was one dollar an hour.""",
+   "1950s teenage boy gas station attendant", "$1 AN HOUR")
+sc("""And with that money came freedom. Teenagers spent it on records, movies, clothes, makeup, hamburgers and gasoline. By the end of the fifties, American teenagers were spending around ten billion dollars a year. That was more than many entire industries. Businesses noticed, and the teenage market was born.""",
+   "1950s teenagers record store", "$10 BILLION A YEAR")
+sc("""If you didn't work, you hung out. At the drugstore soda fountain, sitting on spinning stools, sharing a cherry Coke or a chocolate malted. At the local diner, where the jukebox played three songs for a quarter. Or just at someone's house, sitting on the front steps and talking for hours.""",
+   "1950s teenagers diner jukebox", "THREE SONGS FOR A QUARTER")
+
+ch("Thursday: the music")
+sc("""Music was everything. And nineteen fifty-nine began with a heartbreak. On February third, a small plane crashed in a snowy cornfield in Iowa, killing Buddy Holly, Ritchie Valens and the Big Bopper. They were on a winter tour of the Midwest. Years later, Don McLean would call it the day the music died.""",
+   "1950s rock and roll concert teenagers", "FEBRUARY 3, 1959")
+sc("""But the music didn't die. Nineteen fifty-nine was full of hits. Johnny Horton's The Battle of New Orleans was the biggest song of the year, and Bobby Darin's Mack the Knife was right behind it. There was Lloyd Price's Stagger Lee, The Platters' Smoke Gets in Your Eyes, Paul Anka's Lonely Boy, and Dion and the Belmonts' A Teenager in Love. Every song seemed to be about you.""",
+   "1950s teenagers listening records bedroom", "MACK THE KNIFE")
+sc("""Elvis was in the Army, stationed in Germany, and his fans counted the days until he came home. Meanwhile, every afternoon, millions of teenagers watched American Bandstand, hosted by Dick Clark, live from Philadelphia. They studied the dances, the clothes and the hairstyles, and tried them out the very next day.""",
+   "1950s teenagers dancing television studio", "AMERICAN BANDSTAND")
+sc("""Records were forty-five r p m singles, with one song on each side, and they cost less than a dollar. Teenagers kept them in a little carrying case and took them to each other's houses. And at night, they listened to rock and roll disc jockeys on the radio, sometimes from stations hundreds of miles away.""",
+   "1950s 45 rpm records record player", "THE 45")
+sc("""Not every parent was happy about it. Many fathers still thought rock and roll was noise, and some preachers called it the devil's music. Kids turned the volume down when their parents walked by, and right back up when they left. Of course, by the end of the decade, even some parents were secretly humming along.""",
+   "1950s father teenager record player living room", "TURN IT DOWN")
+
+ch("Friday: the game and the dance")
+sc("""Friday night meant one thing in most American towns. The football game. The whole town came out. The band played, the cheerleaders cheered, and the boys on the team were local heroes. Girls wore their boyfriend's letter sweater or his class ring on a chain around their neck.""",
+   "1950s high school football game crowd", "FRIDAY NIGHT")
+sc("""After the game, there was a dance in the gym, or a sock hop, so called because everyone took off their shoes to protect the gym floor. A local band or a record player supplied the music. Chaperones watched from the sides to make sure nobody danced too close. The slow songs were the ones everyone waited for.""",
+   "1950s sock hop gym dance teenagers", "THE SOCK HOP")
+sc("""The dances had names. The stroll, where couples walked down a line between two rows of dancers. The bop. The hand jive. The bunny hop at a party. And for the slow songs, a careful little sway, with the boy's hand very politely on the girl's back.""",
+   "1950s teenagers dancing line", "THE STROLL")
+
+ch("Saturday: the car and the date")
+sc("""Saturday was for the car. In nineteen fifty-nine, a car meant everything to a teenage boy. Most couldn't afford a new one, so they bought an old Ford or Chevy for a hundred dollars and spent every weekend working on it. Lowered, painted, with loud mufflers and fuzzy dice hanging from the mirror.""",
+   "1950s hot rod car teenagers", "A $100 CAR")
+sc("""On Saturday nights, teenagers cruised. Up and down the main drag, past the diner, around the drive-in, and back again. Car radios blasting. Windows down. Waving at friends. For many teenagers, cruising was the whole point of the evening, and gasoline at about thirty cents a gallon made it affordable.""",
+   "1950s main street cars night", "CRUISING")
+sc("""And then there was the date. A boy would call a girl on the family telephone, usually in the hallway, where everyone could hear. He'd ask her parents' permission. On the night of the date, he came to the door, shook her father's hand, and promised to have her home by eleven.""",
+   "1950s teenage girl telephone hallway", "MEET HER FATHER")
+sc("""The most popular date was the drive-in movie. In nineteen fifty-nine, there were more than four thousand drive-ins in America. A carload of teenagers could get in for a dollar or two, and sometimes a few extra friends rode in the trunk. In fifty-nine, the movies were Some Like It Hot, North by Northwest, and Ben-Hur.""",
+   "1950s drive-in movie theater cars", "THE DRIVE-IN")
+sc("""If things got serious, a couple would go steady. The boy gave the girl his class ring, which she wore on a chain, or wrapped with tape or yarn so it would fit her finger. Going steady meant you didn't date anyone else. Many parents worried about it. And many of those couples ended up married.""",
+   "1950s teenage couple class ring", "GOING STEADY")
+
+ch("Sunday: family")
+sc("""Sunday belonged to the family. Most teenagers went to church, dressed in their Sunday best, sitting in the same pew as always. Then came Sunday dinner, usually roast beef or fried chicken, with mashed potatoes and gravy. Many stores were closed. The whole town slowed down.""",
+   "1950s family church Sunday", "SUNDAY BEST")
+sc("""Sunday evening, the family watched television together. The Ed Sullivan Show, Lassie, Maverick, or Dennis the Menace, which started that fall. Then homework, finished at the last minute at the kitchen table. And then bed, because Monday was coming, and the whole week would start again.""",
+   "1950s family watching television living room", "SUNDAY NIGHT TV")
+
+ch("The talk of 1959")
+sc("""Teenagers in fifty-nine had their own language. A cool guy was a real gone cat. Something great was the most. A boring person was a square, or a drip. Your car was your wheels, a fight was a rumble, and if you liked something, you might say you dug it. Parents had no idea what you were talking about.""",
+   "1950s teenagers talking laughing", "A REAL GONE CAT")
+sc("""And some things were brand new that year. In March of nineteen fifty-nine, a new doll went on sale at the American Toy Fair in New York. Her name was Barbie. In August, Hawaii became the fiftieth state, and the flag got a new star. And everyone was talking about the space race and seven brave astronauts.""",
+   "1950s girl doll toy store", "BARBIE AND THE 50TH STAR")
+sc("""In April, NASA introduced the Mercury Seven, the first American astronauts. Their pictures were on the cover of Life magazine. Boys wanted to be them, and girls wanted to meet them. For teenagers in nineteen fifty-nine, the future was in outer space, and it seemed very close.""",
+   "Mercury Seven astronauts 1959", "THE MERCURY SEVEN")
+
+ch("What it felt like")
+sc("""Was it all fun? No. Teenagers in fifty-nine faced plenty of pressure. Boys knew that the draft was waiting after high school. Girls felt pressure to marry early. Many families had strict rules. And for Black teenagers in the South, schools and soda fountains were still segregated, and the fight to change that was just beginning.""",
+   "1950s teenagers serious faces", "NOT ALL FUN")
+sc("""But for many, being a teenager in nineteen fifty-nine was magic. There was a feeling of possibility in the air. The country was rich and growing. Jobs were easy to find. The music was new, the cars were beautiful, and you were young. It was a good time to be sixteen in America.""",
+   "1950s teenagers laughing car convertible", "A GOOD TIME TO BE 16")
+sc("""If you were a teenager in fifty-nine, you're in your early eighties today. You lived through the sixties, the seventies and everything after. But somewhere inside, there's still that kid at the soda fountain, dropping a quarter in the jukebox and waiting for your favorite song.""",
+   "1950s soda fountain jukebox", "STILL THAT KID")
+sc("""So tell us in the comments. Where did you go on Saturday nights in nineteen fifty-nine? What was your favorite song, and who did you go steady with? We read every comment. Next time, we're looking at the rise and fall of the Sears catalog. Thank you for spending this time with me.""",
+   "1950s teenagers drive-in night", "WHERE DID YOU GO ON SATURDAY?")
+
+save("video17", "If You Were a Teenager in 1959, This Was Your Life", [
+    "Teen spending about $10 billion a year by 1959: Eugene Gilbert; Life magazine, 'A New, $10-Billion Power: the U.S. Teen-age Consumer' (August 31, 1959)",
+    "National Defense Education Act (1958): U.S. Department of Education history",
+    "Federal minimum wage $1.00 an hour from March 1956: U.S. Department of Labor",
+    "Plane crash killing Buddy Holly, Ritchie Valens and J.P. Richardson, February 3, 1959, near Clear Lake, Iowa: Civil Aeronautics Board report",
+    "Billboard 1959 year-end chart: 'The Battle of New Orleans' and 'Mack the Knife' among the top songs; Billboard",
+    "Drive-in theaters peaked at about 4,000+ in the late 1950s: United Drive-In Theatre Owners Association",
+    "Barbie introduced March 9, 1959 at the American International Toy Fair: Mattel",
+    "Hawaii admitted as the 50th state, August 21, 1959: National Archives",
+    "Mercury Seven astronauts introduced April 9, 1959: NASA",
+], "angle 2 · a stage of life", minutes=(12, 14.5))

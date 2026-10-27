@@ -1,0 +1,9 @@
+- Teen spending about $10 billion a year by 1959: Eugene Gilbert; Life magazine, 'A New, $10-Billion Power: the U.S. Teen-age Consumer' (August 31, 1959)
+- National Defense Education Act (1958): U.S. Department of Education history
+- Federal minimum wage $1.00 an hour from March 1956: U.S. Department of Labor
+- Plane crash killing Buddy Holly, Ritchie Valens and J.P. Richardson, February 3, 1959, near Clear Lake, Iowa: Civil Aeronautics Board report
+- Billboard 1959 year-end chart: 'The Battle of New Orleans' and 'Mack the Knife' among the top songs; Billboard
+- Drive-in theaters peaked at about 4,000+ in the late 1950s: United Drive-In Theatre Owners Association
+- Barbie introduced March 9, 1959 at the American International Toy Fair: Mattel
+- Hawaii admitted as the 50th state, August 21, 1959: National Archives
+- Mercury Seven astronauts introduced April 9, 1959: NASA
