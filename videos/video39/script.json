@@ -1,0 +1,234 @@
+{
+ "id": "video39",
+ "angle": "angle 3 \u00b7 an everyday theme",
+ "length_scale": 1.45,
+ "title": "What Happened to the Door-to-Door Salesman?",
+ "scenes": [
+  {
+   "text": "Ding-dong. It's a Tuesday afternoon in nineteen fifty-seven. Your mother wipes her hands on her apron and opens the front door. Standing on the porch is a man in a neat suit and a hat, holding a big sample case. He smiles, tips his hat, and says, good afternoon, ma'am. I'm from the Fuller Brush Company. May I come in?",
+   "query": "1950s salesman front door housewife",
+   "caption": "DING-DONG",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "For most of the twentieth century, the door-to-door salesman was a familiar part of American life. The Fuller Brush man. The Avon lady. The encyclopedia salesman. The vacuum cleaner man who poured dirt on your carpet to prove his machine could clean it up. They knocked on millions of doors every single day.",
+   "query": "1950s salesman suit hat sample case",
+   "caption": "MILLIONS OF DOORS",
+   "cuts": 8
+  },
+  {
+   "text": "Today, they've almost completely vanished. So what happened to the door-to-door salesman? Let's meet them, one by one. Who they were, what they sold, how they did it, and why one day, they simply stopped coming.",
+   "query": "1950s suburban street houses",
+   "caption": "WHAT HAPPENED?",
+   "cuts": 5
+  },
+  {
+   "text": "Door-to-door selling is as old as America itself. In the eighteen hundreds, Yankee peddlers walked the back roads with packs on their backs, selling pots, pans, needles and cloth to farm families who lived far from any store. Some traveled by wagon. For isolated families, the peddler brought not just goods, but news from the outside world.",
+   "query": "19th century peddler wagon",
+   "caption": "THE YANKEE PEDDLER",
+   "cuts": 3
+  },
+  {
+   "text": "The most famous of them all was the Fuller Brush man. In nineteen oh six, a young man from Nova Scotia named Alfred Fuller started making brushes in a basement in Hartford, Connecticut. He made them at night and sold them door to door during the day. His brushes were better than anything in the stores, and housewives loved them.",
+   "query": "Alfred Fuller brush company",
+   "caption": "ALFRED FULLER",
+   "cuts": 3,
+   "chapter": "The Fuller Brush man"
+  },
+  {
+   "text": "Fuller hired thousands of salesmen, called dealers, who were independent and worked on commission. By the late nineteen forties, the company had thousands of Fuller Brush men across America. They sold scrub brushes, hairbrushes, mops, brooms, cleaning products and toothbrushes. Each one came with a guarantee.",
+   "query": "1950s Fuller Brush salesman",
+   "caption": "THE FULLER BRUSH MAN",
+   "cuts": 3
+  },
+  {
+   "text": "The Fuller Brush man was famous for his free gift. Before he even started his pitch, he handed the housewife a little vegetable brush, or a small sample. It was a clever trick. Once you'd accepted a gift, it was harder to say no to a sale. Millions of American kitchens had a free Fuller brush hanging by the sink.",
+   "query": "1950s brushes kitchen sink",
+   "caption": "THE FREE GIFT",
+   "cuts": 3
+  },
+  {
+   "text": "The Fuller Brush man became an American icon. Comic strips joked about him. In nineteen forty-eight, Red Skelton starred in a hit movie called The Fuller Brush Man. And the company's slogan, which every dealer was taught, was simple. Always leave them smiling.",
+   "query": "1940s comedy movie poster",
+   "caption": "ALWAYS LEAVE THEM SMILING",
+   "cuts": 3
+  },
+  {
+   "text": "Being a Fuller Brush man was hard work. Dealers walked miles every day, climbing porch steps and knocking on dozens of doors. Many were turned away at most of them. But a good dealer could earn a decent living, and for many young men, including some who later became famous businessmen and politicians, it was the first real job they ever had.",
+   "query": "1950s salesman walking street houses",
+   "caption": "MILES EVERY DAY",
+   "cuts": 3
+  },
+  {
+   "text": "Then there was the Avon lady. Avon began in eighteen eighty-six as the California Perfume Company, founded by a book salesman named David McConnell, who gave away perfume to women who let him in the door. He discovered they liked the perfume more than the books. So he started selling perfume instead, using women as his sales representatives.",
+   "query": "vintage perfume bottles",
+   "caption": "THE CALIFORNIA PERFUME COMPANY",
+   "cuts": 3,
+   "chapter": "The Avon lady"
+  },
+  {
+   "text": "By the fifties and sixties, Avon was a giant. Its famous television ads featured a doorbell, and the words Avon calling. Avon ladies were usually housewives from the neighborhood, selling lipstick, perfume, lotion and soap to their friends and neighbors. They carried a little case of samples and a catalog.",
+   "query": "1960s woman cosmetics sales home",
+   "caption": "AVON CALLING",
+   "cuts": 3
+  },
+  {
+   "text": "For many women in those years, being an Avon lady was their first job outside the home, or a way to earn money while raising children. They set their own hours, kept a share of every sale, and became part of a network of women across the country. By the seventies, Avon had hundreds of thousands of representatives.",
+   "query": "1960s women talking living room",
+   "caption": "HER FIRST JOB",
+   "cuts": 3
+  },
+  {
+   "text": "Children remember the Avon lady well. She often left little lipstick samples, and those famous novelty bottles. Cologne in the shape of a car, a candle, a duck or a chess piece. Many grandfathers had a shelf full of Avon aftershave bottles shaped like antique cars, and those bottles are now collector's items.",
+   "query": "vintage Avon bottles collection",
+   "caption": "THE NOVELTY BOTTLES",
+   "cuts": 3
+  },
+  {
+   "text": "The secret of the Avon lady was trust. She wasn't a stranger. She was the woman from the PTA, from church, or from down the street. She knew your skin tone, your favorite perfume and your birthday. Her customers bought from her for years, sometimes decades. It was business, but it was also friendship.",
+   "query": "1960s women friends kitchen coffee",
+   "caption": "IT WAS FRIENDSHIP",
+   "cuts": 3
+  },
+  {
+   "text": "Then there was the encyclopedia salesman. He usually came in the evening, when both parents were home. He sat on the living room couch, opened a beautiful sample volume, and talked about the children's future. Did you want your kids to do well in school? To go to college? Then they needed the encyclopedia.",
+   "query": "1950s encyclopedia books family living room",
+   "caption": "THE ENCYCLOPEDIA MAN",
+   "cuts": 3,
+   "chapter": "The encyclopedia salesman"
+  },
+  {
+   "text": "A full set of World Book or Britannica cost hundreds of dollars, a big sum at a time when a family might earn five thousand a year. So salesmen offered payment plans, a few dollars a month for years. Parents signed, feeling they were doing the best thing for their children. Some sets were never paid off.",
+   "query": "encyclopedia set bookshelf",
+   "caption": "A FEW DOLLARS A MONTH",
+   "cuts": 3
+  },
+  {
+   "text": "Those encyclopedias sat on shelves in millions of homes. Children used them for school reports, copying paragraphs about volcanoes, presidents and the solar system. Some families bought the yearly update volume, too. And many people still remember the smell of the pages and the beautiful color pictures of birds and flags.",
+   "query": "1960s child reading encyclopedia",
+   "caption": "SCHOOL REPORTS",
+   "cuts": 3
+  },
+  {
+   "text": "Encyclopedia salesmen were famous for their persistence, and for their pitches. Many were college students working summer jobs, trained to memorize every word of the sales talk. They traveled from town to town in crews, sometimes driven around in a car by a crew manager. Some loved the work. Many quit after a week.",
+   "query": "1950s young men suits sales",
+   "caption": "COLLEGE BOYS IN SUMMER",
+   "cuts": 3
+  },
+  {
+   "text": "And there was the vacuum cleaner man. Electrolux and Kirby sold their machines door to door, and their salesmen were famous for their demonstrations. A Kirby man might sprinkle dirt on your carpet, then vacuum it up. Then he'd show you a white filter, full of dust from a carpet you thought was clean.",
+   "query": "1950s vacuum cleaner salesman demonstration",
+   "caption": "THE DEMONSTRATION",
+   "cuts": 3,
+   "chapter": "The vacuum cleaner man"
+  },
+  {
+   "text": "Those machines were expensive, often costing hundreds of dollars. But they were built to last. Many families used the same Electrolux or Kirby for thirty or forty years. And the salesman often came back years later to sell the family bags, belts and attachments.",
+   "query": "1950s Electrolux vacuum cleaner",
+   "caption": "BUILT TO LAST",
+   "cuts": 3
+  },
+  {
+   "text": "Some salesmen sold even bigger things. Sewing machines from Singer, often sold on installment plans of a few dollars a month. Water softeners. Aluminum siding, which could cover an old house in a weekend. Storm windows and doors. And cemetery plots, sold by men with very serious faces. If it could be carried up a porch step or shown in a brochure, somebody sold it door to door.",
+   "query": "1950s Singer sewing machine woman",
+   "caption": "SINGER SEWING MACHINES",
+   "cuts": 3
+  },
+  {
+   "text": "In the fifties and sixties, the doorbell rang all day long. The milkman delivered milk, butter and eggs in the early morning. The bread man came with fresh bread and doughnuts. The Charles Chips truck brought potato chips and pretzels in big metal tins. And the Schwan's man delivered ice cream and frozen food.",
+   "query": "1950s milkman delivery truck",
+   "caption": "THE MILKMAN AND THE BREAD MAN",
+   "cuts": 3,
+   "chapter": "Everyone who came to the door"
+  },
+  {
+   "text": "There were insurance men, who came every week to collect small premiums in cash, and wrote it in a little book. There were Bible salesmen, cookware salesmen and knife salesmen. There were Girl Scouts with cookies and Boy Scouts with popcorn. And there was the Good Humor man, ringing his bells down the street on summer afternoons.",
+   "query": "1950s ice cream truck children",
+   "caption": "THE GOOD HUMOR MAN",
+   "cuts": 3
+  },
+  {
+   "text": "Kids sold door to door too. Seeds, greeting cards and magazine subscriptions, from ads in the back of comic books, for prizes like a bicycle or a telescope. Most kids sold just enough to get a cheap prize. But going door to door taught a whole generation of children how to talk to strangers, and how to handle rejection.",
+   "query": "1950s boy selling door to door",
+   "caption": "KIDS SOLD TOO",
+   "cuts": 3
+  },
+  {
+   "text": "And there was the Jewel Tea man, the Watkins man and the Raleigh man, who drove routes through the countryside selling spices, vanilla, liniment and household goods. For farm families, those route men were a lifeline. They often stayed for coffee, brought news from neighboring farms, and sometimes even took eggs or chickens as payment.",
+   "query": "1950s delivery van rural road",
+   "caption": "THE WATKINS MAN",
+   "cuts": 3
+  },
+  {
+   "text": "In the late forties, a new way of selling began. The home party. Tupperware, the plastic food containers invented by Earl Tupper, didn't sell well in stores. People didn't understand how the airtight seal worked. So a saleswoman named Brownie Wise suggested demonstrating it at parties in people's homes.",
+   "query": "1950s Tupperware party women",
+   "caption": "TUPPERWARE",
+   "cuts": 3,
+   "chapter": "The home party"
+  },
+  {
+   "text": "A hostess invited her friends over for coffee and cake. The Tupperware dealer showed off the products, burping the lids to demonstrate the seal, and played party games. Guests placed orders, and the hostess got a free gift. Tupperware parties became a huge social event for women in the fifties and sixties.",
+   "query": "1950s women party living room products",
+   "caption": "BURPING THE LIDS",
+   "cuts": 3
+  },
+  {
+   "text": "Brownie Wise became one of the most famous businesswomen in America. In nineteen fifty-four, she was the first woman ever to appear on the cover of Business Week magazine. And the home party model spread to cosmetics, candles, kitchen tools and much more. In a way, it still exists today.",
+   "query": "1950s businesswoman portrait",
+   "caption": "BROWNIE WISE",
+   "cuts": 3
+  },
+  {
+   "text": "Other companies copied the idea. Stanley Home Products had been holding parties even before Tupperware. Later came Mary Kay Cosmetics, founded in nineteen sixty-three, whose top saleswomen won pink Cadillacs. Pampered Chef, Longaberger baskets and dozens of others followed. The salesman stopped knocking on the door. Instead, your friend invited you in.",
+   "query": "1960s women party living room",
+   "caption": "PINK CADILLACS",
+   "cuts": 3
+  },
+  {
+   "text": "So what happened to the door-to-door salesman? The first reason was that nobody was home. In nineteen fifty, most married women didn't work outside the home. By nineteen eighty, about half did. When the salesman rang the bell at two in the afternoon, nobody answered. The whole business depended on someone being home during the day.",
+   "query": "1970s empty suburban house street",
+   "caption": "NOBODY WAS HOME",
+   "cuts": 3,
+   "chapter": "Why they disappeared"
+  },
+  {
+   "text": "The second reason was the store. Supermarkets, discount stores and malls offered everything the salesmen sold, often cheaper, with no pressure and no appointment. Why wait for the Fuller Brush man when you could buy a brush at Kmart? The third reason was fear. As neighborhoods changed, people became more nervous about opening the door to a stranger.",
+   "query": "1970s discount store shopping cart",
+   "caption": "THE STORE AND THE FEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Towns passed laws requiring permits for door-to-door sales. Homeowners put up No Soliciting signs. In the nineteen seventies, the government introduced a cooling-off rule, which gave customers three days to cancel a sale made at their home. Then came television shopping, catalogs, and finally, the internet.",
+   "query": "No Soliciting sign door",
+   "caption": "NO SOLICITING",
+   "cuts": 3
+  },
+  {
+   "text": "The Fuller Brush Company still exists, but it sells mostly online and through stores now. Avon still has representatives, but most of their business moved online, and through social media. Encyclopedia Britannica printed its last edition in two thousand ten. And the milkman disappeared from most of America by the nineteen seventies.",
+   "query": "old encyclopedia books",
+   "caption": "THE LAST EDITION",
+   "cuts": 3
+  },
+  {
+   "text": "What did we lose? Not just the products. We lost a kind of human contact. The Fuller Brush man knew your name, and asked about your children. The Avon lady was your neighbor. The milkman knew if you were sick. For many lonely housewives, those visits were a bright spot in a long, quiet day.",
+   "query": "1950s housewife talking man porch",
+   "caption": "A KIND OF HUMAN CONTACT",
+   "cuts": 3,
+   "chapter": "What we lost"
+  },
+  {
+   "text": "Today, the packages still come to the door. But now, they're left on the step by a driver who's already gone. The doorbell rings, and by the time you open the door, nobody's there. In a way, the door-to-door salesman was the last person who came to your house just to talk to you.",
+   "query": "front porch package doorstep",
+   "caption": "NOBODY'S THERE",
+   "cuts": 3,
+   "modern": true
+  },
+  {
+   "text": "So tell us in the comments. Who came to your door when you were growing up? Did your mother buy from the Fuller Brush man or the Avon lady? Did you ever sell anything door to door yourself? We read every comment. Next time, we're going downtown in nineteen sixty-two, when every town had a department store. Thank you for spending this time with me.",
+   "query": "1950s house front door porch",
+   "caption": "WHO CAME TO YOUR DOOR?",
+   "cuts": 3
+  }
+ ]
+}

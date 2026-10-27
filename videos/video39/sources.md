@@ -1,0 +1,7 @@
+- Alfred C. Fuller founded the Fuller Brush Company in 1906, Hartford, Connecticut: Smithsonian National Museum of American History
+- 'The Fuller Brush Man' (1948) starring Red Skelton: American Film Institute catalog
+- Avon founded in 1886 as the California Perfume Company by David H. McConnell: Avon Products, Inc.
+- Tupperware home parties and Brownie Wise, first woman on the cover of Business Week (1954): Smithsonian; PBS American Experience, 'Tupperware!'
+- FTC Cooling-Off Rule for door-to-door sales (1972, effective 1974): Federal Trade Commission
+- Encyclopaedia Britannica's last print edition (2010), announced 2012: Encyclopaedia Britannica
+- Married women's labor force participation about 24% in 1950 and about 50% in 1980: Bureau of Labor Statistics

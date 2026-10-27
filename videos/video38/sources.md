@@ -1,0 +1,15 @@
+- CPI inflation 11.3% in 1979 and 13.5% in 1980: Bureau of Labor Statistics
+- Chrysler Corporation Loan Guarantee Act of 1979: U.S. Treasury
+- Married women's labor force participation about 49% in 1979: Bureau of Labor Statistics
+- Median family income about $19,600 in 1979: U.S. Census Bureau
+- Median price of a new home about $62,900 in 1979: U.S. Census Bureau, New Residential Sales
+- 30-year mortgage rates passed 11% in late 1979 and peaked above 18% in 1981: Freddie Mac Primary Mortgage Market Survey
+- U.S. divorce rate peaked around 1979-1981: CDC National Center for Health Statistics
+- 1979 oil crisis and odd-even gas rationing: U.S. Energy Information Administration; Federal Reserve History
+- President Carter's 'crisis of confidence' speech, July 15, 1979: Miller Center, University of Virginia
+- Three Mile Island accident, March 28, 1979: U.S. Nuclear Regulatory Commission
+- Skylab reentry, July 11, 1979: NASA
+- Iran hostage crisis, November 4, 1979 to January 20, 1981 (444 days): National Archives
+- Disco Demolition Night, Comiskey Park, July 12, 1979: Chicago History Museum
+- ESPN launched September 7, 1979: ESPN
+- Photos: EPA DOCUMERICA project (1971-1977), U.S. National Archives, public domain
