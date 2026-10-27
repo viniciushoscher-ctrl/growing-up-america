@@ -1,0 +1,7 @@
+- Shoe-fitting fluoroscopes in U.S. shoe stores (about 10,000 in use in the early 1950s): Oak Ridge Associated Universities, Health Physics Historical Instrumentation Museum
+- First-class postage 3 cents (1932-1958): U.S. Postal Service
+- 1957 films (The Bridge on the River Kwai, An Affair to Remember, Jailhouse Rock): American Film Institute catalog
+- Federal-Aid Highway Act of 1956: Federal Highway Administration
+- Southdale Center, Edina, Minnesota, opened October 1956 as the first fully enclosed mall: Minnesota Historical Society
+- First Kmart and first Walmart, both 1962: company histories
+- National Trust for Historic Preservation Main Street program, 1980: Main Street America

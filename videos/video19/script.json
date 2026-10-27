@@ -1,0 +1,230 @@
+{
+ "id": "video19",
+ "angle": "angle 1 \u00b7 a place and a time",
+ "length_scale": 1.45,
+ "title": "Main Street, 1957: A Walk Through the Town We Lost",
+ "scenes": [
+  {
+   "text": "It's a Saturday morning in nineteen fifty-seven, and you're standing at the corner of Main Street. The sun is shining on the brick buildings. Cars are parked at an angle along the curb. A bell rings over a shop door. Somebody waves at you from across the street, because in this town, everybody knows everybody.",
+   "query": "1950s main street small town cars",
+   "caption": "SATURDAY, 1957",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "In nineteen fifty-seven, almost every town in America had a street like this. It might have been called Main Street, Front Street, Broadway or Market Street. But it was always the heart of the town. It was where you shopped, ate, banked, got your hair cut, saw a movie and caught up on all the news.",
+   "query": "1950s downtown street shops people",
+   "caption": "THE HEART OF THE TOWN",
+   "cuts": 8
+  },
+  {
+   "text": "So let's take a walk. Door by door, block by block, down a typical American Main Street in nineteen fifty-seven. If you grew up in a small town, I think you'll recognize every single place we stop.",
+   "query": "1950s people walking sidewalk storefronts",
+   "caption": "LET'S TAKE A WALK",
+   "cuts": 5
+  },
+  {
+   "text": "Our first stop is the corner drugstore. Through the glass door, you can smell it before you see it. Medicine, perfume, coffee and fresh-made grilled cheese. On one side, the pharmacist works behind a high counter. On the other side, there's the soda fountain, with a long marble counter and a row of red stools.",
+   "query": "1950s drugstore soda fountain counter",
+   "caption": "THE CORNER DRUGSTORE",
+   "cuts": 3,
+   "chapter": "The drugstore"
+  },
+  {
+   "text": "The soda jerk wears a white paper hat. He makes a cherry Coke by pumping syrup into a glass and adding carbonated water. A chocolate malted costs about twenty-five cents. A banana split, maybe thirty-five. Teenagers crowd the booths after school, and old men drink coffee at the counter every morning.",
+   "query": "1950s soda jerk making milkshake",
+   "caption": "THE SODA JERK",
+   "cuts": 3
+  },
+  {
+   "text": "The pharmacist knows everyone in town by name. He knows who has a bad heart and whose baby has a cough. If you call late at night with a sick child, he might open the store just for you. There's a rack of comic books near the door, and a magazine stand with Life, Look and The Saturday Evening Post.",
+   "query": "1950s pharmacist drugstore",
+   "caption": "HE KNOWS YOUR NAME",
+   "cuts": 3
+  },
+  {
+   "text": "Next door is the five-and-dime. Woolworth's, Kresge's, Ben Franklin, or a local store just like them. Wooden floors that creak when you walk. Long counters piled with everything you could need. Thread, buttons, yarn, sewing patterns, kitchen gadgets, school supplies, cheap toys, goldfish and parakeets.",
+   "query": "1950s five and dime store interior counters",
+   "caption": "THE FIVE-AND-DIME",
+   "cuts": 3,
+   "chapter": "The five-and-dime"
+  },
+  {
+   "text": "Kids love the five-and-dime, because it's the one store where their allowance goes a long way. A quarter can buy a bag of candy, a balsa wood airplane, or a little plastic toy. Many of those stores also have a lunch counter, where shoppers stop for a grilled cheese, a slice of pie and a cup of coffee.",
+   "query": "1950s children toys store counter",
+   "caption": "WHERE A QUARTER GOES FAR",
+   "cuts": 3
+  },
+  {
+   "text": "Across the street is the hardware store, and it's a world of its own. The smell of oil, rope and fresh-cut keys. Nails sold by the pound from wooden bins. Paint mixed by hand. Garden seeds in paper packets. Every tool a man could want, hanging on pegboard walls.",
+   "query": "1950s hardware store interior",
+   "caption": "THE HARDWARE STORE",
+   "cuts": 3,
+   "chapter": "The hardware store"
+  },
+  {
+   "text": "The owner can tell you exactly what you need, even if you can only describe it. You bring in the broken part, and he finds you a match. He'll explain how to fix a leaky faucet or sharpen a lawnmower blade. And if you're a little short on cash this week, he'll put it on your account.",
+   "query": "1950s hardware store owner customer",
+   "caption": "PUT IT ON MY ACCOUNT",
+   "cuts": 3
+  },
+  {
+   "text": "In the middle of the block is the biggest building on Main Street. The department store. In a bigger town, it might be a J.C. Penney, a Sears or a local family store with the founder's name painted on the side. Inside, there are glass display cases, high ceilings and an elevator with an operator who calls out each floor.",
+   "query": "1950s department store interior shoppers",
+   "caption": "THE DEPARTMENT STORE",
+   "cuts": 3,
+   "chapter": "The department store"
+  },
+  {
+   "text": "Women shop for dresses, hats, gloves and stockings. Men buy suits, shirts and neckties. Children get measured for new school shoes, and some stores have a machine called a shoe-fitting fluoroscope, which uses X-rays so you can see your toes wiggling inside the shoes. It sounds incredible today, but kids loved it.",
+   "query": "1950s shoe store children fitting",
+   "caption": "THE X-RAY SHOE MACHINE",
+   "cuts": 3
+  },
+  {
+   "text": "When you pay, the clerk might put your money in a little container and send it zooming along a wire or through a pneumatic tube to the cashier upstairs. A moment later, your change comes zooming back. At Christmastime, the store windows are filled with displays, and Santa sits in a big chair on the toy floor.",
+   "query": "1950s department store Christmas window display",
+   "caption": "CHANGE BY TUBE",
+   "cuts": 3
+  },
+  {
+   "text": "Down the street is the barbershop, with its spinning red, white and blue pole. Inside, there are two or three big leather chairs, a row of waiting chairs, and a stack of old magazines. A haircut costs around a dollar. The radio plays a ballgame, and the men argue about politics and fishing.",
+   "query": "1950s barbershop interior barber",
+   "caption": "THE BARBERSHOP",
+   "cuts": 3,
+   "chapter": "The barbershop and the beauty shop"
+  },
+  {
+   "text": "Little boys get a crew cut or a flattop, sitting on a board laid across the arms of the chair. The barber finishes with a splash of tonic and a dusting of powder on the neck. And for the grown men, there's a hot towel shave with a straight razor, and maybe a shoeshine on the way out.",
+   "query": "1950s boy haircut barbershop",
+   "caption": "A FLATTOP",
+   "cuts": 3
+  },
+  {
+   "text": "A few doors away is the beauty shop, where the women of the town get their hair washed and set. They sit under big hooded dryers, reading magazines and catching up on every bit of news in town. Many people say the beauty shop was the real newspaper of a small town. If it happened, they knew about it there.",
+   "query": "1950s beauty salon women hair dryers",
+   "caption": "THE REAL NEWSPAPER",
+   "cuts": 3
+  },
+  {
+   "text": "On the corner stands the bank, built of stone, with tall columns and a big clock out front. Inside, the floors are marble, and the tellers sit behind brass cages. Children bring in their piggy banks to open a passbook savings account. And the bank president knows every farmer and business owner in the county.",
+   "query": "1950s bank interior tellers",
+   "caption": "THE BANK",
+   "cuts": 3,
+   "chapter": "The bank, the post office and the newspaper"
+  },
+  {
+   "text": "Across the street is the post office, with the American flag flying out front. Inside, there's a wall of little brass mailboxes with tiny glass windows. A stamp costs three cents. Wanted posters hang on the bulletin board. And the postmaster, who's held the job for twenty years, knows everyone's handwriting.",
+   "query": "1950s small town post office",
+   "caption": "3-CENT STAMP",
+   "cuts": 3
+  },
+  {
+   "text": "And there's the newspaper office, with the presses rumbling in the back. The weekly paper reports everything. Who's visiting from out of town. Whose cow won at the county fair. Births, weddings, deaths, and the high school football scores. In a town like this, getting your name in the paper is a very big deal.",
+   "query": "1950s newspaper office printing press",
+   "caption": "YOUR NAME IN THE PAPER",
+   "cuts": 3
+  },
+  {
+   "text": "By now, you're hungry. So let's stop at the diner. It might be a shiny steel railroad car diner, or a little caf\u00e9 with a counter and a few booths. The cook works the grill where everyone can see him. The waitress calls you honey and refills your coffee before you ask.",
+   "query": "1950s diner interior counter waitress",
+   "caption": "THE DINER",
+   "cuts": 3,
+   "chapter": "The diner"
+  },
+  {
+   "text": "A hamburger costs about thirty cents. A plate of meatloaf with mashed potatoes and green beans is around seventy-five cents. And there's always pie. Apple, cherry, coconut cream, lemon meringue. Every table has a little jukebox selector, where a nickel buys you one song.",
+   "query": "1950s diner food plate pie",
+   "caption": "PIE",
+   "cuts": 3
+  },
+  {
+   "text": "The diner is where the town really talks. Farmers come in early, before sunrise. Businessmen come for lunch. Teenagers come after the movie. Police officers stop by on their rounds. Everybody's welcome, and almost everybody stops in sooner or later.",
+   "query": "1950s diner customers talking",
+   "caption": "EVERYBODY'S WELCOME",
+   "cuts": 3
+  },
+  {
+   "text": "Halfway down the block, you can't miss it. The movie theater, with its big marquee full of light bulbs, and black letters announcing what's playing. In nineteen fifty-seven, that might be The Bridge on the River Kwai, An Affair to Remember, or Elvis Presley in Jailhouse Rock.",
+   "query": "1950s movie theater marquee small town",
+   "caption": "THE MARQUEE",
+   "cuts": 3,
+   "chapter": "The movie theater"
+  },
+  {
+   "text": "On Saturday afternoon, it's the kids' matinee. For a quarter, children get cartoons, a newsreel, a cowboy serial and a full feature. They throw popcorn, shout at the screen, and cheer for the hero. Parents drop them off at noon and pick them up at four, and everybody's happy.",
+   "query": "1950s children movie theater audience",
+   "caption": "THE SATURDAY MATINEE",
+   "cuts": 3
+  },
+  {
+   "text": "Inside, the theater is grand, with velvet curtains, a balcony, and painted ceilings. An usher in a uniform shows you to your seat with a flashlight. Popcorn costs a dime. For many small towns, the theater is the most beautiful building in town, and the place where first dates and first kisses happen.",
+   "query": "1950s movie theater interior balcony",
+   "caption": "THE MOST BEAUTIFUL BUILDING",
+   "cuts": 3
+  },
+  {
+   "text": "As the sun goes down, Main Street fills up. Saturday night is the big night of the week. Farm families come into town to shop, visit and see a movie. Stores stay open late. People stroll up and down the sidewalk, stopping to talk with friends and neighbors they haven't seen all week.",
+   "query": "1950s main street night lights people",
+   "caption": "SATURDAY NIGHT",
+   "cuts": 3,
+   "chapter": "Saturday night"
+  },
+  {
+   "text": "Teenagers cruise the street in their cars, around and around, radios playing. Old men sit on a bench outside the hardware store, watching the world go by. Kids beg for one more ice cream cone. In many towns, there's a band concert in the park, or a dance at the American Legion hall.",
+   "query": "1950s teenagers cars main street night",
+   "caption": "AROUND AND AROUND",
+   "cuts": 3
+  },
+  {
+   "text": "So what happened to that Main Street? In the years after nineteen fifty-seven, America changed in ways that slowly emptied it. The interstate highways, which started in nineteen fifty-six, made it easy to drive past small towns, or to drive out to a bigger one.",
+   "query": "1950s interstate highway construction",
+   "caption": "THE INTERSTATE",
+   "cuts": 3,
+   "chapter": "What happened"
+  },
+  {
+   "text": "Shopping centers and malls grew up on the edge of town, with free parking and everything under one roof. The first fully enclosed mall in America, Southdale Center in Minnesota, had opened just a year earlier, in nineteen fifty-six. Over the next thirty years, thousands of malls followed.",
+   "query": "Southdale Center 1956 mall",
+   "caption": "SOUTHDALE, 1956",
+   "cuts": 3
+  },
+  {
+   "text": "Then came the big discount stores. Kmart in nineteen sixty-two. Walmart, the same year. They offered lower prices than any small shop could match. One by one, the drugstore, the hardware store, the five-and-dime and the department store closed. In many towns, the movie theater went dark too.",
+   "query": "1960s discount store parking lot",
+   "caption": "1962: KMART AND WALMART",
+   "cuts": 3
+  },
+  {
+   "text": "By the nineteen eighties, many Main Streets were half empty. Boarded-up windows. For Lease signs. The bank building turned into a law office, or nothing at all. In nineteen eighty, the National Trust for Historic Preservation started the Main Street program, to try to bring those downtowns back to life.",
+   "query": "1980s empty small town main street",
+   "caption": "FOR LEASE",
+   "cuts": 3
+  },
+  {
+   "text": "Some of them have come back. Today, many small towns have restored their old Main Streets, with coffee shops, bakeries and antique stores in the old buildings. But something is different. The pharmacist who knew your name, the barber who'd cut your hair since you were three, and the Saturday nights when the whole town came out are mostly memories now.",
+   "query": "small town main street brick buildings",
+   "caption": "SOME HAVE COME BACK",
+   "cuts": 3,
+   "chapter": "The town we lost"
+  },
+  {
+   "text": "What we lost wasn't just stores. It was a way of living. A place where you couldn't walk a block without saying hello to someone. Where business was done on a handshake. Where you were part of a town, not just a customer. For many people, that's what they miss the most.",
+   "query": "1950s neighbors talking sidewalk",
+   "caption": "A WAY OF LIVING",
+   "cuts": 3
+  },
+  {
+   "text": "If you grew up on a Main Street like this, you carry it with you. The bell over the door. The squeak of the stool at the soda fountain. The light of the marquee. The smell of the hardware store. It's still there, every time you close your eyes.",
+   "query": "1950s main street evening",
+   "caption": "THE BELL OVER THE DOOR",
+   "cuts": 3
+  },
+  {
+   "text": "So tell us in the comments. What was the name of your town, and what was the name of its Main Street? What store do you miss the most? We read every comment. Next, we're looking at what it was like to become a mother in nineteen fifty-five. Thank you for spending this time with me.",
+   "query": "1950s small town street sunset",
+   "caption": "WHAT WAS YOUR TOWN?",
+   "cuts": 3
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+- Median age at first marriage for women about 20.2 in 1955: U.S. Census Bureau, Historical Marital Status Tables
+- About 4.1 million U.S. births in 1955: CDC National Center for Health Statistics, Vital Statistics of the United States
+- Hospital births about 94% by 1955: CDC National Center for Health Statistics
+- Benjamin Spock, The Common Sense Book of Baby and Child Care (1946)
+- Breastfeeding rates in the 1950s (about 25% at hospital discharge by late 1950s): Wright and Schanler, Journal of Nutrition (2001)
+- Pampers introduced by Procter & Gamble in 1961: Procter & Gamble
+- Salk polio vaccine announced April 12, 1955; U.S. polio cases fell by about 90% by 1961: CDC; University of Michigan
+- Time studies of housework in the 1950s (around 50 hours a week): Joann Vanek, 'Time Spent in Housework', Scientific American (1974)
+- Betty Friedan, The Feminine Mystique (1963)
