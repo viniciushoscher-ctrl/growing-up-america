@@ -19,21 +19,21 @@ sc("""Let's start with the color of the room itself. Today, most kitchens are wh
 sc("""The color wasn't just on the walls. It was on the refrigerator, the stove, the countertop, and sometimes even the telephone. Appliance makers had learned that a housewife who bought a pink stove would eventually want a pink refrigerator to match it. Color was a way of selling the whole kitchen, one piece at a time.""",
    "pink kitchen 1950s retro", "COLOR SOLD THE WHOLE KITCHEN")
 sc("""Here's the twist that a lot of people get wrong. The famous avocado green and harvest gold that people picture when they think of a retro kitchen didn't really arrive until later in the decade. In nineteen sixty-two, the palette was still the soft pastels of the fifties. Avocado was coming. But it wasn't there yet.""",
-   "avocado green kitchen appliances", "AVOCADO CAME LATER")
+   "1960s kitchen refrigerator stove color", "AVOCADO CAME LATER")
 sc("""On the floor was linoleum, or vinyl tile, often laid in a checkerboard pattern. On the counters, Formica, sometimes in a pattern of little boomerangs or stars. It was all designed for one thing. To wipe clean in a single pass, because the woman of the house was expected to keep it spotless.""",
-   "linoleum floor checkerboard kitchen", "LINOLEUM AND FORMICA")
+   "1950s kitchen floor housewife", "LINOLEUM AND FORMICA")
 sc("""At the window hung café curtains, covering just the bottom half, in gingham checks or a print of teapots, roosters, or little bunches of cherries. Your mother might have sewn them herself on her sewing machine. They matched the dish towels, which matched the potholders, which very often had been crocheted by a grandmother.""",
    "vintage kitchen curtains gingham", "CAFÉ CURTAINS")
 
 ch("The kitchen table")
 sc("""In the middle of the room stood the dinette set. A table with a Formica top and a shiny chrome edge, and four or six chairs upholstered in vinyl. Red, or yellow, or gray with a pattern of little sparkles in it. In summer, those chairs stuck to the backs of your legs. In winter, they were cold.""",
-   "chrome dinette set Formica table", "THE DINETTE SET")
+   "1950s kitchen table chairs family", "THE DINETTE SET")
 sc("""Under that table, generations of children built forts, hid from their brothers, and tied their sisters' shoelaces together. The underside was where the chewing gum went when nobody was looking. And if you ever got down there again today, I'd bet the gum would still be there.""",
    "vintage kitchen table chairs", "UNDER THE TABLE")
 sc("""That table was where everything happened. Breakfast before school. Homework in the afternoon. Your father reading the evening paper. Your mother paying the bills, writing a grocery list, or talking on the phone with her sister. And late at night, the grown-ups sitting with coffee, talking quietly about things the children weren't supposed to hear.""",
    "1960s family breakfast kitchen table", "WHERE EVERYTHING HAPPENED")
 sc("""And in the middle of the table, almost always, sat an ashtray. Glass, or heavy ceramic, sometimes a souvenir from a vacation. In nineteen sixty-two, a large share of American adults smoked, and smoking at the kitchen table was as normal as drinking coffee there. Two years later, the Surgeon General's report would begin to change that. But not yet.""",
-   "vintage glass ashtray", "THE ASHTRAY ON THE TABLE")
+   "1950s man smoking cigarette", "THE ASHTRAY ON THE TABLE")
 sc("""Next to the table, there was often a little step stool, the kind with steps that folded out from underneath the seat. It was a chair, a ladder, and a place for a small child to sit and watch their mother cook, all in one. Somebody in your family probably still has one.""",
    "vintage kitchen step stool", "THE STEP STOOL")
 

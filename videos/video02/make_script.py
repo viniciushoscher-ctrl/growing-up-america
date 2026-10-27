@@ -131,7 +131,7 @@ sc("""There were no seat belts in most cars, and nobody thought to ask for them.
 
 ch("Music and a night out")
 sc("""Rock and roll was only a couple of years old, and it was still shocking the grown-ups. In nineteen fifty-seven, Elvis had All Shook Up at the top of the charts. Buddy Holly had That'll Be the Day. Jerry Lee Lewis was pounding the piano and setting the whole country on fire.""",
-   "Buddy Holly 1957", "1957: ALL SHOOK UP")
+   "1950s rock and roll teenagers dancing", "1957: ALL SHOOK UP")
 sc("""And on August fifth, nineteen fifty-seven, a television show from Philadelphia went national. American Bandstand. Every weekday afternoon, a young host named Dick Clark introduced the records, and ordinary teenagers danced in front of the cameras. Kids across the country raced home to watch, and to copy the steps.""",
    "Dick Clark American Bandstand", "AUGUST 1957: AMERICAN BANDSTAND")
 sc("""On Saturday night, there was the drive-in movie, or the dance hall, or the roller rink. You might see a monster movie, or a western, or a teenage drama that your parents disapproved of. And afterward, a booth at the diner, with a jukebox in the corner, and a plate of fries shared four ways.""",
@@ -163,11 +163,11 @@ sc("""Overnight, everything changed in the schools. Science and mathematics beca
 sc("""America tried to answer quickly. On December sixth, nineteen fifty-seven, the Navy's Vanguard rocket rose about four feet off the launch pad, and exploded on live television. The newspapers mocked it. Some called it Flopnik. But less than two months later, on January thirty-first, nineteen fifty-eight, America's first satellite, Explorer One, reached orbit.""",
    "Explorer 1 satellite launch 1958", "JANUARY 1958: EXPLORER 1")
 sc("""And that same autumn, a new strain of influenza swept the country. People called it the Asian flu. Schools emptied, offices ran short, and according to the C D C, about one hundred sixteen thousand Americans died from it over the next year. Many of you remember being sick in bed for a week, or a classmate who never came back.""",
-   "1957 influenza hospital", "1957: THE ASIAN FLU")
+   "1950s hospital nurse patient", "1957: THE ASIAN FLU")
 
 ch("What adulthood really meant")
 sc("""Then, as if all that wasn't enough, the economy slowed down. The recession of nineteen fifty-seven and fifty-eight hit the factory towns hard. According to the Bureau of Labor Statistics, unemployment climbed above seven percent by the summer of nineteen fifty-eight. Young workers, the last ones hired, were often the first ones let go.""",
-   "1950s unemployment office line", "THE RECESSION OF 1958")
+   "1950s factory workers", "THE RECESSION OF 1958")
 sc("""So adulthood, for an eighteen-year-old in nineteen fifty-seven, wasn't only freedom. It was responsibility, arriving all at once. A paycheck that had to stretch. A draft card in your wallet. A wedding ring, maybe, and a baby on the way. A world that seemed to change every time you turned on the news.""",
    "1950s young couple apartment", "RESPONSIBILITY, ALL AT ONCE")
 sc("""A young husband who lost his job at the plant in nineteen fifty-eight didn't have much of a safety net. There was unemployment insurance for a while, and a few odd jobs, and family who helped where they could. Many young couples moved back in with their parents for a few months. Nobody talked about it much, but a lot of people did it.""",
