@@ -96,6 +96,8 @@ def wants_film(query):
 # films about war, crime, disease or disaster: wrong mood for a nostalgia scene unless the query asks for it
 DARK = re.compile(r"prison|warfare|biological|psycholog|military|army|navy|tornado|gun|crime|criminal|delinquen|venereal|"
                   r"drug|narcotic|alcohol|poverty|disease|accident|death|police|riot|atomic|bomb|nuclear|enemy|soviet|commun", re.I)
+# travelogues and films about other countries: their frames slip past CLIP on generic queries (a Thai temple in video06)
+FOREIGN = re.compile(r"\b(orient|asia|japan|china|siam|thailand|india|europe|germany|italy|rome|paris|france|mexico|wonderful world|shrinking world)\b", re.I)
 
 
 def film_terms(query):
@@ -143,7 +145,7 @@ def pick_film(query):
     docs = []
     while words and not docs:
         docs = ia_search(words); words = words[:-1]
-    docs = [d for d in docs if not (DARK.search(str(d.get("title", ""))) and not DARK.search(query))]
+    docs = [d for d in docs if not any(R.search(str(d.get("title", ""))) and not R.search(query) for R in (DARK, FOREIGN))]
     random.shuffle(docs)
     cands = []  # (doc, src, dur, t, small image): a few moments from up to 3 films, CLIP keeps the one that fits best
     for d in docs[:6]:
