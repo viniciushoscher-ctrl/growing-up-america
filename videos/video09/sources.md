@@ -1,0 +1,4 @@
+- Printed cotton feed and flour sacks used for clothing (1920s-1950s): Smithsonian National Museum of American History; Kansas Historical Society
+- Trading stamps (S&H Green Stamps and others) widespread in the 1950s-60s: Smithsonian Magazine; Federal Trade Commission reports
+- Saying 'Use it up, wear it out, make it do, or do without': World War II home-front slogan, U.S. Office of War Information era
+- Film footage: Prelinger Archives (public domain) via the Internet Archive
