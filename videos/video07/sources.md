@@ -1,0 +1,3 @@
+- Share of Americans in rural places (under 2,500 people) about 30% in the 1960 Census: U.S. Census Bureau, Urban and Rural Population 1900-1990
+- Comic book cover price 12 cents in the early 1960s: Grand Comics Database / standard price history
+- Film footage: Prelinger Archives (public domain) via the Internet Archive
