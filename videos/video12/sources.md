@@ -1,0 +1,4 @@
+- Home delivery share of fluid milk sales (about 29.7% in 1963, 15.2% in 1970, about 7% in 1975, 0.4% in 2005): U.S. Department of Agriculture, Economic Research Service; reported by The Atlantic / NPR
+- Electric refrigerators in most U.S. homes by the 1950s: U.S. Census of Housing 1950-1960
+- Horse-drawn milk delivery continuing in some cities into the 1940s-50s: Smithsonian National Museum of American History
+- Film footage: Prelinger Archives (public domain) via the Internet Archive
