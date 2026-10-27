@@ -51,7 +51,7 @@ def main(video):
         style = ("FontName=DejaVu Sans,Bold=1,FontSize=11,PrimaryColour=&H0000FFFF,OutlineColour=&H00000000,"
                  "BorderStyle=1,Outline=3,Alignment=2,MarginV=70")
         vf = (f"crop=ih*9/16:ih,scale=1080:1920,"
-              f"drawtext=text='GROWING UP IN AMERICA':fontcolor=white:fontsize=64:borderw=4:bordercolor=black:"
+              f"drawtext=text='AMERICA THAT WE LOVE':fontcolor=white:fontsize=64:borderw=4:bordercolor=black:"
               f"box=1:boxcolor=0x8B4513@0.9:boxborderw=18:x=(w-text_w)/2:y=120,"
               f"subtitles={srt}:force_style='{style}'")
         run("ffmpeg", "-y", "-loglevel", "error", "-ss", f"{a:.2f}", "-t", f"{b-a:.2f}", "-i", str(d / "nocaps.mp4"),
@@ -60,7 +60,7 @@ def main(video):
         ch = re.sub(r"^\d+\.\s*", "", group[0]["chapter"] or "")
         if not ch or ch == "Intro": ch = group[0]["caption"].title()
         meta.append(f"short{n}.mp4 ({b-a:.0f}s)\nTitle: {ch} #Shorts #nostalgia\n"
-                    f"Description: {group[0]['caption'].title()}. Full video on the Growing Up in America channel.\n")
+                    f"Description: {group[0]['caption'].title()}. Full video on the America That We Love channel.\n")
     (sd / "shorts.md").write_text("\n".join(meta))
     print("shorts done", len(meta))
 

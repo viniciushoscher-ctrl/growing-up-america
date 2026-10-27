@@ -1,4 +1,4 @@
-"""Upload and schedule Growing Up in America videos on YouTube following agendamento/calendar.json.
+"""Upload and schedule America That We Love videos on YouTube following agendamento/calendar.json.
 usage: yt_upload.py check | status | upload
 Secrets: YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN. Optional: YT_BUDGET (quota units per run), YT_SHORTS=1.
 calendar.json: [{"date": "2026-11-03", "longs": [1, 2, 3], "shorts": [[1, 1], [2, 1]]}, ...]"""

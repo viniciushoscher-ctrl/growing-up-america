@@ -26,13 +26,13 @@ def main(final, srt, chapters, outdir):
         b = max((c[1] for c in cues if c[1] - a <= MAX and c[1] > a), default=a + MAX)  # end on a caption
         vf = ("[0:v]split[a][b];[a]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=30:5[bg];"
               "[b]scale=1080:-2[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,"
-              "drawtext=text='GROWING UP IN AMERICA':fontcolor=white:fontsize=64:borderw=4:bordercolor=black:"
+              "drawtext=text='AMERICA THAT WE LOVE':fontcolor=white:fontsize=64:borderw=4:bordercolor=black:"
               "box=1:boxcolor=0x8B4513@0.9:boxborderw=18:x=(w-text_w)/2:y=140[v]")
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", f"{a:.2f}", "-t", f"{b-a:.2f}", "-i", final,
                         "-filter_complex", vf, "-map", "[v]", "-map", "0:a", "-c:v", "libx264", "-preset", "veryfast", "-crf", "26",
                         "-maxrate", "3000k", "-bufsize", "6000k", "-c:a", "aac", "-b:a", "96k", str(out / f"short{n}.mp4")], check=True)
         meta.append(f"short{n}.mp4 ({b-a:.0f}s)\nTitle: {title} #Shorts #nostalgia\n"
-                    f"Description: {title}. Full video on the Growing Up in America channel.\n")
+                    f"Description: {title}. Full video on the America That We Love channel.\n")
     (out / "shorts.md").write_text("\n".join(meta))
     print("shorts done", len(meta))
 

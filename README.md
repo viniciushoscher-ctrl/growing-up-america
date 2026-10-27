@@ -1,6 +1,6 @@
-# Growing Up in America
+# America That We Love
 
-Canal faceless em inglês no YouTube: documentários calmos e nostálgicos sobre a vida americana de 1950 a 1985, para o público 55+ dos EUA. O narrador fala direto com o espectador ("you"), usa fotos reais de arquivo e fatos com fonte.
+Canal "America That We Love" (o repositório mantém o nome antigo, growing-up-america): canal faceless em inglês no YouTube: documentários calmos e nostálgicos sobre a vida americana de 1950 a 1985, para o público 55+ dos EUA. O narrador fala direto com o espectador ("you"), usa fotos reais de arquivo e fatos com fonte.
 
 A produção segue o mesmo modelo do canal Pickup Reality (repositório `american-trucks`, guia `agendamento/GUIA-REPLICAR-CANAL.md`). O Claude escreve o roteiro e o GitHub Actions baixa as fotos, narra, edita, corta os Shorts e agenda tudo no YouTube.
 
