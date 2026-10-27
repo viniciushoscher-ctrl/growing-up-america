@@ -1,0 +1,10 @@
+- Richard Sears and the watch business, North Redwood, Minnesota, 1886; Alvah Roebuck; Sears, Roebuck and Co. 1893: Sears Archives
+- Rural Free Delivery (1896) and Parcel Post (1913): Smithsonian National Postal Museum
+- Julius Rosenwald, the 1906 West Side Chicago complex, and nearly 5,000 Rosenwald Schools: National Trust for Historic Preservation; Sears Archives
+- Sears Modern Homes (1908-1940), about 70,000 sold: Sears Archives
+- First Sears retail store in 1925 under Robert E. Wood: Sears Archives
+- First Sears Christmas catalog 1933: Sears Archives
+- Sears Tower completed 1973: Council on Tall Buildings and Urban Habitat
+- General catalog ended January 1993 after 97 years: The New York Times, January 26, 1993
+- Amazon founded 1994: Amazon.com
+- Sears Holdings Chapter 11 filing, October 2018: U.S. Bankruptcy Court, Southern District of New York
