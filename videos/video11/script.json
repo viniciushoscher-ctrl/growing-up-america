@@ -1,0 +1,226 @@
+{
+ "id": "video11",
+ "angle": "angle 2 \u00b7 a stage of life",
+ "length_scale": 1.45,
+ "title": "What Made Your Wedding Day in 1965 So Special?",
+ "scenes": [
+  {
+   "text": "Somewhere in your house, there's a photograph. A young couple on the steps of a church. She's in white, holding a bouquet a little too tightly. He's in a dark suit with a carnation on the lapel, grinning like he can't believe his luck. The year is nineteen sixty-five. And they have absolutely no idea what's ahead.",
+   "query": "1960s wedding couple church steps",
+   "caption": "THE PHOTOGRAPH",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "In nineteen sixty-five, the typical bride was around twenty years old. The typical groom was around twenty-three. Many of them had been dating since high school. And a wedding wasn't just a party. It was the single biggest step in a young person's life, the day they left their parents' house for good.",
+   "query": "1960s young couple dating",
+   "caption": "SHE WAS TWENTY",
+   "cuts": 8
+  },
+  {
+   "text": "So let's go back and walk through it, from the proposal to the honeymoon to the first little apartment. The shower, the church, the reception in the hall, and all the things nobody does anymore. This is what made your wedding day in nineteen sixty-five so special.",
+   "query": "1960s wedding reception dancing",
+   "caption": "YOUR WEDDING DAY",
+   "cuts": 5
+  },
+  {
+   "text": "It usually started with a question to her father. Before a young man proposed, he was expected to ask her father for permission. He'd put on a tie, sit in the living room, and try to explain how he planned to support his daughter. More than one young man remembered that conversation as the most frightening half hour of his life.",
+   "query": "1960s young man father living room",
+   "caption": "ASKING HER FATHER",
+   "cuts": 3,
+   "chapter": "The proposal"
+  },
+  {
+   "text": "Then came the proposal itself. Often on bended knee, sometimes in a parked car at the lake, sometimes on the porch swing at her parents' house. The ring was usually modest. A small diamond on a thin band, bought on an installment plan from the jewelry store downtown. She showed it to everybody she knew for months.",
+   "query": "1960s engagement ring jewelry store",
+   "caption": "THE RING",
+   "cuts": 3
+  },
+  {
+   "text": "The engagement was announced in the local newspaper, with a photograph of the bride-to-be and a few sentences about her parents, her school and her fianc\u00e9's job. Mothers cut out those announcements and kept them in a scrapbook. Many families still have them, yellowed and brittle, in a drawer somewhere.",
+   "query": "1960s newspaper engagement announcement",
+   "caption": "IN THE NEWSPAPER",
+   "cuts": 3
+  },
+  {
+   "text": "And many brides had been preparing for this for years. A hope chest, often a cedar chest given to her at sixteen, held the things she would need for her new home. Embroidered pillowcases, tablecloths, dish towels, a quilt from her grandmother. Some of those chests still sit at the foot of the bed today.",
+   "query": "1960s cedar hope chest bedroom",
+   "caption": "THE HOPE CHEST",
+   "cuts": 3
+  },
+  {
+   "text": "Engagements were often short. Six months, maybe a year. There wasn't much reason to wait. Many young men had a steady job, the girls had been planning since childhood, and in a lot of families, a couple simply didn't live together until they were married. So the date was set, and the church was booked.",
+   "query": "1960s young couple calendar planning",
+   "caption": "A SHORT ENGAGEMENT",
+   "cuts": 3
+  },
+  {
+   "text": "Before the wedding came the bridal shower, given by the bride's friends or aunts in somebody's living room or the church hall. The ladies wore hats and gloves. There were finger sandwiches, punch in a glass bowl, and games where the guests guessed how many pins were in a jar. And the bride opened every present while somebody wrote down who gave what.",
+   "query": "1960s bridal shower women party",
+   "caption": "THE BRIDAL SHOWER",
+   "cuts": 3,
+   "chapter": "Getting ready"
+  },
+  {
+   "text": "The gifts were practical. Toasters, electric percolators, mixing bowls, bath towels, sheets and a set of good china for holidays. Department stores had started bridal registries, where the bride chose her china and silver patterns, and relatives bought one place setting at a time. Some couples didn't complete the set for years.",
+   "query": "1960s department store china dishes",
+   "caption": "THE CHINA PATTERN",
+   "cuts": 3
+  },
+  {
+   "text": "The dress was a big decision. Some brides bought a gown at a department store bridal salon. Many wore their mother's dress, altered to fit. And a great many had their dress sewn by a mother, an aunt or a neighbor who was good with a needle. Long sleeves, a high neck, and a veil that reached the floor.",
+   "query": "1960s bride wedding dress fitting",
+   "caption": "THE DRESS",
+   "cuts": 3
+  },
+  {
+   "text": "For the men, there was the bachelor party, which in nineteen sixty-five was usually a few beers with friends at the corner tavern, or a card game in somebody's basement. Nothing too wild. Everybody had to be in church on Saturday morning, and his mother would know if he wasn't feeling well.",
+   "query": "1960s men playing cards basement",
+   "caption": "THE BACHELOR PARTY",
+   "cuts": 3
+  },
+  {
+   "text": "The bride and her mother addressed the invitations by hand at the dining room table, in their best penmanship. Engraved cards, with a tiny sheet of tissue paper inside to keep the ink from smudging. Every relative had to be invited, including the cousins nobody had seen in ten years. Leaving someone out could start a family feud that lasted a generation.",
+   "query": "1960s women writing letters table",
+   "caption": "THE INVITATIONS",
+   "cuts": 3
+  },
+  {
+   "text": "The night before, there was the rehearsal at the church and then a dinner, usually paid for by the groom's parents. The two families sat together, sometimes for the first time, and tried to get along. The groom's grandmother looked over the bride. The bride's father looked over the groom. Everybody smiled a little too much.",
+   "query": "1960s family dinner restaurant",
+   "caption": "THE REHEARSAL DINNER",
+   "cuts": 3
+  },
+  {
+   "text": "On the wedding day, almost everybody married in a church. Saturday morning or early afternoon, in June if they could get it. The church was decorated with white ribbons on the ends of the pews. The organist played softly as the guests arrived, the bride's family on the left and the groom's family on the right.",
+   "query": "1960s church wedding ceremony guests",
+   "caption": "A JUNE WEDDING",
+   "cuts": 3,
+   "chapter": "The church"
+  },
+  {
+   "text": "The bride came down the aisle on her father's arm. Some fathers cried. Most tried not to. At the altar, he lifted her veil, kissed her cheek, and placed her hand in the groom's hand. Then he sat down beside his wife, and in that moment, everybody understood that the family had just changed forever.",
+   "query": "1960s bride father aisle church",
+   "caption": "HER FATHER'S ARM",
+   "cuts": 3
+  },
+  {
+   "text": "The vows were traditional. To have and to hold, for better or for worse, for richer or for poorer, in sickness and in health. Many brides still promised to obey. The ceremony was short, the kiss was shorter, and then the couple walked back down the aisle as husband and wife, while the organ played as loud as it could go.",
+   "query": "1960s wedding couple kiss altar",
+   "caption": "FOR BETTER OR FOR WORSE",
+   "cuts": 3
+  },
+  {
+   "text": "Outside, the guests threw rice as the couple ran down the church steps. Someone had tied tin cans and old shoes to the back bumper of the car, and written Just Married in shaving cream across the rear window. The couple drove off honking the horn, with the whole town knowing exactly where they were going.",
+   "query": "1960s just married car cans",
+   "caption": "JUST MARRIED",
+   "cuts": 3
+  },
+  {
+   "text": "The wedding photographer was usually a man from the local studio, with a big flash camera and a bag of film. He took a few dozen pictures, not a few thousand. The couple on the steps. The cutting of the cake. The families lined up in rows. Every shot counted, and nobody saw any of them until weeks later.",
+   "query": "1960s wedding photographer camera",
+   "caption": "A FEW DOZEN PICTURES",
+   "cuts": 3
+  },
+  {
+   "text": "The reception was usually simple. The church hall, the fire hall, the VFW or the union hall, decorated with paper streamers and crepe paper bells. Ladies from the church or the family cooked the food. A wedding in nineteen sixty-five didn't cost the fortune it costs today. It cost what the bride's parents could afford, and everybody chipped in.",
+   "query": "1960s wedding reception hall",
+   "caption": "THE HALL",
+   "cuts": 3,
+   "chapter": "The reception"
+  },
+  {
+   "text": "The food depended on where you lived. Ham sandwiches and potato salad in the Midwest. Fried chicken in the South. Platters of homemade pierogi and kielbasa in Polish neighborhoods, and trays of cookies baked by every aunt in the family in Pittsburgh. In parts of New Jersey and Philadelphia, there were so many wrapped sandwiches that people called it a football wedding.",
+   "query": "1960s wedding buffet food table",
+   "caption": "THE FOOD",
+   "cuts": 3
+  },
+  {
+   "text": "The wedding cake was the centerpiece. Three or four tiers of white cake, covered in white frosting, with a little bride and groom figure on top. The couple cut the first piece together, and fed each other a bite. And the top tier was wrapped up and put in the freezer, to be eaten on their first anniversary.",
+   "query": "1960s wedding cake cutting couple",
+   "caption": "THE TOP TIER",
+   "cuts": 3
+  },
+  {
+   "text": "Then the dancing. Sometimes a band, sometimes a record player and a stack of albums. The first dance was the bride and groom alone, while everybody watched. Then the bride danced with her father, and the groom with his mother. And then the whole room joined in, from the grandparents to the flower girl.",
+   "query": "1960s wedding first dance couple",
+   "caption": "THE FIRST DANCE",
+   "cuts": 3
+  },
+  {
+   "text": "The bride tossed her bouquet over her shoulder to the single girls, who pretended not to care and then fought for it. The groom took off her garter and threw it to the single men. And by the end of the night, the uncles were singing, the children were asleep on rows of folding chairs, and the bride's mother was finally sitting down.",
+   "query": "1960s wedding bride bouquet toss",
+   "caption": "THE BOUQUET",
+   "cuts": 3
+  },
+  {
+   "text": "Guests rarely gave a gift at the reception. They had already sent presents to the bride's house. But in many communities, especially Italian and Polish families, there was the money dance, where guests pinned dollar bills to the bride's dress for a turn on the dance floor. Or there was an envelope, slipped quietly into the groom's pocket by an uncle.",
+   "query": "1960s wedding dance guests money",
+   "caption": "THE MONEY DANCE",
+   "cuts": 3
+  },
+  {
+   "text": "After the reception, the couple changed into their going-away clothes. She wore a nice suit and a hat. He wore a jacket and tie. They said goodbye to everyone at the door, and drove away into the evening. For many of them, it was the first night they had ever spent away from their parents' house.",
+   "query": "1960s couple driving away car",
+   "caption": "THE GOING-AWAY SUIT",
+   "cuts": 3,
+   "chapter": "The honeymoon"
+  },
+  {
+   "text": "The honeymoon was usually short and close to home. Niagara Falls was the most famous destination of all, and the town was full of motels with honeymoon suites. The Pocono Mountains in Pennsylvania had resorts built just for newlyweds. Others went to a lake cabin, the beach, or a big hotel in the city.",
+   "query": "1960s Niagara Falls honeymoon couple",
+   "caption": "NIAGARA FALLS",
+   "cuts": 3
+  },
+  {
+   "text": "Some couples flew for the first time on their honeymoon, maybe to Florida or Bermuda, dressed in their best clothes for the airplane. But most drove. A week away was a luxury. Then it was back to work on Monday, with a new ring on the finger and a new name on the mailbox.",
+   "query": "1960s couple airport airplane",
+   "caption": "BACK TO WORK MONDAY",
+   "cuts": 3
+  },
+  {
+   "text": "The first home was often small. A rented apartment over a store, a few rooms in a two-family house, or even a bedroom in her parents' house for the first year, until they had saved enough. The furniture was secondhand or given by relatives. A card table served as the dining table until they could afford a real one.",
+   "query": "1960s young couple small apartment",
+   "caption": "THE FIRST APARTMENT",
+   "cuts": 3,
+   "chapter": "The first home"
+  },
+  {
+   "text": "The new wife learned to cook from a cookbook given at the shower, often the same one her mother used. The new husband learned to fix the leaky faucet. And both of them learned to live on one small paycheck, counting every dollar at the kitchen table on Friday night.",
+   "query": "1960s young wife cooking kitchen",
+   "caption": "LEARNING TO COOK",
+   "cuts": 3
+  },
+  {
+   "text": "Married life in nineteen sixty-five also meant a lot of firsts. The first fight about money. The first Thanksgiving hosted in their own apartment, with both mothers watching. The first time she wrote her new name on a check. The first time he came home and there was a hot dinner waiting, just for him.",
+   "query": "1960s young couple dinner table",
+   "caption": "A LOT OF FIRSTS",
+   "cuts": 3
+  },
+  {
+   "text": "Within a year or two, many couples had their first baby. Within five years, many had bought a little house of their own. The wedding photographs went into an album with a white cover and gold letters, and the album went on a shelf, where it waited for the children to find it someday.",
+   "query": "1960s young family baby new house",
+   "caption": "THE WHITE ALBUM",
+   "cuts": 3
+  },
+  {
+   "text": "Why do weddings from nineteen sixty-five feel so special when we look back? Maybe because they were simpler. A church, a hall, a cake and a record player. Nobody went into debt for a wedding. The whole neighborhood helped, and the whole neighborhood came.",
+   "query": "1960s wedding guests group photo",
+   "caption": "SIMPLER",
+   "cuts": 3,
+   "chapter": "Why it was special"
+  },
+  {
+   "text": "Maybe because it truly was a beginning. These were young people starting with almost nothing, and building a whole life together from there. Some of those marriages lasted fifty or sixty years. And some of those couples are still holding hands today, looking at that same photograph on the church steps.",
+   "query": "1960s older couple holding hands",
+   "caption": "FIFTY YEARS LATER",
+   "cuts": 3
+  },
+  {
+   "text": "So tell us in the comments. What year did you get married, and where did you go on your honeymoon? We read every single comment, and we'd love to hear your stories. Next, we'll find out what happened to the American milkman. Thank you for spending this time with me.",
+   "query": "1960s wedding couple portrait",
+   "caption": "WHAT YEAR DID YOU MARRY?",
+   "cuts": 3
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+- Median age at first marriage in 1965 (men about 22.8, women about 20.6): U.S. Census Bureau, Historical Marital Status Table MS-2
+- Department store bridal registries, introduced in the 1920s-30s and common by the 1960s: Smithsonian Magazine
+- Niagara Falls and Pocono Mountains honeymoon resorts in the 1950s-60s: Niagara Falls Public Library local history; Pocono Mountains Visitors Bureau history
+- Film footage: Prelinger Archives (public domain) via the Internet Archive
