@@ -1,0 +1,7 @@
+- Grandma Ruth's Story is a work of fiction told by a narrated character. The history around it is real.
+- Operation Cobra and the breakout near Saint-Lô, 25-31 July 1944.
+- Battle of Hürtgen Forest, September 1944 - February 1945.
+- US presidential election, 7 November 1944: Franklin D. Roosevelt re-elected for a fourth term over Thomas E. Dewey.
+- V-mail (Victory Mail), microfilmed wartime letters, 1942-1945.
+- 'Mairzy Doats', a number-one hit in the US in 1944.
+- WWII sugar rationing in the US, 1942-1947.

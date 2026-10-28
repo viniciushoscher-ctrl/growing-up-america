@@ -1,0 +1,8 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Equal Credit Opportunity Act, 1974: lenders may no longer refuse credit on the basis of sex or marital status.
+- Swanson TV dinner introduced 1953 at 98 cents; about 10 million sold in the first year.
+- Miltown (meprobamate) approved 1955; best-selling prescription drug in the US by 1956-57.
+- Tupperware home parties built by Brownie Wise from 1951.
+- 'Ding dong, Avon calling' advertising slogan, from 1954.
+- Betty Friedan, The Feminine Mystique (1963).
+- Mississippi allowed women on juries in 1968, the last US state to do so.

@@ -1,0 +1,7 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era. The Springmill Drive-In is a composite.
+- First drive-in theater: Richard Hollingshead, Camden, New Jersey, 6 June 1933.
+- US drive-in theaters peaked at about 4,000 in the late 1950s; about 300 operate today (United Drive-In Theatre Owners Association).
+- 'Let's All Go to the Lobby' intermission film, Filmack, 1957.
+- The Blob (1958) with Steve McQueen; Thunder Road (1958); Vertigo (1958).
+- Explorer 1, first US satellite, launched 31 January 1958.
+- PIC mosquito coils sold in the US from the 1950s.

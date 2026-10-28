@@ -1,0 +1,8 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- The Beatles on The Ed Sullivan Show, 9 February 1964: about 73 million viewers (Nielsen).
+- Billboard Hot 100, 4 April 1964: the Beatles held the top five positions.
+- Ford Mustang introduced 17 April 1964, base price $2,368; about 22,000 orders on the first day.
+- 1964-65 New York World's Fair opened 22 April 1964 (Unisphere, GM Futurama, 'it's a small world').
+- Civil Rights Act signed 2 July 1964. Chaney, Goodman and Schwerner found 4 August 1964.
+- Gulf of Tonkin Resolution, 7 August 1964. Surgeon General's report on smoking, 11 January 1964.
+- US prices 1964: stamp 5 cents, federal minimum wage $1.25, gasoline about 30 cents a gallon.
