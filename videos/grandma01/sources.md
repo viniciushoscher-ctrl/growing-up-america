@@ -1,0 +1,8 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Elvis Presley on The Ed Sullivan Show, 9 September 1956: about 60 million viewers, 82.6% of the TV audience (Nielsen).
+- Federal-Aid Highway Act signed by Eisenhower, 29 June 1956.
+- US prices 1956: first-class stamp 3 cents (1932-1958), gasoline about 22 cents a gallon, bread about 18 cents a loaf.
+- 'Under God' added to the Pledge of Allegiance, 14 June 1954.
+- Salk polio vaccine licensed April 1955; school vaccination campaigns 1955-1957.
+- Eisenhower re-elected 6 November 1956.
+- Westinghouse electric range plant, Mansfield, Ohio.

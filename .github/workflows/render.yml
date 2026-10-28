@@ -22,6 +22,8 @@ jobs:
           mkdir -p voices && cd voices
           B=https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/ryan/high
           curl -sSLO $B/en_US-ryan-high.onnx && curl -sSLO $B/en_US-ryan-high.onnx.json
+          L=https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/lessac/high
+          curl -sSLO $L/en_US-lessac-high.onnx && curl -sSLO $L/en_US-lessac-high.onnx.json
       - name: Fetch real photos (Wikimedia Commons)
         run: python pipeline/fetch_media.py "${{ inputs.video }}"
       - name: Render

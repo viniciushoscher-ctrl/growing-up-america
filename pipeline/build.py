@@ -99,8 +99,10 @@ def main(video):
     out = d / "out"; out.mkdir(exist_ok=True)
     _sj = json.loads((d / "script.json").read_text())
     scenes = _sj["scenes"]
-    global SCALE
+    global SCALE, MODEL
     SCALE = str(_sj.get("length_scale", SCALE))
+    if _sj.get("voice"):  # e.g. "en_US-lessac-high" for the grandmother narrator
+        MODEL = f"voices/{_sj['voice']}.onnx"
     with ThreadPoolExecutor(4) as ex:
         tts = list(ex.map(tts_scene, [(i, s, out) for i, s in enumerate(scenes)]))
     with ThreadPoolExecutor(4) as ex:
