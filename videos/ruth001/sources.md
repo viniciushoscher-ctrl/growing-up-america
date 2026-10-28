@@ -1,0 +1,7 @@
+- Grandma Ruth's Story is a work of fiction told by a narrated character. The history around it is real.
+- Service flags (blue star / gold star) displayed by families of US servicemen in WWII.
+- War Department 'missing in action' telegrams delivered by Western Union messengers, 1941-1945.
+- WWII rationing in the US (sugar, coffee, meat, fats, gasoline, shoes); household fat salvage program from 1942.
+- Operation Cobra and the Normandy breakout, late July 1944.
+- Liberation of Paris, 19-25 August 1944.
+- Mansfield, Ohio war production: Westinghouse, Empire Steel, Ohio Brass.

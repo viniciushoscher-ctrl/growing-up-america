@@ -1,0 +1,7 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- F. W. Woolworth opened his first five-cent store in 1879; the last ~400 US Woolworth's closed in July 1997 (company later renamed Foot Locker).
+- Greensboro sit-in began 1 February 1960; the Greensboro counter was desegregated 25 July 1960. A section is at the Smithsonian's National Museum of American History.
+- Woolworth's banana split balloon promotion (1-39 cents), 1950s-60s.
+- Hula hoop introduced by Wham-O, 1958.
+- FDA ban on sale of turtles under 4 inches, 1975.
+- Evening in Paris (Bourjois) and Tangee lipstick, popular US cosmetics of the 1940s-60s.

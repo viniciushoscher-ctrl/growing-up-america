@@ -1,0 +1,236 @@
+{
+ "id": "grandma03",
+ "angle": "a walk through a place that disappeared (Woolworth's)",
+ "length_scale": 1.45,
+ "title": "I Worked at Woolworth's in 1960. Here's What It Was Really Like Inside",
+ "scenes": [
+  {
+   "text": "Sweetheart, you go to the mall, or you push a button on your phone and a box shows up on the porch. When I was sixteen, there was one store on Main Street that had everything in the world inside it. And I worked there. Let me walk you through the front door of the F. W. Woolworth Company, Mansfield, Ohio, nineteen sixty.",
+   "query": "1950s Woolworth store front main street",
+   "caption": "WOOLWORTH'S, 1960",
+   "cuts": 8,
+   "moves": true,
+   "chapter": "Intro"
+  },
+  {
+   "text": "People called it the five and dime. When Mister Woolworth started it, back in eighteen seventy-nine, everything in the store cost five cents or ten cents. By my time, prices had gone up a little, but the name stuck. There were thousands of them across America. And now there's not a single one left. Not one. So come on. I'll show you what you missed.",
+   "query": "vintage five and dime store interior",
+   "caption": "THE FIVE AND DIME",
+   "cuts": 8,
+   "moves": true
+  },
+  {
+   "text": "First, the sign. Big red letters, gold trim, right across the top of the building. The doors were heavy wood and glass, and they had a brass push plate that was worn down smooth from a million hands. When you opened them, a smell came out. I can still smell it. Popcorn, floor wax, perfume, and roasting nuts, all at once.",
+   "query": "1950s department store entrance doors",
+   "caption": "THAT SMELL",
+   "cuts": 5,
+   "chapter": "The front door",
+   "moves": true
+  },
+  {
+   "text": "The floor was wooden boards, oiled every week, and it creaked in the same places every day. You could tell who was coming down the aisle by the creak. The ceiling was pressed tin, way up high, with ceiling fans going round and round. No air conditioning in our store until nineteen sixty-two. In the summer the fans just moved the hot air from one side to the other.",
+   "query": "vintage store interior wooden floor ceiling fans",
+   "caption": "THE CREAKING FLOOR",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "I got the job the summer I turned sixteen. Mrs. Lambert, the floor manager, looked at my hands, looked at my shoes, and asked me to count out change for a dollar and thirty-seven cents. I did it right, and she said, you start Saturday. I was paid seventy-five cents an hour. Thirty hours a week. That was twenty-two dollars and fifty cents, and I felt like a millionaire.",
+   "query": "1950s teenage girl working store counter",
+   "caption": "SEVENTY-FIVE CENTS AN HOUR",
+   "cuts": 4,
+   "chapter": "My first job",
+   "moves": true
+  },
+  {
+   "text": "We wore a uniform. A blue smock with a white collar and my name on a little pin. Ruth. No makeup that was too bright, no gum, no sitting down. Ever. If there were no customers, you dusted. If there was no dust, Mrs. Lambert found some.",
+   "query": "1950s shop girls uniform store",
+   "caption": "NO SITTING DOWN",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Now, the store wasn't shelves like today, sweetheart. It was counters. Long wooden counters with glass on top, divided into little sections, and a girl behind each one. You didn't grab things yourself. You pointed, and the girl handed it to you. Thread, buttons, ribbon, hairpins, all in little bins with the price on a card.",
+   "query": "1950s five and dime counters merchandise",
+   "caption": "THE COUNTERS",
+   "cuts": 4,
+   "chapter": "The counters",
+   "moves": true
+  },
+  {
+   "text": "The notions counter was the busiest. A spool of thread was ten cents. A card of buttons, fifteen. A package of needles, five. Every woman on our street sewed her own clothes, and her children's clothes, and Woolworth's was where she came for everything but the cloth.",
+   "query": "1950s sewing notions thread buttons",
+   "caption": "TEN CENTS A SPOOL",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Then there was the cosmetics counter, and that's where I wanted to work. Tangee lipstick, the orange one that turned pink on your lips. Evening in Paris perfume, in a cobalt blue bottle, for about a dollar. Pond's cold cream. Little compacts with a mirror inside. The teenage girls stood there for an hour after school, trying on everything and buying nothing. I know. I was one of them.",
+   "query": "vintage cosmetics counter lipstick perfume",
+   "caption": "EVENING IN PARIS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "The toy counter at Christmas was a madhouse. Slinkies. Hula hoops, which had come out two years before and every child in America wanted one. Paper dolls, jacks, marbles, cap guns, yo-yos. The kids pressed their noses on the glass until it was all smudged, and I had to wipe it twenty times a day.",
+   "query": "1950s toy store christmas children",
+   "caption": "NOSES ON THE GLASS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Right by the front door was the candy counter, and it was the most dangerous place in the store for a sixteen-year-old girl on her feet all day. Chocolate creams, peanut clusters, orange slices, all piled up behind glass and sold by weight. A quarter pound of chocolate stars for twenty cents. The girl weighed it on a little silver scale and poured it into a paper bag with a scoop.",
+   "query": "vintage candy counter scale scoop",
+   "caption": "SOLD BY THE POUND",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And the nut machine. A big glass case with a heat lamp inside, and cashews and Spanish peanuts turning slowly under the light. That's what made the whole store smell so good. They put it by the door on purpose, sweetheart. Mister Woolworth was no fool. You walked in for a spool of thread, and you walked out with a bag of hot cashews.",
+   "query": "vintage roasted nuts display store",
+   "caption": "HOT CASHEWS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And in the back, sweetheart, we had pets. Yes. Real ones. A whole corner with goldfish in glass tanks, ten cents a fish. Parakeets in cages, singing all day long. And baby turtles, little green turtles the size of a quarter, in a plastic bowl with a plastic palm tree. Every child in Mansfield had one of those turtles at some point.",
+   "query": "vintage pet department goldfish parakeets",
+   "caption": "TEN CENTS A FISH",
+   "cuts": 4,
+   "chapter": "The pets",
+   "moves": true
+  },
+  {
+   "text": "The turtles were later banned, by the way. In nineteen seventy-five. They carried salmonella, and children put them in their mouths, because of course they did. Danny had one named Ike. It lived for eleven years, longer than his marriage. Don't repeat that.",
+   "query": "baby turtle pet bowl",
+   "caption": "A TURTLE NAMED IKE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "But the heart of the store, honey, was the lunch counter. It ran all along one side. Red stools that spun, chrome trim, a long Formica counter, and a mirror behind it so you could watch yourself eat. There were pies under glass domes, and a big soda machine, and a grill that never turned off.",
+   "query": "1950s Woolworth lunch counter stools",
+   "caption": "THE LUNCH COUNTER",
+   "cuts": 4,
+   "chapter": "The lunch counter",
+   "moves": true
+  },
+  {
+   "text": "A grilled cheese was twenty-five cents. A hot dog was twenty. A cup of coffee was a dime, and the waitress kept filling it for nothing. The ladies from the courthouse came in at noon, every day, the same stools, and ordered the same thing. Tuna on white toast and a cherry Coke.",
+   "query": "1950s diner food grilled cheese coffee",
+   "caption": "A DIME FOR COFFEE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And here's my favorite thing in the whole store. Above the counter hung a row of balloons. Inside each balloon was a little piece of paper with a price. When you ordered a banana split, you got to pop a balloon. Inside it said one cent, or nineteen cents, or the full thirty-nine. Every child in the store would gather around and scream when somebody got the penny.",
+   "query": "1950s banana split ice cream sundae",
+   "caption": "POP A BALLOON",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "I'll tell you a secret. Mrs. Lambert knew which balloon had the penny. And when a little boy came in alone, with his hands full of nickels and his face dirty, she would point at the right one. She never said a word about it. She just pointed.",
+   "query": "1950s boy eating ice cream counter",
+   "caption": "SHE JUST POINTED",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Now I have to tell you something that's not so sweet, because you should know. That same year, nineteen sixty, on the first of February, four young Black college students sat down at the Woolworth's lunch counter in Greensboro, North Carolina. And they asked for a cup of coffee. And they were refused. Because in the South, that counter was for white people only.",
+   "query": "1960 Greensboro sit-in Woolworth lunch counter",
+   "caption": "GREENSBORO, 1960",
+   "cuts": 4,
+   "chapter": "Greensboro",
+   "moves": true
+  },
+  {
+   "text": "They didn't leave. They came back the next day, with more students. And the next. Within weeks there were sit-ins at lunch counters in dozens of cities. People poured ketchup on their heads. They burned them with cigarettes. They sat there anyway. By July, that Greensboro counter was serving everybody.",
+   "query": "1960 civil rights sit-in students",
+   "caption": "THEY SAT THERE ANYWAY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "In Mansfield, our counter served anybody who had a quarter. But I'll be honest with you. When we heard about Greensboro on the radio in the stockroom, some of the girls said those students were troublemakers. I didn't say anything. I wish I had. Part of that counter is in the Smithsonian today. Someday you go see it, and you think about how brave they were.",
+   "query": "Smithsonian Woolworth lunch counter museum",
+   "caption": "I WISH I HAD",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "On Saturdays the whole town came downtown. Farmers in from the county with their wives, boys in letter jackets, mothers with three kids and a list. The store was so packed you couldn't turn around. The register rang all day, that big brass National cash register, with the little numbers that popped up in the window. Ching.",
+   "query": "1950s busy main street saturday shoppers",
+   "caption": "SATURDAY DOWNTOWN",
+   "cuts": 4,
+   "chapter": "Saturdays",
+   "moves": true
+  },
+  {
+   "text": "There was a photo booth by the door. Four pictures for a quarter. You pulled the curtain, and you made faces, and two minutes later a wet strip of photos came out of a slot. Your grandfather and I took four pictures in that booth on our second date. I still have them. They're in the shoebox in my closet, if you want to see.",
+   "query": "vintage photo booth strip couple",
+   "caption": "FOUR FOR A QUARTER",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And there was the record counter. Forty-fives were about sixty-nine cents. The boys would ask me to put on a record so they could listen before they bought it, and they'd listen to the whole thing, and then not buy it. Every Saturday. Elvis, the Everly Brothers, Chubby Checker doing the Twist. I knew every word to every song that year.",
+   "query": "1960s teenagers record store 45 records",
+   "caption": "SIXTY-NINE CENTS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Christmas was the hardest. We stayed open until nine at night, and the line at my register went all the way back to the hardware. People bought tinsel, glass ornaments from Germany, strings of big colored bulbs, and those little ceramic angels with the gold wings. I wrapped presents in red paper until my fingers bled. And on Christmas Eve, Mrs. Lambert gave every girl a box of chocolates and a silver dollar.",
+   "query": "1950s christmas ornaments store display",
+   "caption": "A SILVER DOLLAR",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "I worked at Woolworth's for two summers and one Christmas. Then I went on to other things. But the store stayed. For years. Every time I went downtown, I went in, just to smell it and sit at the counter. Mrs. Lambert retired in nineteen seventy-one. The waitress, Marge, was there until the end.",
+   "query": "1970s main street downtown stores",
+   "caption": "TWO SUMMERS AND ONE CHRISTMAS",
+   "cuts": 4,
+   "chapter": "The end",
+   "moves": true
+  },
+  {
+   "text": "And then the malls came, honey. And then the big stores out by the highway, with the giant parking lots. Main Street got quieter every year. Our Woolworth's closed in the nineteen-eighties. I don't remember the exact day. Nobody does. That's how these places go. Nobody throws a funeral. One day you drive by and it's a cell phone store.",
+   "query": "empty downtown storefront closed",
+   "caption": "NOBODY THREW A FUNERAL",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "In July of nineteen ninety-seven the company closed the last of its Woolworth's stores in America. Four hundred stores, all at once. It was on the news for about one minute. A hundred and eighteen years. Gone. The company is still around under another name, selling sneakers. But the five and dime is gone forever.",
+   "query": "1990s closed store going out of business",
+   "caption": "1879 TO 1997",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "You know what I miss most? It's not the prices, although a grilled cheese for a quarter would be nice. It's that everybody went to the same place. The banker's wife and the farmer's wife stood at the same counter, buying the same thread. You saw your whole town there. You can't buy that with a button on your phone.",
+   "query": "1950s women shopping together store",
+   "caption": "THE WHOLE TOWN",
+   "cuts": 4,
+   "chapter": "What I miss",
+   "moves": true
+  },
+  {
+   "text": "So the next time you're in one of those big stores, sweetheart, I want you to imagine a red stool that spins, and a balloon over your head with a penny inside. And a lady named Mrs. Lambert who knows which one to point at. That was Woolworth's.",
+   "query": "vintage soda fountain red stools chrome",
+   "caption": "THAT WAS WOOLWORTH'S",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Now tell me, did your grandparents have a five and dime in their town? What was it called? Tell me in the comments, I'd love to know. And come back tomorrow, because Grandma has a lot more stories. Goodnight, sweetheart.",
+   "query": "1950s house at night porch light",
+   "caption": "GOODNIGHT, SWEETHEART",
+   "cuts": 4,
+   "moves": true
+  }
+ ],
+ "voice": "en_US-lessac-high"
+}

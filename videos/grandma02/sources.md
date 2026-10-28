@@ -1,0 +1,8 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Seat belts: front lap belts standard on US cars from 1964 (1965 model year); first state seat-belt law, New York 1984.
+- 'More doctors smoke Camels' campaign, R.J. Reynolds, 1946-1952.
+- Rachel Carson, Silent Spring (1962); EPA cancellation of DDT, 1972.
+- Shoe-fitting fluoroscopes: about 10,000 in US stores by the early 1950s; banned by most states by the late 1950s.
+- Ohio allowed 18-20 year olds to buy 3.2 beer until 1988.
+- Paregoric (camphorated tincture of opium) sold for infants in the mid-20th century.
+- Mothers Against Drunk Driving founded 1980.
