@@ -59,9 +59,9 @@ ch("The bells")
 sc("""And then, less than four weeks later, it was over. In Europe, anyway. On Tuesday, the eighth of May, nineteen forty-five, President Truman came on the radio in the morning and said that Germany had surrendered. V-E Day. Victory in Europe. The war with Japan was still going, he said, and there was still work to do. But nobody on Maple Street heard that part.""",
    "1945 VE Day crowd celebration newspaper", "MAY 8, 1945")
 sc("""By that night the whole town was out. The factory whistles at the plants blew and blew. Cars drove up and down Main Street honking, with boys sitting on the hoods. And then the church bells started. First the Lutheran church, then the Catholic one, then every church in Mansfield, all ringing at once, for an hour. Pearl said you could feel it in your teeth.""",
-   "1945 VE Day street celebration cars people", "EVERY CHURCH AT ONCE")
+   "1945 church bells ringing steeple crowd", "EVERY CHURCH AT ONCE")
 sc("""And at the steel mill and the Westinghouse plant, the men walked off the line at noon and nobody stopped them. The bars on Main Street gave out free beer until they ran dry. The Mansfield paper printed one word on the front page, in letters as big as your hand. And the Victory Garden on our corner got trampled flat by people dancing.""",
-   "1945 newspaper headline victory Germany surrenders", "IN LETTERS AS BIG AS YOUR HAND")
+   "1945 factory workers cheering victory Europe", "IN LETTERS AS BIG AS YOUR HAND")
 sc("""On Maple Street they put tables out in the road, and every family brought something. Somebody had a ham they'd been saving. Mrs. Pruitt made a cake with the last of her sugar. Somebody wound up a Victrola on a porch and played Glenn Miller, and people danced in the street in the dark. My mother danced with me on her hip. Pearl said it was the first time she'd seen her smile since the telegram.""",
    "1945 VE Day neighborhood street party dancing", "DANCING IN THE STREET")
 
@@ -77,7 +77,7 @@ sc("""My mother said, a letter from who, Eddie? And Eddie said, he never said. B
 sc("""Then Eddie stood up. He said, I promised Walt I'd tell you two things when I got home. I've been putting it off since March. I'm sorry. The first thing is, he's coming home. They're sending him home this summer. And my mother started to cry, and she said, thank God. Thank God. What's the second thing, Eddie?""",
    "1940s woman crying porch night", "TWO THINGS")
 sc("""And Eddie Pruitt put on his cap, and he looked at me, and he looked at my mother. And he said, Walt said to tell you, Mrs. Miller. He can count too.""",
-   "1940s empty porch night lamp", "HE CAN COUNT TOO")
+   "1940s young soldier face portrait serious", "HE CAN COUNT TOO")
 
 ch("Next time")
 sc("""Tomorrow night, sweethearts, I'll tell you about the summer of nineteen forty-five. The day my father came home on the train to Mansfield, in his uniform, with a cane, and a little girl he had never seen waiting on the platform in a white dress. And what he did when he saw the paper on the kitchen table with my birthday on it. Goodnight. Grandma Ruth will be right here tomorrow night.""",

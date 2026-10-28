@@ -16,7 +16,7 @@ sc("""My senior year, I got up at six. I set my hair the night before on pink sp
 sc("""We had a dress code you wouldn't believe. Skirts had to touch the floor when you knelt down, and the vice principal really would make you kneel in the hallway to check. Boys couldn't let their hair touch their collar. A boy in my class got sent home for wearing blue jeans. Blue jeans! That was for working on the farm, not for school.""",
    "1960s high school hallway students lockers", "KNEEL DOWN")
 sc("""After school I worked at the Woolworth's downtown, three afternoons a week and all day Saturday, for a dollar an hour. I gave half to my mother for the house, because that's what you did. The other half went into a coffee can on my dresser, and I'll tell you what I was saving for in a minute.""",
-   "1960s Woolworth store counter interior", "A DOLLAR AN HOUR")
+   "1960s teenage girl store clerk counter", "A DOLLAR AN HOUR")
 
 ch("John Glenn")
 sc("""Now, the twentieth of February, nineteen sixty-two. That morning they rolled a television set into our school auditorium, a big one on a cart, and the whole school sat on the floor and watched. John Glenn, a Marine from New Concord, Ohio, not even two hours from our house, was going up in a rocket called Friendship Seven.""",
@@ -54,7 +54,7 @@ sc("""That summer of sixty-two was a hot one. On Sundays the whole family drove 
 sc("""And in August, the radio said Marilyn Monroe had died, in Los Angeles. She was only thirty-six. The girls at the Woolworth's counter talked about nothing else for a week. I had a picture of her from a magazine taped inside my closet door. My mother made me take it down when I was twelve. I put it back up when I was sixteen.""",
    "1962 Marilyn Monroe newspaper headline", "AUGUST 1962")
 sc("""That summer two new kinds of stores opened, and nobody in Mansfield paid any attention. In Arkansas a man named Sam Walton opened his first Wal-Mart. And outside Detroit, the Kresge company opened its first Kmart. We all thought downtown would be there forever. It wasn't, honey. But that's another story.""",
-   "1960s discount store opening shoppers", "SUMMER 1962")
+   "1960s discount department store shoppers aisles", "SUMMER 1962")
 
 ch("Thirteen days")
 sc("""And then came October. On Monday, the twenty-second, President Kennedy came on every channel at seven o'clock at night. We all sat in front of our Motorola. He said the Russians had put nuclear missiles in Cuba, ninety miles from Florida. And that any missile fired from Cuba would be treated as an attack by the Soviet Union on the United States.""",
