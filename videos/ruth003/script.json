@@ -1,0 +1,221 @@
+{
+ "id": "ruth003",
+ "angle": "novela chapter 3",
+ "length_scale": 1.45,
+ "title": "The Night the Whole Town Rang Its Bells (1945) | Grandma Ruth, Chapter 3",
+ "scenes": [
+  {
+   "text": "Last night I told you about the flour tin. About the letter my mother burned in the kitchen stove at two in the morning, on Thanksgiving night, nineteen forty-four. And about the one letter at the bottom of the page. F. Grandma Pearl saw it with her own eyes, standing in the dark in her bathrobe. Jack, I know. Stop bouncing. Tonight we find out what she did about it.",
+   "query": "1940s kitchen stove night fire glow",
+   "caption": "LAST NIGHT",
+   "cuts": 8,
+   "moves": true,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Get under the blanket, both of you. Tonight is the winter of nineteen forty-five, and the spring. It's the night the war in Europe ended, and every church bell in Mansfield rang at once. And it's the night a boy from our street came home from England, with a message for my mother. From my father.",
+   "query": "1945 church bell tower small town",
+   "caption": "THE SPRING OF 1945",
+   "cuts": 8,
+   "moves": true
+  },
+  {
+   "text": "Pearl didn't say one word that night. She went back up the stairs, quiet as a cat, and lay in her bed until the sun came up. And in the morning she made the oatmeal, the same as always, and she said good morning, Dorothy, the same as always. My mother never knew she'd been seen. Not for a long, long time.",
+   "query": "1940s elderly woman making breakfast kitchen morning",
+   "caption": "GOOD MORNING, DOROTHY",
+   "cuts": 5,
+   "chapter": "The attic",
+   "moves": true
+  },
+  {
+   "text": "But that afternoon, while my mother pushed me around the block in the carriage, Pearl climbed up into the attic. Up there was a cardboard box with her two boys' school things. Walter's and Frank's. Report cards. Spelling tests. A Mother's Day card from nineteen twenty-six, with a crooked heart. Pearl had kept every one of them.",
+   "query": "1940s attic old cardboard box papers",
+   "caption": "THE BOX IN THE ATTIC",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "She took out one of Frank's spelling tests. Forty years later, when she told me this, she could still describe it. Big slanting letters, in pencil, pressing so hard they went through the paper. Every F looped at the top like a fishhook. She sat on an old trunk in that freezing attic and held that paper for an hour. Then she put it back in the box and never took it out again.",
+   "query": "1920s school paper handwriting pencil old",
+   "caption": "LIKE A FISHHOOK",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "That was my first Christmas, sweethearts. I was four months old, so I don't remember it, but Pearl did. A little tree in the front window with the old glass ornaments, and tinsel that you saved every year and hung back up, strand by strand. And on the top of the tree, a paper star, because the metal for a real one had gone to the war.",
+   "query": "1940s Christmas tree living room window",
+   "caption": "MY FIRST CHRISTMAS",
+   "cuts": 4,
+   "chapter": "The first Christmas",
+   "moves": true
+  },
+  {
+   "text": "And then, nine days before Christmas, the news on the radio turned terrible. The Germans attacked our boys in a forest in Belgium called the Ardennes, in the snow. The Battle of the Bulge, they called it later. Tens of thousands of Americans were killed or wounded or captured. Every family on Maple Street with a son in Europe sat by the radio and didn't sleep.",
+   "query": "1944 Battle of the Bulge soldiers snow",
+   "caption": "THE ARDENNES",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And right after Christmas, the government put meat and butter back on the ration. More stamps, more points, more standing in line at the A and P. Pearl said it was the hardest winter since the Depression. The coal ran short. The milk froze on the porch. And Frank came every single evening, with his arms full.",
+   "query": "1940s ration book stamps grocery store",
+   "caption": "BACK ON THE RATION",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "My father's letters came every week that winter, on thin blue V-mail, from the hospital in England. Short ones at first, because his hands shook. The nurse wrote the first few for him. Then his own handwriting came back, small and neat, every letter straight up and down. Nothing like a fishhook.",
+   "query": "1940s soldier writing letter hospital bed",
+   "caption": "SMALL AND NEAT",
+   "cuts": 4,
+   "chapter": "Letters from England",
+   "moves": true
+  },
+  {
+   "text": "He wrote about the hospital food, and an English girl who brought tea, and a Texas boy in the next bed who sang all night. And at the end of every letter, the same line. Send me a picture of her, Dot. Please. So in February my mother took me to the photographer downtown and had my picture made, in a white dress Pearl had sewn from a flour sack.",
+   "query": "1940s baby portrait photograph studio white dress",
+   "caption": "SEND ME A PICTURE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "The letter that came back was the longest he ever wrote. He said he kept my picture in his shirt pocket. He said he showed it to every nurse. And then, at the very bottom, one more line. You never told me what day she was born, Dot. And my mother read that line, and folded the letter, and put it in her apron pocket. And she didn't answer it. Not in that letter. Not in the next one.",
+   "query": "1940s woman reading letter kitchen table",
+   "caption": "WHAT DAY SHE WAS BORN",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Pearl said that every night that spring, after the house was asleep, she heard my mother at the kitchen table, writing. Writing and tearing. Writing and tearing. In the morning there'd be little pieces of blue V-mail paper in the coal bucket. Pearl never read them. But she said a woman doesn't tear up a letter that says, the eighth of August. She tears up a letter that's trying to explain it.",
+   "query": "1940s woman writing letter kitchen table night lamp",
+   "caption": "WRITING AND TEARING",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Now, I've told you about Mrs. Pruitt next door, the lady who counted on her fingers. She had a son named Eddie. Nineteen years old, red hair, freckles, the kind of boy who'd climb your tree to get your cat down. He was in the infantry in France, the same as my father. In the same division, as it turned out.",
+   "query": "1940s young soldier portrait uniform",
+   "caption": "EDDIE PRUITT",
+   "cuts": 4,
+   "chapter": "Eddie Pruitt",
+   "moves": true
+  },
+  {
+   "text": "In March, Eddie came home. He'd been hit in the shoulder by a German shell in the fall, and his left arm didn't work right anymore. So the Army sent him home early, with a Purple Heart and a discharge paper. The whole street came out when the taxi pulled up. Mrs. Pruitt ran down the steps in her slippers and held him so long the taxi driver got out and lit a cigarette.",
+   "query": "1940s soldier coming home family reunion street",
+   "caption": "HOME EARLY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And here's the thing, sweethearts. Eddie had been in a hospital in England too, before they shipped him home. The very same hospital. In the very same ward as my father. For six weeks they had beds three apart. But Eddie didn't come over to our house to tell my mother. Not that week. Not that month. Pearl said he wouldn't look at our porch at all.",
+   "query": "1940s military hospital ward England beds",
+   "caption": "THREE BEDS APART",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Then came the twelfth of April. A Thursday. My mother was hanging out the wash, and Pearl was in the kitchen with the radio on, and a man broke into the program. He said President Roosevelt had died, that afternoon, at Warm Springs, in Georgia. Pearl dropped a plate. It broke on the floor in three pieces. She kept those three pieces in a drawer for twenty years.",
+   "query": "1945 Roosevelt death newspaper headline",
+   "caption": "APRIL 12, 1945",
+   "cuts": 4,
+   "chapter": "April",
+   "moves": true
+  },
+  {
+   "text": "You have to understand, Roosevelt had been president since before my mother was out of high school. Twelve years. Through the Depression and the whole war. To a lot of people he wasn't a president, he was more like a father. People stood on Main Street and cried in front of strangers. The stores closed. The churches opened at night.",
+   "query": "1945 people mourning Roosevelt street crowd",
+   "caption": "TWELVE YEARS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And the new president was a man nobody knew much about. Harry Truman, from Missouri, who wore round glasses and had run a men's clothing store. Frank said he wouldn't last a year. My father, in his next letter, said, Truman's an artillery man from the last war. He'll be all right. My father was right. My father was usually right.",
+   "query": "1945 Harry Truman sworn in president",
+   "caption": "HARRY TRUMAN",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And then, less than four weeks later, it was over. In Europe, anyway. On Tuesday, the eighth of May, nineteen forty-five, President Truman came on the radio in the morning and said that Germany had surrendered. V-E Day. Victory in Europe. The war with Japan was still going, he said, and there was still work to do. But nobody on Maple Street heard that part.",
+   "query": "1945 VE Day crowd celebration newspaper",
+   "caption": "MAY 8, 1945",
+   "cuts": 4,
+   "chapter": "The bells",
+   "moves": true
+  },
+  {
+   "text": "By that night the whole town was out. The factory whistles at the plants blew and blew. Cars drove up and down Main Street honking, with boys sitting on the hoods. And then the church bells started. First the Lutheran church, then the Catholic one, then every church in Mansfield, all ringing at once, for an hour. Pearl said you could feel it in your teeth.",
+   "query": "1945 VE Day street celebration cars people",
+   "caption": "EVERY CHURCH AT ONCE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And at the steel mill and the Westinghouse plant, the men walked off the line at noon and nobody stopped them. The bars on Main Street gave out free beer until they ran dry. The Mansfield paper printed one word on the front page, in letters as big as your hand. And the Victory Garden on our corner got trampled flat by people dancing.",
+   "query": "1945 newspaper headline victory Germany surrenders",
+   "caption": "IN LETTERS AS BIG AS YOUR HAND",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "On Maple Street they put tables out in the road, and every family brought something. Somebody had a ham they'd been saving. Mrs. Pruitt made a cake with the last of her sugar. Somebody wound up a Victrola on a porch and played Glenn Miller, and people danced in the street in the dark. My mother danced with me on her hip. Pearl said it was the first time she'd seen her smile since the telegram.",
+   "query": "1945 VE Day neighborhood street party dancing",
+   "caption": "DANCING IN THE STREET",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Frank was there, of course. He danced with every lady on the street, even Mrs. Pruitt, and he made them all laugh. And then he came to dance with my mother. And she said no, Frank, I'm tired. In front of everyone. And Frank stood there with his hand out for a second, and then he laughed his big laugh and went to get a beer. Pearl saw his face before he laughed.",
+   "query": "1940s man woman dancing street party night",
+   "caption": "NO, FRANK",
+   "cuts": 4,
+   "chapter": "The message",
+   "moves": true
+  },
+  {
+   "text": "Late, near midnight, Eddie Pruitt came across the street. He'd had a few beers, the way all the boys had that night. He sat down on our porch step next to my mother, with his bad arm in his lap, and for a long time he didn't say anything. He just looked at me, asleep in her arms.",
+   "query": "1940s young veteran sitting porch steps night",
+   "caption": "NEAR MIDNIGHT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Then he said, Mrs. Miller, I was with Walt. In England. Three beds apart. My mother held her breath. Eddie said, he talked about you every night, ma'am. Every single night. He had her picture in his shirt pocket. He showed it to everybody. And then in January, he got a letter. Not from you. And after that he didn't show the picture anymore.",
+   "query": "1940s soldier holding photograph baby",
+   "caption": "NOT FROM YOU",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "My mother said, a letter from who, Eddie? And Eddie said, he never said. But he read it a hundred times, ma'am. And he asked the nurse for a calendar. And he sat in that bed with the calendar, counting on his fingers, back and forth, the way my mother does. And Eddie looked over at his own mother, laughing at a table in the street, and he looked away.",
+   "query": "1940s hospital calendar wall soldier",
+   "caption": "HE ASKED FOR A CALENDAR",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Then Eddie stood up. He said, I promised Walt I'd tell you two things when I got home. I've been putting it off since March. I'm sorry. The first thing is, he's coming home. They're sending him home this summer. And my mother started to cry, and she said, thank God. Thank God. What's the second thing, Eddie?",
+   "query": "1940s woman crying porch night",
+   "caption": "TWO THINGS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And Eddie Pruitt put on his cap, and he looked at me, and he looked at my mother. And he said, Walt said to tell you, Mrs. Miller. He can count too.",
+   "query": "1940s empty porch night lamp",
+   "caption": "HE CAN COUNT TOO",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Tomorrow night, sweethearts, I'll tell you about the summer of nineteen forty-five. The day my father came home on the train to Mansfield, in his uniform, with a cane, and a little girl he had never seen waiting on the platform in a white dress. And what he did when he saw the paper on the kitchen table with my birthday on it. Goodnight. Grandma Ruth will be right here tomorrow night.",
+   "query": "1945 soldier returning train station platform",
+   "caption": "CHAPTER 4: A STRANGER",
+   "cuts": 4,
+   "chapter": "Next time",
+   "moves": true
+  }
+ ],
+ "voice": "en_US-lessac-high"
+}

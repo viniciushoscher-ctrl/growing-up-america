@@ -1,0 +1,10 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- John Glenn's Friendship 7 orbital flight, 20 February 1962; New York ticker-tape parade, 1 March 1962.
+- Cuban Missile Crisis, 16-28 October 1962; President Kennedy's televised address, 22 October 1962.
+- First Wal-Mart opened in Rogers, Arkansas, 2 July 1962; first Kmart in Garden City, Michigan, 1962.
+- US first-class stamp rose from 4 to 5 cents on 7 January 1963.
+- Federal minimum wage $1.15 an hour from September 1961.
+- 'The Twist' by Chubby Checker returned to number one on the Billboard Hot 100 in January 1962.
+- Death of Marilyn Monroe, 4-5 August 1962; Telstar 1 relayed the first live transatlantic television, July 1962.
+- Johnny Carson became host of The Tonight Show on 1 October 1962.
+- Duck and Cover, US Federal Civil Defense Administration film, 1951.

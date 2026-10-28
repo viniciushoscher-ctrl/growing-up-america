@@ -1,0 +1,6 @@
+- Grandma Ruth's Story is a work of fiction told by a narrated character. The history around it is real.
+- Battle of the Bulge (Ardennes Offensive), 16 December 1944 - 25 January 1945.
+- OPA re-rationing of meats and fats, 26 December 1944.
+- Death of President Franklin D. Roosevelt at Warm Springs, Georgia, 12 April 1945; Harry S. Truman sworn in the same day.
+- V-E Day: President Truman's radio announcement of Germany's surrender, 8 May 1945.
+- V-mail (Victory Mail), microfilmed wartime letters, 1942-1945.

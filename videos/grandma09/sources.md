@@ -1,0 +1,8 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Davy Crockett, King of the Wild Frontier, aired on ABC's Disneyland, December 1954 - February 1955; the coonskin cap craze of 1955.
+- Mr. Potato Head, Hasbro, 1952: originally sold as parts for a real potato.
+- Lamson pneumatic tube cash systems, used in department stores from the 1880s.
+- Southdale Center, Edina, Minnesota, the first fully enclosed shopping mall in the US, opened October 1956.
+- S&H Green Stamps trading stamps, Sperry & Hutchinson, from 1896.
+- Evening in Paris perfume by Bourjois, a best-selling five-and-dime fragrance of the 1940s-50s.
+- Christmas Club savings accounts, offered by US banks from the early 1900s.

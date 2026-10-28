@@ -1,0 +1,9 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- R.J. Reynolds 'More Doctors Smoke Camels' advertising campaign, 1946-1952.
+- Smoking and Health: Report of the Advisory Committee to the Surgeon General, 11 January 1964.
+- Shoe-fitting fluoroscopes were used in US shoe stores from the 1920s and banned by most states by the 1960s.
+- Rachel Carson, Silent Spring (1962); the EPA banned DDT for most uses in 1972.
+- US polio epidemic of 1952: about 57,000 cases. Salk vaccine announced effective 12 April 1955; the Cutter incident, April 1955.
+- Frances Oldham Kelsey kept thalidomide off the US market and received the President's Award for Distinguished Federal Civilian Service in 1962.
+- Amphetamine diet pills were widely prescribed in the US in the 1950s and 1960s.
+- Kefauver-Harris Drug Amendments, 1962.
