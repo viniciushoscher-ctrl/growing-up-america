@@ -2,227 +2,262 @@
  "id": "grandma01",
  "angle": "one year of her life (her age + the exact year)",
  "length_scale": 1.45,
- "title": "I Was 12 in 1956. Here's What Life Was Really Like, Sweetheart",
+ "title": "I'm 82. Here's What Growing Up in 1956 America Was Really Like",
  "scenes": [
   {
    "text": "Come sit with me, sweetheart. No, bring the blanket, it's cold tonight. You asked me the other day what it was like when I was your age. Well, I was twelve years old in nineteen fifty-six, and I've been thinking about it ever since you asked. So let me tell you. All of it.",
    "query": "1950s grandmother living room lamp",
    "caption": "COME SIT WITH ME",
    "cuts": 8,
+   "moves": true,
    "chapter": "Intro"
   },
   {
    "text": "My name was Ruth Ann Miller back then. I lived on a street of white houses in Mansfield, Ohio, with my mother, my father, my little brother Danny, and a dog named Skipper who was afraid of the mailman. Nobody locked their doors on our street. I'm not saying that to sound old. It's just true.",
    "query": "1950s small town street houses",
    "caption": "MANSFIELD, OHIO",
-   "cuts": 8
+   "cuts": 8,
+   "moves": true
   },
   {
    "text": "Your world is so big, honey. You can see the whole planet on that little phone. My world was about six blocks wide. But I'll tell you a secret. It didn't feel small. It felt like it had everything in it. Let me show you what I mean.",
    "query": "1950s children walking neighborhood sidewalk",
    "caption": "SIX BLOCKS WIDE",
-   "cuts": 5
+   "cuts": 5,
+   "moves": true
   },
   {
    "text": "My mornings started with the milkman. You've never heard that sound, glass bottles clinking on the porch before the sun was up. Mother left a note in the empty bottle. Two quarts and a pint of cream, please. In winter the cream froze and pushed the little paper cap right up out of the bottle, like a hat.",
    "query": "1950s milkman delivering milk bottles",
    "caption": "THE MILKMAN",
-   "cuts": 3,
-   "chapter": "Mornings"
+   "cuts": 4,
+   "chapter": "Mornings",
+   "moves": true
   },
   {
    "text": "Mother was already in the kitchen when I came down. She wore an apron every day of her life. Breakfast was oatmeal or eggs, toast with real butter, and orange juice made from a frozen can. Father read the Mansfield News Journal at the table and drank his coffee black, and you did not talk to him until he folded that paper.",
    "query": "1950s mother kitchen breakfast family",
    "caption": "BREAKFAST AT SEVEN",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "Then I walked to school. Walked, sweetheart. Nobody drove us. Danny and I went together, and we picked up the Kowalski girls on the corner, and by the time we got to the school there were twenty of us, swinging our lunch pails. Mine was tin, with Roy Rogers on the lid. I loved that lunch pail more than anything I own today.",
    "query": "1950s children walking to school",
    "caption": "WE WALKED",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "School was strict. We stood every morning and said the Pledge of Allegiance with our hands on our hearts. Two years before, Congress had added the words under God, and some of the older teachers still forgot them. The boys wore their hair short and the girls wore dresses. Always dresses. Even in January, with snow up to your knees.",
    "query": "1950s classroom children pledge allegiance",
    "caption": "THE PLEDGE",
-   "cuts": 3,
-   "chapter": "School"
+   "cuts": 4,
+   "chapter": "School",
+   "moves": true
   },
   {
    "text": "My teacher that year was Mrs. Hadley. She had gray hair in a bun and a wooden ruler, and she knew how to use both. We wrote with fountain pens and blotted the ink. If you talked in class, you stood in the corner. If you chewed gum, you wore it on your nose. I only did that once.",
    "query": "1950s teacher classroom blackboard",
    "caption": "MRS. HADLEY",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "And then there were the drills. A bell would ring, and Mrs. Hadley would say, duck and cover. We crawled under our wooden desks and put our hands over our heads. We were practicing for an atomic bomb, honey. Twelve years old. We didn't really understand it. We just did it, and then we went back to arithmetic.",
    "query": "duck and cover school drill children desks",
    "caption": "DUCK AND COVER",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "That year we also lined up in the gym for a shot. The polio vaccine. You don't know how afraid our parents were of polio. Every summer, children got sick, and some never walked again. When Doctor Salk's vaccine came, mothers cried in that gym. I remember mine holding my hand so tight it hurt more than the needle.",
    "query": "1950s children polio vaccine school nurse",
    "caption": "THE POLIO SHOT",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "Now you always ask me about money, so here it is. A bottle of Coca-Cola was a nickel. A comic book was a dime. A loaf of bread was about eighteen cents, and a stamp to mail a letter was three cents. Gasoline was about twenty-two cents a gallon, and a man came out and pumped it for you and washed your windshield too.",
    "query": "1950s gas station attendant pumping gas",
    "caption": "TWENTY-TWO CENTS A GALLON",
-   "cuts": 3,
-   "chapter": "What things cost"
+   "cuts": 4,
+   "chapter": "What things cost",
+   "moves": true
   },
   {
    "text": "My father worked at the Westinghouse plant, making electric ranges and appliances. He made about eighty dollars a week, and on that one paycheck we had a house, a car, food on the table, and a week at the lake every August. Mother didn't work outside the house. Hardly any mothers on our street did. That was just how it was.",
    "query": "1950s factory workers assembly line appliances",
    "caption": "ONE PAYCHECK",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "My allowance was twenty-five cents a week, if I dried the dishes and dusted the front room. Twenty-five cents, sweetheart. And I'll tell you, I felt rich. Because a quarter could get you into the Saturday movie, a bag of popcorn, and still leave a penny or two for candy on the way home.",
    "query": "1950s girl counting coins allowance",
    "caption": "TWENTY-FIVE CENTS",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "Saturday was the best day of the week. In the morning we watched television, but only if we had finished our chores. We had one set, a big wooden box with a little round screen, black and white. Howdy Doody, Mighty Mouse, The Lone Ranger. And when the shows ended, there was a test pattern with an Indian head on it, and that was that.",
    "query": "1950s children watching television set",
    "caption": "ONE TELEVISION",
-   "cuts": 3,
-   "chapter": "Saturdays"
+   "cuts": 4,
+   "chapter": "Saturdays",
+   "moves": true
   },
   {
    "text": "In the afternoon we went to the matinee at the theater downtown. Two cartoons, a newsreel, a serial that always ended with the hero about to fall off a cliff, and then the main picture. Hundreds of children, no grownups, everybody screaming. The poor usher walked up and down the aisle with his flashlight, and nobody paid him any mind.",
    "query": "1950s children movie theater matinee audience",
    "caption": "THE SATURDAY MATINEE",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "On the way home we stopped at Woolworth's. Oh, honey, I wish you could have smelled that store. Popcorn, roasted peanuts, perfume and floor wax. Birds in cages at the back. Goldfish in tanks. Long counters of everything a girl could want, and a lunch counter where you sat on a spinning stool and ordered a cherry Coke.",
    "query": "1950s Woolworth store interior counters",
    "caption": "WOOLWORTH'S",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "And the penny candy. Candy buttons on paper strips. Wax lips. Mary Janes. Bazooka bubble gum with the little comic inside. And candy cigarettes, sweetheart. Little white sticks with red tips, in a box that looked just like the real ones. We'd pretend to smoke them like our fathers did. Nobody thought a thing about it.",
    "query": "1950s penny candy store jars children",
    "caption": "PENNY CANDY",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "That summer, we lived outside. We left after breakfast and came home when the streetlights came on. Nobody knew where we were, and nobody worried. We rode our bicycles everywhere. Mine was a blue Schwinn I bought with birthday money from Grandma Pearl, and I put playing cards in the spokes so it sounded like a motorcycle.",
    "query": "1950s children riding bicycles street",
    "caption": "HOME BY THE STREETLIGHTS",
-   "cuts": 3,
-   "chapter": "The summer of 1956"
+   "cuts": 4,
+   "chapter": "The summer of 1956",
+   "moves": true
   },
   {
    "text": "We played kick the can and red rover until it was too dark to see. We caught lightning bugs in a Mason jar with holes poked in the lid. We drank water straight from the garden hose, warm at first and then cold. And when the ice cream truck came jingling down the street, every door on the block opened at once.",
    "query": "1950s children playing backyard summer",
    "caption": "LIGHTNING BUGS",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "In August, we drove to Lake Erie. Father packed the trunk of our green Chevrolet so tight he had to sit on it to close it. No seat belts, no air conditioning. Danny and I fought in the back seat the whole way, and Mother said, don't make me turn this car around, at least ten times. She never once turned it around.",
    "query": "1950s family car road trip station wagon",
    "caption": "DON'T MAKE ME TURN AROUND",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "That same summer, President Eisenhower signed a law to build the interstate highways. Father read about it at the breakfast table and said, Ruthie, someday you'll drive from here to California without a single stoplight. I laughed at him. I didn't believe it. He was right, of course. He usually was, though I'd never have told him so.",
    "query": "1950s highway construction road building",
    "caption": "THE NEW HIGHWAYS",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "Now, September. I have to tell you about September. On the ninth of September, nineteen fifty-six, Elvis Presley sang on the Ed Sullivan Show. About sixty million Americans watched that night. More than four out of every five televisions in the whole country were tuned to that one show.",
    "query": "1950s family watching television evening",
    "caption": "SIXTY MILLION WATCHED",
-   "cuts": 3,
-   "chapter": "The night Elvis came"
+   "cuts": 4,
+   "chapter": "The night Elvis came",
+   "moves": true
   },
   {
    "text": "I begged to stay up. Father said that boy was a bad influence, and he sat in his chair with his arms crossed the whole time. But when Elvis started to sing Hound Dog, I saw his foot tapping. I saw it, sweetheart. I told your grandfather that story at our wedding, and he laughed until he cried.",
    "query": "1950s teenage girls record player music",
    "caption": "HIS FOOT WAS TAPPING",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "After that, every girl at school wanted a record player. I saved for months and bought my first record at the five and dime. Forty-five rpm, with a big hole in the middle. I played it until it was all scratches. My mother said she'd hear that song in her sleep. I think she secretly liked it too.",
    "query": "1950s record store teenagers vinyl records",
    "caption": "MY FIRST RECORD",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "Our telephone was black, and it was heavy enough to hurt somebody. It sat on a little table in the hall. And we shared the line with three other families. A party line, they called it. You'd pick it up to call your friend, and Mrs. Duncan from down the street would already be on it, talking about her gallbladder.",
    "query": "1950s woman talking rotary telephone",
    "caption": "THE PARTY LINE",
-   "cuts": 3,
-   "chapter": "Home and family"
+   "cuts": 4,
+   "chapter": "Home and family",
+   "moves": true
   },
   {
    "text": "Mother cooked everything from scratch. Pot roast on Sunday, meatloaf on Wednesday, fish on Friday. Jell-O salad with little pieces of fruit stuck in it, for company. Nothing was ever thrown away. Leftover roast became hash, stale bread became pudding, and bacon grease lived in a coffee can next to the stove, for frying.",
    "query": "1950s housewife cooking kitchen stove",
    "caption": "NOTHING WAS WASTED",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "Every night at six o'clock, we sat down to supper together. All four of us, no exceptions. You didn't leave the table until you were excused. You ate what was on your plate, or you sat there looking at it. I sat with a plate of liver and onions until eight thirty once. I still won't eat liver, honey. Not for anybody.",
    "query": "1950s family dinner table eating together",
    "caption": "SUPPER AT SIX",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "And on Sundays, we put on our best clothes and went to church. White gloves, a little hat, shoes that pinched. Then dinner at Grandma Pearl's, with the good china and the whole family around one long table, uncles arguing about the Cleveland Indians and aunts trading recipes in the kitchen.",
    "query": "1950s family Sunday dinner grandmother",
    "caption": "SUNDAYS AT GRANDMA'S",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "In November there was an election, and Eisenhower won again. Ike, everybody called him. Father wore an I Like Ike button on his coat for weeks. At school we held our own pretend vote with paper ballots in a shoebox. Ike won there too, by a lot. I voted for him because I liked his smile. That's how twelve-year-olds vote.",
    "query": "1950s election campaign Eisenhower rally",
    "caption": "I LIKE IKE",
-   "cuts": 3,
-   "chapter": "Fall and the election"
+   "cuts": 4,
+   "chapter": "Fall and the election",
+   "moves": true
   },
   {
    "text": "Thanksgiving was at our house that year. Mother got up at five in the morning to put the turkey in. Twenty-two pounds. We had mashed potatoes, sweet potatoes with little marshmallows on top, green beans and three kinds of pie. Then the men fell asleep in front of the football game, and the women did every single dish by hand.",
    "query": "1950s Thanksgiving dinner family turkey",
    "caption": "TWENTY-TWO POUNDS",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "And Christmas. Oh, sweetheart. The Sears catalog came in the fall, the one we called the Wish Book, and Danny and I circled everything in it. I wanted a doll with real hair that year. On Christmas morning she was under the tree, and I named her Margaret. I still have her. She's in the cedar chest upstairs. I'll show you tomorrow.",
    "query": "1950s children Christmas morning tree presents",
    "caption": "THE WISH BOOK",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "Now, I don't want you to think it was all perfect. It wasn't. Not everybody was welcome on every street, or at every lunch counter, the way I was. Women couldn't do half the things you'll do. And we didn't know half of what we know now about cigarettes or bombs. Some things got better, honey, and they needed to.",
    "query": "1950s city street people downtown crowd",
    "caption": "IT WASN'T PERFECT",
-   "cuts": 3,
-   "chapter": "What I miss"
+   "cuts": 4,
+   "chapter": "What I miss",
+   "moves": true
   },
   {
    "text": "But you asked me what I miss. I miss the sound of the screen door. I miss knowing every family on the street by name. I miss being bored on a summer afternoon, lying in the grass and looking at the clouds with nothing to do and nowhere to be. I don't think children get to be bored anymore. I think that's a loss.",
    "query": "1950s children lying grass summer",
    "caption": "WHAT I MISS",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "Most of all, I miss my mother's kitchen on a Saturday night, with the radio on and the smell of something baking, and my father laughing at something on the television, and Danny asleep on the rug with Skipper. I didn't know it then, sweetheart. I didn't know those were the good old days. Nobody ever does, while they're living them.",
    "query": "1950s family evening home radio",
    "caption": "THE GOOD OLD DAYS",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   },
   {
    "text": "Now, it's late, and your mother will have my hide. But come back tomorrow, and I'll tell you about the first time I drove a car, and the boy who taught me. Your grandfather. Goodnight, sweetheart. And if you liked hearing about the old days, stay close. Grandma has a lot more stories to tell.",
    "query": "1950s house at night porch light",
    "caption": "GOODNIGHT, SWEETHEART",
-   "cuts": 3
+   "cuts": 4,
+   "moves": true
   }
  ],
  "voice": "en_US-lessac-high"

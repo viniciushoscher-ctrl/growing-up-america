@@ -1,5 +1,5 @@
 import sys; sys.path.insert(0, __import__("os").path.join(__import__("os").path.dirname(__file__), "..", "..", "pipeline"))
-from scriptkit import sc, ch, save
+from scriptkit import sc, ch, save, S
 
 # Grandma Ruth 01 · angle 1 (one year of her life, her age + the exact year) · Billionaires Histories, new format
 # I Was 12 in 1956. Here's What Life Was Really Like, Sweetheart
@@ -94,7 +94,10 @@ sc("""Most of all, I miss my mother's kitchen on a Saturday night, with the radi
 sc("""Now, it's late, and your mother will have my hide. But come back tomorrow, and I'll tell you about the first time I drove a car, and the boy who taught me. Your grandfather. Goodnight, sweetheart. And if you liked hearing about the old days, stay close. Grandma has a lot more stories to tell.""",
    "1950s house at night porch light", "GOODNIGHT, SWEETHEART")
 
-save("grandma01", "I Was 12 in 1956. Here's What Life Was Really Like, Sweetheart",
+for s in S:  # documentary look: four photos per scene and the six rotating camera moves
+    s["cuts"], s["moves"] = 4, True
+
+save("grandma01", "I'm 82. Here's What Growing Up in 1956 America Was Really Like",
      ["Grandma Ruth is a narrated character built from real memories and records of the era.",
       "Elvis Presley on The Ed Sullivan Show, 9 September 1956: about 60 million viewers, 82.6% of the TV audience (Nielsen).",
       "Federal-Aid Highway Act signed by Eisenhower, 29 June 1956.",

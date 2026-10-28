@@ -78,9 +78,16 @@ def render_scene(job):
     parts = []
     for k, img in enumerate(imgs):
         f = base + (total - base * n if k == n - 1 else 0)
-        # alternate zoom in / zoom out so consecutive cuts never look the same
-        z = f"1+0.0006*on" if k % 2 == 0 else f"1.18-0.0006*on"
-        zoom = f"zoompan=z='{z}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={f}:s={W}x{H}:fps={FPS}"
+        # six camera moves, rotated per scene, so consecutive cuts never look the same:
+        # zoom in, zoom out, pan right, pan left, tilt down, push in on the upper third (faces)
+        m = (k + i) % 6 if s.get("moves") else k % 2
+        z, x, y = {0: ("1+0.0006*on", "iw/2-(iw/zoom/2)", "ih/2-(ih/zoom/2)"),
+                   1: ("1.18-0.0006*on", "iw/2-(iw/zoom/2)", "ih/2-(ih/zoom/2)"),
+                   2: ("1.15", f"(iw-iw/zoom)*on/{f}", "ih/2-(ih/zoom/2)"),
+                   3: ("1.15", f"(iw-iw/zoom)*(1-on/{f})", "ih/2-(ih/zoom/2)"),
+                   4: ("1.15", "iw/2-(iw/zoom/2)", f"(ih-ih/zoom)*on/{f}"),
+                   5: ("1.05+0.0008*on", "iw/2-(iw/zoom/2)", "ih/4-(ih/zoom/4)")}[m]
+        zoom = f"zoompan=z='{z}':x='{x}':y='{y}':d={f}:s={W}x{H}:fps={FPS}"
         flash = ",fade=t=in:st=0:d=0.12:color=white" if i < 4 and k > 0 else ""  # hook: flash on every cut
         part = out / f"{i}_{k}.mp4"
         run("ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-i", str(img),
