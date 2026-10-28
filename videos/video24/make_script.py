@@ -25,7 +25,7 @@ sc("""Number twenty-two. The console television. Not a small set, but a piece of
 sc("""Turning on that television was a little ceremony. You pulled the knob, and a tiny dot of light appeared in the middle of the screen. Then you waited, maybe half a minute, while the tubes warmed up. Late at night, the station signed off with the national anthem, and then a test pattern with an Indian head drawing, and a long, high tone.""",
    "1960s television test pattern", "THE TEST PATTERN")
 sc("""Number twenty-one. The rabbit ears. On top of the television sat an antenna with two long metal rods. When the picture got snowy, someone had to get up and move them. Sometimes the best picture came only when a child stood holding them. Some families added a piece of aluminum foil to the tips, just in case it helped.""",
-   "1960s television antenna rabbit ears", "21. THE RABBIT EARS")
+   "1960s family watching television living room", "21. THE RABBIT EARS")
 
 ch("Numbers 20 to 16")
 sc("""Number twenty. The hi-fi stereo console. Another long wooden cabinet, this one with a record player hidden under a lid, a radio, and speakers behind cloth. It played Frank Sinatra, Herb Alpert, the soundtrack to The Sound of Music and Christmas albums from the gas station. Children were warned never to touch the needle.""",
@@ -43,7 +43,7 @@ sc("""Number sixteen. The TV Guide. It sat on top of the television, or on the c
 
 ch("Numbers 15 to 11")
 sc("""Number fifteen. The sunburst clock. A clock on the wall with metal rays shooting out in every direction, like a starburst. It was the height of modern style. Some had a little electric hum. Many families also had a wall clock that chimed every hour, which visitors loved and children learned to sleep through.""",
-   "1960s sunburst clock wall", "15. THE SUNBURST CLOCK")
+   "1960s living room interior wall", "15. THE SUNBURST CLOCK")
 sc("""Number fourteen. The telephone table. Or, in many houses, the telephone was in the hallway, on a little table with a seat and a shelf for the phone book. The phone was black or beige, with a rotary dial. Later in the decade, there might be a colorful Princess phone. And there was one phone for the whole family.""",
    "1960s rotary telephone table hallway", "14. THE TELEPHONE TABLE")
 sc("""Number thirteen. The encyclopedias. A full set of World Book or Britannica, lined up on a shelf, sometimes bought one volume at a time from the grocery store, or from a salesman who came to the door. Children used them for school reports, and parents were proud of them. Many sets ended at the letter S because the family stopped buying.""",
@@ -65,7 +65,7 @@ sc("""Number eight. The houseplants. A spider plant hanging in a macrame holder.
 sc("""Number seven. The coffee table. Long and low, made of wood, sometimes with a glass top. On it sat the candy dish, the ashtray, a few magazines like Life, Look, Reader's Digest and The Saturday Evening Post, and maybe a big coffee table book about the national parks.""",
    "1960s coffee table magazines", "7. THE COFFEE TABLE")
 sc("""Number six. The knick-knack shelf. A small wall shelf or a glass cabinet, filled with little figurines. Hummel children, porcelain birds, salt and pepper shakers from vacation, a tiny Eiffel Tower, souvenir spoons and a ceramic dog. Everything was dusted every week, and children were not allowed to play anywhere near it.""",
-   "1960s figurines china cabinet", "6. THE KNICK-KNACKS")
+   "1960s living room china cabinet", "6. THE KNICK-KNACKS")
 
 ch("Numbers 5 to 1")
 sc("""Number five. The piano or organ. Many families had an upright piano, often handed down from grandparents, and children took weekly lessons. In the sixties, home organs from companies like Hammond and Lowrey became popular too. Every Christmas, someone played carols while the whole family sang.""",

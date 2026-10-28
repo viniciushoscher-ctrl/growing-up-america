@@ -35,7 +35,7 @@ sc("""For clothes, teenagers went to The Limited, Chess King, Merry-Go-Round, Co
 sc("""Then there was the shoe store. Nike Air Jordans wouldn't arrive until the following year, but in nineteen eighty-four, kids wanted Nike, Reebok, Converse high-tops and Vans. Girls wanted Keds and jelly shoes. And at the Foot Locker, the clerks wore referee shirts and measured your feet with a metal Brannock device, just like the shoe stores of their parents' day.""",
    "1980s Foot Locker Shoe Store", "THE REFEREE SHIRTS")
 sc("""And there was the toy store, KB Toys or Kay-Bee, packed with He-Man figures, Transformers, which arrived that very year, Care Bears, Strawberry Shortcake and Rubik's Cubes. And everyone was looking for a Cabbage Patch Kid. The year before, at Christmas of nineteen eighty-three, parents had literally fought in stores to get one.""",
-   "1980s Cabbage Patch Kids doll", "CABBAGE PATCH KIDS", modern=True)
+   "Toys R Us store 1980s", "CABBAGE PATCH KIDS", modern=True)
 sc("""And there was the electronics store, where crowds gathered around the newest gadgets. The Sony Walkman, which let you carry your music anywhere. Boom boxes the size of suitcases. Atari and ColecoVision game consoles. And at the very end of January nineteen eighty-four, Apple introduced the Macintosh computer, with a famous television ad during the Super Bowl.""",
    "1980s Electronics Store televisions", "THE NEWEST GADGETS")
 
@@ -75,7 +75,7 @@ sc("""In the afternoon, there was a movie. Many malls had a movie theater with t
 sc("""Families came in the afternoon too. Mothers with strollers. Fathers looking at power tools at Sears. Grandparents resting on the benches. Little kids riding the coin-operated horses and rocket ships. On weekends, there might be a car show in the center court, a craft fair, or a school choir singing.""",
    "1980s Family shopping Mall stroller", "THE WHOLE FAMILY")
 sc("""And at Christmas, the mall was magical. Giant decorations hung from the ceiling. Santa sat on a throne in the center court, and the line to see him stretched for an hour. Shoppers carried armloads of bags. And the sound of carols mixed with the splashing of the fountain.""",
-   "1980s Christmas Mall Santa", "CHRISTMAS AT THE MALL")
+   "Santa Claus children Christmas 1980s Mall", "CHRISTMAS AT THE MALL")
 
 ch("Closing time")
 sc("""By four o'clock, your feet hurt, your money was gone, and your mom was waiting by the fountain. You had a bag from the record store with one cassette in it, a Swatch you'd been saving for, and a story about who you saw at the food court. It had been a great day.""",
@@ -95,7 +95,7 @@ ch("The America we lost")
 sc("""What did we lose? Not just stores. We lost a place where the whole community gathered, under one roof, on a Saturday afternoon. Teenagers, parents, grandparents and toddlers, all in the same place at the same time. Today, we mostly shop alone, on our phones.""",
    "1980s Shopping Mall crowd people", "UNDER ONE ROOF")
 sc("""If you were a teenager in nineteen eighty-four, you remember. The Orange Julius. The arcade. The record store. The fountain full of pennies. Your friends, your feathered hair and your Walkman. The mall was your world, and for a few years, it was everybody's.""",
-   "Sony Walkman 1980s", "IT WAS YOUR WORLD", modern=True)
+   "Teenagers Shopping Mall 1980s", "IT WAS YOUR WORLD", modern=True)
 sc("""So tell us in the comments. What was the name of your mall? What was your favorite store, and what did you always eat at the food court? Did you have a job at the mall? We read every comment. Next time, we're looking at what it meant to turn thirty in nineteen seventy-nine. Thank you for spending this time with me.""",
    "1980s Shopping Mall sign", "WHAT WAS YOUR MALL?")
 
