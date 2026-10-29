@@ -30,7 +30,7 @@ ch("The train")
 sc("""The station was full that day, sweethearts. Every week in the summer of forty-five, trains came in full of soldiers coming home, and half the town would turn out. Mothers, wives, girlfriends with new hats, little brothers who'd grown a foot. A band from the American Legion played on the platform. And then you heard the whistle, way down the line, and everyone pushed forward at once.""",
    "1945 soldiers returning home train station crowd", "THE WHISTLE")
 sc("""My father was almost the last man off. Pearl saw him first. He came down the steps slowly, with a cane, sideways, the way you do when one leg doesn't bend right. He was so thin his uniform looked borrowed. And there was a white scar across his forehead, into his hair, that hadn't been there in nineteen forty-three. Pearl said, oh, my boy. Oh, my boy. And she ran.""",
-   "1945 wounded soldier cane uniform train", "OH, MY BOY")
+   "1945 soldiers returning home train station families", "OH, MY BOY")
 sc("""He held his mother for a long time. Then he looked up, over her shoulder, at my mother. She was standing very still with me on her hip in that white dress, smiling the smile she'd practiced in the mirror. And my father looked at her. And then he looked at me. And Pearl said, for just a second, he didn't smile. Then he did.""",
    "1945 soldier embracing wife baby station", "THEN HE DID")
 sc("""He kissed my mother on the cheek. Not on the mouth, on the cheek. And then he held out his arms for me. And sweethearts, I screamed. Like he was a bear. I'd never seen a man in a uniform up close, and I'd never seen that face, and I screamed and grabbed my mother's neck and wouldn't let go. The whole platform laughed. My father laughed too. But he put his arms down.""",
@@ -70,7 +70,7 @@ sc("""After the cake, my father went out to the backyard by himself and sat on a
 
 ch("The Bible")
 sc("""That night, after everyone went home, my mother put me to bed in my paper crown. My father went to the bookshelf in the front room and took down the family Bible. The big black one that had been in the Miller family since eighteen ninety. In the front were the pages where you wrote the births and the deaths and the marriages. Pearl had written every one, in her careful hand.""",
-   "old family Bible open pages handwriting", "THE FAMILY BIBLE")
+   "family Bible family record page births marriages", "THE FAMILY BIBLE")
 sc("""Walter John Miller, born March third, nineteen eighteen. Francis Joseph Miller, born June twelfth, nineteen twenty. Walter and Dorothy, married April nineteenth, nineteen forty-one. And at the bottom, in fresh blue ink. Ruth Ann Miller, born August eighth, nineteen forty-four. Three ten in the morning. Mansfield General Hospital.""",
    "old Bible family record page births ink", "AUGUST 8, 1944")
 sc("""Pearl watched him from the stairs. He sat in his chair under the lamp with the Bible open on his knees, and he didn't move for a long time. Then she saw his hand. Resting on the page. And one finger at a time, slowly, he was counting. October. November. December. January. All the way down. And then he did it again.""",

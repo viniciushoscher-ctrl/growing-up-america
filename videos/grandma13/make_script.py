@@ -35,7 +35,7 @@ sc("""Behind the counter stood the soda jerk. That's what they called the boy wh
 
 ch("What we drank")
 sc("""Now, the menu. A Coca-Cola from the fountain was a nickel. Bobby made it right there, a squirt of syrup in the glass and then the fizzy soda water from the tap. You could ask for a cherry Coke, or a vanilla Coke, and he'd add a squirt of something else. Or a lime rickey. Or a phosphate, which was soda water with a little acid in it, sour and fizzy, that nobody under eighty has ever heard of.""",
-   "1950s fountain Coca-Cola glass soda counter", "A NICKEL FOR A COKE")
+   "Coca-Cola soda fountain 1950s soda jerk glass", "A NICKEL FOR A COKE")
 sc("""A milkshake was twenty or twenty-five cents. Bobby made it in a tall steel cup on a green Hamilton Beach mixer that whined like an airplane. A malted was a milkshake with a spoonful of malted milk powder, and it tasted like heaven. And he'd give you the glass and the steel cup too, with the leftovers in it, so you really got two milkshakes. Two milkshakes for a quarter, sweetheart.""",
    "1950s milkshake mixer steel cup soda fountain", "TWO MILKSHAKES FOR A QUARTER")
 sc("""And the banana split, for thirty-five cents, if somebody else was paying. Three scoops, vanilla, chocolate and strawberry, a banana cut the long way, chocolate sauce, pineapple, strawberries, whipped cream, chopped nuts, and a cherry on top of each one. Linda and I split one every Friday. That's why it's called a split, Linda said. She was wrong, but I let her think so.""",
@@ -44,7 +44,7 @@ sc("""And the banana split, for thirty-five cents, if somebody else was paying. 
 sc("""And the ice cream soda, honey. That was the real queen of the fountain. Bobby put a squirt of chocolate syrup in a tall glass, a splash of milk, soda water from the tap, and then two scoops of vanilla ice cream floating on top, with whipped cream. Fifteen cents. You ate it with a long spoon and drank it through a paper straw, and the bubbles went up your nose. My mother had one every Saturday after the grocery shopping. It was the only thing she ever bought just for herself.""",
    "1950s ice cream soda tall glass straw", "THE ONLY THING SHE BOUGHT FOR HERSELF")
 sc("""And Grandma Pearl liked a root beer float, which she called a black cow, the way they did when she was a girl. She sat at the end of the counter on Saturday mornings with her pocketbook in her lap and told Bobby Shaw he was too skinny. He'd give her an extra scoop and say, don't tell Mr. Hoffman, Mrs. Miller. She never did.""",
-   "root beer float glass vintage counter", "A BLACK COW")
+   "1950s woman drugstore lunch counter", "A BLACK COW")
 
 ch("The lunch counter")
 sc("""At noon, the counter was full of grownups. Men from the bank and the stores, ladies from shopping, eating lunch on those red stools. A grilled cheese sandwich was about thirty cents. A BLT, forty. A bowl of chili. A slice of pie under a glass dome, with coffee, a quarter. The coffee came in a heavy white cup, and Bobby filled it again without asking until you put your hand over it.""",

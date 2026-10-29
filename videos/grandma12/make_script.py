@@ -61,7 +61,7 @@ ch("8. Wrapping")
 sc("""Trick number eight. Never throw away wrapping paper. Grandma Pearl took every piece off so carefully you'd think it was a bomb, then she ironed it flat with a cool iron and folded it in the cedar chest for next year. Same with the ribbons. Some of our paper was on its fourth Christmas. We teased her about it. I do it myself now.""",
    "1950s woman ironing wrapping paper ribbon", "SHE IRONED IT")
 sc("""And when there wasn't any paper, we used the Sunday funnies. Dick Tracy and Blondie and Little Orphan Annie, all wrapped around a present, with red yarn and a sprig of pine from the tree. Or brown paper from the butcher, with a potato stamp. You cut a star into half a potato, dip it in paint, and stamp it all over. Children love it. And it costs nothing.""",
-   "brown paper gift wrapped twine pine sprig", "THE SUNDAY FUNNIES")
+   "Christmas presents wrapped under tree 1950s", "THE SUNDAY FUNNIES")
 
 ch("9. Homemade gifts")
 sc("""Trick number nine. Make one gift with your own hands. That year I knitted my father a pair of mittens. Grandma Pearl taught me. One thumb was longer than the other, and the left one had a hole I didn't know about. He wore them every winter until nineteen sixty, at the plant, and when they fell apart, he kept them in his dresser drawer. I found them there when he died.""",
