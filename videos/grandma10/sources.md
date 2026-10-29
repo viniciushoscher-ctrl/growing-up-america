@@ -1,0 +1,9 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Inauguration of Dwight D. Eisenhower, 20 January 1953.
+- I Love Lucy, 'Lucy Goes to the Hospital', 19 January 1953: about 44 million viewers.
+- Coronation of Queen Elizabeth II, 2 June 1953.
+- Korean War Armistice Agreement, 27 July 1953; about 36,500 US deaths in the war.
+- Swanson TV dinner introduced 1953 at 98 cents.
+- Chevrolet Corvette introduced 1953; 300 built that model year.
+- Soviet test of the RDS-6s thermonuclear device, 12 August 1953.
+- Disney's Peter Pan released February 1953; the 3-D film boom of 1953.

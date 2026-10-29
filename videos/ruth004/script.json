@@ -1,0 +1,221 @@
+{
+ "id": "ruth004",
+ "angle": "novela chapter 4",
+ "length_scale": 1.45,
+ "title": "Daddy Came Home a Stranger (1945) | Grandma Ruth, Chapter 4",
+ "scenes": [
+  {
+   "text": "Last night I told you about V-E Day, the night every church bell in Mansfield rang at once. And about Eddie Pruitt sitting on our porch step at midnight with his bad arm in his lap, telling my mother that my father was coming home. And then the second thing. Walt said to tell you, Mrs. Miller. He can count too. Emma, you've been thinking about that all day, haven't you? So have I. For eighty years.",
+   "query": "1940s porch night soldier sitting steps",
+   "caption": "LAST NIGHT",
+   "cuts": 8,
+   "moves": true,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Tonight is August of nineteen forty-five. The month the war ended for good. The month I turned one. And the month my father came home on the train and looked at me like he was trying to remember where he'd seen me before. Come here, both of you. This one is hard to tell.",
+   "query": "1945 small town train station platform",
+   "caption": "AUGUST 1945",
+   "cuts": 8,
+   "moves": true
+  },
+  {
+   "text": "All that summer my mother waited. She cleaned the house like the King of England was coming. She took in my father's one good suit, because Pearl said the Army would have made him thin. She practiced, Pearl told me, in front of the mirror in the hall. Practiced smiling. Practiced saying, welcome home, Walt. Over and over, until it sounded right.",
+   "query": "1940s woman looking in mirror hallway",
+   "caption": "SHE PRACTICED SMILING",
+   "cuts": 5,
+   "chapter": "Waiting",
+   "moves": true
+  },
+  {
+   "text": "She never said a word to anyone about Eddie's message. Not to Pearl. Not to Frank. But she stopped eating. By July her dresses hung on her like on a hanger, and the ladies at church said, poor Dorothy, it's the nerves, waiting for her husband. And Mrs. Pruitt nodded and said nothing at all. For once in her life, Mrs. Pruitt said nothing.",
+   "query": "1940s women church summer hats talking",
+   "caption": "IT'S THE NERVES",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And Frank stopped coming. Just like that. After V-E Day, he didn't come by in the evenings anymore. No more coal, no more butter, no more Mairzy Doats. He'd wave from his car if he drove down Maple Street. Pearl said that frightened her more than anything. A man who stops coming around, she said, is a man who knows something is coming.",
+   "query": "1940s man driving car small town street",
+   "caption": "HE STOPPED COMING",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Then, at the end of July, a telegram. But this time the boy on the bicycle was smiling. My mother opened it on the porch with her hands shaking. Arriving Mansfield Monday August six, two-forty P.M. train. All my love, Walt. All my love, it said. My mother read those three words a hundred times. All my love. Did it mean it? Did he know?",
+   "query": "1940s Western Union telegram boy bicycle",
+   "caption": "ALL MY LOVE",
+   "cuts": 4,
+   "chapter": "The telegram",
+   "moves": true
+  },
+  {
+   "text": "Pearl got the white dress out, the one she'd sewn from a flour sack for my photograph. I'd grown since February, so she let out every seam. And on Monday morning my mother curled my hair, what little there was of it, with her fingers and a little sugar water, which is what mothers did then, and put a ribbon in it. I looked, Pearl said, like a little cake.",
+   "query": "1940s baby girl white dress ribbon portrait",
+   "caption": "LIKE A LITTLE CAKE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "The station was full that day, sweethearts. Every week in the summer of forty-five, trains came in full of soldiers coming home, and half the town would turn out. Mothers, wives, girlfriends with new hats, little brothers who'd grown a foot. A band from the American Legion played on the platform. And then you heard the whistle, way down the line, and everyone pushed forward at once.",
+   "query": "1945 soldiers returning home train station crowd",
+   "caption": "THE WHISTLE",
+   "cuts": 4,
+   "chapter": "The train",
+   "moves": true
+  },
+  {
+   "text": "My father was almost the last man off. Pearl saw him first. He came down the steps slowly, with a cane, sideways, the way you do when one leg doesn't bend right. He was so thin his uniform looked borrowed. And there was a white scar across his forehead, into his hair, that hadn't been there in nineteen forty-three. Pearl said, oh, my boy. Oh, my boy. And she ran.",
+   "query": "1945 wounded soldier cane uniform train",
+   "caption": "OH, MY BOY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "He held his mother for a long time. Then he looked up, over her shoulder, at my mother. She was standing very still with me on her hip in that white dress, smiling the smile she'd practiced in the mirror. And my father looked at her. And then he looked at me. And Pearl said, for just a second, he didn't smile. Then he did.",
+   "query": "1945 soldier embracing wife baby station",
+   "caption": "THEN HE DID",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "He kissed my mother on the cheek. Not on the mouth, on the cheek. And then he held out his arms for me. And sweethearts, I screamed. Like he was a bear. I'd never seen a man in a uniform up close, and I'd never seen that face, and I screamed and grabbed my mother's neck and wouldn't let go. The whole platform laughed. My father laughed too. But he put his arms down.",
+   "query": "1940s baby crying mother arms",
+   "caption": "I SCREAMED",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "That first night at home, my mother made his favorite supper. Fried chicken, mashed potatoes and gravy, and a peach pie, with sugar she'd saved for two months. He ate a little. He said it was wonderful. He said it three times. Then he went out on the back porch to smoke, and he sat there in the dark until after midnight, looking at the yard.",
+   "query": "1940s family dinner table fried chicken",
+   "caption": "HE SAID IT THREE TIMES",
+   "cuts": 4,
+   "chapter": "Home",
+   "moves": true
+  },
+  {
+   "text": "He slept on the porch that night, on the glider, with a blanket. He told my mother it was the heat, and that he wasn't used to a soft bed anymore. And maybe that was true. A lot of the boys who came home couldn't sleep inside at first. But Pearl lay awake upstairs listening to that glider squeak back and forth, back and forth, all night long.",
+   "query": "1940s porch glider swing night summer",
+   "caption": "THE GLIDER",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "In the morning, he was up before anyone, making coffee. When I woke up in my crib he was standing in the doorway, just looking at me. Not saying anything. My mother came in behind him and stopped. And he said, very quietly, she's got your eyes, Dot. And my mother said yes. And he said, and whose chin? And he walked away to finish the coffee.",
+   "query": "1940s man standing doorway nursery crib morning",
+   "caption": "AND WHOSE CHIN?",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "On Tuesday he put on his uniform again and took the bus out to the Westinghouse plant, where they were hiring men back from the war. They were already changing the lines from war work back to electric ranges and refrigerators, because everyone in America wanted a new kitchen. He came home with a job on the line starting in September, a dollar ten an hour. He put the paper on the kitchen table without a word.",
+   "query": "1940s factory workers appliance assembly line",
+   "caption": "A DOLLAR TEN AN HOUR",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And that evening, Pearl saw him go across the street to the Pruitts'. He and Eddie sat on the Pruitts' porch steps for an hour, two soldiers, one with a cane and one with an arm that didn't work. Pearl couldn't hear what they said. But when my father came back across the street, he didn't come in the front door. He went around the back.",
+   "query": "1940s two veterans sitting porch talking evening",
+   "caption": "TWO SOLDIERS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "That same afternoon, the radio said something nobody understood. President Truman said that sixteen hours before, an American airplane had dropped a single bomb on a Japanese city called Hiroshima. One bomb. And that it had more power than twenty thousand tons of TNT. An atomic bomb, he called it. My father turned off the radio and said, it's over, then. It's going to be over.",
+   "query": "1945 Truman radio announcement atomic bomb newspaper",
+   "caption": "AUGUST 6, 1945",
+   "cuts": 4,
+   "chapter": "The bomb",
+   "moves": true
+  },
+  {
+   "text": "Pearl said nobody on Maple Street celebrated that day. People didn't know what to think. A whole city, with one bomb. Mrs. Pruitt went to church in the middle of the week, which she never did. And my father sat at the kitchen table with the newspaper for hours, reading the same page, while my mother washed the same plate.",
+   "query": "1945 family reading newspaper kitchen table",
+   "caption": "THE SAME PLATE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And then came Wednesday. The eighth of August, nineteen forty-five. My first birthday. My mother had been saving sugar stamps since June, and she baked a little white cake with one candle in it, and Pearl put a paper crown on my head. The Pruitts came over. Eddie came too, and stood by the door, and wouldn't look at anybody.",
+   "query": "1940s baby first birthday cake one candle",
+   "caption": "AUGUST 8, 1945",
+   "cuts": 4,
+   "chapter": "My first birthday",
+   "moves": true
+  },
+  {
+   "text": "And Frank came. He hadn't been to the house since May. He walked in without knocking, the way he always had, with a huge box in his arms. Inside was a rocking horse. A real one, wooden, painted white with a red saddle, from the department store downtown. It must have cost twenty dollars, a week of a man's pay. For a baby who couldn't walk yet.",
+   "query": "1940s wooden rocking horse toy vintage",
+   "caption": "A ROCKING HORSE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Frank set me up on it, holding me so I wouldn't fall, and I laughed and laughed and grabbed the horse's ears. And everyone in the room looked at me laughing in Frank's arms. And then, Pearl said, every single person in that room looked at my father. And my father looked at Frank. And Frank put me down, and said, well, welcome home, Walt. And held out his hand.",
+   "query": "1940s family party living room tension",
+   "caption": "WELCOME HOME, WALT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "My father shook it. Pearl said that's what she'll never forget. He shook his brother's hand. He said, thank you, Francis, for looking after them. And Frank said, that's what brothers do. And they stood there holding hands a second too long, like two men at the end of a fight, and then Frank laughed his big laugh and went to get a piece of cake.",
+   "query": "1940s two men shaking hands serious",
+   "caption": "THAT'S WHAT BROTHERS DO",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "After the cake, my father went out to the backyard by himself and sat on an upturned bucket by the garden, under the clothesline, where my mother's sheets were hanging. Eddie went out and stood with him for a while. Nobody else dared. Pearl watched them through the kitchen window while she washed the cake plates, and she said she knew. She said she knew right then that the night wasn't over.",
+   "query": "1940s backyard clothesline sheets evening",
+   "caption": "THE NIGHT WASN'T OVER",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "That night, after everyone went home, my mother put me to bed in my paper crown. My father went to the bookshelf in the front room and took down the family Bible. The big black one that had been in the Miller family since eighteen ninety. In the front were the pages where you wrote the births and the deaths and the marriages. Pearl had written every one, in her careful hand.",
+   "query": "old family Bible open pages handwriting",
+   "caption": "THE FAMILY BIBLE",
+   "cuts": 4,
+   "chapter": "The Bible",
+   "moves": true
+  },
+  {
+   "text": "Walter John Miller, born March third, nineteen eighteen. Francis Joseph Miller, born June twelfth, nineteen twenty. Walter and Dorothy, married April nineteenth, nineteen forty-one. And at the bottom, in fresh blue ink. Ruth Ann Miller, born August eighth, nineteen forty-four. Three ten in the morning. Mansfield General Hospital.",
+   "query": "old Bible family record page births ink",
+   "caption": "AUGUST 8, 1944",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Pearl watched him from the stairs. He sat in his chair under the lamp with the Bible open on his knees, and he didn't move for a long time. Then she saw his hand. Resting on the page. And one finger at a time, slowly, he was counting. October. November. December. January. All the way down. And then he did it again.",
+   "query": "1940s man reading lamp armchair night",
+   "caption": "ONE FINGER AT A TIME",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "My mother came downstairs. She stopped in the doorway, the same way he had stopped in my doorway that morning. And he looked up at her. He didn't shout. He didn't say anything. He just closed the Bible, very gently, the way you close a door on a sleeping child, and put it back on the shelf exactly where it had been.",
+   "query": "1940s woman standing doorway night worried",
+   "caption": "HE CLOSED THE BIBLE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Then he took his Army cap off the hook. He picked up his cane. And he walked out the front door, and down the steps, and down Maple Street in the dark, slowly, sideways, the way he walked now. My mother stood on the porch and called his name. Walt. Walt. Once, twice. He didn't turn around.",
+   "query": "1940s man walking alone dark street night",
+   "caption": "HE DIDN'T TURN AROUND",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "He didn't come home that night, sweethearts. Or the next morning, when the radio said we had dropped a second bomb, on a city called Nagasaki. Or the night after that. Tomorrow I'll tell you where my father went for three days, and who found him. And what he brought home with him. Goodnight. Grandma Ruth will be right here tomorrow night.",
+   "query": "1940s empty porch light night house",
+   "caption": "CHAPTER 5: THREE DAYS",
+   "cuts": 4,
+   "chapter": "Next time",
+   "moves": true
+  }
+ ],
+ "voice": "en_US-lessac-high"
+}

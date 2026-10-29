@@ -1,0 +1,5 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Servicemen's Readjustment Act (GI Bill), 1944, including home loan guarantees.
+- Diners Club card, 1950; BankAmericard, 1958.
+- 'Use it up, wear it out, make it do, or do without', a Depression and WWII home-front saying.
+- Cuban Missile Crisis, 16-28 October 1962.

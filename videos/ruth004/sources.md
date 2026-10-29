@@ -1,0 +1,5 @@
+- Grandma Ruth's Story is a work of fiction told by a narrated character. The history around it is real.
+- President Truman's statement on the atomic bombing of Hiroshima, 6 August 1945.
+- Atomic bombing of Nagasaki, 9 August 1945.
+- Return of US servicemen by troop train, summer 1945.
+- US sugar rationing, 1942-1947.

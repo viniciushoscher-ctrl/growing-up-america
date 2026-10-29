@@ -1,0 +1,6 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Flammable Fabrics Act, US Congress, 1953.
+- Ben Cooper and Collegeville boxed Halloween costumes, sold in US dime stores from the 1930s-1950s.
+- Trick-or-Treat for UNICEF began in 1950 in Bridesburg, Philadelphia; the orange collection box followed.
+- Mischief Night and Cabbage Night, regional US names for the night before Halloween.
+- Joel Best, 'The Myth of the Halloween Sadist' (University of Delaware research on candy tampering reports since 1958).

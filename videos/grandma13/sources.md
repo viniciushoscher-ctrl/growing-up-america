@@ -1,0 +1,6 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era. Hoffman's drugstore is a composite.
+- Greensboro sit-ins at the Woolworth's lunch counter, beginning 1 February 1960.
+- Ray Kroc's first McDonald's franchise, Des Plaines, Illinois, 15 April 1955; hamburgers 15 cents.
+- Wurlitzer jukeboxes; 1957 hits including Elvis Presley's 'All Shook Up' and Buddy Holly's 'That'll Be the Day'.
+- Hamilton Beach drink mixers, used in US soda fountains from the 1910s.
+- US soda fountains peaked in the 1940s-50s and declined with chain drugstores and fast food.

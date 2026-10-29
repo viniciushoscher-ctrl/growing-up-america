@@ -1,0 +1,6 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- 'Rudolph the Red-Nosed Reindeer' recorded by Gene Autry, 1949; 'Frosty the Snowman' by Gene Autry, 1950.
+- 'White Christmas' by Bing Crosby (1942), the best-selling single of all time.
+- Bon Ami powder cleanser, used for stenciled window frost in mid-century US homes.
+- Christmas Club savings accounts and mid-century US holiday budgets.
+- Sugar cookie recipe as written by Grandma Ruth: 1 cup butter, 1 cup sugar, 1 egg, 1 tsp vanilla, 2 1/2 cups flour, 1 tsp baking powder; chill overnight; 375 F for about 8 minutes.
