@@ -35,7 +35,7 @@ sc("""Behind the counter stood the soda jerk. That's what they called the boy wh
 
 ch("What we drank")
 sc("""Now, the menu. A Coca-Cola from the fountain was a nickel. Bobby made it right there, a squirt of syrup in the glass and then the fizzy soda water from the tap. You could ask for a cherry Coke, or a vanilla Coke, and he'd add a squirt of something else. Or a lime rickey. Or a phosphate, which was soda water with a little acid in it, sour and fizzy, that nobody under eighty has ever heard of.""",
-   "Coca-Cola soda fountain 1950s soda jerk glass", "A NICKEL FOR A COKE")
+   "1950s soda jerk making drink drugstore fountain", "A NICKEL FOR A COKE")
 sc("""A milkshake was twenty or twenty-five cents. Bobby made it in a tall steel cup on a green Hamilton Beach mixer that whined like an airplane. A malted was a milkshake with a spoonful of malted milk powder, and it tasted like heaven. And he'd give you the glass and the steel cup too, with the leftovers in it, so you really got two milkshakes. Two milkshakes for a quarter, sweetheart.""",
    "1950s milkshake mixer steel cup soda fountain", "TWO MILKSHAKES FOR A QUARTER")
 sc("""And the banana split, for thirty-five cents, if somebody else was paying. Three scoops, vanilla, chocolate and strawberry, a banana cut the long way, chocolate sauce, pineapple, strawberries, whipped cream, chopped nuts, and a cherry on top of each one. Linda and I split one every Friday. That's why it's called a split, Linda said. She was wrong, but I let her think so.""",
