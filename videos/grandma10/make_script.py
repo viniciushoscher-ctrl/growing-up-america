@@ -6,7 +6,7 @@ from scriptkit import sc, ch, save, S
 # Grandma Ruth: born 1944 in Mansfield, Ohio (9 in 1953); brother Danny born 1947; father Walter at the Westinghouse plant; Elm Street. Every price and event is real.
 
 sc("""Sweetheart, you're nine now, aren't you? Nine. That's a good age. I remember nine very well. It was nineteen fifty-three, in Mansfield, Ohio. A new president, a new queen, a war that finally stopped, and the first television set on our street. And I had a pair of roller skates with a key that I wore on a string around my neck, like a medal.""",
-   "1950s girl roller skates sidewalk", "NINE YEARS OLD")
+   "1950s children playing sidewalk street", "NINE YEARS OLD")
 sc("""Let me take you through the whole year, honey. What we ate, what we watched, what things cost, and what we were afraid of. Because nineteen fifty-three was the year a lot of the America you know got started. And some of it is gone forever.""",
    "1953 small town America main street cars", "1953")
 
