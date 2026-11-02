@@ -2,7 +2,7 @@ import sys; sys.path.insert(0, __import__("os").path.join(__import__("os").path.
 from scriptkit import sc, ch, save, S
 
 # Grandma Ruth 16 · Christmas tips (Vinicius, 2/11/2026): do this, avoid that, Christmas dinner
-# 8 Christmas Dinner Mistakes Grandma Would Never Make (Do This Instead)
+# 8 Christmas Dinner Mistakes EVERYONE Makes (Fix Them Before the 25th)
 # Grandma Ruth: born 1944 in Mansfield, Ohio; mother Dorothy, father Walter, brother Danny, Grandma Pearl.
 
 sc("""Sweetheart, I have cooked Christmas dinner for sixty-one years. The first time I was nineteen, newly married, and I burned the rolls, forgot the gravy, and served the turkey raw in the middle. I cried in the pantry while my husband told everybody it was delicious. So believe me, every mistake I'm about to tell you, I either made myself or watched somebody I love make it.""",
@@ -94,7 +94,7 @@ sc("""And tell me in the comments, sweetheart. What's the one dish your family w
 for s in S:  # documentary look: four photos per scene and the six rotating camera moves
     s["cuts"], s["moves"] = 4, True
 
-save("grandma16", "8 Christmas Dinner Mistakes Grandma Would Never Make (Do This Instead)",
+save("grandma16", "8 Christmas Dinner Mistakes EVERYONE Makes (Fix Them Before the 25th)",
      ["Grandma Ruth is a narrated character built from real memories and records of the era.",
       "USDA turkey thawing guidance: about 24 hours in the refrigerator for every 4 to 5 pounds; cold-water thawing with water changed every 30 minutes.",
       "USDA leftovers guidance: refrigerate within 2 hours, eat within 3 to 4 days.",
