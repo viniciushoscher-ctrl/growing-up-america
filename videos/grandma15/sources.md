@@ -1,0 +1,4 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Mid-century American Christmas decorating customs: window candles, glass ornaments from five-and-dime stores, stovetop simmer pots.
+- Common light guideline: about 100 mini lights per foot of tree height.
+- Christmas tree fire safety: keep trees watered and away from heat sources (US Fire Administration).
