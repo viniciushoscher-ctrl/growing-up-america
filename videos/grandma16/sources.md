@@ -1,0 +1,4 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- USDA turkey thawing guidance: about 24 hours in the refrigerator for every 4 to 5 pounds; cold-water thawing with water changed every 30 minutes.
+- USDA leftovers guidance: refrigerate within 2 hours, eat within 3 to 4 days.
+- Cranberry sauce as written by Grandma Ruth: 12 oz fresh cranberries, 1 cup sugar, 1 cup water, about 10 minutes, orange zest.
