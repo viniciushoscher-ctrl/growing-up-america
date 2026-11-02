@@ -90,8 +90,15 @@ def render_scene(job):
         zoom = f"zoompan=z='{z}':x='{x}':y='{y}':d={f}:s={W}x{H}:fps={FPS}"
         flash = ",fade=t=in:st=0:d=0.12:color=white" if i < 4 and k > 0 else ""  # hook: flash on every cut
         part = out / f"{i}_{k}.mp4"
-        run("ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-i", str(img),
-            "-vf", f"scale=2880:-1,{zoom}{flash},{label},format=yuv420p", "-frames:v", str(f),
+        clip = img.with_suffix(".mp4")  # real footage for this cut (film archives): play it instead of zooming a still
+        if clip.exists() and clip.stat().st_size > 20000:
+            src = ["-stream_loop", "-1", "-i", str(clip)]
+            vf = f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},setsar=1,fps={FPS}{flash},{label},format=yuv420p"
+        else:
+            src = ["-loop", "1", "-i", str(img)]
+            vf = f"scale=2880:-1,{zoom}{flash},{label},format=yuv420p"
+        run("ffmpeg", "-y", "-loglevel", "error", *src,
+            "-vf", vf, "-frames:v", str(f),
             "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-r", str(FPS), "-an", str(part))
         parts.append(part)
     (out / f"{i}_list.txt").write_text("".join(f"file '{p.name}'\n" for p in parts))

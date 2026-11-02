@@ -224,6 +224,10 @@ def save_frame(m, f):
         return False
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(m["t"]), "-i", str(m["src"]), "-frames:v", "1",
                     "-vf", "crop=iw:min(ih\\,iw*9/16),scale=2880:-2:flags=lanczos", "-q:v", "2", str(f)], check=True)
+    # the moving footage itself: build.py plays this clip instead of a slow zoom on the still
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(m["t"]), "-i", str(m["src"]), "-t", "14", "-an",
+                    "-vf", "crop=iw:min(ih\\,iw*9/16),scale=1920:1080:flags=lanczos,setsar=1,fps=30",
+                    "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", str(f.with_suffix(".mp4"))])
     return f.exists() and f.stat().st_size > 5000
 
 
