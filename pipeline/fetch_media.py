@@ -223,7 +223,15 @@ def save_frame(m, f):
         return False
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(m["t"]), "-i", str(m["src"]), "-frames:v", "1",
                     "-vf", "crop=iw:min(ih\\,iw*9/16),scale=2880:-2:flags=lanczos", "-q:v", "2", str(f)], check=True)
-    return f.exists() and f.stat().st_size > 5000
+    ok = f.exists() and f.stat().st_size > 5000
+    if ok:  # moving footage too (Vinicius, 2/11/2026: "coloque videos no video, nao somente imagens"):
+        # 12 s of the film from the same moment, 16:9, no sound; build.py plays it instead of zooming the still
+        clip = f.with_suffix(".mp4")
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(m["t"]), "-i", str(m["src"]), "-t", "12", "-an",
+                        "-vf", "crop=iw:min(ih\\,iw*9/16),scale=1920:1080:flags=lanczos,setsar=1,fps=30",
+                        "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", str(clip)])
+        if not (clip.exists() and clip.stat().st_size > 50000): clip.unlink(missing_ok=True)
+    return ok
 
 
 # objects that survive in museums and car shows: a photo taken today still shows the real 1950s thing

@@ -90,9 +90,15 @@ def render_scene(job):
         zoom = f"zoompan=z='{z}':x='{x}':y='{y}':d={f}:s={W}x{H}:fps={FPS}"
         flash = ",fade=t=in:st=0:d=0.12:color=white" if i < 4 and k > 0 else ""  # hook: flash on every cut
         part = out / f"{i}_{k}.mp4"
-        run("ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-i", str(img),
-            "-vf", f"scale=2880:-1,{zoom}{flash},{label},format=yuv420p", "-frames:v", str(f),
-            "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-r", str(FPS), "-an", str(part))
+        clip = img.with_suffix(".mp4")  # moving film footage saved by fetch_media: play it, looped if the cut is longer
+        if clip.exists():
+            run("ffmpeg", "-y", "-loglevel", "error", "-stream_loop", "-1", "-i", str(clip),
+                "-vf", f"scale={W}:{H},setsar=1,fps={FPS}{flash},{label},format=yuv420p", "-frames:v", str(f),
+                "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-r", str(FPS), "-an", str(part))
+        else:
+            run("ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-i", str(img),
+                "-vf", f"scale=2880:-1,{zoom}{flash},{label},format=yuv420p", "-frames:v", str(f),
+                "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-r", str(FPS), "-an", str(part))
         parts.append(part)
     (out / f"{i}_list.txt").write_text("".join(f"file '{p.name}'\n" for p in parts))
     vid = out / f"{i}_v.mp4"
