@@ -7,7 +7,8 @@ from PIL import Image, ImageStat
 
 API = "https://commons.wikimedia.org/w/api.php"
 HEADERS = {"User-Agent": "growing-up-america-channel/1.0 (github.com/viniciushoscher-ctrl/growing-up-america)"}
-_cache = {}
+_CF = pathlib.Path(".commons_cache.json")  # searches survive a restart (Commons throttles hard)
+_cache = json.loads(_CF.read_text()) if _CF.exists() else {}
 
 
 def api_pages(params):
@@ -15,26 +16,26 @@ def api_pages(params):
     key = json.dumps(params, sort_keys=True)
     if key in _cache:
         return _cache[key]
-    for attempt in range(8):
+    for attempt in range(25):
         time.sleep(1.5)
         r = requests.get(API, params=params, headers=HEADERS, timeout=60)
         if r.status_code == 200:
             try:
                 pages = r.json().get("query", {}).get("pages", {})
-                _cache[key] = pages
+                _cache[key] = pages; _CF.write_text(json.dumps(_cache))
                 return pages
             except ValueError:
                 pass
-        time.sleep(5 * (attempt + 1))
+        time.sleep(min(90, 10 * (attempt + 1)))
     raise SystemExit(f"Commons API kept failing for {params['gsrsearch']}")
 
 
 def download(url):
-    for attempt in range(8):
+    for attempt in range(25):
         r = requests.get(url, headers=HEADERS, timeout=120)
         if r.status_code == 200:
             return r.content
-        time.sleep(5 * (attempt + 1))
+        time.sleep(min(90, 10 * (attempt + 1)))
     raise SystemExit(f"download failed: {url}")
 
 
@@ -114,7 +115,7 @@ def ia_search(words):
             if r.ok: return r.json()["response"]["docs"]
         except (requests.RequestException, ValueError, KeyError):
             pass
-        time.sleep(5 * (attempt + 1))
+        time.sleep(min(90, 10 * (attempt + 1)))
     return []
 
 
@@ -239,16 +240,22 @@ def main(video):
     script = json.loads((d / "script.json").read_text())
     (d / "media").mkdir(exist_ok=True)
     used, credits, last, own = set(), [], None, []  # own: frames found for this video, for reuse
+    pf = d / "credits.partial.json"  # resume: an interrupted run keeps the cuts it already saved
+    partial = json.loads(pf.read_text()) if pf.exists() else {}
     for i, s in enumerate(script["scenes"]):
         for k in range(s.get("cuts", 2)):
             f = d / "media" / f"{i}_{k}.jpg"
+            if not DRY and f.name in partial and f.exists() and f.stat().st_size > 5000:
+                c = partial[f.name]
+                if c: credits.append(c); used.add(c.get("title"))
+                last = f; own.append(f); continue
             q, fm = s["query"], None
             if s.get("film", wants_film(q)):
                 fm = pick_film(q)
                 if fm and (DRY or save_frame(fm, f)):
                     if DRY: print("SCENE", i, k, "|", q, "| FILM", fm["title"]); last = last or True; continue
                     last = f; own.append(f); credits.append({k2: v for k2, v in fm.items() if k2 not in ("src", "t")} | {"scene": i, "cut": k})
-                    print(i, k, "film", fm["title"], "fit", fm.get("fit")); continue
+                    print(i, k, "film", fm["title"], "fit", fm.get("fit")); partial[f.name] = credits[-1]; pf.write_text(json.dumps(partial)); continue
                 fm = None
             m = None
             # period photos first; a modern photo only when nothing else exists ("modern": true allows it, e.g. a restored car)
@@ -265,18 +272,18 @@ def main(video):
             if m is None and fm:
                 if DRY: print("SCENE", i, k, "|", s["query"], "| FILM", fm["title"]); last = last or True; continue
                 last = f; own.append(f); credits.append({k2: v for k2, v in fm.items() if k2 not in ("src", "t")} | {"scene": i, "cut": k})
-                print(i, k, "film", fm["title"], "fit", fm.get("fit")); continue
+                print(i, k, "film", fm["title"], "fit", fm.get("fit")); partial[f.name] = credits[-1]; pf.write_text(json.dumps(partial)); continue
             if m is None:  # search exhausted: reuse the last photo rather than fail the whole video
                 if DRY: print("SCENE", i, k, "|", s["query"], "|", "REUSE" if last else "NONE"); last = last or True; continue
                 if last is None: raise SystemExit("no photo found for scene %d: %s" % (i, s["query"]))
                 # a random recent frame rather than always the last one: video14 showed one miner four scenes in a row
-                f.write_bytes(random.choice(own[-12:-1] or own or [last]).read_bytes()); print(i, k, "reuse"); continue
+                f.write_bytes(random.choice(own[-12:-1] or own or [last]).read_bytes()); print(i, k, "reuse"); partial[f.name] = None; pf.write_text(json.dumps(partial)); continue
             used.add(m["title"])
             if DRY:
                 print("SCENE", i, k, "|", s["query"], "|", m["title"]); last = True; continue
             f.write_bytes(download(m["url"])); last = f; own.append(f)
             credits.append({**m, "scene": i, "cut": k})
-            print(i, k, m["title"], m["license"], "fit", m.get("fit"))
+            print(i, k, m["title"], m["license"], "fit", m.get("fit")); partial[f.name] = credits[-1]; pf.write_text(json.dumps(partial))
     if not DRY: (d / "credits.json").write_text(json.dumps(credits, indent=2))
 
 
