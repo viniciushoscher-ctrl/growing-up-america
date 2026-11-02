@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- USDA: ground beef is safe at an internal temperature of 160 F.
+- Recipe as written by Grandma Ruth: 2 lb 80/20 ground beef, 1 cup milk, 1 cup crushed saltines, 1 onion, 2 eggs, 1 tsp salt, 1/2 tsp pepper, 1 tbsp Worcestershire; glaze 1/2 cup ketchup, 2 tbsp brown sugar, 1 tbsp yellow mustard; 350 F for 45 min, glaze, about 15 min more to 160 F; rest 10 min.

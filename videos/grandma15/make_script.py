@@ -2,7 +2,7 @@ import sys; sys.path.insert(0, __import__("os").path.join(__import__("os").path.
 from scriptkit import sc, ch, save, S
 
 # Grandma Ruth 15 · Christmas tips only, new direction (Vinicius, 2/11/2026): do this, avoid that, decorating
-# 9 Christmas Decorating Mistakes Grandma Would Never Make (Do This Instead)
+# 9 Christmas Decorating Mistakes That Make Your Home Look CHEAP (AVOID These)
 # Grandma Ruth: born 1944 in Mansfield, Ohio; mother Dorothy, father Walter, brother Danny, Grandma Pearl.
 
 sc("""Sweetheart, come sit with me a minute. I drove past the new houses by the highway last night, and I counted. Eleven inflatable snowmen. Four of them were lying face down in the yard. And I thought, my mother would have laughed until she cried. Because in eighty years of Christmases, I've learned that a beautiful house at Christmas has nothing to do with how much you buy.""",
@@ -96,7 +96,7 @@ sc("""And tell me in the comments, sweetheart. What's the one ornament on your t
 for s in S:  # documentary look: four photos per scene and the six rotating camera moves
     s["cuts"], s["moves"] = 4, True
 
-save("grandma15", "9 Christmas Decorating Mistakes Grandma Would Never Make (Do This Instead)",
+save("grandma15", "9 Christmas Decorating Mistakes That Make Your Home Look CHEAP (AVOID These)",
      ["Grandma Ruth is a narrated character built from real memories and records of the era.",
       "Mid-century American Christmas decorating customs: window candles, glass ornaments from five-and-dime stores, stovetop simmer pots.",
       "Common light guideline: about 100 mini lights per foot of tree height.",
