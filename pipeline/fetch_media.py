@@ -239,6 +239,7 @@ def save_frame(m, f):
 OBJECT = re.compile(r"vintage|museum|Chevrolet|Cadillac|Ford|Plymouth|Edsel|Mustang|Schwinn|Lionel|Sputnik|Explorer 1|Pyrex|"
                     r"Corning|Tupperware|Mixmaster|Princess telephone|Mason jars|Formica", re.I)
 
+FILM_FIRST = bool(os.environ.get("FILM_FIRST"))  # archive footage first, Commons only as a fallback (moving clips; Commons throttles)
 DRY = bool(os.environ.get("DRY"))  # DRY=1: only search and print which photo each scene would get (no downloads)
 CLIP = load_clip()
 
@@ -258,7 +259,7 @@ def main(video):
                 if c: credits.append(c); used.add(c.get("title"))
                 last = f; own.append(f); continue
             q, fm = s["query"], None
-            if s.get("film", wants_film(q)):
+            if s.get("film", FILM_FIRST or wants_film(q)):
                 fm = pick_film(q)
                 if fm and (DRY or save_frame(fm, f)):
                     if DRY: print("SCENE", i, k, "|", q, "| FILM", fm["title"]); last = last or True; continue
@@ -272,7 +273,7 @@ def main(video):
                 while m is None and len(q.split()) > 2:  # query too narrow: drop the last word and retry
                     q = " ".join(q.split()[:-1]); m = pick(q, used, old)
                 if m or not old: break
-                if not s.get("film", wants_film(s["query"])):  # no period photo on Commons: try a film frame
+                if not s.get("film", FILM_FIRST or wants_film(s["query"])):  # no period photo on Commons: try a film frame
                     fm = pick_film(s["query"])
                     if fm and (DRY or save_frame(fm, f)):
                         break
