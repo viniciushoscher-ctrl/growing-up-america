@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Chex Party Mix recipe first printed on Chex cereal boxes in the early 1950s (Ralston Purina).
+- Recipe as written by Grandma Ruth: 9 cups cereal squares, 1 cup mixed nuts, 1 cup pretzels, 1 cup bagel chips; 6 tbsp butter, 2 tbsp Worcestershire, 1 1/2 tsp seasoned salt, 3/4 tsp garlic powder, 1/2 tsp onion powder; 250 F for 1 hour, stirring every 15 minutes.

@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Pomanders: oranges studded with whole cloves, a centuries-old European custom.
+- Christmas tree lots commonly give away trimmed lower branches.

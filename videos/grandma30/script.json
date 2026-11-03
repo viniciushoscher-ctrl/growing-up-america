@@ -1,0 +1,185 @@
+{
+ "id": "grandma30",
+ "angle": "everyday recipe",
+ "length_scale": 1.45,
+ "title": "The Pinto Beans EVERYONE's Grandma Made (Why Yours Stay HARD)",
+ "scenes": [
+  {
+   "text": "Sweetheart, in nineteen fifty-four, when the plant cut my father's hours to three days a week, we ate pinto beans and cornbread four nights out of seven. And I'm going to tell you a secret. I didn't know we were poor. I thought it was the best supper in the world. A pot of beans with a ham hock, a skillet of cornbread, and a glass of cold buttermilk.",
+   "query": "pot of pinto beans ham hock",
+   "caption": "I DIDN'T KNOW WE WERE POOR",
+   "cuts": 8,
+   "moves": true,
+   "chapter": "Intro"
+  },
+  {
+   "text": "But these days, people tell me their beans never get soft. They cook them for hours and they're still hard in the middle, or they split and turn to mush on the outside while they're hard inside. So tonight I'm giving you Grandma Pearl's pinto beans. Creamy, tender, every single bean, with a rich broth you'll want to drink. Every step, and the four reasons beans stay hard.",
+   "query": "hard dry beans spoon",
+   "caption": "WHY THEY STAY HARD",
+   "cuts": 8,
+   "moves": true
+  },
+  {
+   "text": "Grandma Pearl kept a brown crock bean pot on the back of her stove for as long as I knew her. During the Depression, a pound of dried pinto beans cost about a nickel, and it fed her family of nine with cornbread. She said, beans and cornbread together are as good as meat. And she was right, honey. The doctors say the same thing today.",
+   "query": "brown crock bean pot stove",
+   "caption": "AS GOOD AS MEAT",
+   "cuts": 5,
+   "chapter": "Pearl's bean pot",
+   "moves": true
+  },
+  {
+   "text": "Every Monday, Pearl picked over a pound of beans at the kitchen table, put them to soak in a big bowl, and covered them with a dish towel. On Tuesday morning, they went on the stove with whatever she had. A ham bone from Sunday, a piece of salt pork, or a few slices of bacon. By supper, the whole farmhouse smelled like beans and smoke.",
+   "query": "dried beans soaking bowl",
+   "caption": "EVERY MONDAY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "When I was nine, she let me do the picking. She poured the beans on a white plate, a handful at a time, and I pushed them across with my finger, looking for little stones, broken beans, and the shriveled ones. I found a stone the size of a pea once, and she gave me a penny for it. She said, that's a penny and a tooth you saved.",
+   "query": "picking through dried beans plate",
+   "caption": "A PENNY AND A TOOTH",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Here's what you need, honey. One pound of dried pinto beans. One smoked ham hock, or a meaty ham bone, or four slices of thick bacon. One onion, chopped. Three cloves of garlic. One bay leaf. About ten cups of water. And salt and pepper. That's it. If you want them the Texas way, add a teaspoon of cumin and a little chili powder.",
+   "query": "dried pinto beans ham hock onion",
+   "caption": "ONE POUND OF BEANS",
+   "cuts": 4,
+   "chapter": "What you need",
+   "moves": true
+  },
+  {
+   "text": "Now, the most important ingredient isn't on the list. It's fresh beans. Dried beans don't last forever, honey. After a year or two on the shelf, they get so dry and hard that they'll never soften, no matter how long you cook them. If that bag has been in your pantry since the last president, throw it out and buy new ones.",
+   "query": "old bag of beans pantry",
+   "caption": "SINCE THE LAST PRESIDENT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "How do you tell? Fresh pinto beans are bright, speckled, pink and tan, and they have a little shine. Old beans look faded and dull, sometimes almost gray, and some are wrinkled. Buy them from a busy store that sells a lot of beans, where the bags don't sit around. In the stores near me, the Mexican groceries always have the freshest beans in town.",
+   "query": "fresh speckled pinto beans close up",
+   "caption": "BRIGHT AND SPECKLED",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step one, the soak. Pick through the beans, rinse them, and put them in a big bowl with enough cold water to cover them by three inches. They'll double in size. Leave them overnight, eight to twelve hours. Soaking makes them cook faster and more evenly, so you don't get the mushy outside and hard middle.",
+   "query": "beans soaking water bowl overnight",
+   "caption": "COVER BY THREE INCHES",
+   "cuts": 4,
+   "chapter": "Soaking",
+   "moves": true
+  },
+  {
+   "text": "If you forgot to soak them, my mother's quick soak. Put the beans in a pot, cover them with water, bring them to a boil for two minutes, then turn off the heat, put the lid on, and let them sit for one hour. That's almost as good as a whole night. Then drain them, rinse them, and start cooking with fresh water.",
+   "query": "pot of beans boiling stove",
+   "caption": "THE QUICK SOAK",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And here's a little secret for hard water. If your water leaves white spots on the faucet, it's hard, and hard water keeps beans hard too. The minerals toughen the skins. Add a small pinch of baking soda, about an eighth of a teaspoon, to the soaking water. Just a pinch. More than that and the beans taste soapy and turn to mush.",
+   "query": "pinch of baking soda spoon",
+   "caption": "JUST A PINCH",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step two. Drain the soaked beans and rinse them. In your big heavy pot, cook the onion in a spoon of bacon grease or oil until it's soft, then the garlic for a minute. Add the beans, the ham hock, the bay leaf, and ten cups of fresh water. Bring it up to a boil, then turn it right down to the lowest simmer, just a bubble now and then.",
+   "query": "ham hock beans pot simmering",
+   "caption": "THE LOWEST SIMMER",
+   "cuts": 4,
+   "chapter": "Cooking",
+   "moves": true
+  },
+  {
+   "text": "This is mistake number two, the one that ruins the most beans. Boiling them hard. A rolling boil bangs the beans around, splits the skins, and turns the outsides to mush before the insides are done. Beans want a lazy simmer. Put the lid on, tilted a little, and leave them alone for two to three hours. Stir every half hour, gently.",
+   "query": "split mushy beans pot",
+   "caption": "A LAZY SIMMER",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And keep them covered with liquid the whole time. If the water drops below the top of the beans, add hot water from the kettle, never cold. Cold water shocks them, and Pearl swore it made them tough. I've never tested it, honey, because I've never dared go against Grandma Pearl.",
+   "query": "pouring hot water kettle into pot",
+   "caption": "NEVER COLD WATER",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step three, the salt. When do you add it? Pearl added salt at the start, and so do I, a teaspoon and a half with the water. People will tell you salt keeps beans hard. That's an old wives' tale. Salt in the water actually makes the skins softer and the beans season all the way through. Beans salted only at the end taste flat inside.",
+   "query": "salt spoon pot of beans",
+   "caption": "AN OLD WIVES' TALE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "But what really does keep beans hard is acid. Tomatoes, vinegar, ketchup, molasses, lemon. If you add any of those at the start, your beans can cook all day and never get soft. That's mistake number three. Wait until the beans are completely tender, and then stir in the tomatoes or the vinegar. That's why baked beans take so long. They're full of molasses and tomato from the start.",
+   "query": "can of tomatoes added to pot",
+   "caption": "ACID KEEPS THEM HARD",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "How do you know they're done? Scoop out five beans on a spoon, blow on them, and taste all five. Not one. Five. If every one is creamy all the way through, with no chalk in the middle, they're done. If even one is firm, give them another half hour. Then take out the ham hock, pull off the meat, chop it, and put it back in the pot.",
+   "query": "spoonful of tender pinto beans",
+   "caption": "TASTE FIVE, NOT ONE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Pearl's last trick. Take one cup of beans out, mash them with a fork, and stir them back into the pot. The broth turns thick and creamy and silky. Then simmer with the lid off for fifteen minutes. Taste for salt and pepper. That broth, honey, is what we called pot likker, and we sopped up every drop with the cornbread.",
+   "query": "mashing beans thick broth",
+   "caption": "POT LIKKER",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So the four reasons beans stay hard, sweetheart. One, old beans. Buy fresh. Two, boiling them hard instead of a lazy simmer. Three, acid too early, the tomatoes, vinegar or molasses. Wait until they're soft. And four, hard water. A tiny pinch of baking soda in the soak. Fix those four things and your beans will be creamy every single time.",
+   "query": "creamy pinto beans bowl",
+   "caption": "FOUR REASONS",
+   "cuts": 4,
+   "chapter": "Four reasons they stay hard",
+   "moves": true
+  },
+  {
+   "text": "And you can't have beans without cornbread. Put two tablespoons of bacon grease in a cast iron skillet and put it in a four hundred twenty-five degree oven to get smoking hot. Meanwhile, stir together one cup of cornmeal, one cup of flour, a tablespoon of baking powder, a teaspoon of salt and a spoon of sugar if you're a Northerner, like me.",
+   "query": "cast iron skillet cornmeal",
+   "caption": "IF YOU'RE A NORTHERNER",
+   "cuts": 4,
+   "chapter": "The cornbread",
+   "moves": true
+  },
+  {
+   "text": "Then one egg and one and a quarter cups of buttermilk, and a quarter cup of melted butter. Stir just until it comes together. Pour the batter into the hot skillet. It should sizzle loud. That sizzle is what makes the crunchy brown crust. Bake for twenty minutes, until it's golden on top. Cut it in wedges right in the skillet.",
+   "query": "cornbread batter sizzling skillet",
+   "caption": "IT SHOULD SIZZLE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Serve the beans in deep bowls with the cornbread on the side, or crumbled right on top, the way my father ate it. Chopped raw onion on top, and a spoon of chow chow relish if you have it. The leftovers keep five days in the icebox and freeze for three months. And on the third day, mash them up and fry them in bacon grease for refried beans.",
+   "query": "beans and cornbread bowl onion",
+   "caption": "THE WAY MY FATHER ATE IT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So one more time, honey. Fresh beans, picked over and soaked overnight. A ham hock and an onion. Salt at the start. The lowest simmer, two to three hours, lid tilted, hot water only. No tomatoes or vinegar until they're soft. Taste five beans. Mash a cup for a creamy broth. And a skillet of cornbread with a loud sizzle. That's the supper I grew up on, and I'd still choose it over any steak.",
+   "query": "family supper beans cornbread table",
+   "caption": "OVER ANY STEAK",
+   "cuts": 4,
+   "chapter": "Grandma's kitchen",
+   "moves": true
+  },
+  {
+   "text": "Tell me in the comments, sweetheart. Sugar in your cornbread, or no sugar? I know that one starts arguments at every family reunion in America. I read every comment. Every day I'm bringing you another recipe from my kitchen. Good night, honey.",
+   "query": "cornbread wedge butter plate",
+   "caption": "SUGAR OR NO SUGAR?",
+   "cuts": 4,
+   "moves": true
+  }
+ ],
+ "voice": "en_US-lessac-high"
+}

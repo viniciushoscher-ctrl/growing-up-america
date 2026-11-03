@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Recipe as written by Grandma Ruth: 2 lb boneless chicken thighs, 1 onion, 4 garlic cloves, 2 cans (4 oz) green chiles, 3 cans white beans, 4 cups chicken broth, 2 tsp cumin, 1 tsp oregano, 1 tsp chili powder; 4 oz cream cheese, 1/2 cup sour cream, juice of 1 lime.
+- Blooming ground spices in hot fat releases their fat-soluble aroma compounds.
