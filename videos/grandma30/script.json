@@ -7,13 +7,13 @@
   {
    "text": "Sweetheart, in nineteen fifty-four, when the plant cut my father's hours to three days a week, we ate pinto beans and cornbread four nights out of seven. And I'm going to tell you a secret. I didn't know we were poor. I thought it was the best supper in the world. A pot of beans with a ham hock, a skillet of cornbread, and a glass of cold buttermilk.",
    "query": "pot of pinto beans ham hock",
-   "caption": "I DIDN'T KNOW WE WERE POOR",
+   "caption": "I DIDN'T KNOW",
    "cuts": 8,
    "moves": true,
    "chapter": "Intro"
   },
   {
-   "text": "But these days, people tell me their beans never get soft. They cook them for hours and they're still hard in the middle, or they split and turn to mush on the outside while they're hard inside. So tonight I'm giving you Grandma Pearl's pinto beans. Creamy, tender, every single bean, with a rich broth you'll want to drink. Every step, and the four reasons beans stay hard.",
+   "text": "But these days, people tell me their beans never get soft. They cook them for hours and they're still hard in the middle, or they split and turn to mush on the outside while they're hard inside. So tonight I'm giving you Grandma Pearl's pinto beans. Creamy, tender, every single bean, with a rich broth you'll want to drink. Every step, and the four reasons beans stay hard. And stay with me, because reason number three is the one nobody believes until it happens to them.",
    "query": "hard dry beans spoon",
    "caption": "WHY THEY STAY HARD",
    "cuts": 8,
@@ -50,7 +50,7 @@
    "moves": true
   },
   {
-   "text": "Now, the most important ingredient isn't on the list. It's fresh beans. Dried beans don't last forever, honey. After a year or two on the shelf, they get so dry and hard that they'll never soften, no matter how long you cook them. If that bag has been in your pantry since the last president, throw it out and buy new ones.",
+   "text": "Now, the most important ingredient isn't on the list. It's fresh beans. Dried beans don't last forever, honey. After a year or two on the shelf, they get so dry and hard that they'll never soften, no matter how long you cook them. If that bag has been in your pantry since the last president, throw it out and buy new ones. In a minute I'll show you how to tell fresh beans from old ones at the store.",
    "query": "old bag of beans pantry",
    "caption": "SINCE THE LAST PRESIDENT",
    "cuts": 4,
@@ -72,7 +72,7 @@
    "moves": true
   },
   {
-   "text": "If you forgot to soak them, my mother's quick soak. Put the beans in a pot, cover them with water, bring them to a boil for two minutes, then turn off the heat, put the lid on, and let them sit for one hour. That's almost as good as a whole night. Then drain them, rinse them, and start cooking with fresh water.",
+   "text": "If you forgot to soak them, my mother's quick soak. Put the beans in a pot, cover them with water, bring them to a boil for two minutes, then turn off the heat, put the lid on, and let them sit for one hour. That's almost as good as a whole night. Then drain them, rinse them, and start cooking with fresh water. If this is helping you, honey, tap the like button for me. It helps Grandma more than you know.",
    "query": "pot of beans boiling stove",
    "caption": "THE QUICK SOAK",
    "cuts": 4,
@@ -101,7 +101,7 @@
    "moves": true
   },
   {
-   "text": "And keep them covered with liquid the whole time. If the water drops below the top of the beans, add hot water from the kettle, never cold. Cold water shocks them, and Pearl swore it made them tough. I've never tested it, honey, because I've never dared go against Grandma Pearl.",
+   "text": "And keep them covered with liquid the whole time. If the water drops below the top of the beans, add hot water from the kettle, never cold. Cold water shocks them, and Pearl swore it made them tough. I've never tested it, honey, because I've never dared go against Grandma Pearl. Before I go on, the salt, because an old wives' tale has fooled people about it for a hundred years.",
    "query": "pouring hot water kettle into pot",
    "caption": "NEVER COLD WATER",
    "cuts": 4,
@@ -136,7 +136,7 @@
    "moves": true
   },
   {
-   "text": "So the four reasons beans stay hard, sweetheart. One, old beans. Buy fresh. Two, boiling them hard instead of a lazy simmer. Three, acid too early, the tomatoes, vinegar or molasses. Wait until they're soft. And four, hard water. A tiny pinch of baking soda in the soak. Fix those four things and your beans will be creamy every single time.",
+   "text": "So the four reasons beans stay hard, sweetheart. One, old beans. Buy fresh. Two, boiling them hard instead of a lazy simmer. Three, acid too early, the tomatoes, vinegar or molasses. Wait until they're soft. And four, hard water. A tiny pinch of baking soda in the soak. Fix those four things and your beans will be creamy every single time. But I'm not done, because coming up is the other half of the supper.",
    "query": "creamy pinto beans bowl",
    "caption": "FOUR REASONS",
    "cuts": 4,
@@ -161,7 +161,7 @@
   {
    "text": "Serve the beans in deep bowls with the cornbread on the side, or crumbled right on top, the way my father ate it. Chopped raw onion on top, and a spoon of chow chow relish if you have it. The leftovers keep five days in the icebox and freeze for three months. And on the third day, mash them up and fry them in bacon grease for refried beans.",
    "query": "beans and cornbread bowl onion",
-   "caption": "THE WAY MY FATHER ATE IT",
+   "caption": "MY FATHER'S WAY",
    "cuts": 4,
    "moves": true
   },
@@ -174,7 +174,7 @@
    "moves": true
   },
   {
-   "text": "Tell me in the comments, sweetheart. Sugar in your cornbread, or no sugar? I know that one starts arguments at every family reunion in America. I read every comment. Every day I'm bringing you another recipe from my kitchen. Good night, honey.",
+   "text": "Tell me in the comments, sweetheart. Sugar in your cornbread, or no sugar? I know that one starts arguments at every family reunion in America. I read every comment. Every day I'm bringing you another recipe from my kitchen. And if you want another one tonight, the whole playlist of Grandma's recipes is right there on your screen, and I'll see you in the next video. Good night, honey.",
    "query": "cornbread wedge butter plate",
    "caption": "SUGAR OR NO SUGAR?",
    "cuts": 4,
