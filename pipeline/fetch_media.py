@@ -32,9 +32,12 @@ def api_pages(params):
 
 def download(url):
     for attempt in range(25):
-        r = requests.get(url, headers=HEADERS, timeout=120)
-        if r.status_code == 200:
-            return r.content
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=120)
+            if r.status_code == 200:
+                return r.content
+        except requests.RequestException:
+            pass
         time.sleep(min(90, 10 * (attempt + 1)))
     raise SystemExit(f"download failed: {url}")
 
