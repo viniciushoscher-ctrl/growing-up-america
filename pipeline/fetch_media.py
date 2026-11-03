@@ -18,7 +18,10 @@ def api_pages(params):
         return _cache[key]
     for attempt in range(25):
         time.sleep(1.5)
-        r = requests.get(API, params=params, headers=HEADERS, timeout=60)
+        try:
+            r = requests.get(API, params=params, headers=HEADERS, timeout=60)
+        except requests.RequestException:
+            time.sleep(min(90, 10 * (attempt + 1))); continue
         if r.status_code == 200:
             try:
                 pages = r.json().get("query", {}).get("pages", {})
