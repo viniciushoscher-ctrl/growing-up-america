@@ -1,0 +1,2 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Recipe as written by Grandma Ruth: 3 lb bone-in chicken, onion, 2 carrots, 2 celery stalks, bay leaf, 10 cups water, simmer 1 hour; dumplings 2 cups flour, 1 tbsp baking powder, 1 tsp salt, 3 tbsp cold butter, 3/4 cup cold milk; covered 15 minutes.
