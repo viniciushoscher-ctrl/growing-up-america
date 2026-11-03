@@ -2,7 +2,7 @@
  "id": "grandma21",
  "angle": "everyday recipe",
  "length_scale": 1.45,
- "title": "The Chicken and Dumplings EVERYONE's Grandma Made (Why Yours Turn GUMMY)",
+ "title": "Chicken and Dumplings EVERYONE's Grandma Made (Why Yours Are GUMMY)",
  "scenes": [
   {
    "text": "Sweetheart, when anybody in our family was sick, or sad, or had a new baby, or lost somebody, Grandma Pearl showed up at the door with a big enamel pot wrapped in a towel. Chicken and dumplings. She never called first, she never asked what you needed. She just knew. And I've done the same thing for sixty years, because there is nothing a pot of chicken and dumplings can't make a little better.",
@@ -13,7 +13,7 @@
    "chapter": "Intro"
   },
   {
-   "text": "But today, when young people make dumplings, they come out heavy and gummy, like wet paste, or they fall apart in the broth until it's just cloudy soup. So tonight I'm giving you Grandma Pearl's recipe. Light, fluffy dumplings on top of a rich chicken broth. Every step, and the four mistakes that make dumplings gummy. It feeds six, and it costs less than a fast food lunch for two.",
+   "text": "But today, when young people make dumplings, they come out heavy and gummy, like wet paste, or they fall apart in the broth until it's just cloudy soup. So tonight I'm giving you Grandma Pearl's recipe. Light, fluffy dumplings on top of a rich chicken broth. Every step, and the four mistakes that make dumplings gummy. It feeds six, and it costs less than a fast food lunch for two. And stay with me, because the fourth mistake is the one nearly everybody makes, and it has nothing to do with the dough.",
    "query": "fluffy dumplings broth bowl",
    "caption": "NOT LIKE WET PASTE",
    "cuts": 8,
@@ -50,7 +50,7 @@
    "moves": true
   },
   {
-   "text": "For the dumplings. Two cups of flour. One tablespoon of baking powder. One teaspoon of salt. Three tablespoons of cold butter, or chicken fat skimmed from the pot like Pearl did. And about three quarters of a cup of cold milk. That's all. Not one thing fancy.",
+   "text": "For the dumplings. Two cups of flour. One tablespoon of baking powder. One teaspoon of salt. Three tablespoons of cold butter, or chicken fat skimmed from the pot like Pearl did. And about three quarters of a cup of cold milk. That's all. Not one thing fancy. In a minute I'll tell you the step that decides whether they come out light or like paste, and it takes no skill at all.",
    "query": "flour baking powder milk butter bowl",
    "caption": "NOTHING FANCY",
    "cuts": 4,
@@ -72,7 +72,7 @@
    "moves": true
   },
   {
-   "text": "Step two. Take the chicken out and let it cool on a plate. Pour the broth through a strainer and throw out the tired vegetables. They gave everything they had. When the chicken is cool enough, pull the meat off the bones in big bites and throw away the skin and bones. Now chop the other carrot and celery fresh, and put them back in the broth to cook for ten minutes.",
+   "text": "Step two. Take the chicken out and let it cool on a plate. Pour the broth through a strainer and throw out the tired vegetables. They gave everything they had. When the chicken is cool enough, pull the meat off the bones in big bites and throw away the skin and bones. Now chop the other carrot and celery fresh, and put them back in the broth to cook for ten minutes. If this is helping you, honey, tap the like button for me. It helps Grandma more than you know.",
    "query": "shredded chicken plate kitchen",
    "caption": "THE TIRED VEGETABLES",
    "cuts": 4,
@@ -101,9 +101,9 @@
    "moves": true
   },
   {
-   "text": "Step four. Drop the dough by big spoonfuls on top of the bubbling stew, about the size of a golf ball, close together but not touching. They'll double in size. Use two spoons, one to scoop and one to push it off. Dip the spoons in the hot broth first so the dough slides right off.",
+   "text": "Step four. Drop the dough by big spoonfuls on top of the bubbling stew, about the size of a golf ball, close together but not touching. They'll double in size. Use two spoons, one to scoop and one to push it off. Dip the spoons in the hot broth first so the dough slides right off. Now, the next step is the one that makes or breaks them.",
    "query": "dropping dumplings into stew spoon",
-   "caption": "THE SIZE OF A GOLF BALL",
+   "caption": "GOLF BALL SIZE",
    "cuts": 4,
    "moves": true
   },
@@ -129,7 +129,7 @@
    "moves": true
   },
   {
-   "text": "So the four mistakes, sweetheart. Mistake one. Stirring the dough too much. If you beat it smooth, you get tough, gummy dumplings. A few stirs and stop. Mistake two. Warm butter and warm milk. Cold makes the little pockets that puff up. Keep them in the icebox until the second you use them.",
+   "text": "So the four mistakes, sweetheart. Mistake one. Stirring the dough too much. If you beat it smooth, you get tough, gummy dumplings. A few stirs and stop. Mistake two. Warm butter and warm milk. Cold makes the little pockets that puff up. Keep them in the icebox until the second you use them. And mistake four, I'll say it again in a minute, because nobody listens the first time.",
    "query": "mixing dough bowl kitchen",
    "caption": "A FEW STIRS AND STOP",
    "cuts": 4,
@@ -181,7 +181,7 @@
    "moves": true
   },
   {
-   "text": "Tell me in the comments, sweetheart. Who in your family made the dish everybody got when they were sick? I read every comment, and tomorrow I'll bring you another one from my kitchen. Good night, honey.",
+   "text": "Tell me in the comments, sweetheart. Who in your family made the dish everybody got when they were sick? I read every comment, and tomorrow I'll bring you another one from my kitchen. And if you want another one tonight, the whole playlist of Grandma's recipes is right there on your screen, and I'll see you in the next video. Good night, honey.",
    "query": "warm kitchen evening window",
    "caption": "WHO MADE YOURS?",
    "cuts": 4,

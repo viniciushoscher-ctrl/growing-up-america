@@ -6,8 +6,8 @@ from scriptkit import sc, ch, save, S
 
 sc("""Sweetheart, I've been to a lot of Christmas dinners in eighty-two years. And I can tell you, the most beautiful Christmas table I ever sat at cost less than ten dollars. It was my mother's, in nineteen fifty-two, and it was made of pine branches from the yard, a white bedsheet, and four candles. People who came to our house that night talked about that table for years.""",
    "1950s Christmas dinner table candles", "LESS THAN TEN DOLLARS")
-sc("""And last year I went to a house where they had spent three hundred dollars on table decorations, and it looked like a store shelf fell over on it. So tonight I'm giving you nine Christmas table mistakes that make a table look cheap, no matter what you spent. And for every one, the old way to fix it for almost nothing.""",
-   "cluttered Christmas table decorations", "LIKE A STORE SHELF FELL OVER")
+sc("""And last year I went to a house where they had spent three hundred dollars on table decorations, and it looked like a store shelf fell over on it. So tonight I'm giving you nine Christmas table mistakes that make a table look cheap, no matter what you spent. And for every one, the old way to fix it for almost nothing. And stay with me, because the last mistake is one nobody thinks about, and it costs five dollars to fix.""",
+   "cluttered Christmas table decorations", "A STORE SHELF FELL OVER")
 
 ch("1. The tall centerpiece")
 sc("""Mistake number one. A centerpiece so tall that nobody can see across the table. Big vases, tall branches, towers of ornaments. It looks grand when the table is empty, but the minute people sit down, Aunt Carol is talking to a wall of greenery. A Christmas table is for faces, honey. Not for decorations.""",
@@ -25,7 +25,7 @@ sc("""And if you want a little sparkle, use only one metal. All gold, or all sil
    "brass candlesticks polished table", "WE WERE NOT RICH")
 
 ch("3. The plastic tablecloth")
-sc("""Mistake number three. The shiny plastic tablecloth with printed holly on it. Nothing makes a table look cheaper, faster. It wrinkles, it shines under the lights, and it squeaks when you put a plate down. In the fifties, a plastic tablecloth was for the kitchen and the picnic. Never for Christmas dinner.""",
+sc("""Mistake number three. The shiny plastic tablecloth with printed holly on it. Nothing makes a table look cheaper, faster. It wrinkles, it shines under the lights, and it squeaks when you put a plate down. In the fifties, a plastic tablecloth was for the kitchen and the picnic. Never for Christmas dinner. In a minute I'll show you what my mother used instead, and you already own it.""",
    "plastic tablecloth printed holly", "IT SQUEAKS")
 sc("""The fix costs nothing. A plain white flat bedsheet, ironed, folded under at the ends. That's exactly what my mother used. Nobody can tell it's a sheet once the plates are on. Or a length of plain burlap or cotton from the fabric store for a few dollars. Plain fabric always looks richer than printed plastic. Always.""",
    "white linen tablecloth ironed", "A WHITE BEDSHEET")
@@ -33,7 +33,7 @@ sc("""The fix costs nothing. A plain white flat bedsheet, ironed, folded under a
 ch("4. No real greenery")
 sc("""Mistake number four. Plastic garland and fake berries. Real greenery is free, honey, and nothing smells like Christmas the way it does. Go out to the yard, or ask a neighbor with a pine tree, or ask at the Christmas tree lot for the trimmed branches they cut off the bottom. Most lots give them away. Some leave them in a pile by the fence.""",
    "fresh pine branches cut", "REAL GREENERY IS FREE")
-sc("""Lay the branches flat down the middle of the table, overlapping like shingles. Tuck in a few sprigs of holly, or rosemary from the store, and some pinecones from the yard. That's your runner. Mist it with water the night before so it stays fresh. And put a towel underneath at the ends, so the sap doesn't touch the tablecloth.""",
+sc("""Lay the branches flat down the middle of the table, overlapping like shingles. Tuck in a few sprigs of holly, or rosemary from the store, and some pinecones from the yard. That's your runner. Mist it with water the night before so it stays fresh. And put a towel underneath at the ends, so the sap doesn't touch the tablecloth. If this is helping you, honey, tap the like button for me. It helps Grandma more than you know.""",
    "pine branch table runner pinecones", "OVERLAPPING LIKE SHINGLES")
 
 ch("5. Bright overhead lights")
@@ -48,7 +48,7 @@ sc("""And put a small vase of greenery or a jar candle in the bathroom too, swee
    "guest bathroom candle towel pine", "THE GUEST TOWEL")
 
 ch("6. Paper napkins")
-sc("""Mistake number six. Paper napkins with Santa on them. I understand, honey, nobody wants to iron. But a real cloth napkin, even a cheap one, changes the whole table. You can buy plain white cotton napkins in a pack for a few dollars and use them every Christmas for twenty years.""",
+sc("""Mistake number six. Paper napkins with Santa on them. I understand, honey, nobody wants to iron. But a real cloth napkin, even a cheap one, changes the whole table. You can buy plain white cotton napkins in a pack for a few dollars and use them every Christmas for twenty years. I'll show you my mother's trick.""",
    "cloth napkins folded table setting", "A REAL CLOTH NAPKIN")
 sc("""And here's my mother's trick for making them look special. Tie each one with a piece of red yarn or kitchen twine, and tuck in a little sprig of pine or rosemary. Or a single candy cane. Lay it right on the plate. It takes ten minutes for the whole table, and it looks like you hired somebody.""",
    "napkin tied twine rosemary sprig", "LIKE YOU HIRED SOMEBODY")
@@ -60,7 +60,7 @@ sc("""So clear the decorations to one low line down the middle. Put the big serv
    "elegant uncluttered dinner table", "ROOM TO BREATHE")
 
 ch("8. Nothing personal")
-sc("""Mistake number eight. A table with nothing personal on it. You can buy a beautiful table setting in any store, and it will look like any store. What makes a table yours is one small thing that tells people they belong there. In our house, it was name cards.""",
+sc("""Mistake number eight. A table with nothing personal on it. You can buy a beautiful table setting in any store, and it will look like any store. What makes a table yours is one small thing that tells people they belong there. In our house, it was name cards. Wait until you see what my mother did.""",
    "place card handwritten name table", "SOMETHING PERSONAL")
 sc("""My mother wrote each person's name on a little card in her round handwriting, and propped it on a walnut or tucked it in a pinecone. Or write each name on a paper tag and tie it to an ornament, and let people take the ornament home. My grandchildren still have the little glass balls with their names in gold paint from when they were small.""",
    "ornament name tag place setting", "THEY TAKE IT HOME")
@@ -77,8 +77,8 @@ sc("""And one more piece of advice, the most practical one. Set the table the ni
 ch("Grandma's ten-dollar table")
 sc("""So here is my ten-dollar Christmas table, honey. A white sheet, ironed. Pine branches from the yard down the middle, low. A few pinecones and clove oranges. Plain white candles in jars and glasses. Cloth napkins tied with red yarn and a sprig of green. A name on every plate. Two colors. Overhead light off. That's all. It will look like a magazine.""",
    "simple elegant Christmas table pine candles", "THE TEN-DOLLAR TABLE")
-sc("""Tell me in the comments, sweetheart. What did your family's Christmas table look like when you were little? Did you have the good china, or paper plates? I read every comment. Good night, honey. Merry Christmas.""",
-   "vintage family Christmas dinner", "WHAT DID YOUR TABLE LOOK LIKE?")
+sc("""Tell me in the comments, sweetheart. What did your family's Christmas table look like when you were little? Did you have the good china, or paper plates? I read every comment. And if you want another one tonight, the whole playlist of Grandma's Christmas tips is right there on your screen, and I'll see you in the next video. Good night, honey. Merry Christmas.""",
+   "vintage family Christmas dinner", "WHAT WAS YOUR TABLE LIKE?")
 
 for s in S:
     s["cuts"], s["moves"] = 4, True

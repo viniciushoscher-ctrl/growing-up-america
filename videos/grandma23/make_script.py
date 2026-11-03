@@ -6,7 +6,7 @@ from scriptkit import sc, ch, save, S
 
 sc("""Sweetheart, I have a confession. For twenty years, my gingerbread men were hard as roof shingles. My grandchildren used them as hockey pucks on the kitchen floor. My son-in-law said he chipped a tooth. And all that time, the recipe for soft gingerbread was sitting in Grandma Pearl's handwriting in a tin box in my own pantry. I just never looked.""",
    "gingerbread men cookies Christmas", "HARD AS ROOF SHINGLES")
-sc("""So tonight I'm giving you Pearl's gingerbread men. Soft and chewy in the middle, a little crisp on the edges, with that deep molasses flavor that smells like Christmas the minute the oven door opens. Every ingredient, every step, and the mistakes that turn gingerbread into a brick. Get your pencil, honey.""",
+sc("""So tonight I'm giving you Pearl's gingerbread men. Soft and chewy in the middle, a little crisp on the edges, with that deep molasses flavor that smells like Christmas the minute the oven door opens. Every ingredient, every step, and the mistakes that turn gingerbread into a brick. Get your pencil, honey. And stay with me, because Pearl's third secret surprised me most, and it's the easiest of all.""",
    "soft gingerbread cookies plate", "SOFT AND CHEWY")
 
 ch("Pearl's tin box")
@@ -23,7 +23,7 @@ sc("""Here's what you need, honey. Three cups of flour. One and a half teaspoons
    "ginger cinnamon spices measuring spoons", "A WHOLE TABLESPOON")
 sc("""In another bowl. Three quarters of a cup of butter, softened. Three quarters of a cup of dark brown sugar, packed. One egg. Half a cup of molasses, the regular kind, not blackstrap. Blackstrap is bitter, honey, and it's the reason some gingerbread tastes like medicine. And one teaspoon of vanilla.""",
    "molasses jar brown sugar butter", "NOT BLACKSTRAP")
-sc("""Notice, sweetheart, the brown sugar. Most gingerbread recipes use white sugar. Brown sugar holds moisture, and that's Pearl's first secret for a soft cookie. The molasses does the same. Together they keep the middle chewy for a whole week.""",
+sc("""Notice, sweetheart, the brown sugar. Most gingerbread recipes use white sugar. Brown sugar holds moisture, and that's Pearl's first secret for a soft cookie. The molasses does the same. Together they keep the middle chewy for a whole week. In a minute I'll tell you Pearl's second secret, the one that made mine hard as shingles for twenty years.""",
    "dark brown sugar spoon bowl", "BROWN SUGAR HOLDS MOISTURE")
 
 sc("""And use fresh spices, honey. That jar of ginger in the back of your cupboard from three Christmases ago tastes like dust. Ground spices lose their flavor after about a year. Smell it. If it doesn't make your nose tingle, buy a new jar. It's the difference between gingerbread that tastes like Christmas and gingerbread that tastes like cardboard.""",
@@ -32,17 +32,17 @@ sc("""And measure the molasses this way. Rub the inside of your measuring cup wi
    "pouring molasses measuring cup", "BUTTER THE CUP")
 
 ch("Step by step")
-sc("""Step one. Beat the butter and brown sugar until smooth, then beat in the egg, the molasses and the vanilla. It will look a little curdled. Don't worry about that. Then add the flour mixture in three parts, mixing slowly until it's all one soft, dark dough. It will be sticky. That's right.""",
+sc("""Step one. Beat the butter and brown sugar until smooth, then beat in the egg, the molasses and the vanilla. It will look a little curdled. Don't worry about that. Then add the flour mixture in three parts, mixing slowly until it's all one soft, dark dough. It will be sticky. That's right. If this is helping you, honey, tap the like button for me. It helps Grandma more than you know.""",
    "gingerbread dough mixing bowl", "IT WILL BE STICKY")
 sc("""Step two. Divide it in half, pat each half into a flat disk, wrap it in wax paper and put it in the icebox for at least three hours, or overnight. Gingerbread dough is soft and sticky, and you can't roll it warm. Cold, it rolls like a dream.""",
-   "dough wrapped plastic refrigerator", "COLD, IT ROLLS LIKE A DREAM")
+   "dough wrapped plastic refrigerator", "COLD DOUGH ROLLS BEAUTIFULLY")
 sc("""Step three. Heat the oven to three hundred fifty. Roll the dough between two sheets of parchment to a quarter inch thick. And here's Pearl's second secret. A quarter inch, not thinner. Thin gingerbread bakes hard and crisp, and that's what made mine like shingles for twenty years. I was rolling it thin as a dime.""",
    "rolling gingerbread dough parchment", "NOT THIN AS A DIME")
 sc("""Step four. Cut your men, lift them onto a parchment-lined sheet two inches apart, and press in raisins or little candies for the eyes and buttons now, before baking. If you want to hang them, poke a hole at the top of the head with a straw.""",
    "cutting gingerbread men cookie cutter", "RAISINS FOR BUTTONS")
 sc("""Step five, Pearl's third secret. Bake them for only eight minutes, nine at the most. They'll look soft and puffy and not quite done. Take them out anyway. They keep cooking on the hot pan, and they firm up as they cool. If they look done in the oven, they're overdone on the plate.""",
    "gingerbread cookies baking sheet oven", "TAKE THEM OUT ANYWAY")
-sc("""Let them sit on the pan for five minutes before you move them, or the arms and legs break off. Then cool them on a rack. And put the broken ones on a plate for the bakers. That's the law in my kitchen.""",
+sc("""Let them sit on the pan for five minutes before you move them, or the arms and legs break off. Then cool them on a rack. And put the broken ones on a plate for the bakers. That's the law in my kitchen. But first, let me show you how to tell when they're done, because that's where most people go wrong.""",
    "gingerbread cookies cooling rack", "THE LAW IN MY KITCHEN")
 
 sc("""Here's how to know they're done, sweetheart. Press the middle of one very gently with your fingertip. If it leaves a little dent that stays, it's perfect. If it springs right back and feels firm, it's already a little overbaked. Next sheet, take a minute off. Every oven is different. Mine runs hot on the left, so I turn the pan halfway through.""",
@@ -58,7 +58,7 @@ sc("""If they do come out hard, honey, don't throw them away. Put them in a tin 
    "crushed cookies pie crust", "NOTHING THROWN AWAY")
 
 ch("Decorating")
-sc("""For the icing, one cup of powdered sugar with one tablespoon of milk and a few drops of lemon juice. It should be thick, like toothpaste. Put it in a sandwich bag, snip the tiniest corner, and pipe the faces, the buttons, and the little zigzags on the arms and legs. Let them dry for a few hours before stacking.""",
+sc("""For the icing, one cup of powdered sugar with one tablespoon of milk and a few drops of lemon juice. It should be thick, like toothpaste. Put it in a sandwich bag, snip the tiniest corner, and pipe the faces, the buttons, and the little zigzags on the arms and legs. Let them dry for a few hours before stacking. And in a minute, the best part. The children.""",
    "decorating gingerbread men white icing", "THICK LIKE TOOTHPASTE")
 sc("""Let the children do it, honey, and don't fix their work. A gingerbread man with three eyes and a crooked smile is worth more than a perfect one. My granddaughter made one in nineteen ninety-four with a mustache and a cowboy hat, and we still talk about him every Christmas. We called him Uncle Earl.""",
    "children decorating gingerbread cookies", "UNCLE EARL")
@@ -75,13 +75,13 @@ sc("""And a gingerbread tip for the little ones. Give each child a plain gingerb
 ch("Grandma's kitchen")
 sc("""So one more time, honey. Brown sugar and regular molasses. A whole tablespoon of ginger. Chill the dough. Roll it a quarter inch thick between parchment. Eight minutes, and take them out while they still look soft. Store them alone with a slice of apple. That's Pearl's gingerbread, and nobody will ever use it as a hockey puck again.""",
    "gingerbread men plate Christmas table", "NEVER A HOCKEY PUCK")
-sc("""Tell me in the comments, sweetheart. Do you bite the head off first, or the feet? My father always started with the feet, so the gingerbread man couldn't run away. I read every comment. Good night, honey. Merry Christmas.""",
+sc("""Tell me in the comments, sweetheart. Do you bite the head off first, or the feet? My father always started with the feet, so the gingerbread man couldn't run away. I read every comment. And if you want another one tonight, the whole playlist of Grandma's recipes is right there on your screen, and I'll see you in the next video. Good night, honey. Merry Christmas.""",
    "gingerbread man bitten cookie", "HEAD OR FEET?")
 
 for s in S:
     s["cuts"], s["moves"] = 4, True
 
-save("grandma23", "The Soft Gingerbread Men EVERYONE's Grandma Made (NEVER Hard as a Rock)",
+save("grandma23", "Soft Gingerbread Men That NEVER Turn Hard (Grandma's 3 Secrets)",
      ["Grandma Ruth is a narrated character built from real memories and records of the era.",
       "Recipe as written by Grandma Ruth: 3 cups flour, 1 1/2 tsp baking soda, 1 tbsp ginger, 1 1/2 tsp cinnamon, 1/4 tsp cloves, 1/2 tsp salt; 3/4 cup butter, 3/4 cup dark brown sugar, 1 egg, 1/2 cup molasses, 1 tsp vanilla; chill 3 hours; 1/4 inch; 350 F for 8 to 9 minutes.",
       "Molasses as an affordable sweetener in Depression-era American baking."],

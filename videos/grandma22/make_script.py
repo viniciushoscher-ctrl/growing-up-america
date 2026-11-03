@@ -6,7 +6,7 @@ from scriptkit import sc, ch, save, S
 
 sc("""Sweetheart, last Christmas my grandson spent the whole afternoon on his phone, his sister on hers, and their parents on the couch watching a game. Nobody talked. Nobody sang. And after everybody left, I sat in my kitchen and I thought, when did we stop doing all the things that made Christmas feel like Christmas? Because it wasn't the presents. It was never the presents.""",
    "family Christmas living room phones", "NOBODY TALKED")
-sc("""So tonight I'm giving you ten Christmas traditions that almost everybody forgot. The ones my mother and Grandma Pearl did every single year. They cost almost nothing, and every one of them still works today. Pick two or three for this year, honey, and watch what happens to your house.""",
+sc("""So tonight I'm giving you ten Christmas traditions that almost everybody forgot. The ones my mother and Grandma Pearl did every single year. They cost almost nothing, and every one of them still works today. Pick two or three for this year, honey, and watch what happens to your house. And stay with me, because the last one is the tradition I hold closest of all.""",
    "1950s family Christmas tree evening", "TEN FORGOTTEN TRADITIONS")
 
 ch("1. The Advent candle")
@@ -24,7 +24,7 @@ sc("""Today, honey, you don't need a choir. Take the children to the house of on
 ch("3. The Christmas letter")
 sc("""Tradition number three. Writing Christmas letters. Real ones, on paper, with a stamp. My mother sat at the kitchen table every evening in December writing to cousins in Pennsylvania, her old school friends, and my father's army buddies. Each letter was a whole page, in her round handwriting. And when the replies came, she read them out loud at supper.""",
    "handwritten letter envelope stamp vintage", "A WHOLE PAGE")
-sc("""Do it this year, sweetheart. Pick five people who matter and write each one a real letter. Not a printed card with a photo. A page in your own hand, telling them one thing you remember about them. I write mine on the first week of December. Some of those people are gone now, and their families have told me they kept my letters.""",
+sc("""Do it this year, sweetheart. Pick five people who matter and write each one a real letter. Not a printed card with a photo. A page in your own hand, telling them one thing you remember about them. I write mine on the first week of December. Some of those people are gone now, and their families have told me they kept my letters. In a minute I'll tell you the one my grandchildren won't let me skip.""",
    "woman writing letter kitchen table", "THEY KEPT MY LETTERS")
 
 ch("4. Reading aloud")
@@ -36,20 +36,20 @@ sc("""Today, honey, turn off the television at seven o'clock on Christmas Eve, a
 ch("5. A stocking for a stranger")
 sc("""Tradition number five. The extra stocking. My mother hung one more stocking than we had people. All December, every time we went to the store, we put something in it. A pair of socks. A bar of soap. An orange. A pencil. On Christmas Eve we took it to the Salvation Army, for a child we'd never meet.""",
    "Christmas stockings fireplace mantel", "ONE MORE STOCKING")
-sc("""This one I want you to do this year, sweetheart. It teaches children something no present can. Let them choose what goes in, and let them carry it to the drop-off themselves. Every church, every shelter in America will take it. My grandson filled one at six years old, and he asked me why the other boy didn't have a daddy to buy him things. That was the best Christmas lesson I ever saw.""",
+sc("""This one I want you to do this year, sweetheart. It teaches children something no present can. Let them choose what goes in, and let them carry it to the drop-off themselves. Every church, every shelter in America will take it. My grandson filled one at six years old, and he asked me why the other boy didn't have a daddy to buy him things. That was the best Christmas lesson I ever saw. If this is helping you, honey, tap the like button for me. It helps Grandma more than you know.""",
    "child giving gift donation box", "THE BEST LESSON")
 
 ch("6. The Christmas Eve walk")
 sc("""Tradition number six. The Christmas Eve walk. After supper, my father put on his hat and said, let's go look at the lights. And the four of us walked around the neighborhood in the cold, looking at every window, every candle, every tree. Then we came home to cocoa, and that was the only night we were allowed to stay up past ten.""",
-   "family walking Christmas lights night snow", "LET'S GO LOOK AT THE LIGHTS")
+   "family walking Christmas lights night snow", "LET'S GO SEE THE LIGHTS")
 sc("""Bundle up the whole family and do it. Thirty minutes, no phones, just walking and pointing and saying, look at that one. If it's too cold, pile everybody in the car with a thermos of cocoa and drive slowly through the best neighborhood in town. My grandchildren call it the light tour, and they won't let me skip it.""",
    "car driving Christmas lights neighborhood", "THE LIGHT TOUR")
 
 ch("7. The orange in the toe")
 sc("""Tradition number seven. An orange in the toe of the stocking. In the nineteen thirties, an orange in December was a luxury, and Grandma Pearl got one every Christmas of her childhood and nothing else. So she put an orange in the toe of every stocking for the rest of her life, and my mother did it, and I still do it. It's how we remember that we didn't always have so much.""",
-   "orange in Christmas stocking", "WE DIDN'T ALWAYS HAVE SO MUCH")
+   "orange in Christmas stocking", "WE DIDN'T ALWAYS HAVE MUCH")
 
-sc("""Put one in every stocking this year, honey, right down in the toe. And when the children ask why, tell them about the little girl in nineteen thirty-one who woke up on Christmas morning, found one orange in her stocking, and thought she was the richest girl in Ohio. That little girl was my grandmother. Every orange is a story, if somebody tells it.""",
+sc("""Put one in every stocking this year, honey, right down in the toe. And when the children ask why, tell them about the little girl in nineteen thirty-one who woke up on Christmas morning, found one orange in her stocking, and thought she was the richest girl in Ohio. That little girl was my grandmother. Every orange is a story, if somebody tells it. But first, one that will change how your whole house feels in January.""",
    "girl holding orange Christmas morning", "THE RICHEST GIRL IN OHIO")
 
 ch("8. Twelfth Night")
@@ -60,7 +60,7 @@ sc("""Try it this year. Leave the tree up until the sixth of January. Keep one c
    "taking down Christmas ornaments family", "ONE MORE CELEBRATION")
 
 ch("9. Thank-you notes")
-sc("""Tradition number nine. Thank-you notes before New Year's. My mother sat us down on the twenty-seventh with a stack of note cards, and we couldn't play with a single new toy until we'd written to every aunt and uncle who sent something. Three sentences. Thank you, what I'll do with it, and that I love you. I hated it then. Now I know it's why my aunts loved us so much.""",
+sc("""Tradition number nine. Thank-you notes before New Year's. My mother sat us down on the twenty-seventh with a stack of note cards, and we couldn't play with a single new toy until we'd written to every aunt and uncle who sent something. Three sentences. Thank you, what I'll do with it, and that I love you. I hated it then. Now I know it's why my aunts loved us so much. And coming up, the last one, the one I hold closest.""",
    "child writing thank you note", "THREE SENTENCES")
 
 sc("""Give your children plain note cards and a good pen, honey, and sit down with them and write your own notes at the same time. They'll grumble. Let them. One day an aunt will tell your daughter she kept every note she ever sent, in a drawer, tied with a ribbon. My Aunt Ruth, the one I was named for, did exactly that, and her daughter gave them back to me after the funeral.""",
@@ -78,7 +78,7 @@ sc("""And here's one more small tradition to go with it. Keep a Christmas book. 
 ch("Grandma's rule")
 sc("""So there they are. The Advent candles. Caroling for one neighbor. Real letters. Reading aloud on Christmas Eve. A stocking for a stranger. The walk to see the lights. An orange in the toe. Twelve days, not one. Thank-you notes. And the empty chair. None of them cost more than a few dollars. All of them are worth more than anything under the tree.""",
    "old fashioned Christmas family together", "WORTH MORE THAN PRESENTS")
-sc("""Now tell me in the comments, sweetheart. Which tradition did your family have that nobody does anymore? I read every one, and some of yours might end up in a video. Good night, honey. Merry Christmas.""",
+sc("""Now tell me in the comments, sweetheart. Which tradition did your family have that nobody does anymore? I read every one, and some of yours might end up in a video. And if you want another one tonight, the whole playlist of Grandma's Christmas tips is right there on your screen, and I'll see you in the next video. Good night, honey. Merry Christmas.""",
    "Christmas candles window night", "WHAT DID YOUR FAMILY DO?")
 
 for s in S:
