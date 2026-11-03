@@ -1,0 +1,5 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- 'A Visit from St. Nicholas' ('The Night Before Christmas'), Clement Clarke Moore, 1823.
+- Luke 2:1-20, the Nativity reading.
+- Oranges as a Christmas stocking treat during the Great Depression.
+- The Twelve Days of Christmas, 25 December to 5 January, ending with Epiphany on 6 January.

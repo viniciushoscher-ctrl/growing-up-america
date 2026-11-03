@@ -1,0 +1,191 @@
+{
+ "id": "grandma25",
+ "angle": "christmas recipe",
+ "length_scale": 1.45,
+ "title": "The Peppermint Bark EVERYONE Buys at Christmas (Make It for $5, NEVER Separates)",
+ "scenes": [
+  {
+   "text": "Sweetheart, last December my granddaughter paid thirty-two dollars for one little tin of peppermint bark at the mall. Thirty-two dollars. She brought it to my house so proud, and I opened it, and the white layer slid right off the chocolate like a loose shingle. I said, honey, give me five dollars and an hour, and I'll make you a better one that never comes apart.",
+   "query": "peppermint bark Christmas tin",
+   "caption": "THIRTY-TWO DOLLARS",
+   "cuts": 8,
+   "moves": true,
+   "chapter": "Intro"
+  },
+  {
+   "text": "So tonight I'm giving you my peppermint bark. A dark chocolate layer, a white chocolate layer, crushed candy canes on top, and the two layers stuck together like they were born that way. Every ingredient, every step, and the three mistakes that make the layers separate. It's the easiest Christmas candy you will ever make, and it's the one people ask for every year.",
+   "query": "peppermint bark pieces plate",
+   "caption": "NEVER COMES APART",
+   "cuts": 8,
+   "moves": true
+  },
+  {
+   "text": "When I was a girl in Mansfield, candy canes came in a little cardboard box of twelve from the five and dime, and they were all white with red stripes and nothing else. My mother hung them on the tree with the hook end over the branch. And every one that broke, and they always broke, went into a jar in the pantry. By Christmas Eve, that jar was full of red and white pieces.",
+   "query": "vintage candy canes Christmas tree",
+   "caption": "THE JAR OF BROKEN ONES",
+   "cuts": 5,
+   "chapter": "Candy canes in our house",
+   "moves": true
+  },
+  {
+   "text": "And on Christmas Eve afternoon, my mother melted a bar of chocolate in a bowl over the pot, poured it thin on a buttered pan, and threw the broken candy canes on top. She called it peppermint scrap. Danny and I broke it into pieces with a butter knife. It was nothing fancy. But that is the grandmother of every fancy tin of peppermint bark you see in the stores today.",
+   "query": "melted chocolate pan vintage kitchen",
+   "caption": "PEPPERMINT SCRAP",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "The white layer came later. In nineteen seventy-one, my sister-in-law brought a version with white chocolate on top, and my mother tasted it and said, well, now that's just showing off. Then she asked for the recipe before the evening was over. That's the version I've made every year since, and I've changed only one thing. The thing that keeps the layers together.",
+   "query": "1970s family Christmas party kitchen",
+   "caption": "THAT'S JUST SHOWING OFF",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Here's what you need, honey. Twelve ounces of good semi-sweet or dark chocolate, chopped. Twelve ounces of white chocolate, chopped. Two teaspoons of vegetable oil or coconut oil, one for each layer. Half a teaspoon of peppermint extract. And about eight regular candy canes, or a cup of crushed peppermint candies. That's the whole list. Five things.",
+   "query": "chopped chocolate cutting board",
+   "caption": "FIVE THINGS",
+   "cuts": 4,
+   "chapter": "What you need",
+   "moves": true
+  },
+  {
+   "text": "Now listen about the chocolate, because this matters. Buy real chocolate bars, the kind that say cocoa butter on the label. Not chocolate chips. Chips have something added so they hold their shape in cookies, and that means they don't melt smooth and they don't set with a snap. And not those colored candy melts either. They taste like sweet wax.",
+   "query": "chocolate bars baking aisle",
+   "caption": "BARS, NOT CHIPS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And the white chocolate is the fussy one. Look for cocoa butter in the ingredients. If the label says white baking chips or vanilla coating, it isn't really white chocolate, and it won't stick to the dark layer the same way. This is where people save a dollar and then wonder why their bark falls apart in the tin.",
+   "query": "white chocolate bar label",
+   "caption": "LOOK FOR COCOA BUTTER",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "You need an eight by eight pan for thick bark, or a nine by thirteen for thinner pieces. Line it with parchment or wax paper, and let the paper hang over two sides, so you can lift the whole slab out when it's done. My mother used a buttered pan, and we had to pry the bark out with a spatula. Parchment is one of the few new things I'll admit is better.",
+   "query": "parchment lined baking pan",
+   "caption": "LET THE PAPER HANG OVER",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step one. Crush the candy canes. Put them in a zip bag, wrap the bag in a dish towel, and tap it with a rolling pin or the bottom of a heavy pot. Not too fine. You want little pieces like gravel, not dust. Then shake them in a strainer to get the powder out. Save the powder for your cocoa. The powder makes the top of the bark sticky.",
+   "query": "crushing candy canes rolling pin bag",
+   "caption": "LIKE GRAVEL, NOT DUST",
+   "cuts": 4,
+   "chapter": "Step by step",
+   "moves": true
+  },
+  {
+   "text": "Step two. Melt the dark chocolate with one teaspoon of oil. The easy way is in the microwave, in a glass bowl, thirty seconds at a time, stirring well every time, even when it doesn't look like it's melting yet. Stop when there are still a few little lumps, and just stir until they disappear. If you overheat chocolate, it turns thick and grainy, and you can't fix it.",
+   "query": "melting chocolate glass bowl stirring",
+   "caption": "THIRTY SECONDS AT A TIME",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Or do it my mother's way. A bowl sitting on top of a small pot with an inch of barely simmering water. The bowl must not touch the water, and not one drop of water can get into the chocolate. One drop of water and the whole bowl seizes into a stiff, dull paste. My mother wiped the bottom of the bowl with a towel every time she lifted it.",
+   "query": "double boiler chocolate stove",
+   "caption": "NOT ONE DROP OF WATER",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step three. Stir a quarter teaspoon of the peppermint extract into the dark chocolate and pour it into the lined pan. Spread it even with the back of a spoon or a spatula, right into the corners. Then tap the pan on the counter a few times to settle it flat and pop the bubbles.",
+   "query": "spreading chocolate pan spatula",
+   "caption": "TAP THE PAN",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step four, and this is the secret, sweetheart. Put the pan in the icebox for only fifteen to twenty minutes. Not an hour. You want the dark layer set enough that it doesn't swirl when you pour on the next layer, but still a little soft and tacky when you touch it. Touch the corner. If it leaves a faint fingerprint, it's ready.",
+   "query": "chocolate layer refrigerator timer",
+   "caption": "STILL A LITTLE TACKY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "This is why store bark and so much homemade bark comes apart. If the dark layer gets cold and hard, the warm white layer just sits on top of it like a blanket on a bed. They never join. But when the bottom is still a little soft, the two chocolates melt together right where they meet, and they set as one piece.",
+   "query": "chocolate bark two layers close up",
+   "caption": "LIKE A BLANKET ON A BED",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step five. While the dark layer chills, melt the white chocolate with the other teaspoon of oil, the same way, but gentler. Twenty seconds at a time, because white chocolate burns faster than dark. Stir in the last quarter teaspoon of peppermint extract. It should be smooth and pourable, and only just warm. If it's hot, let it sit a few minutes.",
+   "query": "melted white chocolate bowl",
+   "caption": "GENTLER WITH THE WHITE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step six. Pour the white chocolate over the tacky dark layer, and spread it quickly and gently all the way to the edges. Then right away, before it sets, scatter the crushed candy canes all over the top and press them down lightly with your palm, so they stick. If you wait even five minutes, they'll just roll off when you cut it.",
+   "query": "sprinkling crushed candy cane white chocolate",
+   "caption": "PRESS THEM DOWN",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step seven. Back in the icebox for about an hour, until it's completely firm. Then lift the whole slab out by the paper, and let it sit on the counter for ten minutes so it doesn't crack into slivers. Break it into rough pieces with your hands, or cut it with a big knife warmed under hot water and wiped dry. Warm knife, clean cuts.",
+   "query": "cutting peppermint bark knife board",
+   "caption": "WARM KNIFE, CLEAN CUTS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So the three mistakes, honey. Mistake one, the dark layer gets too cold before the white goes on. Fifteen to twenty minutes, not an hour, not overnight. Mistake two, chocolate chips or candy melts instead of real chocolate bars. And mistake three, overheating the chocolate. Short bursts, stir every time, and take it off before it's all melted.",
+   "query": "chocolate bark cracked layers",
+   "caption": "THREE MISTAKES",
+   "cuts": 4,
+   "chapter": "Three mistakes",
+   "moves": true
+  },
+  {
+   "text": "And here's one more, a little one. Don't add the peppermint extract to chocolate that's too hot, and never use a water-based flavoring. Use oil-based or regular peppermint extract, just a little. One year I used a whole teaspoon in each layer, and my husband said it tasted like toothpaste. He was right. Half a teaspoon total is plenty.",
+   "query": "peppermint extract bottle spoon",
+   "caption": "IT TASTED LIKE TOOTHPASTE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Now, why I love this one. A batch costs about five dollars and fills four little tins. Put the pieces in a cellophane bag tied with red ribbon, or in a jar with wax paper. For the mailman, the teachers, the neighbor, the lady at church. I give away twelve bags every year, and every December somebody stops me in the grocery store to ask if the bark is coming.",
+   "query": "peppermint bark gift bags ribbon",
+   "caption": "TWELVE BAGS A YEAR",
+   "cuts": 4,
+   "chapter": "Christmas gifts",
+   "moves": true
+  },
+  {
+   "text": "Keep it in a tin in a cool spot, or in the icebox if your house is warm. It keeps two or three weeks. Put wax paper between the layers so the pieces don't stick together. And keep it away from the cookies. Peppermint makes everything in the tin taste like peppermint, and nobody wants a peppermint gingerbread man.",
+   "query": "cookie tin wax paper layers candy",
+   "caption": "AWAY FROM THE COOKIES",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And for the children, honey, let them do the crushing. Give them the bag wrapped in a towel and a wooden spoon, and let them whack it on the kitchen floor. They'll feel like they made the whole thing. My grandson did the crushing every year from age four, and now he's twenty-six and he still calls me in December to ask if I need my candy canes crushed.",
+   "query": "child crushing candy wooden spoon kitchen",
+   "caption": "THEY'LL FEEL LIKE THEY MADE IT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So one more time. Real chocolate bars, not chips. Melt it gently, thirty seconds at a time. Dark layer in the icebox only fifteen or twenty minutes, until it's set but still tacky. White chocolate on top, candy canes pressed in right away, then an hour to set. Warm knife. That's how you make peppermint bark that never comes apart, for five dollars instead of thirty-two.",
+   "query": "peppermint bark pieces Christmas table",
+   "caption": "FIVE DOLLARS, NOT THIRTY-TWO",
+   "cuts": 4,
+   "chapter": "Grandma's kitchen",
+   "moves": true
+  },
+  {
+   "text": "Tell me in the comments, sweetheart. Who in your family made the Christmas candy? Fudge, divinity, peanut brittle, bark? I bet I can guess what your grandmother made. Every day I'm bringing you another Christmas recipe from my kitchen. Good night, honey. Merry Christmas.",
+   "query": "Christmas candy plate warm kitchen",
+   "caption": "WHO MADE YOUR CHRISTMAS CANDY?",
+   "cuts": 4,
+   "moves": true
+  }
+ ],
+ "voice": "en_US-lessac-high"
+}

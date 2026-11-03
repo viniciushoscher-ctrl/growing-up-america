@@ -22,7 +22,7 @@ def api_pages(params):
         if r.status_code == 200:
             try:
                 pages = r.json().get("query", {}).get("pages", {})
-                _cache[key] = pages; _CF.write_text(json.dumps(_cache))
+                _cache[key] = pages; _CF.with_suffix(".tmp").write_text(json.dumps(_cache)); _CF.with_suffix(".tmp").replace(_CF)
                 return pages
             except ValueError:
                 pass

@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Recipe as written by Grandma Ruth: 3 to 4 lb chuck roast, browned; 2 onions, 3 garlic cloves, 2 tbsp tomato paste, 1 cup beef broth, 1 cup water, bay leaves, thyme; covered at 300 F about 3 hours, carrots and potatoes added for the last hour.
+- Mid-1950s US retail beef prices, chuck roast.

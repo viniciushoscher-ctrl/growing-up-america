@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Recipe as written by Grandma Ruth: 12 oz semi-sweet or dark chocolate, 12 oz white chocolate, 2 tsp oil, 1/2 tsp peppermint extract, about 8 candy canes crushed; dark layer chilled 15 to 20 minutes before the white layer; set about 1 hour.
+- Chocolate chips contain stabilizers so they hold their shape when baked; water causes melted chocolate to seize.

@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Recipe as written by Grandma Ruth: 1 cup butter, 1 cup sugar, 1 egg, 1 tsp vanilla, 1/2 tsp almond extract, 3 cups flour, 1 tsp baking powder, 1/2 tsp salt; chill 2 hours; 1/4 inch thick; chill cut cookies 10 min; 375 F for 8 to 10 minutes.
+- Icing: 2 cups powdered sugar, 2 tbsp milk, 1/2 tsp vanilla, 1 tbsp light corn syrup.

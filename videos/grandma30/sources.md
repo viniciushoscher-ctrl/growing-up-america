@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Recipe as written by Grandma Ruth: 1 lb dried pinto beans soaked overnight, 1 smoked ham hock, 1 onion, 3 garlic cloves, 1 bay leaf, about 10 cups water, 1 1/2 tsp salt; gentle simmer 2 to 3 hours. Cornbread: 1 cup cornmeal, 1 cup flour, 1 tbsp baking powder, 1 tsp salt, 1 egg, 1 1/4 cups buttermilk, 1/4 cup melted butter; 425 F about 20 minutes in a hot greased skillet.
+- Bean cooking science: old beans, hard water and acidic ingredients slow softening; salting the cooking water does not keep beans hard.

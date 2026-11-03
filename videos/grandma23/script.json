@@ -1,0 +1,206 @@
+{
+ "id": "grandma23",
+ "angle": "christmas recipe",
+ "length_scale": 1.45,
+ "title": "The Soft Gingerbread Men EVERYONE's Grandma Made (NEVER Hard as a Rock)",
+ "scenes": [
+  {
+   "text": "Sweetheart, I have a confession. For twenty years, my gingerbread men were hard as roof shingles. My grandchildren used them as hockey pucks on the kitchen floor. My son-in-law said he chipped a tooth. And all that time, the recipe for soft gingerbread was sitting in Grandma Pearl's handwriting in a tin box in my own pantry. I just never looked.",
+   "query": "gingerbread men cookies Christmas",
+   "caption": "HARD AS ROOF SHINGLES",
+   "cuts": 8,
+   "moves": true,
+   "chapter": "Intro"
+  },
+  {
+   "text": "So tonight I'm giving you Pearl's gingerbread men. Soft and chewy in the middle, a little crisp on the edges, with that deep molasses flavor that smells like Christmas the minute the oven door opens. Every ingredient, every step, and the mistakes that turn gingerbread into a brick. Get your pencil, honey.",
+   "query": "soft gingerbread cookies plate",
+   "caption": "SOFT AND CHEWY",
+   "cuts": 8,
+   "moves": true
+  },
+  {
+   "text": "Grandma Pearl kept her recipes on index cards in a green tin box with a rooster on the lid. The gingerbread card is stained brown with molasses, and on the back she wrote, nineteen thirty-eight, for the church sale. During the Depression, molasses was cheaper than sugar, so gingerbread was the Christmas cookie of the poor. And she said it was the best one.",
+   "query": "vintage recipe box index cards",
+   "caption": "THE GREEN TIN BOX",
+   "cuts": 5,
+   "chapter": "Pearl's tin box",
+   "moves": true
+  },
+  {
+   "text": "In our house, the gingerbread men were for the tree. My mother tied a red ribbon around each one's neck and hung them on the lower branches, where Danny and I could reach. The rule was, you could eat one a day, from the first of December. By Christmas there were only three left, all on the very top, where my father had moved them to protect them from Danny.",
+   "query": "gingerbread ornaments hanging tree",
+   "caption": "ONE A DAY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "The year Danny was nine, he ate the gingerbread man meant for the very top of the tree, the big one with the gold sugar buttons, and he hid the ribbon under his pillow. My mother found it on Christmas Eve when she was changing the sheets. She didn't say a word. On Christmas morning, Danny's stocking had a gingerbread man in it, with a note in her handwriting. You owe me one. He laughed about that note for fifty years.",
+   "query": "boy Christmas stocking morning",
+   "caption": "YOU OWE ME ONE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Here's what you need, honey. Three cups of flour. One and a half teaspoons of baking soda. One tablespoon of ground ginger, and yes, a whole tablespoon. One and a half teaspoons of cinnamon. A quarter teaspoon of ground cloves. And half a teaspoon of salt. Stir all that together in one bowl.",
+   "query": "ginger cinnamon spices measuring spoons",
+   "caption": "A WHOLE TABLESPOON",
+   "cuts": 4,
+   "chapter": "What you need",
+   "moves": true
+  },
+  {
+   "text": "In another bowl. Three quarters of a cup of butter, softened. Three quarters of a cup of dark brown sugar, packed. One egg. Half a cup of molasses, the regular kind, not blackstrap. Blackstrap is bitter, honey, and it's the reason some gingerbread tastes like medicine. And one teaspoon of vanilla.",
+   "query": "molasses jar brown sugar butter",
+   "caption": "NOT BLACKSTRAP",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Notice, sweetheart, the brown sugar. Most gingerbread recipes use white sugar. Brown sugar holds moisture, and that's Pearl's first secret for a soft cookie. The molasses does the same. Together they keep the middle chewy for a whole week.",
+   "query": "dark brown sugar spoon bowl",
+   "caption": "BROWN SUGAR HOLDS MOISTURE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And use fresh spices, honey. That jar of ginger in the back of your cupboard from three Christmases ago tastes like dust. Ground spices lose their flavor after about a year. Smell it. If it doesn't make your nose tingle, buy a new jar. It's the difference between gingerbread that tastes like Christmas and gingerbread that tastes like cardboard.",
+   "query": "spice jars cupboard kitchen",
+   "caption": "MAKE YOUR NOSE TINGLE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And measure the molasses this way. Rub the inside of your measuring cup with a little butter or oil first. The molasses slides right out, every drop, instead of sticking to the cup. Pearl did it with a scrap of butter paper. You'd be surprised how much molasses people leave in the cup, and then wonder why their gingerbread is pale.",
+   "query": "pouring molasses measuring cup",
+   "caption": "BUTTER THE CUP",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step one. Beat the butter and brown sugar until smooth, then beat in the egg, the molasses and the vanilla. It will look a little curdled. Don't worry about that. Then add the flour mixture in three parts, mixing slowly until it's all one soft, dark dough. It will be sticky. That's right.",
+   "query": "gingerbread dough mixing bowl",
+   "caption": "IT WILL BE STICKY",
+   "cuts": 4,
+   "chapter": "Step by step",
+   "moves": true
+  },
+  {
+   "text": "Step two. Divide it in half, pat each half into a flat disk, wrap it in wax paper and put it in the icebox for at least three hours, or overnight. Gingerbread dough is soft and sticky, and you can't roll it warm. Cold, it rolls like a dream.",
+   "query": "dough wrapped plastic refrigerator",
+   "caption": "COLD, IT ROLLS LIKE A DREAM",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step three. Heat the oven to three hundred fifty. Roll the dough between two sheets of parchment to a quarter inch thick. And here's Pearl's second secret. A quarter inch, not thinner. Thin gingerbread bakes hard and crisp, and that's what made mine like shingles for twenty years. I was rolling it thin as a dime.",
+   "query": "rolling gingerbread dough parchment",
+   "caption": "NOT THIN AS A DIME",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step four. Cut your men, lift them onto a parchment-lined sheet two inches apart, and press in raisins or little candies for the eyes and buttons now, before baking. If you want to hang them, poke a hole at the top of the head with a straw.",
+   "query": "cutting gingerbread men cookie cutter",
+   "caption": "RAISINS FOR BUTTONS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step five, Pearl's third secret. Bake them for only eight minutes, nine at the most. They'll look soft and puffy and not quite done. Take them out anyway. They keep cooking on the hot pan, and they firm up as they cool. If they look done in the oven, they're overdone on the plate.",
+   "query": "gingerbread cookies baking sheet oven",
+   "caption": "TAKE THEM OUT ANYWAY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Let them sit on the pan for five minutes before you move them, or the arms and legs break off. Then cool them on a rack. And put the broken ones on a plate for the bakers. That's the law in my kitchen.",
+   "query": "gingerbread cookies cooling rack",
+   "caption": "THE LAW IN MY KITCHEN",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Here's how to know they're done, sweetheart. Press the middle of one very gently with your fingertip. If it leaves a little dent that stays, it's perfect. If it springs right back and feels firm, it's already a little overbaked. Next sheet, take a minute off. Every oven is different. Mine runs hot on the left, so I turn the pan halfway through.",
+   "query": "finger pressing cookie test",
+   "caption": "A LITTLE DENT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So the mistakes, sweetheart. Mistake one, rolling them too thin. Mistake two, baking until they look done. Mistake three, white sugar instead of brown. And mistake four, too much flour on the counter. Every handful of flour you roll into the dough makes it drier. That's why I roll between parchment. No extra flour at all.",
+   "query": "flour dusted counter rolling pin",
+   "caption": "NO EXTRA FLOUR",
+   "cuts": 4,
+   "chapter": "Mistakes that make them hard",
+   "moves": true
+  },
+  {
+   "text": "And one more. Storing them with crisp cookies. Soft gingerbread and crisp sugar cookies in the same tin, and in two days they're both wrong. Keep gingerbread in its own tin, and put a slice of bread or a piece of apple in with them. The cookies pull the moisture from it and stay soft. Change it every few days.",
+   "query": "cookie tin apple slice storage",
+   "caption": "A SLICE OF APPLE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "If they do come out hard, honey, don't throw them away. Put them in a tin with a slice of bread overnight, and most of them soften right up. And the ones that don't, crush them up and sprinkle them over vanilla ice cream, or use them instead of graham crackers in a pie crust. Pearl's gingerbread crust for pumpkin pie came from a batch she burned in nineteen fifty-two.",
+   "query": "crushed cookies pie crust",
+   "caption": "NOTHING THROWN AWAY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "For the icing, one cup of powdered sugar with one tablespoon of milk and a few drops of lemon juice. It should be thick, like toothpaste. Put it in a sandwich bag, snip the tiniest corner, and pipe the faces, the buttons, and the little zigzags on the arms and legs. Let them dry for a few hours before stacking.",
+   "query": "decorating gingerbread men white icing",
+   "caption": "THICK LIKE TOOTHPASTE",
+   "cuts": 4,
+   "chapter": "Decorating",
+   "moves": true
+  },
+  {
+   "text": "Let the children do it, honey, and don't fix their work. A gingerbread man with three eyes and a crooked smile is worth more than a perfect one. My granddaughter made one in nineteen ninety-four with a mustache and a cowboy hat, and we still talk about him every Christmas. We called him Uncle Earl.",
+   "query": "children decorating gingerbread cookies",
+   "caption": "UNCLE EARL",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And if you want the house to smell like Christmas, sweetheart, bake one batch in the afternoon right before company comes. Nothing in a candle or a spray smells like warm ginger and molasses. When people walk in, they stop in the hall and say, oh, what is that? That's the moment you want.",
+   "query": "cozy Christmas kitchen baking warm",
+   "caption": "OH, WHAT IS THAT?",
+   "cuts": 4,
+   "chapter": "Gingerbread for the house",
+   "moves": true
+  },
+  {
+   "text": "The dough keeps a week in the icebox, or three months in the freezer, wrapped tight. Baked cookies stay soft for about a week in a tin with the apple slice. And they mail beautifully, packed in a tin with crumpled wax paper, because they don't break the way crisp cookies do. My mother mailed gingerbread to my father's army friends every year until they were old men.",
+   "query": "cookie tin mail package Christmas",
+   "caption": "THEY MAIL BEAUTIFULLY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And a gingerbread tip for the little ones. Give each child a plain gingerbread man with their name piped on his belly, and hide one at each place at the Christmas table. Or tie one to each present under the tree as a name tag. My grandchildren look for their gingerbread man before they look for their presents. They know which is theirs before they can read.",
+   "query": "gingerbread man name tag gift",
+   "caption": "THEIR OWN GINGERBREAD MAN",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So one more time, honey. Brown sugar and regular molasses. A whole tablespoon of ginger. Chill the dough. Roll it a quarter inch thick between parchment. Eight minutes, and take them out while they still look soft. Store them alone with a slice of apple. That's Pearl's gingerbread, and nobody will ever use it as a hockey puck again.",
+   "query": "gingerbread men plate Christmas table",
+   "caption": "NEVER A HOCKEY PUCK",
+   "cuts": 4,
+   "chapter": "Grandma's kitchen",
+   "moves": true
+  },
+  {
+   "text": "Tell me in the comments, sweetheart. Do you bite the head off first, or the feet? My father always started with the feet, so the gingerbread man couldn't run away. I read every comment. Good night, honey. Merry Christmas.",
+   "query": "gingerbread man bitten cookie",
+   "caption": "HEAD OR FEET?",
+   "cuts": 4,
+   "moves": true
+  }
+ ],
+ "voice": "en_US-lessac-high"
+}

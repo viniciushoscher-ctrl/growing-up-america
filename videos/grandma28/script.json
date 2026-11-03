@@ -1,0 +1,185 @@
+{
+ "id": "grandma28",
+ "angle": "christmas recipe",
+ "length_scale": 1.45,
+ "title": "The Christmas Party Mix EVERYONE's Grandma Made (Why Yours Goes SOGGY)",
+ "scenes": [
+  {
+   "text": "Sweetheart, every Christmas Eve in my house, there's a big blue enamel roasting pan on the kitchen counter, full to the top with homemade party mix. Crunchy cereal, nuts, pretzels, all toasted in butter and Worcestershire sauce. By midnight it's empty, and the grandchildren are licking the salt off their fingers. That pan has been on my counter every Christmas Eve since nineteen sixty-one.",
+   "query": "Christmas party mix roasting pan",
+   "caption": "SINCE NINETEEN SIXTY-ONE",
+   "cuts": 8,
+   "moves": true,
+   "chapter": "Intro"
+  },
+  {
+   "text": "But today, most people make it in the microwave, or they buy the bags at the store, and it comes out greasy, or soggy, or so salty you need a gallon of water. So tonight I'm giving you the old oven way. Every ingredient, every step, and the four mistakes that make party mix soggy. It's the best Christmas snack there is, and the easiest gift you'll ever give.",
+   "query": "soggy snack mix bowl",
+   "caption": "NEVER SOGGY",
+   "cuts": 8,
+   "moves": true
+  },
+  {
+   "text": "This recipe came from the back of a cereal box. In the early nineteen fifties, the company that made Chex cereal started printing a party mix recipe on its boxes, and every mother in America cut it out. My mother taped hers to the inside of the cupboard door, next to the measuring cups. It stayed there until the tape turned brown and the paper fell apart in nineteen seventy.",
+   "query": "1950s cereal box kitchen cupboard",
+   "caption": "TAPED TO THE CUPBOARD DOOR",
+   "cuts": 5,
+   "chapter": "The recipe on the box",
+   "moves": true
+  },
+  {
+   "text": "In the fifties, it was the snack for company. When the neighbors came over to watch Perry Como's Christmas show on our little black and white television, my mother brought out a bowl of party mix and a bottle of Coca-Cola for each of them. Danny and I sat on the floor with our own little bowl, and we picked out all the nuts first and left the cereal.",
+   "query": "1950s family watching television living room",
+   "caption": "WE PICKED OUT THE NUTS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "I made my first batch as a young bride in nineteen sixty-one, for my husband's office Christmas party. I forgot to stir it, and the bottom burned black. I scraped the top half into a bowl and took it anyway. His boss ate three handfuls and asked who made it. From that day on, I never forgot to stir it again.",
+   "query": "1960s office Christmas party",
+   "caption": "I FORGOT TO STIR IT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Here's what you need, honey, for one big roasting pan. Three cups each of corn Chex, rice Chex and wheat Chex. That's nine cups of cereal. One cup of mixed nuts, or peanuts if you're watching your pennies. One cup of small pretzels. And one cup of bagel chips or plain crackers, broken into bite-sized pieces. Any store brand cereal squares work just as well.",
+   "query": "cereal nuts pretzels bowls",
+   "caption": "NINE CUPS OF CEREAL",
+   "cuts": 4,
+   "chapter": "What you need",
+   "moves": true
+  },
+  {
+   "text": "For the butter coating. Six tablespoons of butter. Two tablespoons of Worcestershire sauce. One and a half teaspoons of seasoned salt. Three quarters of a teaspoon of garlic powder. Half a teaspoon of onion powder. That's it. My mother added a pinch of cayenne for my father, and I still do it for my son.",
+   "query": "butter worcestershire sauce spices",
+   "caption": "A PINCH OF CAYENNE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "A word about the nuts, honey. Mixed nuts are best, but they're the most expensive thing in the pan. Plain dry-roasted peanuts are half the price and taste wonderful toasted in butter. My mother used peanuts every year, and only on Christmas Eve did she splurge on a can of cashews. She'd pick them out herself and put them in a little dish just for my father.",
+   "query": "mixed nuts cashews peanuts bowls",
+   "caption": "A LITTLE DISH JUST FOR MY FATHER",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step one. Heat the oven to two hundred fifty degrees. That's low, sweetheart, and it's supposed to be. Party mix isn't baked, it's dried and toasted slowly. High heat burns the outside before the inside gets crisp. Low heat dries it all the way through, and that's what makes it crunchy for weeks.",
+   "query": "oven dial low temperature",
+   "caption": "LOW AND SLOW",
+   "cuts": 4,
+   "chapter": "Step by step",
+   "moves": true
+  },
+  {
+   "text": "Step two. Put the cereal, nuts, pretzels and bagel chips in the biggest roasting pan you own. A big pan, so it's spread out, no deeper than two inches. If your pan is small, use two pans. A pile that's too deep steams in the middle, and steamed party mix is soggy party mix.",
+   "query": "cereal mix roasting pan spread",
+   "caption": "NO DEEPER THAN TWO INCHES",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step three. Melt the butter in a small pot or in the microwave. Stir in the Worcestershire, seasoned salt, garlic powder and onion powder. Now pour it slowly over the mix, a little at a time, while you stir and turn everything gently with a big spoon. Pour, stir, pour, stir. Every piece should get a little shine. Not a soak. A shine.",
+   "query": "pouring butter over snack mix",
+   "caption": "A SHINE, NOT A SOAK",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step four. Bake for one hour, and stir it every fifteen minutes. Set a timer, honey, because you will forget. When you stir, bring the pieces from the bottom and the corners up to the top. The corners brown fastest. Four stirs in one hour. That's how you get every piece golden and crisp, and no burned bottom like mine in nineteen sixty-one.",
+   "query": "stirring snack mix in oven",
+   "caption": "STIR EVERY FIFTEEN MINUTES",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step five, and this is the one almost everybody skips. When it comes out of the oven, spread it out on paper towels or brown paper grocery bags, cut open flat on the counter, and let it cool completely, about an hour. The paper soaks up any extra butter, and the mix finishes getting crisp as it cools. If you put it in a tin warm, the steam turns it soft by morning.",
+   "query": "snack mix cooling on paper towels",
+   "caption": "COOL IT ON PAPER",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "How do you know it's done? Take out one piece of the corn cereal, let it cool for a minute on the counter, and bite it. It should snap clean and taste toasty, with no chew at all. If it bends or feels a little tough, give the whole pan another ten minutes and check again. Humid days take longer. My kitchen in July and my kitchen in December are two different ovens.",
+   "query": "testing crunchy cereal piece",
+   "caption": "IT SHOULD SNAP",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So the four mistakes, sweetheart. Mistake one, the microwave. Yes, it's on the box now, and yes, it's faster. But the microwave cooks it unevenly, some pieces chewy, some burned. The oven at two-fifty is the only way to get every piece crunchy. Mistake two, too much butter. More butter doesn't make it better. It makes it greasy, and greasy goes soft.",
+   "query": "microwave bowl snack mix",
+   "caption": "NOT THE MICROWAVE",
+   "cuts": 4,
+   "chapter": "Four mistakes that make it soggy",
+   "moves": true
+  },
+  {
+   "text": "Mistake three, a pan that's too crowded. Spread it thin, use two pans if you have to. And mistake four, storing it warm, or in a container that isn't airtight. Cool it all the way, then into tins or jars with tight lids. Done right, it stays crunchy for two weeks. In my house it never lasts two weeks, but it could.",
+   "query": "airtight jars snack mix",
+   "caption": "COOL IT ALL THE WAY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And if a batch does go soft in the tin, don't throw it away, sweetheart. Spread it on a baking sheet and put it back in a two hundred fifty degree oven for fifteen minutes. Let it cool flat on paper again, and it comes right back to crunchy. I've rescued more than one batch the morning of a party that way, and nobody ever knew.",
+   "query": "snack mix baking sheet oven",
+   "caption": "NOBODY EVER KNEW",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Now, for Christmas, here's what I do to make it festive. After it's completely cool, I stir in a cup of red and green candy-coated chocolates and a handful of mini marshmallows. Sweet and salty together. Never add the chocolate while it's warm, or you'll have a melted brown mess. The grandchildren call this one Grandma's Christmas crunch.",
+   "query": "Christmas snack mix red green candies",
+   "caption": "GRANDMA'S CHRISTMAS CRUNCH",
+   "cuts": 4,
+   "chapter": "Make it a Christmas mix",
+   "moves": true
+  },
+  {
+   "text": "Or make a sweet version for people who don't like salty. Instead of the Worcestershire and garlic, melt the butter with a quarter cup of brown sugar and a teaspoon of cinnamon, and bake it the same way. Then when it's cool, drizzle melted white chocolate over it and toss in dried cranberries. It tastes like Christmas morning.",
+   "query": "cinnamon sugar snack mix cranberries",
+   "caption": "LIKE CHRISTMAS MORNING",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And this is why I love party mix, honey. One batch costs about ten dollars and fills six quart jars. Put it in a clear jar with a red ribbon around the lid, or in a cellophane bag with a little tag. It doesn't break in the mail like cookies, it doesn't melt like candy, and men love it. Every man in my family gets a jar of party mix at Christmas, and not one of them has ever complained.",
+   "query": "snack mix gift jars ribbon",
+   "caption": "MEN LOVE IT",
+   "cuts": 4,
+   "chapter": "The best homemade gift",
+   "moves": true
+  },
+  {
+   "text": "I make mine the second week of December, three big batches in one afternoon, one after the other. The whole house smells like toasted butter and Worcestershire. Then I fill the jars on the kitchen table, write the tags, and give them to the mailman, the paper boy, my doctor's nurses, and every one of my neighbors on the street.",
+   "query": "kitchen table gift jars tags",
+   "caption": "THREE BATCHES IN ONE AFTERNOON",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And for the children, give them a bowl and let them each make their own mix from little bowls of everything. Cereal, pretzels, nuts, candies, marshmallows. They scoop what they like into a bag and tie it with a ribbon. Then they give it to their teacher. My great-granddaughter made eleven bags last year and gave one to the man who drives her school bus.",
+   "query": "children making snack mix bags",
+   "caption": "THE MAN WHO DRIVES THE BUS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So one more time. Nine cups of cereal and three cups of nuts, pretzels and chips. Six tablespoons of butter with Worcestershire, seasoned salt, garlic and onion. Pour it slowly, just a shine. Two hundred fifty degrees for one hour, stirring every fifteen minutes. Cool it flat on paper, then into tight jars. That's the party mix that's been on my counter every Christmas Eve for sixty-five years.",
+   "query": "homemade party mix bowl Christmas",
+   "caption": "SIXTY-FIVE YEARS",
+   "cuts": 4,
+   "chapter": "Grandma's kitchen",
+   "moves": true
+  },
+  {
+   "text": "Tell me in the comments, sweetheart. What do you pick out first, the nuts, the pretzels, or the little rye chips? Everybody has a favorite piece, and everybody leaves something at the bottom of the bowl. Every day I'm bringing you another Christmas recipe from my kitchen. Good night, honey. Merry Christmas.",
+   "query": "bowl of snack mix hands",
+   "caption": "WHAT DO YOU PICK OUT FIRST?",
+   "cuts": 4,
+   "moves": true
+  }
+ ],
+ "voice": "en_US-lessac-high"
+}

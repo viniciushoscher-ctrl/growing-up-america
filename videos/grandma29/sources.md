@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Common decorator's guideline of about 100 lights per foot of tree height.
+- Christmas tree safety: fresh cut, water daily, keep away from heat sources (U.S. Fire Administration and National Christmas Tree Association guidance).
