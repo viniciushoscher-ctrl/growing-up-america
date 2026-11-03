@@ -1,0 +1,200 @@
+{
+ "id": "grandma19",
+ "angle": "christmas with tips",
+ "length_scale": 1.45,
+ "title": "7 Gift Wrapping Mistakes That Make Your Presents Look CHEAP (AVOID These)",
+ "scenes": [
+  {
+   "text": "Sweetheart, every Christmas morning I watch my grandchildren rip through forty dollars of wrapping paper in about four minutes. Shiny paper, plastic bows, tape everywhere, and it all goes in a black trash bag before the coffee is ready. And I think of my mother, who wrapped every present we ever got for almost nothing, and they were so pretty that we didn't want to open them.",
+   "query": "Christmas presents under tree wrapped",
+   "caption": "FORTY DOLLARS IN FOUR MINUTES",
+   "cuts": 8,
+   "moves": true,
+   "chapter": "Intro"
+  },
+  {
+   "text": "So tonight, the seven gift wrapping mistakes that make your presents look cheap, and exactly what to do instead. Most of it costs nothing at all. Some of it you already have in your kitchen drawer. By the end, your presents will be the ones people take pictures of before they open them.",
+   "query": "beautiful wrapped gifts ribbon",
+   "caption": "SEVEN MISTAKES",
+   "cuts": 8,
+   "moves": true
+  },
+  {
+   "text": "In our house, Christmas wrapping was a whole evening. The Sunday before Christmas, my mother cleared the kitchen table after supper, spread out a clean sheet, and brought out the shoebox with the ribbon and the good scissors that nobody else was allowed to touch. Danny and I had to stay in the front room, but we could hear the paper crinkle, and we'd try to guess what was in every box by the sound.",
+   "query": "1950s family kitchen table evening",
+   "caption": "THE GOOD SCISSORS",
+   "cuts": 5,
+   "moves": true
+  },
+  {
+   "text": "Mistake number one. Cutting the paper too big. You end up with thick wads of paper folded over and over at the ends, lumpy corners, and so much tape the box looks bandaged. A present with fat ends always looks cheap, no matter how expensive the paper was.",
+   "query": "messy wrapped present tape",
+   "caption": "LOOKS BANDAGED",
+   "cuts": 4,
+   "chapter": "1. Paper cut too big",
+   "moves": true
+  },
+  {
+   "text": "Do this instead. Measure. The paper should go around the box with just two inches of overlap, and on the ends it should come up only three quarters of the height of the box. My mother laid the box on the paper, rolled it once around to see, and cut with her good scissors in one long slide. Then she folded the edge of the overlap under, half an inch, so there was no raw cut edge showing. Clean as a store.",
+   "query": "wrapping gift paper scissors table",
+   "caption": "TWO INCHES OF OVERLAP",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And for a box that isn't square, honey, a round tin or an odd shape, don't fight it. Set it in the middle of a big square of paper, gather the paper up around it like a bag, and tie it at the top with ribbon, so it looks like a little sack of candy. My mother wrapped Grandma Pearl's round tins of homemade candy that way every year, and they were the prettiest things under the tree.",
+   "query": "round gift wrapped gathered ribbon top",
+   "caption": "LIKE A SACK OF CANDY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Mistake number two. Tape everywhere you can see it. Long crooked strips across the top, tape on every corner, tape over tape. Tape is the first thing the eye goes to, honey, and it makes even a beautiful paper look rushed.",
+   "query": "scotch tape roll gift wrap",
+   "caption": "TAPE OVER TAPE",
+   "cuts": 4,
+   "chapter": "2. Tape everywhere",
+   "moves": true
+  },
+  {
+   "text": "Do this instead. Use double-sided tape, or roll a little piece of regular tape into a loop and hide it under the folded edge. Three small hidden pieces are enough for any box. In nineteen fifty-three, tape was expensive, so my mother used just one or two pieces and a ribbon held the rest. Nobody ever saw a single piece of tape on her presents.",
+   "query": "hands folding gift wrap edge",
+   "caption": "HIDE THE TAPE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "One more trick for crisp edges. After you fold each end, run your thumbnail hard along every fold, all twelve edges of the box. It makes a sharp line, like a pressed shirt collar. My mother called it ironing the present. It takes one minute, and it's the whole difference between homemade and handsome.",
+   "query": "crisp folded edge gift box",
+   "caption": "IRONING THE PRESENT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Mistake number three. The plastic stick-on bow. It's the one thing that says, I wrapped this in the car. They get crushed in the bag, they fall off, and they're all the same in every house in America.",
+   "query": "plastic gift bows pile",
+   "caption": "WRAPPED IN THE CAR",
+   "cuts": 4,
+   "chapter": "3. Plastic stick-on bows",
+   "moves": true
+  },
+  {
+   "text": "Do this instead. Real ribbon, tied by hand. Cloth ribbon if you can, or plain red yarn, or kitchen string. Go around the box both ways, crossed underneath, and tie the bow on top. And here's Grandma Pearl's trick. Tuck something into the knot. A sprig of pine. A cinnamon stick. A candy cane. A little bell. It costs pennies, and it looks like a present from a magazine.",
+   "query": "gift tied twine pine sprig cinnamon",
+   "caption": "TUCK SOMETHING IN THE KNOT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And save your ribbon, sweetheart. When the presents are opened, roll the good ribbons around a piece of cardboard and put them in the shoebox for next year. My mother had red velvet ribbon that went around our presents for eleven Christmases in a row. When it finally got too short, she cut it up and tied the pieces on the tree.",
+   "query": "ribbon rolled spool box",
+   "caption": "ELEVEN CHRISTMASES",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Mistake number four. Every present in a different loud paper. Santas, snowmen, stripes, glitter, all under the same tree. It looks like a garage sale, honey, and none of the presents stand out because they're all shouting.",
+   "query": "colorful Christmas wrapping paper rolls",
+   "caption": "A GARAGE SALE",
+   "cuts": 4,
+   "chapter": "4. Too many patterns",
+   "moves": true
+  },
+  {
+   "text": "Do this instead. Pick one plain paper for everything, and change only the ribbon. Brown kraft paper is the cheapest paper there is, and with red ribbon it looks beautiful. White butcher paper with green ribbon. My mother used plain brown paper from the A and P, the kind they wrapped meat in, and tied it with red yarn. The whole tree matched, and people stopped to look.",
+   "query": "brown kraft paper gifts red ribbon",
+   "caption": "ONE PAPER, CHANGE THE RIBBON",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "If you want to dress up the plain brown paper, let the children do it. A potato cut in half, carved into a star, dipped in red paint and stamped all over the paper. Or little white fingerprints that look like snow. Danny and I stamped the paper every year, crooked stars everywhere, and Grandma Pearl kept every piece we ever stamped in her cedar chest.",
+   "query": "children stamping paper potato stamp",
+   "caption": "POTATO STAMPS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Mistake number five. Buying a new gift bag for every present. They cost three or four dollars each, sometimes more than the gift inside, and the tissue paper sticks out like a feather duster.",
+   "query": "Christmas gift bags tissue paper",
+   "caption": "MORE THAN THE GIFT",
+   "cuts": 4,
+   "chapter": "5. Buying gift bags",
+   "moves": true
+  },
+  {
+   "text": "Do this instead. Wrap in things that are part of the gift. A kitchen towel tied around a jar of jam. A pretty scarf around a book. A cookie tin from the thrift store. A Mason jar with a square of red cloth over the lid. The Japanese have wrapped gifts in cloth for hundreds of years, and my mother did it with flour sack cloth in the war years, because paper was rationed.",
+   "query": "gift wrapped in cloth fabric knot",
+   "caption": "THE WRAPPING IS A GIFT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And here's a trick for gifts that are hard to hide. A bicycle, a sled, a big box that won't fit under the tree. Don't wrap it at all. Hide it in the garage or at the neighbor's, and tie one end of a long red string to it. Run the string through the house and tie the other end to the child's bedpost on Christmas Eve. In the morning they follow the string. Danny followed one to his first bicycle in nineteen fifty-four, and he talked about it until the day he died.",
+   "query": "red string treasure hunt Christmas morning",
+   "caption": "FOLLOW THE STRING",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Mistake number six. A store-bought sticker that says To and From, or worse, nothing at all, and then nobody knows whose present is whose on Christmas morning.",
+   "query": "gift tag Christmas present",
+   "caption": "WHOSE IS THIS?",
+   "cuts": 4,
+   "chapter": "6. No name, or a sticker",
+   "moves": true
+  },
+  {
+   "text": "Do this instead. Make tags from last year's Christmas cards. Cut out the pretty picture, punch a hole, write the name on the back, and tie it on with the ribbon. My mother saved every Christmas card in a shoebox for exactly that. And write something on the tag besides the name. A line, a memory. My father wrote a little joke on every one of mine, and I still have some of them.",
+   "query": "old Christmas cards cut tags",
+   "caption": "LAST YEAR'S CARDS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And for the little ones, a tag with a riddle instead of a name. Who is the only one in this house who sings in the bathtub? Who left their boots in the hall three times this week? My mother did it one year and we laughed so hard my father had to stop the whole morning. Now my grandchildren beg for riddle tags.",
+   "query": "family laughing Christmas morning",
+   "caption": "RIDDLE TAGS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Mistake number seven. Wrapping everything on Christmas Eve at midnight, with the bad scissors and the last bit of tape, while everybody else is asleep. That's how presents end up looking cheap. Not from the paper. From being tired.",
+   "query": "late night wrapping presents",
+   "caption": "MIDNIGHT ON THE 24TH",
+   "cuts": 4,
+   "chapter": "7. Wrapping it all on the 24th",
+   "moves": true
+  },
+  {
+   "text": "Do this instead. Wrap as you buy. Keep a wrapping box under the bed with your paper, ribbon, scissors and tags, and every time a present comes home, wrap it that same night. One present takes five minutes. By the twentieth everything is done, and Christmas Eve is for cocoa and carols, the way it should be.",
+   "query": "wrapping supplies box ribbon paper",
+   "caption": "WRAP AS YOU BUY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And keep the mess under control on Christmas morning, honey. Put one big paper grocery sack by the tree for the wrapping, and one little box for the ribbons and tags worth saving. My father was in charge of the sack. Every time somebody opened a present, he'd hold it out, and we'd throw the paper in like a basketball. Two points for every shot.",
+   "query": "Christmas morning wrapping paper bag",
+   "caption": "TWO POINTS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So here's the whole lesson, sweetheart. Measure the paper. Hide the tape. Real ribbon, with something tucked in the knot. One paper for the whole tree. Wrap in things that are part of the gift. Tags from old cards. And wrap as you buy. Do that, and the cheapest present under the tree will look like the most expensive one.",
+   "query": "elegant wrapped presents under tree",
+   "caption": "THE CHEAPEST LOOKS BEST",
+   "cuts": 4,
+   "chapter": "Grandma's rule",
+   "moves": true
+  },
+  {
+   "text": "And tell me in the comments, honey. Are you a paper ripper, or do you open them slowly and save the paper like my mother did? I read every one. Good night, sweetheart. Merry Christmas.",
+   "query": "child opening Christmas present",
+   "caption": "RIPPER OR SAVER?",
+   "cuts": 4,
+   "moves": true
+  }
+ ],
+ "voice": "en_US-lessac-high"
+}

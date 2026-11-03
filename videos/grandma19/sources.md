@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- US paper conservation and rationing on the home front during World War II.
+- Furoshiki, the traditional Japanese cloth used to wrap gifts.
