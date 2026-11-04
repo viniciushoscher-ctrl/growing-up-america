@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Green bean casserole created in 1955 by Dorcas Reilly in the Campbell Soup Company test kitchen in Camden, New Jersey.
+- Recipe as written by Grandma Ruth: 1 1/2 lb fresh green beans blanched 4 to 5 minutes; 8 oz mushrooms, 1/2 onion, 2 garlic cloves, 3 tbsp butter, 3 tbsp flour, 1 cup broth, 1 cup milk, nutmeg; 2 onions fried in flour; 350 F for 25 minutes plus 5 with onions on top.
