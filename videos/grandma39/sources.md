@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Tortellini, a stuffed pasta from Bologna and Modena, Italy; the legend of the navel of Venus.
+- Recipe as written by Grandma Ruth: 1 lb Italian sausage, 1 onion, 3 garlic cloves, 1 can diced tomatoes, 6 cups chicken broth, 1 tsp Italian seasoning, 9 oz cheese tortellini, 3 handfuls spinach, 1/2 cup heavy cream, Parmesan.

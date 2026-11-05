@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Oxtail in American Depression-era cooking and in Jamaican, Korean and Roman (coda alla vaccinara) traditions.
+- Recipe as written by Grandma Ruth: 3 to 4 lb oxtail, 2 onions, 3 carrots, 3 celery ribs, 4 garlic cloves, 2 tbsp tomato paste, 3 cups beef broth, 1 cup red wine, 2 bay leaves, thyme, 1/4 cup flour; 300 F for 3 1/2 to 4 hours, chilled overnight to remove the fat.

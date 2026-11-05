@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- The cheese ball as a mid-century American party appetizer, popularized in 1950s and 1960s magazines.
+- Recipe as written by Grandma Ruth: 16 oz cream cheese, 2 cups sharp cheddar, 1/4 cup butter, 2 green onions, 1 tbsp Worcestershire sauce, 1/2 tsp garlic powder, cayenne; chilled 4 hours or overnight; rolled in 1 cup toasted chopped pecans.

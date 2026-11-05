@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Kitchen gifts as a Christmas tradition in mid-century American neighborhoods.
+- Recipes as written by Grandma Ruth: spiced pecans (1 egg white, 1 lb pecans, 1 cup sugar, cinnamon, salt, cayenne; 250 F for 1 hour); cocoa mix (2 cups powdered milk, 1 cup powdered sugar, 3/4 cup cocoa); slow cooker apple butter (6 lb apples, 1 cup brown sugar, spices, 10 hours on low).

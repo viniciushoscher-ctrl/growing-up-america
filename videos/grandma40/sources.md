@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Traditional evergreen garlands of cedar, pine, spruce, boxwood and holly in American homes.
+- Dried orange slices: 1/4 inch slices dried at about 200 F for around 3 hours.
