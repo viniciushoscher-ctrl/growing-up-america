@@ -1,0 +1,82 @@
+import sys; sys.path.insert(0, __import__("os").path.join(__import__("os").path.dirname(__file__), "..", "..", "pipeline"))
+from scriptkit import sc, ch, save, S
+
+# Grandma Ruth 48 · everyday recipe: Sunday bolognese meat sauce (Google Trends 3/11: bolognese rising in dinner recipes)
+# Grandma Ruth: born 1944 in Mansfield, Ohio; mother Dorothy, father Walter, brother Danny, Grandma Pearl.
+
+sc("""Sweetheart, the first time I ate a real bolognese sauce, I was forty-one years old, and I was embarrassed. For twenty years, I'd been making spaghetti sauce with a pound of hamburger, a jar of tomatoes, and a shake of oregano, cooked for twenty minutes. Then my friend Rosa, whose family came from Bologna, made me hers. I went home and apologized to my husband.""",
+   "bolognese sauce pasta bowl", "I APOLOGIZED")
+sc("""Most meat sauce today comes out thin and watery, with gray little pebbles of meat floating in red water. So tonight I'm giving you Rosa's Sunday bolognese, rich and thick, every step, and the five mistakes that make it watery. And stay with me, because Rosa's last secret is one ingredient most Americans would never guess, and it's already in your icebox.""",
+   "watery meat sauce spaghetti", "THIN AND WATERY")
+
+ch("Rosa's kitchen")
+sc("""Rosa Bianchi moved to Mansfield in nineteen eighty-five, when her husband got a job at the Westinghouse plant. She was the best cook I ever knew, and the bossiest. The first time she saw me put ketchup in a meat sauce, she took the spoon out of my hand and said, Ruth, sit down. I'm going to save your family.""",
+   "Italian woman cooking kitchen 1980s", "I'M GOING TO SAVE YOU")
+sc("""In Bologna, she told me, the sauce is called ragu, and it's mostly meat, with only a little tomato. It's not a red sauce, it's a brown one, a little orange, thick and rich, and it cooks for hours on a Sunday morning while the family is at church. You don't pour it on top of the spaghetti. You toss it with the pasta, so every piece is coated.""",
+   "ragu bolognese pot simmering", "MOSTLY MEAT")
+sc("""And one pot of it, honey, feeds eight people, and freezes for three months. It costs about fifteen dollars to make, and it's three family suppers. In a minute I'll tell you Rosa's rule about the pasta, because she said that's where Americans make the biggest mistake of all, worse than the ketchup.""",
+   "containers of sauce freezer", "THREE SUPPERS")
+
+ch("What you need")
+sc("""Here's what you need. One onion, one carrot, and two ribs of celery, chopped very fine, almost like rice. Three tablespoons of butter and two of olive oil. One pound of ground beef and half a pound of ground pork. Half a cup of dry white wine, or red. One can of crushed tomatoes and two tablespoons of tomato paste. One cup of whole milk. And salt, pepper, and a little nutmeg.""",
+   "onion carrot celery ground beef pork", "THE INGREDIENTS")
+sc("""And the pasta. In Bologna, they serve it with wide, flat noodles, tagliatelle or pappardelle, or with fettuccine, never with thin spaghetti. Rosa said thin spaghetti is too slippery, the sauce slides right off. Wide noodles hold onto the meat. If all you have is spaghetti, use it, honey. But try it once with wide noodles, and you'll see what she meant.""",
+   "wide flat tagliatelle noodles", "WIDE NOODLES")
+
+sc("""And use a heavy pot, honey, the heaviest you have. A thin pot scorches the bottom of the sauce during the long simmer, and one burnt spot makes the whole pot taste bitter. Rosa used a big enameled cast iron pot she brought all the way from Italy in her suitcase, wrapped in her wedding sheets. Her husband carried the suitcase, and he said it was the heaviest thing he ever lifted.""",
+   "heavy enameled pot stove", "THE HEAVIEST POT")
+
+ch("The vegetables")
+sc("""Step one. Chop the onion, carrot and celery very, very fine. Rosa called it the soffritto. Mistake number one is big chunks. Big pieces of carrot and onion float in the sauce like little boats. Chopped fine, they melt right into the sauce and make it sweet and thick. If you have a food processor, pulse them a few times, but don't make a mush.""",
+   "finely chopped soffritto vegetables", "CHOPPED VERY FINE")
+sc("""Melt the butter with the olive oil in a big heavy pot over medium heat. Add the vegetables and a pinch of salt, and cook them slowly, stirring now and then, for about ten minutes, until they're soft and sweet and just starting to turn golden. Don't rush them, sweetheart. This is the foundation of the whole sauce.""",
+   "soffritto cooking butter pot", "THE FOUNDATION")
+
+ch("The meat")
+sc("""Step two, the meat. Turn the heat up to medium-high. Add the beef and pork, and break it up with a wooden spoon into small pieces. Then let it cook until all the water from the meat cooks away and it starts to sizzle and brown, about ten or twelve minutes. Mistake number two is stopping when it's gray. Gray meat is boiled meat. Wait for it to brown.""",
+   "browning ground meat pot", "WAIT FOR IT TO BROWN")
+sc("""If this is helping you, honey, tap the like button for me. It helps Grandma more than you know. Now, why two kinds of meat? The pork has more fat, and it makes the sauce silky and sweet. All beef is a little dry and coarse. Rosa used beef, pork, and sometimes a little ground veal. And if you can find it, a few slices of pancetta or bacon, chopped and cooked with the vegetables.""",
+   "ground pork and beef plate", "BEEF AND PORK")
+sc("""Step three. Pour in the wine, and let it bubble, scraping the bottom of the pot, until it's almost all gone, about three minutes. Mistake number three is adding the wine and the tomatoes at the same time. If you don't let the wine cook away first, the sauce tastes sour and sharp. Let it simmer until you can't smell the alcohol anymore.""",
+   "pouring wine into meat sauce", "LET IT COOK AWAY")
+
+ch("Rosa's secret")
+sc("""And now Rosa's secret, the one that's already in your icebox. Milk. Pour in the cup of whole milk, and add a little grating of nutmeg. Let it simmer gently until the milk is almost all gone, about ten minutes. It sounds strange, I know. I said, Rosa, milk in a meat sauce? She said, Ruth, sit down. Again.""",
+   "pouring milk into ragu", "MILK")
+sc("""The milk makes the meat soft and tender, and it takes the sharp edge off the tomatoes. It's the reason a real bolognese tastes so rich and gentle and round. You can't taste milk in the finished sauce, honey. You just taste that it's better than anything you've ever made. Mistake number four is leaving it out.""",
+   "creamy rich meat sauce spoon", "YOU CAN'T TASTE IT")
+
+ch("The long simmer")
+sc("""So far, a fine soffritto cooked slow, beef and pork browned all the way, wine cooked off, and milk. Now step four. Add the crushed tomatoes and the tomato paste, and stir. Bring it to a bare simmer, just a bubble or two, then turn the heat down as low as it goes. Put the lid on, but leave it cracked open a little, so the steam can escape.""",
+   "pot lid cracked simmering sauce", "A BARE SIMMER")
+sc("""And now, the hard part, sweetheart. Wait. Let it cook for at least two hours, and three is better, stirring every twenty minutes. Mistake number five is cooking it for twenty minutes, like I did for twenty years. A quick sauce is watery, because the tomatoes haven't cooked down. In three hours, it gets thick and dark, and all the flavors come together.""",
+   "thick bolognese wooden spoon", "AT LEAST TWO HOURS")
+sc("""If it gets too thick, add a splash of water or broth. When it's done, it should be thick enough that a spoon dragged across the bottom of the pot leaves a path for a second. Taste it, and add salt and pepper. It needs more salt than you'd think, honey. A sauce with no salt tastes like nothing at all.""",
+   "spoon dragged through thick sauce", "IT LEAVES A PATH")
+
+ch("Rosa's rule")
+sc("""And now Rosa's rule about the pasta, the biggest mistake of all. Americans pile plain, wet spaghetti on a plate, and dump a ladle of sauce on top. Rosa said, never. Cook the pasta in plenty of salted water, a minute less than the box says. Save a cup of the cooking water. Then drain it, and put it right into the pot with some of the sauce.""",
+   "tossing pasta with sauce in pot", "NEVER ON TOP")
+sc("""Toss it over low heat for one minute, with a splash of that starchy pasta water, until every noodle is coated and shiny. The pasta finishes cooking in the sauce and drinks up the flavor. Then serve it with a little more sauce on top, and a good grating of real Parmesan. That's how they eat it in Bologna, and that's how it's been at my table since nineteen eighty-five.""",
+   "bolognese tagliatelle parmesan plate", "EVERY NOODLE COATED")
+
+ch("Keeping and using")
+sc("""Bolognese is even better the next day, honey, like every good sauce. It keeps four days in the icebox, and three months in the freezer. I freeze it in two-cup containers, enough for a family supper. And it's not only for pasta. Layer it in a lasagna with white sauce, spoon it into baked potatoes, or put it on toast with a fried egg on top for breakfast. Rosa would be horrified. It's delicious.""",
+   "lasagna layers meat sauce", "ROSA WOULD BE HORRIFIED")
+sc("""And you can make it in a slow cooker, sweetheart. Do the first steps on the stove, the vegetables, the meat, the wine and the milk. Then put it all in the slow cooker with the tomatoes, and cook it on low for six to eight hours. Leave the lid cracked open for the last hour, so it thickens up. Come home from work, and supper's ready.""",
+   "slow cooker meat sauce", "SUPPER'S READY")
+
+ch("Grandma's kitchen")
+sc("""So one more time. Chop the vegetables very fine, and cook them slow in butter. Beef and pork, browned all the way. Wine, cooked off. Milk, Rosa's secret. Then tomatoes, and at least two hours on the lowest heat. And toss the pasta in the sauce, never on top. That's Rosa's Sunday bolognese, and it's never watery.""",
+   "family Sunday pasta dinner table", "NEVER WATERY")
+sc("""Tell me in the comments, sweetheart. Was there a friend or a neighbor who taught you to cook something better? I'd love to hear about them. The whole playlist of Grandma's recipes is right there on your screen, and I'll see you in the next video. Good night, honey.""",
+   "warm kitchen evening stove", "WHO TAUGHT YOU?")
+
+for s in S:
+    s["cuts"], s["moves"] = 4, True
+
+save("grandma48", "Sunday Bolognese EVERYONE Makes WRONG (Why Yours Tastes WATERY)",
+     ["Grandma Ruth is a narrated character built from real memories and records of the era.",
+      "Ragu alla bolognese, the meat sauce of Bologna, Italy, traditionally made with soffritto, beef and pork, wine, milk and a little tomato and served with tagliatelle.",
+      "Recipe as written by Grandma Ruth: 1 onion, 1 carrot, 2 celery ribs, 3 tbsp butter, 2 tbsp olive oil, 1 lb ground beef, 1/2 lb ground pork, 1/2 cup wine, 1 cup whole milk, nutmeg, 1 can crushed tomatoes, 2 tbsp tomato paste; simmered 2 to 3 hours."],
+     "everyday recipe", minutes=(10, 14.5), voice="en_US-lessac-high")

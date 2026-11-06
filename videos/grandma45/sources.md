@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Food safety: thaw turkey in the refrigerator about 24 hours per 4 to 5 pounds; poultry safe at 165 F; do not rinse raw poultry (USDA Food Safety and Inspection Service).
+- Method as written by Grandma Ruth: dry brine about 1 tbsp kosher salt per 4 lb for 1 to 2 days; 425 F for 30 minutes then 325 F; out at 160 F in the breast; rest 30 minutes.

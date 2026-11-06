@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Scandinavian Christmas traditions: straw stars and the Julbock (Yule goat) in Sweden, woven paper hearts (julehjerter) in Denmark, candle arches in windows, mys and hygge.
+- Clove-studded oranges (pomanders) as a traditional European Christmas decoration.
