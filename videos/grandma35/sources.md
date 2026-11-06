@@ -1,0 +1,4 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Peanut Butter Blossoms, entered by Freda Smith of Gibsonburg, Ohio, in the Pillsbury Bake-Off in the late 1950s.
+- Recipe as written by Grandma Ruth: 1/2 cup butter, 1/2 cup creamy peanut butter, 1/2 cup sugar, 1/2 cup brown sugar, 1 egg, 2 tbsp milk, 1 tsp vanilla, 1 3/4 cups flour, 1 tsp baking soda, 1/2 tsp salt; chill 1 hour; 375 F for 8 to 10 minutes; kiss pressed in after 2 to 3 minutes.
+- Sunflower seed butter can turn green when baked with baking soda (chlorogenic acid), which is harmless.

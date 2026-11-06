@@ -1,0 +1,186 @@
+{
+ "id": "grandma33",
+ "angle": "everyday recipe",
+ "length_scale": 1.45,
+ "title": "Cabbage Rolls EVERYONE's Grandma Made (Why Yours Fall APART)",
+ "scenes": [
+  {
+   "text": "Sweetheart, the best cook on our street in nineteen fifty-five didn't speak much English. Mrs. Kowalski, from Poland, two doors down. Every Saturday, the smell of her cabbage rolls came through our kitchen window, and my brother Danny would stand on the back porch and sniff like a hound dog until she waved him over.",
+   "query": "stuffed cabbage rolls pot tomato",
+   "caption": "LIKE A HOUND DOG",
+   "cuts": 8,
+   "moves": true,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Today, people tell me their cabbage rolls fall apart in the pot, or the leaves are tough as paper, or the filling is dry. So tonight I'm giving you Mrs. Kowalski's cabbage rolls, every step, and the four mistakes that make them fall apart. And stay with me, because the trick for the leaves is the one that changed everything for me, and it uses your freezer.",
+   "query": "cabbage rolls falling apart pot",
+   "caption": "THEY FALL APART",
+   "cuts": 8,
+   "moves": true
+  },
+  {
+   "text": "In the steel towns of Ohio in the fifties, half the families came from Poland, Hungary, Slovakia and Ukraine. And every one of those grandmothers made cabbage rolls. The Poles called them golabki, little pigeons. The Hungarians called them toltott kaposzta. Mrs. Kowalski said every grandmother thinks hers are the only right ones, and every grandmother is right.",
+   "query": "1950s Ohio steel town neighborhood",
+   "caption": "LITTLE PIGEONS",
+   "cuts": 5,
+   "chapter": "Mrs. Kowalski's kitchen",
+   "moves": true
+  },
+  {
+   "text": "When I was ten, Mrs. Kowalski let me help. She sat me on a stool, gave me a big bowl of filling and a stack of soft cabbage leaves, and showed me how to roll them, like a little package. My first ones looked like a dog had chewed them. She put them in the pot anyway, right next to hers, and when they were done, she said mine were the best. She lied beautifully.",
+   "query": "child rolling cabbage leaves kitchen",
+   "caption": "SHE LIED BEAUTIFULLY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Cabbage rolls were what you made when you had a cabbage, a pound of meat, and a family to feed. One pound of ground meat and a cup of rice makes sixteen big rolls, enough for a family of six with leftovers. In nineteen fifty-five, the whole pot cost Mrs. Kowalski about a dollar. Today it's about twelve. Still the cheapest Sunday dinner I know.",
+   "query": "pot of cabbage rolls family table",
+   "caption": "ABOUT TWELVE DOLLARS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Here's what you need, honey. One large head of green cabbage, about three pounds. One pound of ground beef, or half beef and half pork, which is what Mrs. Kowalski used. Pork makes them juicier. One cup of white rice, uncooked. One onion, chopped fine. Two cloves of garlic. One egg. Salt, pepper, and a teaspoon of paprika.",
+   "query": "cabbage head ground meat rice",
+   "caption": "HALF BEEF, HALF PORK",
+   "cuts": 4,
+   "chapter": "What you need",
+   "moves": true
+  },
+  {
+   "text": "For the sauce. One big can of crushed tomatoes, twenty-eight ounces. One can of tomato soup, the way every Ohio grandmother did it, or a small can of tomato sauce. A tablespoon of brown sugar. A tablespoon of vinegar or lemon juice. And a cup of water or broth. Some families add a jar of sauerkraut on the bottom of the pot. Mrs. Kowalski did, and so do I.",
+   "query": "crushed tomatoes can sauerkraut jar",
+   "caption": "SAUERKRAUT ON THE BOTTOM",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Now the leaves, and this is where most people give up. The old way is to boil the whole head of cabbage in a big pot, and peel off the leaves one by one as they soften, with tongs, burning your fingers. Mrs. Kowalski did it that way her whole life. It works, but it's a fight. Here's the trick I promised you.",
+   "query": "boiling cabbage head pot tongs",
+   "caption": "IT'S A FIGHT",
+   "cuts": 4,
+   "chapter": "The leaves",
+   "moves": true
+  },
+  {
+   "text": "Put the whole head of cabbage in the freezer the night before. Then take it out in the morning and let it thaw on the counter for the day, or in the icebox for two days. When it thaws, the leaves come off soft and bendy, like they were cooked, and they don't tear. No boiling, no burned fingers. My daughter-in-law taught me that in nineteen ninety, and I wished I'd known it forty years sooner.",
+   "query": "frozen cabbage thawing leaves",
+   "caption": "THE FREEZER TRICK",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Either way, take your soft leaves and look at the thick rib down the middle of each one. With a small knife, shave that rib down flat, so it's as thin as the rest of the leaf. Don't cut it out. Just shave it thin. That thick rib is mistake number one, the reason rolls crack and won't stay closed.",
+   "query": "shaving cabbage leaf rib knife",
+   "caption": "SHAVE THE RIB",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And pick the right cabbage at the store. Look for a big, heavy head with loose outer leaves, not a small, tight, hard one. The loose ones have bigger, softer leaves that roll easier. Savoy cabbage, the crinkly kind, is even easier to roll, but it's more delicate. Mrs. Kowalski squeezed every cabbage at the market like she was checking a melon.",
+   "query": "cabbage heads market stand",
+   "caption": "LIKE CHECKING A MELON",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Now the filling. Cook the chopped onion in a little butter until it's soft and sweet, about eight minutes, and let it cool. Then in a big bowl, mix the meat, the uncooked rice, the cooled onion, the garlic, the egg, a teaspoon and a half of salt, pepper, paprika, and a quarter cup of the tomato sauce. Mix it with your hands, gently, just until it's together.",
+   "query": "mixing meat rice filling bowl hands",
+   "caption": "GENTLY, WITH YOUR HANDS",
+   "cuts": 4,
+   "chapter": "The filling",
+   "moves": true
+  },
+  {
+   "text": "If this is helping you, honey, tap the like button for me. It helps Grandma more than you know. And now, mistake number two. Cooked rice. People cook the rice first, and then it gets mushy, and the filling turns to paste. Use raw rice. It cooks inside the roll and soaks up all the juice from the meat and the sauce. That's what keeps the filling moist.",
+   "query": "uncooked white rice measuring cup",
+   "caption": "USE RAW RICE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step three, the rolling. Lay a leaf flat with the stem end toward you, the inside of the leaf facing up. Put about a quarter cup of filling near the stem end. Fold the bottom up over the filling, then fold in both sides, and roll it away from you, snug but not tight. Like a little package, or a burrito, my grandchildren say.",
+   "query": "rolling stuffed cabbage leaf hands",
+   "caption": "LIKE A LITTLE PACKAGE",
+   "cuts": 4,
+   "chapter": "Rolling",
+   "moves": true
+  },
+  {
+   "text": "Mistake number three. Rolling them too tight. The rice swells as it cooks, and if the roll is too tight, it bursts open in the pot. Leave a little room. And don't overfill them. A quarter cup, no more. Mrs. Kowalski said, a cabbage roll is like a good coat. It should fit, but you should still be able to breathe.",
+   "query": "cabbage rolls lined up seam down",
+   "caption": "LIKE A GOOD COAT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step four. Take the torn leaves and the small ones you didn't use, and line the bottom of a big heavy pot with them, with the sauerkraut if you're using it. That bed keeps the rolls from scorching. Then lay the rolls on top, seam side down, packed close together, side by side, in layers. Packed close, they hold each other closed.",
+   "query": "cabbage rolls packed in pot layers",
+   "caption": "PACKED CLOSE",
+   "cuts": 4,
+   "chapter": "The pot",
+   "moves": true
+  },
+  {
+   "text": "So far, the freezer trick, shaving the rib, raw rice, a loose roll, and packing them close, seam down. Now mix the crushed tomatoes, tomato soup, brown sugar, vinegar and water, and pour it over the rolls, until it just about covers them. Cover the top with a few more cabbage leaves, then the lid.",
+   "query": "pouring tomato sauce over cabbage rolls",
+   "caption": "JUST ABOUT COVERED",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step five. Bring it to a gentle simmer on the stove, then cook it very low, covered, for an hour and a half. Or put it in a three hundred fifty degree oven for two hours. And here's mistake number four. A hard boil. Boiling tosses the rolls around and breaks them open. Gentle. Barely bubbling. Don't stir it. Just shake the pot a little now and then.",
+   "query": "cabbage rolls simmering pot low",
+   "caption": "DON'T STIR IT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "How do you know they're done? In a minute you'll smell it, honey, but here's the real test. Take one roll out, cut it in half, and taste the rice in the middle. If it's soft all the way through, they're done. If it's still a little hard, give them another twenty minutes. The cabbage should be so tender you can cut it with the side of a fork.",
+   "query": "cutting cabbage roll in half fork",
+   "caption": "TASTE THE RICE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Lift them out gently with a big spoon, two or three per plate, and spoon the sauce over. Mrs. Kowalski put a spoon of sour cream on top and served them with mashed potatoes and rye bread. My father ate four and called them Polish pigs in a blanket, and Mrs. Kowalski would shake her wooden spoon at him and laugh.",
+   "query": "cabbage rolls sour cream plate",
+   "caption": "POLISH PIGS IN A BLANKET",
+   "cuts": 4,
+   "chapter": "Serving",
+   "moves": true
+  },
+  {
+   "text": "Cabbage rolls are even better the next day, honey. Every grandmother knows it. Keep them in the sauce in the icebox for four days, and warm them slowly. They also freeze beautifully, in the sauce, for three months. I make a double pot in January and freeze half, and on a cold Tuesday in February, dinner is already done.",
+   "query": "leftover cabbage rolls container",
+   "caption": "BETTER THE NEXT DAY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And if you don't have time for rolling, make unstuffed cabbage. Brown the meat and onion in a pot, add chopped cabbage, the uncooked rice, the sauce and two cups of water, and simmer it covered for forty minutes. Same taste, one pot, no rolling. My granddaughter calls it lazy cabbage rolls, and she makes it every week.",
+   "query": "cabbage beef rice skillet one pot",
+   "caption": "LAZY CABBAGE ROLLS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So one more time, honey. Freeze the cabbage the night before, so the leaves come off soft. Shave the rib. Raw rice in the filling. A quarter cup, rolled snug but not tight. A bed of leaves in the pot, rolls packed close and seam down. Tomato sauce with a little sugar and vinegar. Low and slow, never a hard boil. That's Mrs. Kowalski's cabbage rolls, and they never fall apart.",
+   "query": "cabbage rolls dinner table family",
+   "caption": "THEY NEVER FALL APART",
+   "cuts": 4,
+   "chapter": "Grandma's kitchen",
+   "moves": true
+  },
+  {
+   "text": "Tell me in the comments, sweetheart. What did your grandmother call them? Golabki, pigs in a blanket, or something else? I read every comment. The whole playlist of Grandma's recipes is right there on your screen, and I'll see you in the next video. Good night, honey.",
+   "query": "warm kitchen evening stove pot",
+   "caption": "WHAT DID SHE CALL THEM?",
+   "cuts": 4,
+   "moves": true
+  }
+ ],
+ "voice": "en_US-lessac-high"
+}

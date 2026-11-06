@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Bubble lights (NOMA), popular in US homes from the late 1940s; aluminum Christmas trees with rotating color wheels, popular around 1958 to 1967.
+- Popcorn and cranberry garlands and paper chains as traditional American homemade decorations.

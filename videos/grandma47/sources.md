@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Food safety: reheat fully cooked ham to 140 F (USDA Food Safety and Inspection Service); USDA labeling of ham with natural juices versus water added.
+- Method as written by Grandma Ruth: bone-in fully cooked ham, 325 F covered with 1 cup liquid, 12 to 15 minutes per pound; glaze of 1 cup brown sugar, 1/4 cup honey, 2 tbsp mustard, 2 tbsp juice, cloves and cinnamon, applied in two coats at 400 F for the last 20 minutes.

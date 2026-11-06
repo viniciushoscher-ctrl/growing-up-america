@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Thrift-era gift wrapping in mid-century American homes: butcher paper, newspaper, saved and pressed ribbon.
+- Wrapping method as described by Grandma Ruth: about 2 inches of overlap, edges folded under, tape hidden, ribbon tied both ways.

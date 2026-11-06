@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Holiday lighting safety: outdoor-rated lights, covered outdoor outlets, timers, no stapling through wires (U.S. Consumer Product Safety Commission guidance).
+- Luminarias (paper bag lanterns), a Southwestern US Christmas tradition.

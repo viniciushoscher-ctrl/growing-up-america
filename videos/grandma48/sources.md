@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Ragu alla bolognese, the meat sauce of Bologna, Italy, traditionally made with soffritto, beef and pork, wine, milk and a little tomato and served with tagliatelle.
+- Recipe as written by Grandma Ruth: 1 onion, 1 carrot, 2 celery ribs, 3 tbsp butter, 2 tbsp olive oil, 1 lb ground beef, 1/2 lb ground pork, 1/2 cup wine, 1 cup whole milk, nutmeg, 1 can crushed tomatoes, 2 tbsp tomato paste; simmered 2 to 3 hours.

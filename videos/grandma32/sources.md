@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Traditional Scottish shortbread ratio of 1 part sugar, 2 parts butter, 3 parts flour; shortbread and first-footing at Hogmanay.
+- Recipe as written by Grandma Ruth: 1 cup butter, 1/2 cup sugar or powdered sugar, 1 3/4 cups flour plus 1/4 cup cornstarch or rice flour, 1/4 tsp salt; chill 30 minutes; 325 F for 30 to 35 minutes.

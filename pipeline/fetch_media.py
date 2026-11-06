@@ -284,6 +284,11 @@ def main(video):
                     if fm and (DRY or save_frame(fm, f)):
                         break
                     fm = None
+            if m is None and fm is None and last is None and not DRY:  # first cut and nothing found: try broader words
+                ws = s["query"].split()
+                for q in [" ".join(ws[-2:])] + ws[::-1]:
+                    m = pick(q, used, False)
+                    if m: break
             if m is None and fm:
                 if DRY: print("SCENE", i, k, "|", s["query"], "| FILM", fm["title"]); last = last or True; continue
                 last = f; own.append(f); credits.append({k2: v for k2, v in fm.items() if k2 not in ("src", "t")} | {"scene": i, "cut": k})

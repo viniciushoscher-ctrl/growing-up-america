@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Stuffed cabbage (Polish golabki, Hungarian toltott kaposzta) in Central and Eastern European immigrant communities of the Ohio steel towns.
+- Recipe as written by Grandma Ruth: 1 large cabbage, 1 lb ground beef and pork, 1 cup uncooked white rice, 1 onion, 2 garlic cloves, 1 egg, salt, pepper, 1 tsp paprika; sauce of 28 oz crushed tomatoes, 1 can tomato soup, 1 tbsp brown sugar, 1 tbsp vinegar, 1 cup water; simmer covered 1 1/2 hours or 350 F for 2 hours.

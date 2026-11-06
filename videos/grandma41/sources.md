@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Caribbean rum cake traditions and the 1970s American cake-mix-and-pudding rum cake.
+- Recipe as written by Grandma Ruth: 1 box yellow cake mix, 1 box (3.4 oz) instant vanilla pudding, 4 eggs, 1/2 cup water, 1/2 cup oil, 1/2 cup dark rum, 1 cup chopped pecans; 325 F for 55 to 60 minutes; glaze of 1/2 cup butter, 1/4 cup water, 1 cup sugar boiled 5 minutes plus 1/2 cup dark rum.

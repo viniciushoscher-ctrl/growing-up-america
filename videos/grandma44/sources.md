@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Snowball cookies, also known as Russian tea cakes, Mexican wedding cookies and butterballs; related to Spanish polvorones and Middle Eastern butter cookies.
+- Recipe as written by Grandma Ruth: 1 cup butter, 1/2 cup powdered sugar plus about 1 1/2 cups for rolling, 1 tsp vanilla, 2 1/4 cups flour, 1/4 tsp salt, 3/4 cup finely chopped toasted pecans or walnuts; chill 1 hour; 375 F for 10 to 12 minutes; rolled in sugar warm and again cool.
