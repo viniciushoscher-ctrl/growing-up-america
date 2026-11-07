@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- London broil, a mid-century American name for marinated, broiled flank steak sliced against the grain.
+- Recipe as written by Grandma Ruth: 1 1/2 to 2 lb flank steak; marinade of 1/4 cup soy sauce, 1/4 cup olive oil, 2 tbsp lemon juice or vinegar, 2 tbsp brown sugar, 3 garlic cloves, 1 tsp pepper, 1 tbsp Worcestershire; 2 hours to overnight; seared 4 to 5 minutes per side to 130 F; rested 10 minutes.

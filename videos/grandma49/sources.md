@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Holiday lighting safety: avoid cords under rugs, do not overload outlets, keep trees watered, never leave candles unattended (U.S. Consumer Product Safety Commission and National Fire Protection Association guidance).
+- Warm white light is around 2700 K; the rule of thumb of about 100 lights per foot of tree.

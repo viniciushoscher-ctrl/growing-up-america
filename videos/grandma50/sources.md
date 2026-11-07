@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Divinity, an American candy from the early 1900s made with sugar, corn syrup and whipped egg whites; humidity prevents it from setting.
+- Recipe as written by Grandma Ruth: 2 1/2 cups sugar, 1/2 cup light corn syrup, 1/2 cup water, 1/4 tsp salt, 2 egg whites, 1 tsp vanilla, 1 cup toasted pecans; syrup cooked to 252 F (hard ball).

@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Yeast activity: liquid around 105 to 110 F; refrigerated overnight rise for enriched doughs.
+- Recipe as written by Grandma Ruth: dough of 1 cup warm milk, 2 1/4 tsp yeast, 1/4 cup sugar, 1 egg, 1/3 cup melted butter, 1 tsp salt, about 3 1/2 cups flour; filling of 1/2 cup soft butter, 1 cup brown sugar, 2 tbsp cinnamon; 350 F for 22 to 26 minutes; cream cheese icing.

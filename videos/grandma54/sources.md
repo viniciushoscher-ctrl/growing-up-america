@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Chicken pot pie as an American leftover supper, and the frozen pot pies of the 1950s.
+- Recipe as written by Grandma Ruth: 3 cups cooked chicken, 6 tbsp butter, onion, 2 carrots, 2 celery ribs, 1/3 cup flour, 2 cups broth, 1 cup milk, 1 cup peas, thyme; double crust in a 9-inch deep dish; 425 F for 20 minutes on a preheated sheet, then 375 F for 20 to 25 minutes.
