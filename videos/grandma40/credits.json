@@ -1,0 +1,962 @@
+[
+  {
+    "title": "[Home Movies: Croft Collection: Reel 37: Christmas 1953, Chicago Trip, Northland Center] (1953) at 1133.6s",
+    "page": "https://archive.org/details/6414_HM_Croft_Collection_Reel_37_Christmas_1953_Chicago_Trip_Northla_01_15_27_00",
+    "dur": 1495.295295,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.01557658240199089,
+    "scene": 0,
+    "cut": 0
+  },
+  {
+    "title": "And Then There Were Four (1950) at 776.9s",
+    "page": "https://archive.org/details/0421_And_Then_There_Were_Four_03_32_52_00",
+    "dur": 1542.709376,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.040909044444561005,
+    "scene": 0,
+    "cut": 1
+  },
+  {
+    "title": "[Home Movies: Nevada, Oregon, Washington, California] (1959) at 541.4s",
+    "page": "https://archive.org/details/6276_HM_Nevada_Oregon_Washington_California_01_00_36_28",
+    "dur": 1746.51318,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.8489254713058472,
+    "scene": 0,
+    "cut": 2
+  },
+  {
+    "title": "[Home Movies: Nevada, Oregon, Washington, California] (1959) at 1562.6s",
+    "page": "https://archive.org/details/6276_HM_Nevada_Oregon_Washington_California_01_00_36_28",
+    "dur": 1746.51318,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.001844497979618609,
+    "scene": 0,
+    "cut": 3
+  },
+  {
+    "title": "Pathe News Christmas with Their Cameramen and Crews 'Round the World (1950) at 203.9s",
+    "page": "https://archive.org/details/PatheNew1950",
+    "dur": 281.314648,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.38903114199638367,
+    "scene": 0,
+    "cut": 4
+  },
+  {
+    "title": "A Visit to Santa (1963) at 540.9s",
+    "page": "https://archive.org/details/202889_A_Visit_to_Santa",
+    "dur": 738.196,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9999910593032837,
+    "scene": 0,
+    "cut": 5
+  },
+  {
+    "title": "[Movie Trailers: Christmas 1948 and New Year's 1949] (1948) at 28.4s",
+    "page": "https://archive.org/details/0545_Movie_Trailers_Christmas_1948_and_New_Years_1949",
+    "dur": 108.008008,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.980046808719635,
+    "scene": 0,
+    "cut": 6
+  },
+  {
+    "title": "Home Movie: 97485: St. Louis Area Family, Reel 16 (1967) at 921.4s",
+    "page": "https://archive.org/details/HMStLouisAreaFam97485",
+    "dur": 1378.555556,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.10673346370458603,
+    "scene": 0,
+    "cut": 7
+  },
+  {
+    "title": "Greater Goal: Human Dividends from American Industry, The (1953) at 245.4s",
+    "page": "https://archive.org/details/0770_Greater_Goal_Human_Dividends_from_American_Industry_The_13_31_44_00",
+    "dur": 1459.025692,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9921980500221252,
+    "scene": 1,
+    "cut": 0
+  },
+  {
+    "title": "Greater Goal: Human Dividends from American Industry, The (1953) at 185.2s",
+    "page": "https://archive.org/details/0770_Greater_Goal_Human_Dividends_from_American_Industry_The_13_31_44_00",
+    "dur": 1459.025692,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9518391489982605,
+    "scene": 1,
+    "cut": 1
+  },
+  {
+    "title": "\"Your Name Here\" Story, The (Outtakes) (1964) at 113.6s",
+    "page": "https://archive.org/details/0817_Your_Name_Here_Story_The_Outtakes_05_39_41_00",
+    "dur": 393.42676,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9970621466636658,
+    "scene": 1,
+    "cut": 2
+  },
+  {
+    "title": "Why Braceros? (1959) at 234.6s",
+    "page": "https://archive.org/details/0737_Why_Braceros_23_08_31_00",
+    "dur": 1136.036036,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.14872205257415771,
+    "scene": 1,
+    "cut": 3
+  },
+  {
+    "title": "Greater Goal: Human Dividends from American Industry, The (1953) at 690.1s",
+    "page": "https://archive.org/details/0770_Greater_Goal_Human_Dividends_from_American_Industry_The_13_31_44_00",
+    "dur": 1459.025692,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.8610302805900574,
+    "scene": 1,
+    "cut": 4
+  },
+  {
+    "title": "\"Your Name Here\" Story, The (Outtakes) (1964) at 96.1s",
+    "page": "https://archive.org/details/0817_Your_Name_Here_Story_The_Outtakes_05_39_41_00",
+    "dur": 393.42676,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.3206101059913635,
+    "scene": 1,
+    "cut": 5
+  },
+  {
+    "title": "Chance to Play, A (1950) at 286.1s",
+    "page": "https://archive.org/details/0028_Chance_to_Play_A_04_29_26_00",
+    "dur": 1134.200868,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9543836116790771,
+    "scene": 1,
+    "cut": 6
+  },
+  {
+    "title": "Greater Goal: Human Dividends from American Industry, The (1953) at 254.7s",
+    "page": "https://archive.org/details/0770_Greater_Goal_Human_Dividends_from_American_Industry_The_13_31_44_00",
+    "dur": 1459.025692,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9914624094963074,
+    "scene": 1,
+    "cut": 7
+  },
+  {
+    "title": "File:Ehrbar piano, 1873 (2).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Ehrbar_piano%2C_1873_%282%29.jpg/1920px-Ehrbar_piano%2C_1873_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ehrbar_piano,_1873_(2).jpg",
+    "license": "Public domain",
+    "artist": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+    "fit": 0.9999996423721313,
+    "scene": 2,
+    "cut": 0
+  },
+  {
+    "title": "File:Ehrbar piano, 1873 (1).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Ehrbar_piano%2C_1873_%281%29.jpg/1920px-Ehrbar_piano%2C_1873_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ehrbar_piano,_1873_(1).jpg",
+    "license": "Public domain",
+    "artist": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+    "fit": 0.9999955892562866,
+    "scene": 2,
+    "cut": 1
+  },
+  {
+    "title": "File:Helens Jazz Party Piano Clarinet.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Helens_Jazz_Party_Piano_Clarinet.JPG/1920px-Helens_Jazz_Party_Piano_Clarinet.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Helens_Jazz_Party_Piano_Clarinet.JPG",
+    "license": "CC BY-SA 3.0",
+    "artist": "Infrogmation of New Orleans",
+    "fit": 0.9999984502792358,
+    "scene": 2,
+    "cut": 2
+  },
+  {
+    "title": "File:Old upright brown piano IMG1471.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Old_upright_brown_piano_IMG1471.jpg/1920px-Old_upright_brown_piano_IMG1471.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Old_upright_brown_piano_IMG1471.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Heylenny\" title=\"User:Heylenny\">Heylenny</a>",
+    "fit": 0.9999996423721313,
+    "scene": 2,
+    "cut": 3
+  },
+  {
+    "title": "File:Centralia, WA - old upright piano 01.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Centralia%2C_WA_-_old_upright_piano_01.jpg/1920px-Centralia%2C_WA_-_old_upright_piano_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Centralia,_WA_-_old_upright_piano_01.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Jmabel\" title=\"User:Jmabel\">Joe Mabel</a>",
+    "fit": 0.9999983310699463,
+    "scene": 2,
+    "cut": 4
+  },
+  {
+    "title": "File:Key West Woman's Club c 1950.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Key_West_Woman%27s_Club_c_1950.jpg/1920px-Key_West_Woman%27s_Club_c_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Key_West_Woman%27s_Club_c_1950.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Florida Keys History Center-Monroe County Public L",
+    "fit": 0.9966425895690918,
+    "scene": 3,
+    "cut": 0
+  },
+  {
+    "title": "File:1950 woman shoe1.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/1950_woman_shoe1.JPG/1920px-1950_woman_shoe1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:1950_woman_shoe1.JPG",
+    "license": "CC BY-SA 3.0",
+    "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Museo_Rossimoda_della_calzatura\" class=\"extiw\" title=\"w:en:Museo Rossimoda della calzatura\"><span title=\"museum in Italy\">Shoe Museum of Villa Foscarini Rossi</span></a>\n</bdi>",
+    "fit": 0.5936902761459351,
+    "scene": 3,
+    "cut": 1
+  },
+  {
+    "title": "Operation Crossroads: Able and Baker Day Tests, Bikini Atoll, Summer 1946 (1949) at 269.4s",
+    "page": "https://archive.org/details/0419_Operation_Crossroads_Able_and_Baker_Day_Tests_Bikini_Atoll_Summ_07_00_50_00",
+    "dur": 697.731064,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9552281498908997,
+    "scene": 4,
+    "cut": 0
+  },
+  {
+    "title": "Someone's In the Kitchen (1960) at 87.6s",
+    "page": "https://archive.org/details/0710_Someones_In_the_Kitchen_12_49_00_00",
+    "dur": 338.104771,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.975134015083313,
+    "scene": 4,
+    "cut": 1
+  },
+  {
+    "title": "Someone's In the Kitchen (1960) at 333.1s",
+    "page": "https://archive.org/details/0707_Someones_In_the_Kitchen_00_47_45_00",
+    "dur": 464.030697,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9999666213989258,
+    "scene": 4,
+    "cut": 2
+  },
+  {
+    "title": "Someone's In the Kitchen (1960) at 339.1s",
+    "page": "https://archive.org/details/0707_Someones_In_the_Kitchen_00_47_45_00",
+    "dur": 464.030697,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9707800149917603,
+    "scene": 4,
+    "cut": 3
+  },
+  {
+    "title": "Miracle on the Delaware (1953) at 419.0s",
+    "page": "https://archive.org/details/0206_Miracle_on_the_Delaware_01_10_36_00",
+    "dur": 577.077077,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9973975419998169,
+    "scene": 5,
+    "cut": 0
+  },
+  {
+    "title": "Miracle on the Delaware (1953) at 420.5s",
+    "page": "https://archive.org/details/0206_Miracle_on_the_Delaware_01_10_36_00",
+    "dur": 577.077077,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.960721492767334,
+    "scene": 5,
+    "cut": 1
+  },
+  {
+    "title": "Miracle on the Delaware (1953) at 175.8s",
+    "page": "https://archive.org/details/0210_Miracle_on_the_Delaware_05_18_25_00",
+    "dur": 212.145479,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.8755788207054138,
+    "scene": 5,
+    "cut": 2
+  },
+  {
+    "title": "To the Fair (1964) at 475.5s",
+    "page": "https://archive.org/details/0505_To_the_Fair_10_31_38_16",
+    "dur": 1583.049716,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.5940089821815491,
+    "scene": 5,
+    "cut": 3
+  },
+  {
+    "title": "They Call It All-States (1950) at 1008.5s",
+    "page": "https://archive.org/details/0767_They_Call_It_All-States_20_42_00_00",
+    "dur": 1220.053387,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.016754619777202606,
+    "scene": 7,
+    "cut": 0
+  },
+  {
+    "title": "Miracles From Agriculture (1960) at 235.9s",
+    "page": "https://archive.org/details/0189_Miracles_From_Agriculture_08_00_48_00",
+    "dur": 804.004004,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.6241914629936218,
+    "scene": 7,
+    "cut": 1
+  },
+  {
+    "title": "Let Us Break Bread Together (1954) at 231.1s",
+    "page": "https://archive.org/details/0001_Let_Us_Break_Bread_Together_00_00_24_00",
+    "dur": 1569.402736,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.7062224745750427,
+    "scene": 7,
+    "cut": 2
+  },
+  {
+    "title": "Miracles From Agriculture (1960) at 70.7s",
+    "page": "https://archive.org/details/0189_Miracles_From_Agriculture_08_00_48_00",
+    "dur": 804.004004,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9926774501800537,
+    "scene": 7,
+    "cut": 3
+  },
+  {
+    "title": "A Tree Grows for Christmas (1949) at 620.6s",
+    "page": "https://archive.org/details/A_Tree_Grows_For_Christmas",
+    "dur": 677.759,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.999994158744812,
+    "scene": 8,
+    "cut": 0
+  },
+  {
+    "title": "A Tree Grows for Christmas (1949) at 481.8s",
+    "page": "https://archive.org/details/A_Tree_Grows_For_Christmas",
+    "dur": 677.759,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9999972581863403,
+    "scene": 8,
+    "cut": 1
+  },
+  {
+    "title": "A Tree Grows for Christmas (1949) at 586.3s",
+    "page": "https://archive.org/details/A_Tree_Grows_For_Christmas",
+    "dur": 677.759,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.999994158744812,
+    "scene": 8,
+    "cut": 2
+  },
+  {
+    "title": "A Tree Grows for Christmas (1949) at 487.3s",
+    "page": "https://archive.org/details/A_Tree_Grows_For_Christmas",
+    "dur": 677.759,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9995005130767822,
+    "scene": 8,
+    "cut": 3
+  },
+  {
+    "title": "File:View of a garland-draped church interior, by Ritton, E. D. (Edward D.) 2.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/View_of_a_garland-draped_church_interior%2C_by_Ritton%2C_E._D._%28Edward_D.%29_2.jpg/1920px-View_of_a_garland-draped_church_interior%2C_by_Ritton%2C_E._D._%28Edward_D.%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_a_garland-draped_church_interior,_by_Ritton,_E._D._(Edward_D.)_2.jpg",
+    "license": "Public domain",
+    "artist": "<div class=\"fn value\">\nRitton, E. D. (Edward D.) -- Photographer</div>",
+    "fit": 0.9999386072158813,
+    "scene": 9,
+    "cut": 0
+  },
+  {
+    "title": "File:View of a garland-draped church interior with the pastor in the pulpit, by Ritton, E. D. (Edward D.).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/View_of_a_garland-draped_church_interior_with_the_pastor_in_the_pulpit%2C_by_Ritton%2C_E._D._%28Edward_D.%29.jpg/1920px-View_of_a_garland-draped_church_interior_with_the_pastor_in_the_pulpit%2C_by_Ritton%2C_E._D._%28Edward_D.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_a_garland-draped_church_interior_with_the_pastor_in_the_pulpit,_by_Ritton,_E._D._(Edward_D.).jpg",
+    "license": "Public domain",
+    "artist": "<div class=\"fn value\">\nRitton, E. D. (Edward D.) -- Photographer</div>",
+    "fit": 0.9998525381088257,
+    "scene": 9,
+    "cut": 1
+  },
+  {
+    "title": "File:View of a garland-draped church interior with the pastor in the pulpit, by Ritton, E. D. (Edward D.) 2.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/View_of_a_garland-draped_church_interior_with_the_pastor_in_the_pulpit%2C_by_Ritton%2C_E._D._%28Edward_D.%29_2.jpg/1920px-View_of_a_garland-draped_church_interior_with_the_pastor_in_the_pulpit%2C_by_Ritton%2C_E._D._%28Edward_D.%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_a_garland-draped_church_interior_with_the_pastor_in_the_pulpit,_by_Ritton,_E._D._(Edward_D.)_2.jpg",
+    "license": "Public domain",
+    "artist": "<div class=\"fn value\">\nRitton, E. D. (Edward D.) -- Photographer</div>",
+    "fit": 0.9985358715057373,
+    "scene": 9,
+    "cut": 2
+  },
+  {
+    "title": "File:View of a garland-draped church interior, by Ritton, E. D. (Edward D.).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/View_of_a_garland-draped_church_interior%2C_by_Ritton%2C_E._D._%28Edward_D.%29.jpg/1920px-View_of_a_garland-draped_church_interior%2C_by_Ritton%2C_E._D._%28Edward_D.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_a_garland-draped_church_interior,_by_Ritton,_E._D._(Edward_D.).jpg",
+    "license": "Public domain",
+    "artist": "<div class=\"fn value\">\nRitton, E. D. (Edward D.) -- Photographer</div>",
+    "fit": 0.9957606196403503,
+    "scene": 9,
+    "cut": 3
+  },
+  {
+    "title": "Town and the Telephone, The (1950) at 1353.9s",
+    "page": "https://archive.org/details/0878_Town_and_the_Telephone_The_02_01_03_00",
+    "dur": 2230.163497,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.09926041215658188,
+    "scene": 10,
+    "cut": 0
+  },
+  {
+    "title": "Town and the Telephone, The (1950) at 1047.8s",
+    "page": "https://archive.org/details/0878_Town_and_the_Telephone_The_02_01_03_00",
+    "dur": 2230.163497,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.00778941297903657,
+    "scene": 10,
+    "cut": 1
+  },
+  {
+    "title": "Town and the Telephone, The (1950) at 393.5s",
+    "page": "https://archive.org/details/0878_Town_and_the_Telephone_The_02_01_03_00",
+    "dur": 2230.163497,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.1501253843307495,
+    "scene": 10,
+    "cut": 2
+  },
+  {
+    "title": "Town and the Telephone, The (1950) at 271.6s",
+    "page": "https://archive.org/details/0878_Town_and_the_Telephone_The_02_01_03_00",
+    "dur": 2230.163497,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.8052372932434082,
+    "scene": 10,
+    "cut": 3
+  },
+  {
+    "title": "Home movie: 000443: 1950s Detroit Jewish family (1948) at 815.6s",
+    "page": "https://archive.org/details/000443_202005",
+    "dur": 1336.888889,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9995310306549072,
+    "scene": 11,
+    "cut": 0
+  },
+  {
+    "title": "Home movie: 000443: 1950s Detroit Jewish family (1948) at 1139.9s",
+    "page": "https://archive.org/details/000443_202005",
+    "dur": 1336.888889,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.8165201544761658,
+    "scene": 11,
+    "cut": 1
+  },
+  {
+    "title": "Home movie: 000443: 1950s Detroit Jewish family (1948) at 788.1s",
+    "page": "https://archive.org/details/000443_202005",
+    "dur": 1336.888889,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9394887685775757,
+    "scene": 11,
+    "cut": 2
+  },
+  {
+    "title": "Home movie: 000443: 1950s Detroit Jewish family (1948) at 321.1s",
+    "page": "https://archive.org/details/000443_202005",
+    "dur": 1336.888889,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9673941135406494,
+    "scene": 11,
+    "cut": 3
+  },
+  {
+    "title": "The Battery, Ignition and Electrical Systems (1945) at 954.1s",
+    "page": "https://archive.org/details/4015_The_Battery_Ignition_and_Electrical_Systems",
+    "dur": 1539.706373,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.983940601348877,
+    "scene": 12,
+    "cut": 0
+  },
+  {
+    "title": "Battery Electricity (1957) at 456.7s",
+    "page": "https://archive.org/details/4016_Battery_Electricity",
+    "dur": 621.888555,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.999971866607666,
+    "scene": 12,
+    "cut": 1
+  },
+  {
+    "title": "The Battery, Ignition and Electrical Systems (1945) at 975.3s",
+    "page": "https://archive.org/details/4015_The_Battery_Ignition_and_Electrical_Systems",
+    "dur": 1539.706373,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.995610773563385,
+    "scene": 12,
+    "cut": 2
+  },
+  {
+    "title": "Battery Electricity (1957) at 214.0s",
+    "page": "https://archive.org/details/4016_Battery_Electricity",
+    "dur": 621.888555,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9999271631240845,
+    "scene": 12,
+    "cut": 3
+  },
+  {
+    "title": "File:Frieze (USA), 1905\u201315 (CH 18500761).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Frieze_%28USA%29%2C_1905%E2%80%9315_%28CH_18500761%29.jpg/1920px-Frieze_%28USA%29%2C_1905%E2%80%9315_%28CH_18500761%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Frieze_(USA),_1905%E2%80%9315_(CH_18500761).jpg",
+    "license": "Public domain",
+    "artist": "<div class=\"fn value\">\nUnknown artist<span style=\"display: none;\">Unknown artist</span></div>",
+    "fit": 0.9916523098945618,
+    "scene": 14,
+    "cut": 0
+  },
+  {
+    "title": "File:Pinus nigra first-year seed cones.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Pinus_nigra_first-year_seed_cones.jpg/1920px-Pinus_nigra_first-year_seed_cones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pinus_nigra_first-year_seed_cones.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "<a href=\"https://en.wikipedia.org/wiki/User:Redmarkviolinist\" class=\"extiw\" title=\"w:User:Redmarkviolinist\"><b style=\"color:Maroon\">\u1e5c</b><span style=\"color:green\">ed</span><b style=\"color:Maroon\">M</b><b style=\"color:green\">ark<b style=\"color:Maroon\">V</b>iolinist</b></a><sup><a href=\"https://en.wikipedia.org/wiki/User_talk:Redmarkviolinist\" class=\"extiw\" title=\"w:User talk:Redmarkviolinist\">Drop me a line</a></sup>",
+    "fit": 0.9999998807907104,
+    "scene": 14,
+    "cut": 1
+  },
+  {
+    "title": "File:Cozy Christmas coffee (Unsplash).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Cozy_Christmas_coffee_%28Unsplash%29.jpg/1920px-Cozy_Christmas_coffee_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cozy_Christmas_coffee_(Unsplash).jpg",
+    "license": "CC0",
+    "artist": "Toa Heftiba <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@heftiba\">heftiba</a>",
+    "fit": 0.9999990463256836,
+    "scene": 14,
+    "cut": 2
+  },
+  {
+    "title": "File:Red razor (Bryothamnion triquetrum).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Red_razor_%28Bryothamnion_triquetrum%29.jpg/1920px-Red_razor_%28Bryothamnion_triquetrum%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Red_razor_(Bryothamnion_triquetrum).jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Coughdrop12\" title=\"User:Coughdrop12\">Coughdrop12</a>",
+    "fit": 0.9997403025627136,
+    "scene": 14,
+    "cut": 3
+  },
+  {
+    "title": "New Horizons (1948) at 376.2s",
+    "page": "https://archive.org/details/0230_New_Horizons_01_00_38_00-0036",
+    "dur": 1080.013347,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.3165028691291809,
+    "scene": 15,
+    "cut": 0
+  },
+  {
+    "title": "Miracle on the Delaware (1953) at 50.8s",
+    "page": "https://archive.org/details/0210_Miracle_on_the_Delaware_05_18_25_00",
+    "dur": 212.145479,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9266791343688965,
+    "scene": 15,
+    "cut": 1
+  },
+  {
+    "title": "Miracle on the Delaware (1953) at 193.9s",
+    "page": "https://archive.org/details/0210_Miracle_on_the_Delaware_05_18_25_00",
+    "dur": 212.145479,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9317956566810608,
+    "scene": 15,
+    "cut": 2
+  },
+  {
+    "title": "Miracle on the Delaware (1953) at 107.6s",
+    "page": "https://archive.org/details/0210_Miracle_on_the_Delaware_05_18_25_00",
+    "dur": 212.145479,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.6075783967971802,
+    "scene": 15,
+    "cut": 3
+  },
+  {
+    "title": "File:Frieze, The Washington, 1905\u20131915 (CH 18501397).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Frieze%2C_The_Washington%2C_1905%E2%80%931915_%28CH_18501397%29.jpg/1920px-Frieze%2C_The_Washington%2C_1905%E2%80%931915_%28CH_18501397%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Frieze,_The_Washington,_1905%E2%80%931915_(CH_18501397).jpg",
+    "license": "Public domain",
+    "artist": "<div class=\"fn value\">\nMade by Robert Graves Co.</div>",
+    "fit": 0.9906705617904663,
+    "scene": 16,
+    "cut": 0
+  },
+  {
+    "title": "File:Frieze-border (France), 1795\u20131800 (CH 18406875).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Frieze-border_%28France%29%2C_1795%E2%80%931800_%28CH_18406875%29.jpg/1920px-Frieze-border_%28France%29%2C_1795%E2%80%931800_%28CH_18406875%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Frieze-border_(France),_1795%E2%80%931800_(CH_18406875).jpg",
+    "license": "Public domain",
+    "artist": "<div class=\"fn value\">\nUnknown artist<span style=\"display: none;\">Unknown artist</span></div>",
+    "fit": 0.9608626961708069,
+    "scene": 16,
+    "cut": 1
+  },
+  {
+    "title": "File:Dani\u00ebl Seghers - Garland of flowers with roses, tulips and narcissi.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Dani%C3%ABl_Seghers_-_Garland_of_flowers_with_roses%2C_tulips_and_narcissi.jpg/1920px-Dani%C3%ABl_Seghers_-_Garland_of_flowers_with_roses%2C_tulips_and_narcissi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Dani%C3%ABl_Seghers_-_Garland_of_flowers_with_roses,_tulips_and_narcissi.jpg",
+    "license": "Public domain",
+    "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Daniel_Seghers\" class=\"extiw\" title=\"w:en:Daniel Seghers\"><span title=\"Flemish painter and Jesuit (1590-1661)\">Daniel Seghers</span></a></bdi>",
+    "fit": 0.8881518840789795,
+    "scene": 16,
+    "cut": 2
+  },
+  {
+    "title": "File:Hieronymus Galle - A swag of flowers, including roses and morning glory.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Hieronymus_Galle_-_A_swag_of_flowers%2C_including_roses_and_morning_glory.jpg/1920px-Hieronymus_Galle_-_A_swag_of_flowers%2C_including_roses_and_morning_glory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Hieronymus_Galle_-_A_swag_of_flowers,_including_roses_and_morning_glory.jpg",
+    "license": "Public domain",
+    "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hieronymus_Galle\" class=\"extiw\" title=\"w:en:Hieronymus Galle\"><span title=\"Flemish painter (1625-1679)\">Hieronymus Galle the Elder</span></a></bdi>",
+    "fit": 0.5728318691253662,
+    "scene": 16,
+    "cut": 3
+  },
+  {
+    "title": "Skyline New York (1956) at 386.6s",
+    "page": "https://archive.org/details/0787_Skyline_New_York_01_00_56_00",
+    "dur": 1554.006961,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.999946117401123,
+    "scene": 17,
+    "cut": 0
+  },
+  {
+    "title": "Skyline New York (1956) at 862.0s",
+    "page": "https://archive.org/details/0787_Skyline_New_York_01_00_56_00",
+    "dur": 1554.006961,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.999963641166687,
+    "scene": 17,
+    "cut": 1
+  },
+  {
+    "title": "Skyline New York (1956) at 1443.7s",
+    "page": "https://archive.org/details/0787_Skyline_New_York_01_00_56_00",
+    "dur": 1554.006961,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.6490939259529114,
+    "scene": 17,
+    "cut": 2
+  },
+  {
+    "title": "Skyline New York (1956) at 935.3s",
+    "page": "https://archive.org/details/0787_Skyline_New_York_01_00_56_00",
+    "dur": 1554.006961,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9898192286491394,
+    "scene": 17,
+    "cut": 3
+  },
+  {
+    "title": "File:Clock, mantel (AM 16909-5).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Clock%2C_mantel_%28AM_16909-5%29.jpg/1920px-Clock%2C_mantel_%28AM_16909-5%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Clock,_mantel_(AM_16909-5).jpg",
+    "license": "CC BY 4.0",
+    "artist": "<div class=\"fn value\">\nnot researched</div>",
+    "fit": 0.6723358035087585,
+    "scene": 18,
+    "cut": 0
+  },
+  {
+    "title": "White Wonder (1958) at 443.8s",
+    "page": "https://archive.org/details/0335_White_Wonder_E01687_12_00_58_00",
+    "dur": 1663.963964,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9900788068771362,
+    "scene": 19,
+    "cut": 0
+  },
+  {
+    "title": "\"Your Name Here\" Story, The (Outtakes) (1964) at 1750.9s",
+    "page": "https://archive.org/details/0817_Your_Name_Here_Story_The_Outtakes_05_02_25_00",
+    "dur": 2114.147481,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.7027403712272644,
+    "scene": 19,
+    "cut": 1
+  },
+  {
+    "title": "Cities: How They Grow (Second Edition) (1952) at 137.6s",
+    "page": "https://archive.org/details/0544_Cities_How_They_Grow_Second_Edition_14_19_59_02",
+    "dur": 554.087421,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.8131749033927917,
+    "scene": 19,
+    "cut": 2
+  },
+  {
+    "title": "Cities: How They Grow (Second Edition) (1952) at 451.4s",
+    "page": "https://archive.org/details/0544_Cities_How_They_Grow_Second_Edition_14_19_59_02",
+    "dur": 554.087421,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9981008172035217,
+    "scene": 19,
+    "cut": 3
+  },
+  {
+    "title": "Battery Electricity (1957) at 548.3s",
+    "page": "https://archive.org/details/4016_Battery_Electricity",
+    "dur": 621.888555,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.4773472249507904,
+    "scene": 20,
+    "cut": 0
+  },
+  {
+    "title": "The Battery, Ignition and Electrical Systems (1945) at 402.1s",
+    "page": "https://archive.org/details/4015_The_Battery_Ignition_and_Electrical_Systems",
+    "dur": 1539.706373,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.8302814364433289,
+    "scene": 20,
+    "cut": 1
+  },
+  {
+    "title": "Battery Electricity (1957) at 429.8s",
+    "page": "https://archive.org/details/4016_Battery_Electricity",
+    "dur": 621.888555,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9456675052642822,
+    "scene": 20,
+    "cut": 2
+  },
+  {
+    "title": "Battery Electricity (1957) at 500.8s",
+    "page": "https://archive.org/details/4016_Battery_Electricity",
+    "dur": 621.888555,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.48756280541419983,
+    "scene": 20,
+    "cut": 3
+  },
+  {
+    "title": "File:Cromemco Dealer Plaque 1982.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Cromemco_Dealer_Plaque_1982.jpg/1920px-Cromemco_Dealer_Plaque_1982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cromemco_Dealer_Plaque_1982.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Cromemco&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cromemco (page does not exist)\">Cromemco</a>",
+    "fit": 2.7246682293480262e-05,
+    "scene": 21,
+    "cut": 0
+  },
+  {
+    "title": "File:Harry Garland and Roger Melen - with Cromemco shipment to China (1980).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Harry_Garland_and_Roger_Melen_-_with_Cromemco_shipment_to_China_%281980%29.jpg/1920px-Harry_Garland_and_Roger_Melen_-_with_Cromemco_shipment_to_China_%281980%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Harry_Garland_and_Roger_Melen_-_with_Cromemco_shipment_to_China_(1980).jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Cromemco&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cromemco (page does not exist)\">Cromemco</a>",
+    "fit": 0.9742789268493652,
+    "scene": 21,
+    "cut": 1
+  },
+  {
+    "title": "File:Design for a Frieze with Putti and Garland MET DP248953.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Design_for_a_Frieze_with_Putti_and_Garland_MET_DP248953.jpg/1920px-Design_for_a_Frieze_with_Putti_and_Garland_MET_DP248953.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Design_for_a_Frieze_with_Putti_and_Garland_MET_DP248953.jpg",
+    "license": "CC0",
+    "artist": "<div class=\"fn value\">\n<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span></div>",
+    "fit": 0.006977653130888939,
+    "scene": 21,
+    "cut": 2
+  },
+  {
+    "title": "File:United States President Joe Biden, Attorney General Merrick Garland and USDHS Alejandro Mayorkas, (left to right), at the National Peace Officers\u2019 Memorial Service in Washington, D.C. on May 15, 2024 (cropped).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/United_States_President_Joe_Biden%2C_Attorney_General_Merrick_Garland_and_USDHS_Alejandro_Mayorkas%2C_%28left_to_right%29%2C_at_the_National_Peace_Officers%E2%80%99_Memorial_Service_in_Washington%2C_D.C._on_May_15%2C_2024_%28cropped%29.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:United_States_President_Joe_Biden,_Attorney_General_Merrick_Garland_and_USDHS_Alejandro_Mayorkas,_(left_to_right),_at_the_National_Peace_Officers%E2%80%99_Memorial_Service_in_Washington,_D.C._on_May_15,_2024_(cropped).jpg",
+    "license": "Public domain",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/54593278@N03\">U.S. Customs and Border Protection</a>",
+    "fit": 0.9999877214431763,
+    "scene": 21,
+    "cut": 3
+  },
+  {
+    "title": "The Information Machine or Creative Man and the Data Processor (1958) at 336.5s",
+    "page": "https://archive.org/details/200371_Information_Machine",
+    "dur": 599.718,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9980711340904236,
+    "scene": 22,
+    "cut": 0
+  },
+  {
+    "title": "The Information Machine or Creative Man and the Data Processor (1958) at 400.6s",
+    "page": "https://archive.org/details/200371_Information_Machine",
+    "dur": 599.718,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.9503844380378723,
+    "scene": 22,
+    "cut": 1
+  },
+  {
+    "title": "The Information Machine or Creative Man and the Data Processor (1958) at 340.5s",
+    "page": "https://archive.org/details/200371_Information_Machine",
+    "dur": 599.718,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.6159064769744873,
+    "scene": 22,
+    "cut": 2
+  },
+  {
+    "title": "The Information Machine or Creative Man and the Data Processor (1958) at 531.7s",
+    "page": "https://archive.org/details/200371_Information_Machine",
+    "dur": 599.718,
+    "license": "Public domain (Prelinger Archives)",
+    "artist": "Prelinger Archives",
+    "fit": 0.162558913230896,
+    "scene": 22,
+    "cut": 3
+  },
+  {
+    "title": "File:White House Christmas (27082651219).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/White_House_Christmas_%2827082651219%29.jpg/1920px-White_House_Christmas_%2827082651219%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:White_House_Christmas_(27082651219).jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/127744844@N06\">IIP Photo Archive</a> from Washington, DC, USA",
+    "fit": 0.9999932050704956,
+    "scene": 23,
+    "cut": 0
+  },
+  {
+    "title": "File:Closeup of beautiful Christmas cake with orange and lemon.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Closeup_of_beautiful_Christmas_cake_with_orange_and_lemon.jpg/1920px-Closeup_of_beautiful_Christmas_cake_with_orange_and_lemon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Closeup_of_beautiful_Christmas_cake_with_orange_and_lemon.jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Shixart1985\" title=\"User:Shixart1985\">Shixart1985</a>",
+    "fit": 0.998557984828949,
+    "scene": 23,
+    "cut": 1
+  },
+  {
+    "title": "File:Christmas room in Sweden.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Christmas_room_in_Sweden.jpg/1920px-Christmas_room_in_Sweden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Christmas_room_in_Sweden.jpg",
+    "license": "CC BY 4.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Rose_Abrams\" title=\"User:Rose Abrams\">Rose Abrams</a>",
+    "fit": 0.998997151851654,
+    "scene": 23,
+    "cut": 2
+  },
+  {
+    "title": "File:Beautiful Christmas tree.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Beautiful_Christmas_tree.JPG/1920px-Beautiful_Christmas_tree.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Beautiful_Christmas_tree.JPG",
+    "license": "CC BY-SA 3.0",
+    "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Anita_Mishra&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Anita Mishra (page does not exist)\">Anita Mishra</a>",
+    "fit": 0.9952827095985413,
+    "scene": 23,
+    "cut": 3
+  },
+  {
+    "title": "File:Cozy cabin living room with wooden interior.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Cozy_cabin_living_room_with_wooden_interior.jpg/1920px-Cozy_cabin_living_room_with_wooden_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cozy_cabin_living_room_with_wooden_interior.jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Shixart1985\" title=\"User:Shixart1985\">Shixart1985</a>",
+    "fit": 0.9999723434448242,
+    "scene": 24,
+    "cut": 0
+  },
+  {
+    "title": "File:Modern living room with stylish furniture and a view of the outdoors in a cozy apartment setting.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Modern_living_room_with_stylish_furniture_and_a_view_of_the_outdoors_in_a_cozy_apartment_setting.jpg/1920px-Modern_living_room_with_stylish_furniture_and_a_view_of_the_outdoors_in_a_cozy_apartment_setting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Modern_living_room_with_stylish_furniture_and_a_view_of_the_outdoors_in_a_cozy_apartment_setting.jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Shixart1985\" title=\"User:Shixart1985\">Shixart1985</a>",
+    "fit": 0.9999512434005737,
+    "scene": 24,
+    "cut": 1
+  },
+  {
+    "title": "File:Cozy living room with a gray sofa.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Cozy_living_room_with_a_gray_sofa.jpg/1920px-Cozy_living_room_with_a_gray_sofa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cozy_living_room_with_a_gray_sofa.jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Shixart1985\" title=\"User:Shixart1985\">Shixart1985</a>",
+    "fit": 0.9998724460601807,
+    "scene": 24,
+    "cut": 2
+  },
+  {
+    "title": "File:Cozy living room with a view of the lake and trees in the background at midday.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Cozy_living_room_with_a_view_of_the_lake_and_trees_in_the_background_at_midday.jpg/1920px-Cozy_living_room_with_a_view_of_the_lake_and_trees_in_the_background_at_midday.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cozy_living_room_with_a_view_of_the_lake_and_trees_in_the_background_at_midday.jpg",
+    "license": "CC BY 2.0",
+    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Shixart1985\" title=\"User:Shixart1985\">Shixart1985</a>",
+    "fit": 0.9935664534568787,
+    "scene": 24,
+    "cut": 3
+  }
+]
