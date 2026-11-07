@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Christmas display windows at Halle Brothers and Higbee's department stores in downtown Cleveland, Ohio, in the 1950s.
+- Decorating guidance as described by Grandma Ruth: vertical ribbon streams, 2 1/2 to 4 inch wired ribbon, topper about one tenth of tree height.

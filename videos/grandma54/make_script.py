@@ -1,0 +1,81 @@
+import sys; sys.path.insert(0, __import__("os").path.join(__import__("os").path.dirname(__file__), "..", "..", "pipeline"))
+from scriptkit import sc, ch, save, S
+
+# Grandma Ruth 54 · everyday recipe: chicken pot pie (Google Trends 3/11: comfort dinner recipes; pot pie a perennial November search)
+# Grandma Ruth: born 1944 in Mansfield, Ohio; mother Dorothy, father Walter, brother Danny, Grandma Pearl.
+
+sc("""Sweetheart, there's no supper in the world that says somebody loves you like a chicken pot pie. A golden, flaky crust, and when you break into it, the steam rolls out, and underneath there's chicken and vegetables in a thick, creamy gravy. When my husband had his gallbladder out in nineteen seventy-nine, the whole church brought casseroles. Mrs. Hartman brought a pot pie. He married me, but I think he loved her a little.""",
+   "chicken pot pie golden crust steam", "SOMEBODY LOVES YOU")
+sc("""But people tell me their pot pie has a soggy, gummy bottom crust, or the filling runs like soup, or it tastes bland. So tonight I'm giving you my chicken pot pie, every step, and the five mistakes that make it soggy. And stay with me, because the last trick is for the bottom crust, and it's the one that makes all the difference.""",
+   "soggy pie crust runny filling", "A SOGGY BOTTOM")
+
+ch("The Sunday leftover supper")
+sc("""In the old days, honey, chicken pot pie wasn't fancy food. It was what you made on Monday with the leftover Sunday chicken. Every bit of meat picked off the bones, the leftover gravy, some carrots and peas, and a crust on top. Nothing wasted. Grandma Pearl made hers in a big cast iron skillet, and it fed eight farmhands.""",
+   "farmhands eating dinner 1940s", "NOTHING WASTED")
+sc("""Then in the nineteen fifties, the frozen pot pie came along, the little ones in the foil tins, nineteen cents each. My brother Danny thought they were the most wonderful invention in history. My mother thought they were an insult. She'd say, Danny, that's not a pot pie, that's a punishment. He ate them anyway, standing up, every Saturday she went to her sister's.""",
+   "1950s frozen pot pie foil tin", "THAT'S A PUNISHMENT")
+sc("""And today, a homemade pot pie feeds six people for about twelve dollars, and it's the best way I know to use a rotisserie chicken from the grocery store. In a minute I'll tell you how to make the whole thing in an hour, with a store-bought crust, and nobody at the table will ever know.""",
+   "rotisserie chicken grocery store", "NOBODY WILL KNOW")
+
+ch("What you need")
+sc("""Here's what you need, honey. Three cups of cooked chicken, shredded or cubed. A rotisserie chicken gives you just about that. Six tablespoons of butter. One onion, two carrots and two ribs of celery, all chopped. A third of a cup of flour. Two cups of chicken broth. One cup of milk or half and half. One cup of frozen peas. Fresh thyme, salt, and pepper.""",
+   "chicken carrots celery peas butter", "THE INGREDIENTS")
+sc("""And the crust. Two crusts for a nine-inch deep dish pie pan, one for the bottom and one for the top. You can make your own, or use the refrigerated rolled crusts from the store, and that's what I do on a weeknight. And one egg, beaten with a spoon of water, for brushing the top so it turns that beautiful shiny gold.""",
+   "rolled pie crusts egg wash", "STORE CRUST IS FINE")
+
+sc("""And if you want to make your own crust, honey, here's Grandma Pearl's. Two and a half cups of flour, a teaspoon of salt, a cup of very cold butter cut in small pieces, and about half a cup of ice water. Rub the butter into the flour with your fingertips until it looks like small peas, add the water a little at a time, and press it into two discs. Chill them an hour. Cold butter is what makes it flaky.""",
+   "homemade pie dough butter flour", "COLD BUTTER, FLAKY CRUST")
+
+ch("The filling")
+sc("""Step one. Melt the butter in a big skillet over medium heat. Add the onion, carrots and celery, and cook them for about eight to ten minutes, until they're soft. Mistake number one is putting raw vegetables in the pie. The pie only bakes about forty minutes, and the carrots stay hard and crunchy. Cook them first, until a fork slides into a carrot easily.""",
+   "cooking vegetables butter skillet", "COOK THEM FIRST")
+sc("""Now sprinkle the flour over the vegetables, and stir for two minutes, so the raw flour taste cooks out. Then slowly pour in the broth, stirring the whole time, and then the milk. Bring it to a simmer and let it bubble gently for three or four minutes, until it's thick, like gravy. It should coat the back of a spoon.""",
+   "thick creamy gravy vegetables", "THICK LIKE GRAVY")
+sc("""And here's mistake number two. A thin filling. If the filling is runny when it goes in, it'll be soup when it comes out, and it'll soak right through the bottom crust. Make it thicker than you think. It loosens up a little in the oven. If it's too thin, simmer it a few minutes more, or stir in a spoon of flour mixed with a little cold milk.""",
+   "runny filling pie dish", "THICKER THAN YOU THINK")
+sc("""If this is helping you, honey, tap the like button for me. It helps Grandma more than you know. Now stir in the chicken, the frozen peas, and a teaspoon of fresh thyme leaves. And taste it. Mistake number three is a bland filling. It needs plenty of salt and pepper, more than you'd think, because the crust is mild. Grandma Pearl added a pinch of nutmeg and a splash of sherry.""",
+   "stirring chicken peas filling", "TASTE IT")
+
+ch("Cool it down")
+sc("""So far, cooked vegetables, a thick gravy, and plenty of seasoning. Now, mistake number four, and this one surprises people. Putting the hot filling into the crust. Hot filling melts the butter in the crust before it ever gets to the oven, and the bottom turns gummy. Let the filling cool for at least twenty to thirty minutes, until it's just warm. Or make it the day before.""",
+   "filling cooling in skillet", "LET IT COOL")
+sc("""And this is where the hour comes in, like I promised. Make the filling, and while it cools, take the crusts out of the icebox and heat the oven. Thirty minutes of work, then forty minutes in the oven, while you set the table and help with homework. On a busy Tuesday, that's a real home-cooked supper with no fuss at all.""",
+   "busy weeknight kitchen family", "NO FUSS")
+
+ch("The bottom crust")
+sc("""And now the trick I promised, for the bottom crust. Mistake number five is putting a raw bottom crust in a glass pan in the middle of the oven. The bottom never gets hot enough to crisp up before the filling soaks in. Here's the fix. Put a baking sheet on the lowest rack of the oven, and heat the oven to four hundred twenty-five, with the baking sheet inside, for a good twenty minutes.""",
+   "baking sheet lowest oven rack", "THE LOWEST RACK")
+sc("""Then fit the bottom crust into your pie pan, and brush the inside with a little of the beaten egg. That egg makes a thin seal, like a raincoat, that keeps the gravy from soaking into the crust. Then pour in the cooled filling. Put the pie pan right on that hot baking sheet. The heat from below cooks the bottom crust fast and crisp, like a pizza stone.""",
+   "egg wash brushed inside pie crust", "LIKE A RAINCOAT")
+sc("""And use a metal pie pan if you have one, honey, not glass or ceramic. Metal gets hot faster and crisps the bottom better. Glass is pretty, and it lets you see if the bottom is brown. If you use glass, give it ten more minutes. Grandma Pearl used her cast iron skillet, and her bottom crust was never soggy once in fifty years.""",
+   "metal pie pan cast iron skillet", "METAL OR CAST IRON")
+
+ch("The top")
+sc("""Now lay the top crust over the filling. Trim the edges, leaving about an inch hanging over, and fold it under the bottom crust, then crimp it with your fingers or press it with a fork. Cut four or five slits in the top, so the steam can escape. Brush the whole top with the beaten egg. Sprinkle a little coarse salt and pepper on top.""",
+   "crimping pie crust edge", "CUT SOME SLITS")
+sc("""Bake it on the hot baking sheet at four twenty-five for about twenty minutes, then turn it down to three seventy-five, and bake it another twenty to twenty-five minutes, until the top is deep golden brown and the filling is bubbling up through the slits. If the edges get too brown, cover them with strips of foil. Then let it rest fifteen minutes before cutting, so the filling sets.""",
+   "golden pot pie bubbling oven", "BUBBLING THROUGH THE SLITS")
+
+sc("""Serve it simple, sweetheart. A big spoonful on each plate, with a green salad or some cranberry sauce on the side. That's all it needs. My husband liked a slice of sharp cheddar on top, melted. And the leftovers are wonderful for lunch the next day, warmed in the oven, not the microwave, so the crust stays crisp.""",
+   "pot pie serving plate salad", "SERVE IT SIMPLE")
+
+ch("Variations")
+sc("""You can make this with leftover turkey after Thanksgiving, honey, and it's even better. Or use a puff pastry sheet on top instead of pie crust, for a flaky, fancy top. Or skip the crust altogether and drop biscuits on top of the filling in a cast iron skillet. My granddaughter makes little pot pies in muffin tins for her children's lunch boxes.""",
+   "turkey pot pie biscuit topping", "LEFTOVER TURKEY")
+sc("""And it freezes beautifully, sweetheart. Make two, bake one, and freeze one unbaked, wrapped tight in plastic and foil, for three months. Bake it straight from frozen at four hundred, for about an hour and a quarter, with foil on top for the first forty minutes. When a neighbor is sick or has a new baby, I take them a frozen pot pie, like Mrs. Hartman did.""",
+   "frozen pot pie wrapped foil gift", "LIKE MRS. HARTMAN DID")
+
+ch("Grandma's kitchen")
+sc("""So one more time. Cook the vegetables first. Make the gravy thick. Season it well, and taste it. Let the filling cool. A hot baking sheet on the lowest rack. Egg wash inside the bottom crust, like a raincoat. Slits on top, and bake it until it's golden and bubbling. Rest fifteen minutes. That's a chicken pot pie with a crisp bottom every time.""",
+   "chicken pot pie slice dinner table", "A CRISP BOTTOM")
+sc("""Tell me in the comments, sweetheart. Homemade pot pie or the little frozen ones? Be honest, I won't tell your grandmother. The whole playlist of Grandma's recipes is right there on your screen, and I'll see you in the next video. Good night, honey.""",
+   "warm kitchen evening family supper", "HOMEMADE OR FROZEN?")
+
+for s in S:
+    s["cuts"], s["moves"] = 4, True
+
+save("grandma54", "Chicken Pot Pie EVERYONE's Grandma Made (Why Yours Is SOGGY)",
+     ["Grandma Ruth is a narrated character built from real memories and records of the era.",
+      "Chicken pot pie as an American leftover supper, and the frozen pot pies of the 1950s.",
+      "Recipe as written by Grandma Ruth: 3 cups cooked chicken, 6 tbsp butter, onion, 2 carrots, 2 celery ribs, 1/3 cup flour, 2 cups broth, 1 cup milk, 1 cup peas, thyme; double crust in a 9-inch deep dish; 425 F for 20 minutes on a preheated sheet, then 375 F for 20 to 25 minutes."],
+     "everyday recipe", minutes=(10, 14.5), voice="en_US-lessac-high")
