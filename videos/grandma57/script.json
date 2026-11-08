@@ -1,0 +1,187 @@
+{
+ "id": "grandma57",
+ "angle": "everyday recipe",
+ "length_scale": 1.45,
+ "title": "Potato Soup EVERYONE's Grandma Made (Why Yours Is GLUEY)",
+ "scenes": [
+  {
+   "text": "Sweetheart, when I was a girl, potato soup was what we ate on Thursday, the day before payday, when there was nothing left in the house but a sack of potatoes, an onion, and a little milk. And it was the best night of the week. My mother made it in a big dented pot, and we ate it with saltine crackers crumbled on top until the bowls were scraped clean.",
+   "query": "creamy potato soup bowl crackers",
+   "caption": "THE DAY BEFORE PAYDAY",
+   "cuts": 8,
+   "moves": true,
+   "chapter": "Intro"
+  },
+  {
+   "text": "But people tell me their potato soup comes out like wallpaper glue, or thin and watery, or it tastes like boiled nothing. So tonight I'm giving you my mother's potato soup, every step, and the five mistakes that make it gluey and bland. And stay with me, because the last trick is how to make it thick and creamy without any flour at all.",
+   "query": "gluey thick potato soup spoon",
+   "caption": "LIKE WALLPAPER GLUE",
+   "cuts": 8,
+   "moves": true
+  },
+  {
+   "text": "My father worked at the Westinghouse plant in Mansfield, and he got paid on Friday. By Thursday, my mother had stretched every dollar as far as it would go. So Thursday was potato soup. She said a good cook could feed a family of four on fifty cents and a little imagination. She had a lot of imagination, honey.",
+   "query": "1950s factory workers Ohio",
+   "caption": "FIFTY CENTS AND IMAGINATION",
+   "cuts": 5,
+   "chapter": "Thursday soup",
+   "moves": true
+  },
+  {
+   "text": "When I grew up, I found out other families called potato soup poor man's soup, and they were a little ashamed of it. We never were. My father said it was the only soup that made him feel rich. And when I got married, the first thing my husband asked me to learn was my mother's potato soup. In a minute I'll tell you why hers was better than everybody else's.",
+   "query": "family eating soup kitchen table 1950s",
+   "caption": "IT MADE HIM FEEL RICH",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And today, honey, it's still one of the cheapest suppers there is. A pot that feeds six costs about eight dollars, even with bacon and cheese on top. It's ready in forty minutes. And it's the perfect supper for a cold, gray night in November, when everybody's tired and nobody wants to cook.",
+   "query": "pot of soup stove cold night",
+   "caption": "ABOUT EIGHT DOLLARS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Here's what you need, honey. Three pounds of potatoes, about six or seven medium ones. Four slices of bacon. One onion, chopped. Two ribs of celery, chopped. Two cloves of garlic. Four cups of chicken broth. One and a half cups of whole milk or half and half. Two tablespoons of butter. Salt, pepper, and a little fresh thyme or a bay leaf. And for the top, cheddar cheese, chives, and sour cream.",
+   "query": "potatoes bacon onion celery broth",
+   "caption": "THE INGREDIENTS",
+   "cuts": 4,
+   "chapter": "What you need",
+   "moves": true
+  },
+  {
+   "text": "And here's mistake number one, and it's the reason most potato soup tastes like glue. The wrong potato. Russet potatoes, the big brown baking kind, are very starchy, and they fall apart into paste. Yukon Gold potatoes, the yellow ones, are creamy and buttery and hold together better. My mother used whatever was cheapest, but when she could, she used the yellow ones.",
+   "query": "yukon gold russet potatoes",
+   "caption": "THE WRONG POTATO",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Or, honey, use half and half. Half Yukon Gold for the creamy body, and half russet, because they break down a little and thicken the soup naturally. That's what I do now. Peel them or leave the skins on, it's up to you. My mother always peeled them and gave the peels to Mrs. Kowalski's chickens.",
+   "query": "peeling potatoes kitchen sink",
+   "caption": "HALF AND HALF",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step one. Chop the bacon and cook it slowly in a big heavy pot over medium heat, until it's crisp. Lift it out with a spoon and set it on a paper towel for the top. Leave about two tablespoons of the bacon fat in the pot. Add the butter, the onion and the celery, and cook them for about eight minutes, until they're soft and sweet. Then the garlic, for one minute.",
+   "query": "bacon frying pot onion celery",
+   "caption": "SOFT AND SWEET",
+   "cuts": 4,
+   "chapter": "The base",
+   "moves": true
+  },
+  {
+   "text": "And here's mistake number two. Skipping that step, and boiling the onion with the potatoes. Raw boiled onion tastes sharp and flat. Onions cooked slowly in bacon fat and butter turn sweet and golden, and they give the whole soup its deep flavor. That's my mother's first secret. Every good soup starts in the fat, she said.",
+   "query": "golden onions cooking butter",
+   "caption": "IT STARTS IN THE FAT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step two. Cut the potatoes into even chunks, about three quarters of an inch. Mistake number three is uneven pieces. The little ones turn to mush while the big ones are still hard. Even pieces cook evenly. Add them to the pot, with the broth, the thyme or bay leaf, and a teaspoon of salt. The broth should just cover the potatoes.",
+   "query": "cubed potatoes cutting board even",
+   "caption": "EVEN PIECES",
+   "cuts": 4,
+   "chapter": "The potatoes",
+   "moves": true
+  },
+  {
+   "text": "If this is helping you, honey, tap the like button for me. It helps Grandma more than you know. Bring it to a boil, then turn it down and let it simmer, partly covered, for about fifteen to twenty minutes, until a fork slides through a potato chunk easily. Don't boil it hard, or the outside of the potatoes falls apart before the inside is cooked.",
+   "query": "potatoes simmering broth pot",
+   "caption": "UNTIL A FORK SLIDES IN",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So far, the right potatoes, onions cooked slow in bacon fat, even pieces, and a gentle simmer. Now the trick I promised you, how to make it thick without any flour. Take out the bay leaf. Then take a potato masher, and mash about a third of the potatoes right there in the pot, leaving the rest in chunks. The mashed potato thickens the soup naturally, and you still have pieces to bite.",
+   "query": "potato masher in soup pot",
+   "caption": "MASH A THIRD",
+   "cuts": 4,
+   "chapter": "Thick without flour",
+   "moves": true
+  },
+  {
+   "text": "And here's mistake number four, the other reason soup turns to glue. Using a blender or a food processor on the whole pot. The fast blades break open the potato starch, and it turns into a sticky, gummy paste. If you want it smooth, use a hand masher, or blend only a cup or two, gently. My mother didn't own a blender, and her soup was never once gluey.",
+   "query": "gluey blended potato soup",
+   "caption": "NO BLENDER",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step three. Turn the heat down to low, and stir in the milk or half and half. And mistake number five. Boiling the soup after the milk goes in. Milk can curdle and separate when it boils, and you get little white flecks. Keep it on low, just until it's hot and steaming. Then taste it, and add salt and pepper. Potatoes need a lot of salt, honey. Taste it twice.",
+   "query": "pouring milk into soup low heat",
+   "caption": "DON'T BOIL THE MILK",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And my mother had one more trick, honey, for a soup with real depth. A tiny splash of vinegar or a squeeze of lemon right at the end, just a teaspoon in the whole pot. You can't taste it, but it wakes up all the flavors, the way a little salt does. My father always said her soup tasted better than anybody's, and he never knew about the vinegar. She took that secret all the way to nineteen ninety-eight.",
+   "query": "teaspoon vinegar soup pot",
+   "caption": "A SECRET SPLASH",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Ladle it into big bowls, and now the best part. Pile the toppings on. A handful of shredded sharp cheddar, the crumbled bacon, a spoon of sour cream, and some chopped chives or green onion. It's like a loaded baked potato in a bowl. My grandchildren call it baked potato soup, and they put so much cheese on, you can't see the soup.",
+   "query": "potato soup cheese bacon chives",
+   "caption": "LOADED BAKED POTATO",
+   "cuts": 4,
+   "chapter": "The toppings",
+   "moves": true
+  },
+  {
+   "text": "And my mother's way, sweetheart, on Thursdays, when there was no bacon or cheese. A handful of saltine crackers crumbled on top, a pat of butter melting in the middle, and a good shake of black pepper. That's all. And honestly, some nights, that's still how I like it best. It tastes like Elm Street.",
+   "query": "saltine crackers butter soup bowl",
+   "caption": "IT TASTES LIKE ELM STREET",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "You can make this soup a hundred ways. Add a cup of corn and some diced ham, and it's a potato chowder. Add broccoli florets for the last ten minutes, and stir in cheddar at the end for broccoli cheese potato soup. Or leave out the bacon, use vegetable broth, and add leeks, for a lighter soup. Linda makes it with smoked sausage on Sundays.",
+   "query": "potato chowder corn ham",
+   "caption": "A HUNDRED WAYS",
+   "cuts": 4,
+   "chapter": "Making it your own",
+   "moves": true
+  },
+  {
+   "text": "And if it's too thick, add a splash of broth or milk. If it's too thin, mash a few more potatoes, or let it simmer uncovered a few minutes. Remember, potato soup always gets thicker as it sits. So make it a little thinner than you want it in the pot, and by the time it's in the bowls, it'll be just right.",
+   "query": "stirring thick soup ladle",
+   "caption": "IT GETS THICKER",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And serve it with something warm on the side, sweetheart. A pan of cornbread, or buttered toast, or grilled cheese sandwiches cut in triangles for the children to dip. My grandson calls grilled cheese and potato soup the best supper in America, and I can't argue with him. It costs about a dollar a person, and nobody leaves the table hungry.",
+   "query": "grilled cheese soup dipping",
+   "caption": "THE BEST SUPPER IN AMERICA",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "It keeps four days in the icebox. When you warm it up, it'll be very thick, so add a little milk or broth and heat it gently, stirring, never boiling. And here's something people don't know. Potato soup with milk in it doesn't freeze well. The potatoes turn grainy. If you want to freeze it, freeze it before you add the milk, and add the milk when you warm it up.",
+   "query": "soup containers refrigerator",
+   "caption": "FREEZE IT BEFORE THE MILK",
+   "cuts": 4,
+   "chapter": "Keeping",
+   "moves": true
+  },
+  {
+   "text": "So one more time. Yukon Gold potatoes, or half and half with russet. Onion and celery cooked slow in bacon fat and butter. Even pieces. A gentle simmer. Mash a third of the potatoes, by hand, no blender. Milk on low, never boiling. Plenty of salt. And pile on the toppings. That's my mother's Thursday potato soup, and it's never gluey.",
+   "query": "potato soup family supper table",
+   "caption": "NEVER GLUEY",
+   "cuts": 4,
+   "chapter": "Grandma's kitchen",
+   "moves": true
+  },
+  {
+   "text": "Tell me in the comments, sweetheart. What did your family eat the day before payday? I bet a lot of you had potato soup too. The whole playlist of Grandma's recipes is right there on your screen, and I'll see you in the next video. Good night, honey.",
+   "query": "warm kitchen evening soup pot",
+   "caption": "THE DAY BEFORE PAYDAY?",
+   "cuts": 4,
+   "moves": true
+  }
+ ],
+ "voice": "en_US-lessac-high"
+}

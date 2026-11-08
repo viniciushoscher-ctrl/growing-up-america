@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Swedish kottbullar served with brown cream gravy, potatoes, lingonberry jam and pickled cucumber; Swedish meatballs as a 1960s American party dish.
+- Recipe as written by Grandma Ruth: 1 lb ground beef, 1/2 lb ground pork, 1/2 onion grated, 2 slices white bread soaked in 1/3 cup milk, 1 egg, salt, pepper, nutmeg, allspice; gravy of 3 tbsp butter, 3 tbsp flour, 2 cups beef broth, 3/4 cup cream, 1 tbsp soy sauce, 1 tbsp lingonberry jam.

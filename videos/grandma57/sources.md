@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Starch in potatoes: high-starch russets break down and turn gummy when overworked; waxy and all-purpose Yukon Golds stay creamy.
+- Recipe as written by Grandma Ruth: 3 lb potatoes, 4 slices bacon, 1 onion, 2 celery ribs, 2 garlic cloves, 4 cups chicken broth, 1 1/2 cups whole milk or half and half, 2 tbsp butter, thyme or bay leaf; simmer 15 to 20 minutes, mash a third by hand.

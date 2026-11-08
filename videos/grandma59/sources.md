@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- The Ohio buckeye (Aesculus glabra), state tree of Ohio, and the buckeye candy popular in Ohio since the 1960s.
+- Recipe as written by Grandma Ruth: 1 1/2 cups creamy peanut butter, 1/2 cup soft butter, 1 tsp vanilla, 1/4 tsp salt, about 4 cups powdered sugar; frozen 30 minutes; dipped in 2 cups chocolate chips melted with 1 tbsp coconut oil or shortening.
