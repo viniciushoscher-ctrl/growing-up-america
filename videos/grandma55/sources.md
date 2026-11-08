@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Stovetop simmer pots of citrus peel and spices as a traditional home fragrance.
+- Kitchen safety: keep decorations, paper and dried greenery away from burners and heat sources; never leave a simmer pot unattended.

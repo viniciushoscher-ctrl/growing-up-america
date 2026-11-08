@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Christmas card customs in mid-century America, including twice-daily mail delivery in December.
+- Card-writing guidance as described by Grandma Ruth: a few handwritten sentences, one memory and one wish, hand-addressed envelopes, mailing in early December.

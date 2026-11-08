@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Holiday hosting customs in mid-century American homes.
+- Guest room checklist as described by Grandma Ruth: bedside lamp and nightlights, extra blankets, towels and toiletries, closet space, water, a small Christmas touch, a house information card, privacy, and a handwritten note.

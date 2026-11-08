@@ -1,0 +1,192 @@
+{
+ "id": "grandma56",
+ "angle": "christmas recipe",
+ "length_scale": 1.45,
+ "title": "Homemade Eggnog EVERYONE's Grandma Made (Why Yours Is RUNNY)",
+ "scenes": [
+  {
+   "text": "Sweetheart, the first time I tasted real homemade eggnog, I was six years old, at Grandma Pearl's farm on Christmas Eve, nineteen fifty. She ladled it out of a big glass punch bowl into little cups, thick and cold and creamy, with nutmeg on top. Mine had no whiskey in it. My father's had plenty. He sang Jingle Bells all the way home in the snow.",
+   "query": "eggnog punch bowl nutmeg cups",
+   "caption": "PLENTY OF WHISKEY",
+   "cuts": 8,
+   "moves": true,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Today most people only know the carton from the store, which is thin and sweet and tastes like melted ice cream. And when they make it at home, it comes out runny, or it curdles into scrambled eggs. So tonight I'm giving you Grandma Pearl's eggnog, every step, and the five mistakes that ruin it. And stay with me, because the last secret is the one that makes it thick, and it takes nothing but time.",
+   "query": "eggnog carton grocery store",
+   "caption": "THIN AND SWEET",
+   "cuts": 8,
+   "moves": true
+  },
+  {
+   "text": "Eggnog is older than the country, honey. In England, rich people drank a hot milk and egg drink with wine or sherry in winter. When it came to the American colonies, people made it with rum, because rum was cheap here, and later with whiskey and brandy. George Washington had his own recipe, and they say it was so strong only the brave would try it.",
+   "query": "colonial Christmas punch bowl",
+   "caption": "ONLY THE BRAVE",
+   "cuts": 5,
+   "chapter": "A drink older than America",
+   "moves": true
+  },
+  {
+   "text": "On the farm, Grandma Pearl made it with eggs from her own hens and milk and cream from her own cow, still warm. Nothing in it came from a store except the sugar, the nutmeg and my grandfather's bottle. She made it in the morning and set it in the cold springhouse all day to chill. By evening, it was thick enough to stand a spoon in.",
+   "query": "old farm springhouse winter",
+   "caption": "THICK ENOUGH FOR A SPOON",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "In the old days, people made eggnog with raw eggs. Today, we cook it gently into a custard first, so it's safe for everybody, the children and the grandparents and anybody expecting a baby. And honestly, it tastes better cooked. In a minute I'll show you how, and the trick that keeps it from turning into scrambled eggs.",
+   "query": "custard cooking saucepan whisk",
+   "caption": "COOK IT GENTLY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "In our house on Elm Street, eggnog was only for two nights a year, Christmas Eve and New Year's Eve. My mother made it in her big yellow mixing bowl and kept it on the back porch, because the icebox was full of ham. One year the dog got to it first. He spent Christmas Day sleeping under the kitchen table, very happy, and very full.",
+   "query": "dog sleeping under kitchen table",
+   "caption": "THE DOG GOT TO IT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Here's what you need for about six cups. Six egg yolks. Half a cup of sugar. Two cups of whole milk. One cup of heavy cream. A pinch of salt. One teaspoon of vanilla. Half a teaspoon of freshly grated nutmeg, plus more for the top. And a cinnamon stick. If you want it for grown-ups, half a cup to a cup of bourbon, brandy, or dark rum.",
+   "query": "egg yolks milk cream nutmeg",
+   "caption": "THE INGREDIENTS",
+   "cuts": 4,
+   "chapter": "What you need",
+   "moves": true
+  },
+  {
+   "text": "And here's mistake number one. Using skim milk or low fat milk. Eggnog is supposed to be rich, honey. It's a once-a-year treat. Thin milk makes thin, watery eggnog that tastes like nothing. Use whole milk and real heavy cream. If you want it a little lighter, use half and half instead of the cream, but never skim.",
+   "query": "whole milk heavy cream bottles",
+   "caption": "NEVER SKIM",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And grate the nutmeg yourself if you can. A whole nutmeg costs about the same as a jar of the ground kind, and it lasts for years. Rub it on a small grater, and the smell fills the whole kitchen. Ground nutmeg from a jar that's been in the cupboard since nineteen ninety tastes like dust. That's mistake number two.",
+   "query": "whole nutmeg grater",
+   "caption": "GRATE IT YOURSELF",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step one. In a bowl, whisk the egg yolks and sugar together for about two minutes, until they turn pale yellow and thick, like a ribbon when you lift the whisk. In a saucepan, warm the milk, the cream, the cinnamon stick, the nutmeg and the salt over medium heat, until it's steaming and little bubbles form around the edge. Don't let it boil.",
+   "query": "whisking egg yolks sugar pale",
+   "caption": "PALE YELLOW",
+   "cuts": 4,
+   "chapter": "The custard",
+   "moves": true
+  },
+  {
+   "text": "Step two, and here's mistake number three. Pouring the hot milk into the eggs all at once. The eggs cook instantly into little scrambled lumps. It's called tempering, honey. Pour the hot milk into the eggs very slowly, just a ladle at a time, while you whisk the whole time with your other hand. Warm the eggs up gently, a little at a time.",
+   "query": "ladle hot milk into eggs whisking",
+   "caption": "A LADLE AT A TIME",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "If this is helping you, honey, tap the like button for me. It helps Grandma more than you know. When about half the milk is in, pour everything back into the saucepan. Now cook it over medium-low heat, stirring constantly with a wooden spoon or a spatula, scraping the bottom and corners, for about five to eight minutes.",
+   "query": "stirring custard saucepan wooden spoon",
+   "caption": "STIR CONSTANTLY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Mistake number four is cooking it too hot or too long. It curdles. You want it to reach one hundred sixty to one hundred seventy degrees on a thermometer, no more. Or use the old test. Dip a spoon in, and run your finger across the back. If the line stays clean and doesn't run back together, it's done. Take it off the heat right away.",
+   "query": "finger line custard back of spoon",
+   "caption": "THE SPOON TEST",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And if it does start to curdle a little, sweetheart, don't panic. Take it off the heat immediately and pour it into a cold bowl. Then whisk it hard, or blend it for a few seconds. Small lumps will smooth right out. Then pour it through a fine strainer into a clean pitcher or bowl. Always strain it anyway. It catches the cinnamon stick and any little bits of cooked egg.",
+   "query": "straining custard fine sieve",
+   "caption": "STRAIN IT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So far, whole milk and cream, fresh nutmeg, pale yolks, temper the eggs slowly, and cook it gently to one sixty, then strain it. Stir in the vanilla. Now the secret I promised, the one that makes it thick. Mistake number five is drinking it right away, warm. Warm eggnog is thin. Cold eggnog is thick and velvety, the way Grandma Pearl's was.",
+   "query": "pitcher of eggnog cooling",
+   "caption": "COLD IS THICK",
+   "cuts": 4,
+   "chapter": "The secret",
+   "moves": true
+  },
+  {
+   "text": "Cover it, and put it in the icebox for at least four hours, and overnight is even better. The custard thickens as it chills, and the flavors of the nutmeg and vanilla come out. That's Grandma Pearl's springhouse. And if you want it extra light and fluffy, whip a half cup of cream to soft peaks right before serving, and fold it in gently.",
+   "query": "eggnog refrigerator overnight",
+   "caption": "THE SPRINGHOUSE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "For the grown-ups, stir in the bourbon, brandy, or rum after it's chilled, a little at a time, and taste it. My father liked bourbon. Grandma Pearl liked a mix of brandy and rum, half and half, and she said it was medicinal. Some people make a big batch with the spirits in it and let it age in the icebox for weeks. That's a little too brave for me, honey.",
+   "query": "bourbon brandy bottles eggnog",
+   "caption": "IT'S MEDICINAL",
+   "cuts": 4,
+   "chapter": "For the grown-ups",
+   "moves": true
+  },
+  {
+   "text": "And always keep a pitcher without any spirits, for the children and for the drivers. I put a little red ribbon around the handle of the children's pitcher, so nobody mixes them up. Learned that one the hard way in nineteen seventy-three, when my nephew Michael drank two cups of the wrong one and fell asleep under the Christmas tree.",
+   "query": "two pitchers eggnog ribbon",
+   "caption": "THE WRONG PITCHER",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And save those egg whites, honey. Don't throw them away. Put them in a jar in the icebox, and they keep four days. Use them for a batch of divinity, or meringue cookies, or a white cake. Or whip two of them to soft peaks and fold them into the eggnog right before serving, for a frothy, old-fashioned nog. That's how my grandmother's mother made it, back in the eighteen nineties.",
+   "query": "jar of egg whites meringue",
+   "caption": "SAVE THE WHITES",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "To serve it, pour it into a punch bowl or small glasses, and grate fresh nutmeg over the top. Add a cinnamon stick in each glass for stirring. Or a little dollop of whipped cream. It's rich, sweetheart, so small cups. A big glass of eggnog is like eating a whole pie. Grandma Pearl served it in little glass punch cups no bigger than an egg.",
+   "query": "eggnog glasses cinnamon stick nutmeg",
+   "caption": "SMALL CUPS",
+   "cuts": 4,
+   "chapter": "Serving",
+   "moves": true
+  },
+  {
+   "text": "And it's wonderful in other things, too. A splash in your morning coffee. Use it instead of milk for French toast on Christmas morning. Or in a bread pudding, or a pound cake. My granddaughter makes eggnog pancakes on Christmas morning, and the house smells like nutmeg until noon.",
+   "query": "eggnog French toast breakfast",
+   "caption": "EGGNOG FRENCH TOAST",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Homemade eggnog keeps three days in the icebox, in a covered pitcher. Give it a good stir before serving, because it settles. It doesn't freeze well, honey, because it separates when it thaws. So make only what you'll drink in a few days. That's never a problem in my family. The pitcher is always empty by the second day.",
+   "query": "eggnog pitcher refrigerator",
+   "caption": "THREE DAYS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And if somebody can't have dairy, sweetheart, you can make it with oat milk or almond milk and a can of coconut cream instead of the heavy cream. It's not quite the same, but it's thick and sweet and full of nutmeg. My grandson's wife can't have milk, and I make her a little pitcher every year. She says it tastes like Christmas, and that's the whole point.",
+   "query": "oat milk coconut cream eggnog",
+   "caption": "IT TASTES LIKE CHRISTMAS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So one more time. Whole milk and cream, never skim. Fresh nutmeg. Whisk the yolks and sugar until pale. Temper the eggs slowly with the hot milk. Cook it gently, stirring, to one sixty, and strain it. Chill it overnight. Spirits for the grown-ups, and a ribbon on the children's pitcher. That's Grandma Pearl's eggnog, thick enough to stand a spoon in.",
+   "query": "eggnog punch bowl Christmas party",
+   "caption": "THICK ENOUGH FOR A SPOON",
+   "cuts": 4,
+   "chapter": "Grandma's kitchen",
+   "moves": true
+  },
+  {
+   "text": "Tell me in the comments, sweetheart. Do you love eggnog, or can't you stand it? I know families are divided. The whole playlist of Grandma's recipes is right there on your screen, and I'll see you in the next video. Good night, honey. Merry Christmas.",
+   "query": "Christmas evening fireplace drinks",
+   "caption": "LOVE IT OR HATE IT?",
+   "cuts": 4,
+   "moves": true
+  }
+ ],
+ "voice": "en_US-lessac-high"
+}

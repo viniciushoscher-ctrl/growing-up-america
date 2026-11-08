@@ -1,0 +1,4 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Eggnog history: English posset and colonial American eggnog made with rum, whiskey and brandy.
+- Food safety: cook egg custard bases to 160 F (USDA Food Safety and Inspection Service).
+- Recipe as written by Grandma Ruth: 6 egg yolks, 1/2 cup sugar, 2 cups whole milk, 1 cup heavy cream, pinch of salt, 1 tsp vanilla, 1/2 tsp fresh nutmeg, 1 cinnamon stick; cooked to 160 to 170 F, strained, chilled overnight.
