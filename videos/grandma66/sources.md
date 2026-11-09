@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Pecan pie, a Southern American dessert popularized nationally in the 1930s by recipes printed on corn syrup bottles.
+- Recipe as written by Grandma Ruth: 1 pre-baked 9-inch crust, 3 eggs, 1 cup corn syrup, 1 cup brown sugar, 1/4 cup melted butter, 1 tsp vanilla, 1/2 tsp salt, 1 tbsp bourbon or coffee, 1 1/2 cups toasted pecans; 350 F for 50 to 60 minutes, to about 200 F in the center.

@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Traditional fresh evergreen wreaths of cedar, pine, fir, spruce, boxwood and holly.
+- Method as described by Grandma Ruth: bundles of mixed greens wired onto a frame, overlapping like shingles; soaked overnight and misted to keep fresh. Keep dry greens away from candles and heat sources.

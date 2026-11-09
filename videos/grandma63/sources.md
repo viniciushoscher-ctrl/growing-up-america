@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Toffee, a British butter and sugar candy cooked to the hard crack stage; chocolate and nut covered English toffee in America.
+- Recipe as written by Grandma Ruth: 1 cup butter, 1 cup sugar, 3 tbsp water, 1 tsp vanilla, cooked to 300 to 305 F; topped with 1 cup chocolate and 3/4 cup toasted chopped almonds or pecans.

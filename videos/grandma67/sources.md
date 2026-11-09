@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Macaroni and cheese in early American cooking, including Thomas Jefferson's interest in macaroni; boxed macaroni and cheese introduced in 1937.
+- Recipe as written by Grandma Ruth: 1 lb elbow macaroni, 4 tbsp butter, 1/4 cup flour, 3 cups whole milk, 1 cup half and half, 1 lb sharp cheddar, 4 oz Gruyere or Jack, dry mustard, cayenne, nutmeg; crumb topping with butter and cheddar; 375 F for 25 to 30 minutes.

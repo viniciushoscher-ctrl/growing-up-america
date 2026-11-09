@@ -1,0 +1,185 @@
+{
+ "id": "grandma64",
+ "angle": "everyday recipe",
+ "length_scale": 1.45,
+ "title": "Salisbury Steak EVERYONE's Grandma Made (Why Yours Is RUBBERY)",
+ "scenes": [
+  {
+   "text": "Sweetheart, in nineteen fifty-six, the most modern thing in our kitchen was the TV dinner. A little aluminum tray with three sections. Salisbury steak in gravy, mashed potatoes, and a little square of peas and carrots. My brother Danny thought it was the height of luxury. My mother tasted one bite and said, I can do better than that for half the price. And she did.",
+   "query": "salisbury steak mushroom gravy plate",
+   "caption": "I CAN DO BETTER",
+   "cuts": 8,
+   "moves": true,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Most people today only know Salisbury steak from that frozen tray, rubbery and gray in a salty brown sauce. So tonight I'm giving you my mother's homemade Salisbury steak, tender and juicy in a rich mushroom and onion gravy, every step, and the five mistakes that make it rubbery. And stay with me, because the last secret is the way to finish it, and it's the reason hers was so tender.",
+   "query": "TV dinner tray 1950s",
+   "caption": "RUBBERY AND GRAY",
+   "cuts": 8,
+   "moves": true
+  },
+  {
+   "text": "Here's something most people don't know, honey. Salisbury steak was invented by a doctor. His name was James Salisbury, an American doctor in the eighteen hundreds, who believed people should eat chopped beef patties for their health. He prescribed it to soldiers in the Civil War. By the time I was a girl, it had turned into a ground beef patty in gravy, and nobody remembered the doctor.",
+   "query": "Civil War era doctor portrait",
+   "caption": "INVENTED BY A DOCTOR",
+   "cuts": 5,
+   "chapter": "A doctor's steak",
+   "moves": true
+  },
+  {
+   "text": "My mother made it every other Tuesday, with a pound and a half of hamburger, a few mushrooms, and an onion. It fed the four of us with leftovers for my father's lunch pail. She served it over mashed potatoes with a pile of green beans, and the gravy was so good, Danny would lick his plate when he thought she wasn't looking. She was always looking.",
+   "query": "1950s family dinner table mashed potatoes",
+   "caption": "SHE WAS ALWAYS LOOKING",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And today, a homemade Salisbury steak supper feeds four for about twelve dollars, and it's on the table in forty minutes. It's the kind of supper that makes a tired Tuesday feel like Sunday. In a minute I'll tell you the first mistake, and it's the meat you pick at the store.",
+   "query": "weeknight family supper table",
+   "caption": "TUESDAY FEELS LIKE SUNDAY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Here's what you need, honey, for four big patties. One and a half pounds of ground beef. A third of a cup of plain bread crumbs, or crushed saltine crackers. One egg. Two tablespoons of ketchup. One tablespoon of Worcestershire sauce. One teaspoon of mustard. Half a small onion, grated. Salt and pepper. That's the patties.",
+   "query": "ground beef breadcrumbs egg ketchup",
+   "caption": "THE PATTIES",
+   "cuts": 4,
+   "chapter": "What you need",
+   "moves": true
+  },
+  {
+   "text": "For the gravy. Two tablespoons of butter. Eight ounces of mushrooms, sliced. One onion, sliced thin. Two tablespoons of flour. Two cups of beef broth. One tablespoon of Worcestershire. A teaspoon of tomato paste or ketchup. And a little fresh thyme, if you have it. My mother added a splash of strong black coffee from the pot. It sounds strange, but it makes the gravy dark and rich.",
+   "query": "mushrooms onions beef broth",
+   "caption": "A SPLASH OF COFFEE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And here's mistake number one. Too lean meat. The extra-lean ground beef, ninety-three percent, makes dry, rubbery patties. Use eighty or eighty-five percent lean. The little bit of fat keeps the patties juicy and tender, and it gives you drippings to start the gravy. My mother bought whatever the butcher ground that morning, and it was never lean.",
+   "query": "ground beef package 80 percent",
+   "caption": "NOT TOO LEAN",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step one. In a big bowl, mix the bread crumbs, the egg, ketchup, Worcestershire, mustard, grated onion, a teaspoon of salt and half a teaspoon of pepper. Then add the beef, and mix it gently with your fingertips, just until it's combined. Mistake number two is overmixing. Squeeze and knead it too much, and the patties turn dense and rubbery, like the TV dinner.",
+   "query": "mixing ground beef gently fingertips",
+   "caption": "MIX IT GENTLY",
+   "cuts": 4,
+   "chapter": "The patties",
+   "moves": true
+  },
+  {
+   "text": "Divide it into four equal parts, and shape each one into an oval patty, about three quarters of an inch thick. Make them a little thinner in the middle than at the edges, pressing a little dent in the center with your thumb. That way they cook evenly and don't puff up into a ball. Then set them on a plate and chill them fifteen minutes, so they hold together.",
+   "query": "oval beef patties thumb dent",
+   "caption": "A DENT IN THE MIDDLE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "If this is helping you, honey, tap the like button for me. It helps Grandma more than you know. Heat a big skillet over medium-high heat with a spoon of oil. Lay the patties in, and leave them alone for four minutes, until they have a deep brown crust. Then flip them and brown the other side, another three or four minutes. Then take them out onto a plate. They don't need to be cooked through yet.",
+   "query": "browning patties skillet crust",
+   "caption": "A DEEP BROWN CRUST",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Mistake number three is a pale patty. If you crowd the pan, or flip them too soon, or keep pushing them around, they steam and turn gray instead of brown. That brown crust is where the flavor is, and those brown bits left in the pan are the start of the gravy. Leave them alone, honey. Patience is an ingredient too.",
+   "query": "gray steamed meat patties pan",
+   "caption": "PATIENCE IS AN INGREDIENT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And here's a trick for mushrooms, honey, that my mother learned from the grocer. Don't wash them under the faucet. They soak up water like a sponge, and then they steam in the pan instead of browning. Just wipe them clean with a damp paper towel. And slice them thick, about a quarter inch, so they stay meaty. Thin slices shrink into nothing.",
+   "query": "wiping mushrooms paper towel",
+   "caption": "DON'T WASH THEM",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Step two, the gravy. Pour off all but about a tablespoon of fat from the pan. Add the butter, and then the mushrooms and sliced onion. Cook them over medium heat for about eight to ten minutes, stirring now and then, until the mushrooms are brown and the onions are soft and golden. Don't stir the mushrooms too much at first. Let them sit and brown.",
+   "query": "mushrooms onions browning skillet",
+   "caption": "LET THEM BROWN",
+   "cuts": 4,
+   "chapter": "The gravy",
+   "moves": true
+  },
+  {
+   "text": "Sprinkle the flour over the mushrooms and onions, and stir for two minutes. Then slowly pour in the beef broth, stirring and scraping up all those brown bits from the bottom of the pan. Add the Worcestershire, the tomato paste, the thyme, and that splash of coffee. Let it bubble until it's thick, about three or four minutes. Taste it, and add salt and pepper.",
+   "query": "pouring broth gravy skillet scraping",
+   "caption": "SCRAPE THE BOTTOM",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Mistake number four is a thin, pale gravy. If the gravy is light and watery, it's because the mushrooms and onions weren't browned enough, or it didn't simmer long enough. Brown the vegetables well, and let the gravy reduce until it coats the back of a spoon. It should be the color of dark chocolate. That's what makes it taste like Sunday.",
+   "query": "thick dark mushroom gravy spoon",
+   "caption": "THE COLOR OF DARK CHOCOLATE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So far, eighty-five percent beef, a gentle mix, a dent in the middle, a deep brown crust, and a dark mushroom gravy. And now the secret I promised, my mother's finish. Mistake number five is cooking the patties all the way through in the skillet, before the gravy. They dry out. Instead, put the browned patties back into the gravy, and spoon gravy over the top.",
+   "query": "patties back in gravy skillet",
+   "caption": "BACK INTO THE GRAVY",
+   "cuts": 4,
+   "chapter": "The secret finish",
+   "moves": true
+  },
+  {
+   "text": "Then turn the heat down to low, cover the skillet, and let them simmer gently in the gravy for about ten to twelve minutes, until they're cooked through, to one hundred sixty degrees in the middle. The patties soak up the gravy, and the gravy soaks up the beef. They come out so tender you can cut them with a fork. That's the reason my mother's beat the TV dinner every time.",
+   "query": "simmering patties covered skillet",
+   "caption": "TENDER AS A FORK",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And if you're making a big batch for company, sweetheart, put the browned patties in a baking dish, pour the gravy over them, cover it with foil, and bake it at three fifty for about twenty-five minutes. Then the stove is free for the potatoes and the beans. My mother made twelve of them that way for my father's bowling league banquet in nineteen fifty-eight. They asked her back every year.",
+   "query": "baking dish patties gravy foil",
+   "caption": "THE BOWLING LEAGUE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Serve it the way my mother did, honey. A big scoop of mashed potatoes, a patty on top, and plenty of mushroom gravy poured over everything, with green beans or peas on the side. Or serve it over buttered egg noodles or rice. Sprinkle a little chopped parsley on top. And put the bread basket on the table for the gravy. Nobody leaves gravy on a plate in my house.",
+   "query": "Salisbury steak mashed potatoes green beans",
+   "caption": "NOBODY LEAVES GRAVY",
+   "cuts": 4,
+   "chapter": "Serving",
+   "moves": true
+  },
+  {
+   "text": "And the leftovers, sweetheart. Salisbury steak is even better the next day, warmed gently in its gravy. It keeps three days in the icebox. And it freezes beautifully, patties and gravy together, for three months. Make a double batch, and freeze half in containers. Then on a busy night, it's your own homemade TV dinner, and a whole lot better than the one in the tray.",
+   "query": "frozen meals containers gravy",
+   "caption": "YOUR OWN TV DINNER",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And you can make it fancy for company, honey. Add a splash of red wine or sherry to the gravy, and a spoon of sour cream at the end. Or make it with ground turkey for a lighter supper, with a little extra Worcestershire for flavor. My granddaughter makes it in her slow cooker, browned first, and then cooked on low in the gravy for four hours.",
+   "query": "slow cooker salisbury steak",
+   "caption": "FANCY FOR COMPANY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So one more time. Eighty or eighty-five percent beef, never extra lean. Bread crumbs, egg, ketchup, Worcestershire and grated onion. Mix it gently. Oval patties with a dent in the middle. A deep brown crust. Mushrooms and onions browned well, and a dark gravy with a splash of coffee. Then simmer the patties in the gravy until they're fork tender. That's my mother's Salisbury steak.",
+   "query": "Salisbury steak family supper",
+   "caption": "FORK TENDER",
+   "cuts": 4,
+   "chapter": "Grandma's kitchen",
+   "moves": true
+  },
+  {
+   "text": "Tell me in the comments, sweetheart. Did you eat TV dinners growing up? Which one was your favorite? Mine was the turkey with the little apple cobbler. The whole playlist of Grandma's recipes is right there on your screen, and I'll see you in the next video. Good night, honey.",
+   "query": "1950s family TV dinner trays",
+   "caption": "YOUR FAVORITE TV DINNER?",
+   "cuts": 4,
+   "moves": true
+  }
+ ],
+ "voice": "en_US-lessac-high"
+}
