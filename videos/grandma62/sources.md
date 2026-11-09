@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- The legend of Saint Nicholas of Myra and the gold coins in the stockings, and the tradition of an orange in the toe.
+- Stocking guidance as described by Grandma Ruth: something to use, read, wear and play; a smaller stocking filled to the top.

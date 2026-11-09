@@ -1,0 +1,4 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Salisbury steak, named for Dr. James H. Salisbury (1823-1905), and the frozen TV dinners of the 1950s.
+- Food safety: cook ground beef to 160 F (USDA Food Safety and Inspection Service).
+- Recipe as written by Grandma Ruth: 1 1/2 lb 80 to 85 percent lean ground beef, 1/3 cup bread crumbs, 1 egg, 2 tbsp ketchup, 1 tbsp Worcestershire, 1 tsp mustard, grated onion; gravy of 8 oz mushrooms, 1 onion, 2 tbsp butter, 2 tbsp flour, 2 cups beef broth, Worcestershire, tomato paste, thyme and a splash of coffee.
