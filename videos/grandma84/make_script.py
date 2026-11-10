@@ -1,0 +1,80 @@
+import sys; sys.path.insert(0, __import__("os").path.join(__import__("os").path.dirname(__file__), "..", "..", "pipeline"))
+from scriptkit import sc, ch, save, S
+
+# Grandma Ruth 84 · ANGLE: forgotten grandma + stranger's kindness (left at a gas station on Christmas Eve, a trucker helps)
+
+sc("""Sweetheart, on Christmas Eve of two thousand sixteen, my own family drove off and left me at a gas station in the middle of Indiana, in a snowstorm, with no coat, no phone, and no purse. Nobody noticed I was gone for a hundred and twelve miles. And the man who found me crying by the ice machine was a trucker named Jerome, who was spending his own Christmas alone.""",
+   "elderly woman alone at gas station snow night", "THEY DROVE OFF WITHOUT ME")
+sc("""Tonight I'm going to tell you how it happened, what Jerome did for a stranger that night, and the phone call my son made at ten o'clock that I'll never forget. Stay with me, honey, because the ending of this story is the reason I now spend every Christmas Eve at a truck stop. And I wouldn't trade it for anything.""",
+   "truck stop at night Christmas lights", "AT A TRUCK STOP")
+
+ch("The trip")
+sc("""That year, my son Mark and his wife invited me to Christmas at her parents' house in Illinois. Seven hours in the car. Mark, his wife Jenna, their three teenagers, and me, squeezed in the back of the minivan between a pile of presents and a sixteen-year-old with headphones on. I was seventy-two. My knees didn't love it. But I was happy to be wanted.""",
+   "family minivan packed for Christmas trip", "HAPPY TO BE WANTED")
+sc("""Now, my family loves me, sweetheart. I want you to know that before I tell the rest. But they're busy people. Everybody's on a phone. Everybody's in a hurry. Jenna had a schedule printed out, with exactly when we'd stop. And I'd noticed, the last few years, that I'd started to become a little bit invisible. A quiet old lady in the back seat. In a minute I'll tell you how invisible.""",
+   "grandmother in back seat family on phones", "A LITTLE BIT INVISIBLE")
+sc("""Around four o'clock, in western Indiana, it started to snow hard. Mark pulled off at a big truck stop for gas and a bathroom break. Ten minutes, Jenna said. Everybody back in ten minutes. I took my time, honey, because my knees were stiff, and there was a long line at the ladies' room. I left my coat and purse in the van, because I'd only be a minute.""",
+   "truck stop in snowstorm afternoon", "TEN MINUTES")
+
+ch("Left behind")
+sc("""When I came out of that bathroom, the minivan was gone. I stood there in the doorway in my cardigan, looking at the empty pump, and at first I didn't understand. I thought maybe they'd moved to a parking spot. I walked up and down the lot in the snow, in my good shoes, looking. No minivan. They had driven off without me. My own son.""",
+   "empty gas pump in snowstorm", "THE VAN WAS GONE")
+sc("""Later I found out how it happened. Jenna thought I was in the very back row, under the coats, sleeping. The kids had their headphones on. Mark counted heads in the mirror and saw a lump of coats and thought it was me. And off they went, honey, into the snow, toward Illinois, a hundred miles an hour of busy, and nobody looked back.""",
+   "pile of coats in back of van", "A LUMP OF COATS")
+sc("""I had no phone. I'm seventy-two, sweetheart, and I'd left it in my purse, in the van. I didn't know my son's cell phone number by heart. Who does anymore? I didn't know Jenna's parents' address. I had four dollars in my cardigan pocket. And it was getting dark, and the snow was coming sideways, and every car pulling in was a family going home for Christmas.""",
+   "elderly woman looking out window snow dark", "FOUR DOLLARS")
+
+ch("The ice machine")
+sc("""If you're enjoying Grandma's story, tap the like button for me, honey. It helps more people find these stories. I went inside and sat down on a little bench by the ice machine near the door, so I'd see them when they came back. And I waited. Thirty minutes. An hour. They didn't come back. And somewhere in that second hour, sitting by that ice machine, I started to cry.""",
+   "elderly woman crying on bench by ice machine", "BY THE ICE MACHINE")
+sc("""Not loud, sweetheart. Just tears running down, the way they do when you're old and tired and you've been feeling invisible for a long time, and now you really are. People walked right past me. A hundred people, maybe. Families with shopping bags. Teenagers. A man in a suit on his phone. Nobody stopped. And then a big pair of work boots stopped right in front of me.""",
+   "work boots stopping in front of bench", "A PAIR OF WORK BOOTS")
+sc("""He was a big man, honey, maybe sixty, with a gray beard and a flannel shirt and a cap that said Jesus Loves Truckers. He said, ma'am, are you all right? Are you waiting for somebody? And I said, I'm waiting for my family. They left me. And I heard how it sounded out loud, and I started crying all over again, right in front of that stranger.""",
+   "big trucker with gray beard and cap", "THEY LEFT ME")
+
+ch("Jerome")
+sc("""His name was Jerome. He sat down on that bench next to me, which took some doing, because he was a big man and it was a little bench. And he said, well, ma'am, I reckon they'll figure it out pretty quick. Meantime, you're freezing. And he went out to his truck and came back with a big wool jacket that came down to my knees, and a cup of hot chocolate.""",
+   "trucker giving wool jacket to elderly woman", "A BIG WOOL JACKET")
+sc("""Then he asked the right questions, sweetheart. What's your son's name? Where does he live? What kind of car? Do you know his wife's last name? Her parents' town? I knew the town. Peoria. And Jerome took out his phone and started making calls. The Illinois Highway Patrol. The Indiana State Police. Two trucker friends who were driving west on the same highway.""",
+   "trucker making phone calls on bench", "THE RIGHT QUESTIONS")
+sc("""He got on his CB radio, too, out in his truck. He told every trucker on that highway to look for a blue minivan with Ohio plates and a Christmas wreath on the grill. And for the next hour, honey, I could hear the radio crackling through his open truck window. Truckers from all over, checking in. Nope. Not yet. Keep looking. Nobody's leaving grandma at a truck stop on Christmas Eve.""",
+   "CB radio in truck cab at night", "NOBODY LEAVES GRANDMA")
+
+ch("Jerome's Christmas")
+sc("""So far, the van, the coats, the ice machine, and Jerome. While we waited, Jerome bought us two plates of meatloaf in the diner, and we talked. I asked him where he was going for Christmas. And he got quiet, and he said, nowhere, ma'am. He was spending Christmas Eve in the truck stop parking lot. Like he had for the last four years.""",
+   "two people eating meatloaf in truck stop diner", "NOWHERE, MA'AM")
+sc("""His wife, Loretta, had died four years before, of cancer. They'd been married thirty-one years. They had one daughter, and she'd stopped speaking to him after the funeral, over something he'd said in grief that he couldn't take back. He'd been on the road ever since, honey. He said, it's easier to drive than to sit in that empty house. And he took out his wallet and showed me Loretta's picture.""",
+   "old wallet photo of smiling woman", "LORETTA")
+sc("""And then he said something I've never forgotten. He said, you know why I stopped at your bench, ma'am? Loretta would've had my hide if I'd walked past a crying lady on Christmas Eve. She always said, Jerome, you never know when you're the answer to somebody's prayer. I guess tonight you were the answer to mine, he said. I didn't want to sit alone either.""",
+   "trucker and elderly woman talking in diner", "THE ANSWER TO A PRAYER")
+
+ch("The phone call")
+sc("""At six forty, the Illinois Highway Patrol pulled over a blue minivan with Ohio plates, a hundred and twelve miles west, because a trucker had radioed in its location. The trooper walked up to the window and said, sir, do you know where your mother is? And my son turned around, and looked in the back row, and pulled the coats off. Jenna screamed. The trooper said Mark went white as a sheet.""",
+   "state trooper at minivan window at night", "WHERE IS YOUR MOTHER?")
+sc("""Mark called Jerome's phone ten minutes later. He was crying so hard he could barely talk. He said, Mom, Mom, I'm so sorry. We're turning around. We'll be there in two hours. And I said, honey, take your time. Drive slow in this snow. I'm fine. I'm having meatloaf with a friend. And it was true, sweetheart. For the first time in a long time, somebody had really looked at me.""",
+   "elderly woman on phone smiling through tears", "I'M HAVING MEATLOAF")
+sc("""When they pulled in at nine o'clock, my son ran across that parking lot in the snow and grabbed me and held on so tight. My grandkids, those teenagers with the headphones, were crying. All three of them. Jenna kept saying, I thought you were in the back. I thought you were sleeping. And I said, I know, honey. I know. But you didn't look. Nobody looked.""",
+   "son hugging mother in snowy parking lot", "NOBODY LOOKED")
+
+ch("The next morning")
+sc("""And then I did something that surprised everybody. I said, Mark, I'd like Jerome to come to Christmas dinner in Peoria. He's spending Christmas alone in a parking lot. Mark didn't even hesitate. He shook Jerome's hand and said, sir, you're coming with us. And Jenna called her mother, and her mother said, of course, set another place. And Jerome followed our minivan all the way to Illinois in his big rig.""",
+   "semi truck following minivan in snow", "SET ANOTHER PLACE")
+sc("""On Christmas morning, Jerome sat by the tree in Jenna's parents' living room, with a paper hat on, watching the kids open presents. And my oldest granddaughter, Emma, sixteen, sat down next to him and asked about Loretta. And then she asked about his daughter. And then she said the thing I'll never forget. She said, Mr. Jerome, have you called her today? It's Christmas.""",
+   "teenage girl talking with older man by tree", "HAVE YOU CALLED HER?")
+sc("""He hadn't called her in four years, honey. He said she wouldn't want to hear from him. And Emma held out her own phone and said, you don't know that. Loretta would want you to try. You told Grandma you never know when you're the answer to somebody's prayer. Jerome looked at that sixteen-year-old for a long time. Then he went out on the porch with her phone.""",
+   "man on porch on phone in snow", "YOU DON'T KNOW THAT")
+
+ch("Every Christmas Eve")
+sc("""He was out there for an hour, sweetheart. When he came back in, his eyes were red, and he said, she's got two kids I've never met. She wants me to come for New Year's. Everybody in that living room cried. Jerome's been at his daughter's house every Christmas since. But every Christmas Eve, on his way there, he stops at that same truck stop in Indiana. And so do I.""",
+   "truck stop Christmas Eve snow lights", "EVERY CHRISTMAS EVE")
+sc("""My family drives me there now, honey, every December twenty-fourth. We bring a big pan of meatloaf and a dozen pies, and we sit in that diner, and we feed any trucker who's spending Christmas on the road. Jerome tells the story. My grandkids hand out plates. And nobody, nobody in that diner, sits alone by the ice machine. That's our tradition now.""",
+   "family serving food to truckers in diner", "NOBODY SITS ALONE")
+sc("""Here's what I want you to remember, sweetheart. Look up from your phone this Christmas. Count the heads. Look at the quiet old person in the back seat, and the stranger on the bench. You never know when you're the answer to somebody's prayer. Tell me in the comments, honey, have you ever been forgotten, or found? There are more of my family's stories in the playlist right there on your screen, and I'll see you in the next one.""",
+   "elderly woman smiling at truck stop window", "LOOK UP FROM YOUR PHONE")
+
+for s in S:
+    s["cuts"], s["moves"] = 4, True
+
+save("grandma84", "My Family LEFT Me at a Gas Station on Christmas Eve. A Trucker...",
+     ["Grandma Ruth is a fictional narrator, and this is a fictional story. All names are invented."],
+     "forgotten grandma + stranger story", minutes=(12, 14.5), voice="en_US-lessac-high")
