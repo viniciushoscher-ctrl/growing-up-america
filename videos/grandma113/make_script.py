@@ -1,72 +1,72 @@
 import sys; sys.path.insert(0, __import__("os").path.join(__import__("os").path.dirname(__file__), "..", "..", "pipeline"))
 from scriptkit import sc, ch, save, S
 
-# Grandma Ruth 113 · Christmas recipe: glazed Christmas ham
+# Grandma Ruth 113 · Christmas recipe: spritz butter cookies (replaces a ham script that repeated grandma47)
 
-sc("""Sweetheart, the Christmas ham is the centerpiece of the whole table. Glossy and dark with a sticky brown sugar glaze, juicy and pink inside, with that smell that fills the whole house. But most of the hams I see at Christmas come out dry and stringy, with a burnt glaze that slides right off. And it's always the same five mistakes. Every one of them is easy to fix.""",
-   "glossy glazed Christmas ham on platter", "DRY AND STRINGY")
-sc("""So tonight I'm giving you the Christmas ham my mother made every year on Elm Street, step by step. And stay with me, because the last secret is one ordinary bottle she poured into the bottom of the roasting pan, and it's why her ham was the juiciest in the neighborhood, and why the gravy was so good Danny drank it out of the boat.""",
-   "gravy boat next to Christmas ham", "HE DRANK THE GRAVY")
+sc("""Sweetheart, spritz cookies are the little butter cookies pressed into Christmas trees, wreaths, and stars that were on every cookie tray in America. Crisp at the edges, tender in the middle, and they melt on your tongue. But most people who try them give up after ten minutes, because the dough won't come out of the press, or it won't stick to the pan. And it's always the same five mistakes.""",
+   "tray of spritz cookies shaped like trees and wreaths", "IT WON'T STICK")
+sc("""So tonight I'm giving you the spritz cookies my mother made every December on Elm Street, step by step, with the cookie press my father gave her in nineteen fifty-one. And stay with me, because the last secret is where she put her cookie sheets before every batch, and it's the reason hers never failed. You probably have the same thing outside your back door right now.""",
+   "vintage aluminum cookie press 1950s", "OUTSIDE YOUR BACK DOOR")
 
-ch("The Christmas ham")
-sc("""In my mother's day, honey, a Christmas ham was a big deal. My father ordered it from the butcher on Main Street in November, and he paid on it a little at a time, the way you'd pay off a coat. When he brought it home on the twenty-third, wrapped in white paper and string, he carried it into the kitchen like he was carrying a baby. And my mother would say, Walter, put it down, you'll drop it.""",
-   "butcher shop wrapped ham 1950s", "LIKE A BABY")
-sc("""Ham at Christmas goes back hundreds of years, to Northern Europe, where families slaughtered the pig in late fall and cured the meat to last the winter. The best ham was saved for Christmas. In America, the farm families of the Midwest and South kept the tradition. And by the nineteen fifties, a glazed ham with pineapple rings and cherries was on every magazine cover in December. In a minute I'll tell you if you need the pineapple.""",
-   "1950s magazine cover glazed ham pineapple", "ON EVERY COVER")
-sc("""Today, almost every ham you buy is already fully cooked, honey. Smoked and cooked at the factory. So you're not really cooking it. You're reheating it, gently, without drying it out, and putting a beautiful glaze on the outside. That's the whole job. And once you understand that, you'll never make a dry ham again. Most people treat it like a raw roast, and that's where everything goes wrong.""",
-   "fully cooked ham label in grocery store", "YOU'RE REHEATING IT")
+ch("A German cookie")
+sc("""Spritz cookies came from Germany and Scandinavia, honey. The word comes from the German spritzen, which means to squirt, because you squirt the dough through a press. The German and Swedish families who settled in Ohio and Wisconsin and Minnesota brought them, and by the nineteen fifties, a cookie press was one of the most popular Christmas presents in the country. Every bride got one.""",
+   "old German Christmas bakery cookies", "TO SQUIRT")
+sc("""My father bought my mother hers at Halle's department store in Cleveland, in nineteen fifty-one. An aluminum tube with a crank on the top and a little box of metal discs, a tree, a wreath, a star, a camel, a flower, a dog. It cost three dollars and forty cents, which was a lot. She was so excited she made cookies the same night, and every single one came out a blob. In a minute I'll tell you why.""",
+   "cookie press with metal shape discs in box", "EVERY ONE A BLOB")
+sc("""She cried, honey. She really did. And my father, who never baked a thing in his life, sat down with the little instruction booklet and read it out loud, every word, while she tried again. And by the end of the night, they had two dozen perfect little trees, and flour all over both of them. She used that press every Christmas for thirty-eight years. I use it now. It still works.""",
+   "couple in 1950s kitchen covered in flour laughing", "38 CHRISTMASES")
 
-sc("""One more thing about buying it, honey. Look for a ham that says ham, or ham with natural juices, on the label. Stay away from the ones that say ham and water product. Those have been pumped full of water to make them heavier, and you're paying ham prices for tap water. They come out spongy and salty. A good ham costs a little more per pound, but you're not paying for water.""",
-   "reading ham label at grocery store", "DON'T PAY FOR WATER")
+sc("""Those cookie presses were made right here in the Midwest, honey, and every company had its own little set of shapes. Some had a Christmas camel, some had a butterfly, and one had a little Scottie dog that every child fought over. Collectors pay good money for the old boxed sets now. Ours still has the original instruction booklet, with my father's pencil notes in the margin.""",
+   "vintage cookie press box and booklet", "THE SCOTTIE DOG")
 ch("What you need")
-sc("""Here's what you need. One bone-in, fully cooked ham, eight to ten pounds. Spiral cut or not, either one. Bone-in always, honey, because the bone keeps it juicy, and you get the ham bone for soup afterward. For the glaze, one cup of packed brown sugar, a quarter cup of honey, two tablespoons of Dijon or brown mustard, two tablespoons of apple cider vinegar, a half teaspoon of ground cloves, and a pinch of cinnamon.""",
-   "ham and glaze ingredients on counter", "BONE-IN ALWAYS")
-sc("""And for the pan, a cup of water and the secret bottle, which I'll tell you at the end. Some families add a can of pineapple. If you do, use the juice instead of the vinegar, and stud the ham with the rings and some cherries. It's beautiful and old-fashioned. My mother never did, because pineapple was expensive in Ohio in December. But my sister-in-law always did, and hers was lovely.""",
-   "ham studded with pineapple rings and cherries", "PINEAPPLE OR NOT")
+sc("""Here's what you need for about six dozen cookies. One cup of real butter, two sticks, softened. Two thirds of a cup of sugar. One egg. One teaspoon of vanilla extract. A half teaspoon of almond extract, which is the old-fashioned flavor everybody remembers. Two and a quarter cups of all-purpose flour. And a half teaspoon of salt. That's all. No baking powder, honey. Spritz cookies don't rise. That's how they hold their shape.""",
+   "butter sugar flour egg and extracts on counter", "NO BAKING POWDER")
+sc("""For decorating, you need colored sugar, red and green, and little cinnamon candies, and nonpareils. And if you want green trees and pink wreaths, a few drops of food coloring in the dough. And of course, a cookie press. You can find the old metal ones at any thrift store for a few dollars, and they work better than most of the new plastic ones. Or ask your grandmother. She's got one in a drawer somewhere.""",
+   "colored sugar sprinkles in small bowls", "ASK YOUR GRANDMOTHER")
 
-sc("""If you have one of those old-fashioned hams with the thick skin and fat still on, honey, do what my mother did. Before it goes in the oven, peel off the tough skin, and score the fat on top in a diamond pattern, about a quarter inch deep, with a sharp knife. Then push a whole clove into the center of every diamond. The glaze melts down into all those little cuts. It looks like a Christmas card.""",
-   "ham scored in diamonds studded with cloves", "LIKE A CHRISTMAS CARD")
 ch("Mistake one and two")
-sc("""Mistake number one is putting a cold ham straight into the oven. The outside dries out before the middle is warm. Take your ham out of the refrigerator two hours before it goes in the oven. Leave it in its wrapper on the counter. It'll cook more evenly, and faster, and the outside won't turn to leather while the bone is still cold.""",
-   "ham resting on counter before cooking", "TWO HOURS OUT")
-sc("""If Grandma's recipe is helping you, tap the like button for me, sweetheart. It helps more people find these videos. Mistake number two is too hot an oven. People crank it up to four hundred, and it dries out in an hour. Low and slow, honey. Three hundred twenty-five degrees. Put the ham cut side down in a roasting pan, so the open face doesn't dry. And plan on about ten to fifteen minutes per pound.""",
-   "ham cut side down in roasting pan", "325, CUT SIDE DOWN")
+sc("""Mistake number one is butter that's too soft or too hard. If the butter's melted, the cookies spread into blobs. If it's cold, the dough is too stiff to come out of the press. Leave it on the counter about an hour, until you can press a dent in it with your finger, but it still holds its shape. Beat the butter and sugar together for three minutes, until it's pale and fluffy.""",
+   "finger pressing dent in softened butter", "A DENT, NOT A PUDDLE")
+sc("""If Grandma's recipe is helping you, tap the like button for me, sweetheart. It helps more people find these videos. Mistake number two is too much flour. Measure it the right way. Spoon the flour into your measuring cup and level it off with a knife. Don't scoop the cup into the bag, because that packs it in, and you end up with a dry dough that cracks in the press. Then beat in the egg and extracts, and stir in the flour and salt, just until it's smooth.""",
+   "spooning flour into measuring cup and leveling", "SPOON AND LEVEL")
+sc("""And here's something most recipes get wrong, honey. Don't chill spritz dough. Every other cookie dough, you chill. Not this one. Cold spritz dough won't go through the press. You want it soft and pliable, about like play clay. Pack it into the press right away, while it's still at room temperature. In a minute I'll tell you the one thing that should be cold.""",
+   "soft cookie dough packed into press tube", "DON'T CHILL THE DOUGH")
 
 ch("Mistake three")
-sc("""Mistake number three is leaving it uncovered. Pour the cup of water into the bottom of the pan, and then wrap the whole pan up tight with foil, like a tent. That traps the steam, so the ham heats up gently in its own moist little oven. Uncovered, it dries out from the outside in. Leave the foil on for almost the whole time. In a minute I'll tell you exactly when to take it off.""",
-   "roasting pan tightly covered with foil", "TENT IT TIGHT")
-sc("""And here's the most important thing, sweetheart. Get a meat thermometer. They're five dollars. A fully cooked ham only needs to reach one hundred forty degrees in the thickest part, away from the bone. That's it. Every degree past that, you're squeezing juice out. My mother didn't have a thermometer. She pressed the ham with her thumb, and she was never wrong. But you and I need the thermometer, honey.""",
-   "meat thermometer in thick part of ham", "140 DEGREES")
+sc("""Mistake number three is greasing the pan, or using parchment paper or a silicone mat. That's why most people's cookies won't stick. The way a cookie press works is, the dough has to grab onto the pan, so when you lift the press, the cookie stays behind. On a greased pan or parchment, it just lifts right back up with the press. Use a plain, ungreased, uncoated metal cookie sheet. Nothing on it at all.""",
+   "plain bare metal cookie sheet", "NOTHING ON THE PAN")
+sc("""Hold the press straight up and down, with the bottom resting flat on the pan. Give the crank or the trigger one full click. Then lift the press straight up. Don't tilt it, don't drag it. One click, lift, move over an inch, one click, lift. Your first two or three will be ugly, honey. Everybody's are. Scrape them off and put the dough back in the press. After a few, you'll find your rhythm.""",
+   "pressing cookies in rows on baking sheet", "ONE CLICK, LIFT")
 
+sc("""If the dough won't come out at all, honey, it's too stiff. Take the dough out, work in a teaspoon of milk with your hands, and try again. If the cookies come out but spread and lose their lines, the dough is too soft or the kitchen is too warm. Work in a tablespoon of flour. Don't give up after the first try. Even my mother cried the first night. I'll tell you how the cookie sheet fixes most of this in a minute.""",
+   "hands kneading milk into cookie dough", "DON'T GIVE UP")
 ch("Mistake four and five")
-sc("""So far, take it out early, low oven, cut side down, and tent it tight with foil. Mistake number four is glazing too early. If you put the glaze on at the beginning, the sugar burns black long before the ham is warm. Glaze goes on only in the last twenty to twenty-five minutes. When the ham reaches about one hundred twenty degrees inside, take it out and take the foil off.""",
-   "burnt black glaze on ham", "NOT TOO EARLY")
-sc("""Turn the oven up to four hundred. While it heats, mix the glaze in a little pot, brown sugar, honey, mustard, vinegar, cloves, and cinnamon, and simmer it for two or three minutes until it's thick and syrupy. Brush about half of it all over the ham, and between the slices if it's spiral cut. Put it back in, uncovered, for ten minutes. Then brush on the rest and give it ten more.""",
-   "brushing thick glaze over ham", "GLAZE IN TWO COATS")
-sc("""Mistake number five is cutting it right away. Take it out when the thermometer says one hundred forty. Then let it rest, loosely covered with foil, for twenty minutes before you carve. The juice settles back into the meat. If you cut it right away, all that juice runs out onto the cutting board, and you've got a dry ham on the plate and a puddle on the counter.""",
-   "ham resting under loose foil", "REST 20 MINUTES")
+sc("""So far, butter with a dent, spoon and level, don't chill the dough, and a bare metal pan. Mistake number four is putting the next batch on a warm pan. The butter in the dough melts the second it touches a warm sheet, and the cookie won't hold its shape or stick. Always let your pans cool all the way between batches. Use two or three pans and rotate them. Stay with me, because this is connected to the secret.""",
+   "hot cookie sheet cooling on counter", "NEVER A WARM PAN")
+sc("""Sprinkle the colored sugar on right away, before they bake, so it sticks. Then bake at three hundred seventy-five degrees for six to eight minutes. Mistake number five is overbaking. Spritz cookies should be pale on top, with just the faintest golden edge on the bottom. If they're brown, they taste like cardboard. Let them sit on the pan for one minute, then move them to a rack with a thin spatula.""",
+   "pale spritz cookies with colored sugar on rack", "PALE ON TOP")
 
 ch("The secret")
-sc("""Stay with me, because here's my mother's secret, sweetheart. Instead of plain water in the bottom of the roasting pan, she poured in one bottle of ginger ale. Plain ginger ale, from the corner store, and a half cup of water. The steam from that ginger ale goes right into the ham while it heats, and it makes it taste sweet and spicy all the way through. And it keeps it just as moist as water does.""",
-   "pouring ginger ale into roasting pan", "GINGER ALE")
-sc("""And then, after the ham came out, she poured those pan juices, all that ginger ale and ham drippings, into a little saucepan. She skimmed off the fat, added a spoonful of the leftover glaze, and boiled it for five minutes until it thickened. That's the sauce, honey. Sweet and salty and gingery. Danny drank it straight out of the gravy boat every year, and my mother pretended not to see.""",
-   "pan juices simmering into sauce", "THE SAUCE")
+sc("""Here's my mother's secret, sweetheart. Before every single batch, she set her empty cookie sheets out on the back porch, in the snow, for five minutes. Ohio in December, honey. The porch was a refrigerator. And she pressed the cookies onto those ice-cold metal sheets. The dough grabs onto cold metal like it's glued there. Every cookie sticks. Every edge stays sharp. Not one blob.""",
+   "cookie sheets cooling in snow on back porch", "THE PORCH WAS A REFRIGERATOR")
+sc("""If you don't have snow, put your bare sheet in the freezer for ten minutes, or in the refrigerator for twenty. Just the sheet, honey, never the dough. Cold pan, soft dough. That's the whole trick. My father figured it out from the instruction booklet that first night. It said, use cool baking sheets. And my mother said, Walter, if cool is good, cold is better. And she was right.""",
+   "bare cookie sheet going into freezer", "COLD PAN, SOFT DOUGH")
 
-ch("Leftovers")
-sc("""And don't you dare throw away that bone, sweetheart. Ham bone soup in the new year is the best part of Christmas. Wrap the bone and freeze it if you're not ready. Slice the leftover ham for sandwiches on soft rolls with a little mustard. Dice it for scrambled eggs on the twenty-sixth. Mix it into macaroni and cheese. A ten-pound ham fed our family for a whole week, and nobody ever complained.""",
-   "ham sandwich on soft roll with mustard", "SAVE THE BONE")
-sc("""My father carved it every year, standing at the head of the table, with the good knife he only used once a year. And before he made the first cut, he'd always say the same thing. He'd say, Dorothy, you've outdone yourself. And my mother would say, Walter, you say that every year. And he'd say, and every year it's true. I can still hear them, honey.""",
-   "father carving ham at head of table 1950s", "EVERY YEAR IT'S TRUE")
+ch("Making them pretty")
+sc("""For green trees, mix a few drops of green coloring into half the dough. Put a single cinnamon candy on top of each one, like a star. For wreaths, use plain dough, dip the tops in green sugar, and put three tiny red candies at the bottom for berries. You can also dip half of each cooled cookie in melted chocolate and lay it on wax paper to set. Children love doing that part.""",
+   "green tree spritz cookies with red candy stars", "TREES AND WREATHS")
+sc("""They keep for two weeks in a tin, honey, with wax paper between the layers, and they freeze beautifully for two months. My mother made twelve dozen every year. She packed them in coffee cans with Christmas paper glued around the outside, and gave them to the mailman, the milkman, the minister, and every widow on our street. Danny and I delivered them on our sleds.""",
+   "coffee cans wrapped in Christmas paper full of cookies", "DELIVERED ON SLEDS")
 
 ch("Grandma's kitchen")
-sc("""Make it this Christmas, sweetheart, and don't forget the ginger ale. Tell me in the comments, does your family put pineapple on the ham, or not? I want to know. There are more of my Christmas recipes in the playlist right there on your screen. Good night, honey. Merry Christmas.""",
-   "Christmas dinner table with glazed ham", "PINEAPPLE OR NOT?")
+sc("""Make them this week, sweetheart, and don't forget to chill those pans. Tell me in the comments, did your grandmother have a cookie press? Which shape was your favorite? There are more of my Christmas recipes in the playlist right there on your screen. Good night, honey. Merry Christmas.""",
+   "Christmas cookie tray with spritz cookies", "WHICH SHAPE?")
 
 for s in S:
     s["cuts"], s["moves"] = 4, True
 
-save("grandma113", "Christmas Ham EVERYONE's Grandma Made (Why Yours Comes Out DRY)",
+save("grandma113", "Spritz Cookies EVERYONE's Grandma Made (Why Yours Won't STICK)",
      ["Grandma Ruth is a narrated character built from real memories and records of the era.",
-      "USDA guidance: reheat fully cooked (packaged in USDA-inspected plants) ham to 140F at 325F.",
-      "Recipe as written by Grandma Ruth: 8-10 lb bone-in fully cooked ham, 1 bottle ginger ale plus 1/2 cup water in the pan, foil tent, 325F about 10-15 min per lb; glaze of 1 cup brown sugar, 1/4 cup honey, 2 tbsp mustard, 2 tbsp cider vinegar, 1/2 tsp cloves, pinch cinnamon, applied in the last 20 minutes at 400F."],
+      "Spritzgebäck is a German and Scandinavian pressed butter cookie; the name comes from the German verb spritzen, to squirt.",
+      "Recipe as written by Grandma Ruth: 1 cup butter, 2/3 cup sugar, 1 egg, 1 tsp vanilla, 1/2 tsp almond extract, 2 1/4 cups flour, 1/2 tsp salt; pressed onto cold ungreased metal sheets, 375F for 6-8 minutes."],
      "christmas recipe", minutes=(10, 14.5), voice="en_US-lessac-high")

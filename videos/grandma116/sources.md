@@ -1,3 +1,4 @@
 - Grandma Ruth is a narrated character built from real memories and records of the era.
-- Christmas club savings accounts were offered by American banks from the early 1900s.
-- Spending figures vary by survey; recent US holiday surveys commonly estimate around $900-1,000 per person.
+- Euphorbia pulcherrima is native to Mexico and named for Joel Roberts Poinsett, first US minister to Mexico (1825-1829).
+- University extension services (e.g. University of Illinois, Purdue) advise temperatures of 60-70F, protection from cold below 50F, draining foil wraps, and about 14 hours of darkness nightly from early October to rebloom.
+- Poison control and ASPCA sources describe poinsettias as mildly irritating, not deadly.

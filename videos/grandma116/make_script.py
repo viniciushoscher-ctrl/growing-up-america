@@ -1,70 +1,71 @@
 import sys; sys.path.insert(0, __import__("os").path.join(__import__("os").path.dirname(__file__), "..", "..", "pipeline"))
 from scriptkit import sc, ch, save, S
 
-# Grandma Ruth 116 · Christmas tips: Depression-era money-saving tricks
+# Grandma Ruth 116 · Christmas tips: poinsettia care (replaces a money-tips script that repeated grandma12)
 
-sc("""Sweetheart, the average American today spends almost a thousand dollars on Christmas, and half of them are still paying it off in March. My mother raised two children through the war years and the lean times after, on my father's factory wages, and she never owed a penny after Christmas. Not once. And our Christmases were the happiest I've ever known. Tonight I'm going to show you exactly how she did it.""",
-   "stack of bills and credit card statements January", "STILL PAYING IN MARCH")
-sc("""So tonight I'm giving you eleven Depression-era Christmas tricks that can save you hundreds of dollars this year. And stay with me, because number eleven is the envelope system my mother kept in the flour tin, and it's the one thing that would fix most families' Christmas budgets in a single year.""",
-   "old envelopes with handwritten labels in tin", "THE FLOUR TIN")
+sc("""Sweetheart, every December, Americans buy more than thirty million poinsettias. And most of them are dropping their leaves and dead by New Year's Day. People think they just don't have a green thumb. That's not it. Almost every poinsettia dies from the same seven mistakes, and most of them happen before you even get it home. My mother kept one poinsettia alive for eleven years.""",
+   "wilted poinsettia dropping leaves", "DEAD BY NEW YEAR'S")
+sc("""So tonight I'm giving you the seven mistakes that kill a poinsettia before Christmas, and how to keep yours red and full until spring. And stay with me, because at the end I'll tell you my mother's secret for making it turn red again the next Christmas, with nothing but a closet and a calendar.""",
+   "bright red poinsettia by window", "A CLOSET AND A CALENDAR")
 
-ch("How they did it")
-sc("""People think the folks who lived through the Depression just went without, honey. That's not true. They had wonderful Christmases. They just planned them differently. They saved first and spent later, instead of spending first and paying later. They made things instead of buying them. And they understood something we've forgotten. Children don't remember how much you spent. They remember how it felt.""",
-   "1940s family around modest Christmas tree", "HOW IT FELT")
-sc("""My mother had a saying, sweetheart. She said, Christmas is a feeling, not a receipt. And she meant it. We had one gift each, an orange and a candy cane in our stockings, a ham, and a house that smelled like cookies for three weeks. I didn't know we were poor, honey. I thought we were the luckiest family on Elm Street. In a minute I'll tell you the first trick, and it starts in January.""",
-   "orange and candy cane in Christmas stocking", "A FEELING, NOT A RECEIPT")
+ch("The Christmas flower")
+sc("""The poinsettia comes from Mexico, honey, where it grows wild into a bush ten feet tall. In Mexico, they call it the flower of the Holy Night. There's an old story about a poor little girl who had no gift to bring to the Christmas Eve service, so she picked some weeds by the road. And when she laid them at the altar, they burst into red stars. In a minute I'll tell you how it got its American name.""",
+   "wild poinsettia bush in Mexico", "FLOWER OF THE HOLY NIGHT")
+sc("""It's named after Joel Poinsett, the first American minister to Mexico, back in the eighteen twenties. He was a plant lover, and he sent cuttings home to his greenhouse in South Carolina. Then a family of growers in California turned it into the Christmas plant, and by the nineteen fifties, there was a poinsettia on every church altar and in every bank lobby in America. And here's something most people don't know, sweetheart. The red parts aren't flowers at all.""",
+   "church altar filled with poinsettias 1950s", "NOT FLOWERS AT ALL")
+sc("""The red parts are leaves, honey. Special leaves called bracts. The real flowers are those tiny little yellow-green buttons in the very center. And that matters, because those little buttons tell you how fresh the plant is. That's the first thing I'm going to teach you. My mother taught me in the grocery store when I was nine, and I've never bought a bad poinsettia since.""",
+   "close up of poinsettia center yellow buds", "THE LITTLE BUTTONS")
 
-sc("""My mother grew up in the worst of it, honey, in the nineteen thirties. Her father lost his job at the rubber plant in nineteen thirty-one, and for two Christmases, there were no presents at all. Just a church supper and a bag of hard candy from the Salvation Army. She told me she promised herself, standing in that soup line as a girl, that her own children would always have Christmas. And she found a way, every single year.""",
-   "1930s family in Depression soup line", "SHE MADE A PROMISE")
-ch("One to three")
-sc("""Number one, the Christmas club. Banks used to have them, honey. You'd open a little account in January, and put in fifty cents or a dollar every week, and in late November, the bank sent you a check. You can do the same thing today. Open a separate savings account, or just use a jar, and put in a set amount every single payday, starting now. Twenty dollars a week is over a thousand by next Christmas.""",
-   "vintage Christmas club bank coupon book", "THE CHRISTMAS CLUB")
-sc("""Number two, draw names. In my husband's family, there were eleven grown-ups and fourteen children, and everybody bought for everybody, and it was a disaster. So my mother-in-law put everyone's name in a hat at Thanksgiving. Each grown-up drew one name and bought one good gift, with a limit. The children still got a gift from everybody. It saved every family hundreds of dollars, and the gifts got better, because you could think about one person.""",
-   "names on paper slips in a hat", "DRAW NAMES")
-sc("""Number three, save the paper. My mother unwrapped every present carefully, with a butter knife under the tape. Then she ironed the wrapping paper flat on a low setting, folded it, and put it in a drawer for next year. Same with the ribbons and bows. Some of our paper was ten years old, honey. Today, you can do the same, or wrap in brown paper, newspaper, or the comics, with a sprig of pine on top.""",
-   "ironing used wrapping paper flat", "IRON IT FLAT")
+sc("""My mother's first one came from the bank, honey. In nineteen fifty-three, the First National Bank on Main Street gave a little poinsettia to every customer who opened a Christmas club account. My mother saved fifty cents a week, and she got her poinsettia. She was so proud of it. She set it on the radiator, the warmest spot in the house, so it would be cozy. It was dead in six days. I'll tell you what she learned from that in a minute.""",
+   "small poinsettia on 1950s radiator", "DEAD IN SIX DAYS")
+ch("One and two")
+sc("""Mistake number one is buying an old plant. Look at those tiny buttons in the center. If they're tight and green or yellow, with no pollen, the plant is young, and it'll stay beautiful for months. If they're open and dusty with yellow pollen, or if they've fallen off, that plant is already old, and it'll drop its leaves in a couple of weeks. Also check the soil. If it's bone dry or soaking wet, walk away.""",
+   "checking poinsettia center in store", "CHECK THE CENTER")
+sc("""Mistake number two is the trip home. Poinsettias are tropical, honey. They can't stand the cold. Even five minutes at below fifty degrees, walking across a parking lot in the wind, can damage the leaves. And you won't see it for a few days. Then they all drop at once, and you think you did something wrong at home. Always have the store wrap it in a paper sleeve or a bag, and put it in the warm car, not the trunk.""",
+   "poinsettia wrapped in paper sleeve in car", "NEVER IN THE COLD")
 
-ch("Four to six")
-sc("""If Grandma's tips are helping you, tap the like button for me, sweetheart. It helps more people find these videos. Number four, decorate with food. Popcorn and cranberry garland on a string. Gingerbread ornaments with a hole poked at the top before baking. Dried orange slices. Cinnamon sticks tied with red yarn. Candy canes. A big bag of popcorn kernels and two bags of cranberries can trim a whole tree for about five dollars.""",
-   "popcorn and cranberry garland on tree", "DECORATE WITH FOOD")
-sc("""Number five, turn the old cards into gift tags. Every year, my mother saved the Christmas cards we received. Then the next December, she cut out the prettiest pictures with pinking shears, punched a hole in the corner, threaded red yarn through, and wrote names on the back. Free gift tags, and they're prettier than anything you can buy. Children love doing this, honey. It's a whole afternoon of entertainment for nothing.""",
-   "old Christmas cards cut into gift tags", "FREE GIFT TAGS")
-sc("""Number six, the gift of time. When I was ten, I gave my father a little book I'd made, with ten coupons inside. One coupon was good for shining his shoes. One was for a back rub. One was for being quiet for a whole hour while he read the paper. He kept that book in his dresser drawer until the day he died, honey. In a minute I'll tell you which coupon he never used.""",
-   "handmade coupon book from a child", "THE GIFT OF TIME")
+ch("Three and four")
+sc("""If Grandma's tips are helping you, tap the like button for me, sweetheart. It helps more people find these videos. Mistake number three is the foil wrapper. Those pretty foil sleeves around the pot hold water like a bathtub. When you water the plant, the water runs out the bottom and sits in the foil, and the roots rot. You'll see the leaves turn yellow and droop. Poke a few holes in the bottom of the foil, or take the pot out to water it.""",
+   "poinsettia pot in shiny foil wrapper", "THE FOIL IS A BATHTUB")
+sc("""Mistake number four is watering on a schedule. People water every Sunday, whether the plant needs it or not. Poke your finger in the soil every day or two. When the top inch feels dry, water it well, at the sink, until it runs out the bottom. Let it drain completely. Then put it back. Too much water kills more poinsettias than too little. In a minute I'll tell you the worst place in the house to put it.""",
+   "finger testing soil in poinsettia pot", "THE FINGER TEST")
 
-sc("""A few more gift-of-time ideas, sweetheart, because they're the ones people remember. A coupon for a Saturday fishing trip with Grandpa. A coupon to teach your granddaughter to make your pie, in your kitchen, side by side. A coupon for one long letter, handwritten, every month for a year. Those cost nothing, and I promise you, they'll be kept in a drawer long after every sweater from the department store is gone.""",
-   "grandmother teaching granddaughter to bake pie", "KEPT IN A DRAWER")
-ch("Seven and eight")
-sc("""He never used the coupon for being quiet for a whole hour, sweetheart. He told me when I was grown that he'd saved it, because he liked hearing me chatter. I found it in his drawer after he passed, still in the book, never torn out. Number seven, potluck Christmas. Don't cook the whole dinner yourself. Assign every family one dish. You make the ham. Somebody brings potatoes, somebody brings pie. It costs everybody less, and nobody's exhausted.""",
-   "potluck Christmas dinner covered dishes on table", "POTLUCK CHRISTMAS")
-sc("""Number eight, stretch the roast. Plan your leftovers before Christmas, not after. A ten-pound ham is Christmas dinner, then sandwiches, then ham and eggs, then ham and macaroni, then the bone makes a pot of bean soup for New Year's. My mother got six meals out of one Christmas ham, honey. Nothing was ever thrown away. Write the leftover meals on your shopping list before you go to the store.""",
-   "ham bone soup pot New Year's", "SIX MEALS FROM ONE HAM")
+sc("""And don't feed it while it's in bloom, sweetheart. People think plant food will help a drooping poinsettia, but it's not hungry, it's in bloom. Feeding it now can burn the roots. Save the plant food for spring, when it starts putting out new green leaves. Right now, all it needs is water when it's dry, light, and warmth. Simple. Just like a houseguest at Christmas.""",
+   "plant food bottle on shelf unused", "NOT HUNGRY")
+ch("Five and six")
+sc("""Mistake number five is the wrong spot. The worst places are right by the front door, where cold air blows in every time somebody comes and goes, and right next to a heater vent or a radiator, where the hot, dry air cooks it. Put it near a sunny window, but not touching the cold glass. Poinsettias like the same temperature you do, between sixty and seventy degrees. If you're comfortable, it's comfortable.""",
+   "poinsettia away from heater vent near window", "IF YOU'RE COMFORTABLE")
+sc("""Mistake number six is not enough light. People put their poinsettia on the coffee table in the middle of the room, or on the dining table, far from any window, because it looks pretty there. And it does, for about a week. Then it starts dropping leaves. Keep it by a bright window during the day, at least six hours of light. Move it to the table for company in the evening, and back to the window in the morning.""",
+   "poinsettia on dining table for dinner guests", "MOVE IT FOR COMPANY")
 
-ch("Nine and ten")
-sc("""So far, the Christmas club, draw names, save the paper, decorate with food, old cards as tags, the gift of time, potluck, and stretch the roast. Number nine, shop the day after. On December twenty-sixth, everything Christmas is half price or less. Paper, ribbon, lights, ornaments, cards. My mother bought next year's wrapping and cards every December twenty-sixth, and put them in the attic. She never paid full price for any of it in her life.""",
-   "after Christmas clearance sale signs", "HALF PRICE ON THE 26TH")
-sc("""Number ten, cash only. My mother never used credit for Christmas, honey, and back then there wasn't much credit to use anyway. When the money was gone, Christmas shopping was done. Here's what I tell my grandchildren. Take out your Christmas money in cash, in December. Leave your credit cards at home. It's much harder to hand over a twenty-dollar bill than to tap a card. You'll spend a third less, I promise you.""",
-   "cash in hand at store checkout", "CASH ONLY")
+ch("Number seven")
+sc("""So far, check the center, keep it warm on the way home, poke the foil, the finger test, away from drafts, and plenty of light. Mistake number seven is believing they're deadly poisonous. For seventy years, people threw them out because they heard poinsettias would kill their cat or their grandbaby. That's an old wives' tale, honey. Studies have shown they're only mildly irritating. A curious pet might get a tummy ache, or a child might get a rash from the milky sap.""",
+   "cat sniffing poinsettia plant", "NOT DEADLY")
+sc("""Still keep it out of reach of puppies and little ones, sweetheart, because nobody wants an upset tummy at Christmas. And wash your hands if you get the white sap on them. Some people with latex allergies are sensitive to it. But you don't need to throw it away or live without one. My mother had a poinsettia, a cat named Biscuit, and two children, and all of us survived just fine.""",
+   "poinsettia on high shelf with cat below", "WE ALL SURVIVED")
 
-sc("""And one more, for the children, honey. My mother had a rule. Every child gave one gift that they made with their own hands. Danny carved a crooked wooden spoon for my mother when he was eight. She used it every Christmas morning to stir the cocoa until the year she died. It cost nothing. It meant everything. Children who make gifts learn that Christmas is about giving, not getting, and that lesson is worth more than any present under the tree.""",
-   "crooked hand carved wooden spoon", "MADE WITH THEIR HANDS")
-ch("Number eleven")
-sc("""Stay with me, because here's number eleven, my mother's envelope system. On the first of November, she took all the money from her Christmas jar and spread it out on the kitchen table. Then she took a stack of old envelopes and wrote one word on each. Gifts. Food. Tree. Church. Stockings. And one more envelope that said, somebody else. And she divided the money into those envelopes.""",
-   "money divided into labeled envelopes on table", "THE ENVELOPES")
-sc("""She kept them in the old flour tin on the top shelf, honey. When she went shopping for gifts, she took only the gifts envelope. When it was empty, gift shopping was done. No borrowing from the food envelope. Ever. And the somebody else envelope was for a family in need, a neighbor, a widow at church. Even in the hardest years, there was always something in that envelope. She said, that one's the most important.""",
-   "old flour tin on high kitchen shelf", "SOMEBODY ELSE")
-sc("""I've used that envelope system every Christmas of my life, sweetheart. When Harold and I had nothing, and when we had a little more. And I've never once owed a penny in January. You can do it today, with real envelopes, or with separate accounts on your phone. Decide before you shop. When the envelope's empty, you're done. And always, always have a somebody else envelope.""",
-   "elderly woman labeling envelopes at kitchen table", "EMPTY MEANS DONE")
+sc("""A few more tips, honey. If you have a big poinsettia and it's looking leggy, group it with two or three smaller ones in a basket. They hold each other up and look like one big, expensive arrangement. The white and pink ones are just as easy to keep as the red. And if you want it to last, buy it early in December, not on Christmas Eve, when the stores are selling the ones that sat by the drafty door for three weeks.""",
+   "basket of red and white poinsettias grouped", "GROUP THEM")
+ch("After Christmas")
+sc("""After Christmas, keep watering it and keep it in the sunny window, and it'll stay pretty well into March. In spring, when the leaves start to fade, cut the stems back to about six inches tall. In May, put it outside in a shady spot for the summer, and feed it once a month with plant food. By September, it'll be a big, bushy green plant. Bring it inside before the first frost. Stay with me, because now comes the secret.""",
+   "green poinsettia plant outdoors in summer", "CUT IT BACK IN SPRING")
+
+ch("The secret")
+sc("""Here's my mother's secret, sweetheart. Poinsettias only turn red when the nights get long. In the wild, that happens on its own. But in a house, with the lamps on every evening, it never turns red again. So starting on the first of October, every single evening at five o'clock, my mother put her poinsettia in the hall closet. And every morning at eight, she took it back out to the window. Fourteen hours of total darkness every night.""",
+   "woman putting poinsettia in closet in evening", "FOURTEEN HOURS OF DARK")
+sc("""She did it for eight to ten weeks, honey, with a little calendar taped inside the closet door, checking off the days. Even one night with the light on could spoil it. My father teased her and called it her baby that went to bed at five. And every year, around Thanksgiving, those top leaves started to blush pink, then red. By Christmas, it was as red as the day she bought it. Eleven Christmases, the same plant.""",
+   "calendar on closet door with checked days", "SHE CHECKED OFF THE DAYS")
 
 ch("Grandma's lesson")
-sc("""Try one of these this year, sweetheart, just one, and see how it feels to start January with nothing owed. Tell me in the comments, which Depression-era trick did your grandmother use? There are more of my Christmas tips in the playlist right there on your screen. Good night, honey. Merry Christmas.""",
-   "cozy modest Christmas living room", "START JANUARY FREE")
+sc("""Buy a good one this year, sweetheart, and keep it warm and bright. Tell me in the comments, does your poinsettia make it to New Year's? Be honest. There are more of my Christmas tips in the playlist right there on your screen. Good night, honey. Merry Christmas.""",
+   "healthy red poinsettia by Christmas tree", "BUY A GOOD ONE")
 
 for s in S:
     s["cuts"], s["moves"] = 4, True
 
-save("grandma116", "11 Depression-Era Christmas Tricks That Save You HUNDREDS This Year",
+save("grandma116", "7 Poinsettia Mistakes That KILL It Before Christmas (Keep It Red)",
      ["Grandma Ruth is a narrated character built from real memories and records of the era.",
-      "Christmas club savings accounts were offered by American banks from the early 1900s.",
-      "Spending figures vary by survey; recent US holiday surveys commonly estimate around $900-1,000 per person."],
+      "Euphorbia pulcherrima is native to Mexico and named for Joel Roberts Poinsett, first US minister to Mexico (1825-1829).",
+      "University extension services (e.g. University of Illinois, Purdue) advise temperatures of 60-70F, protection from cold below 50F, draining foil wraps, and about 14 hours of darkness nightly from early October to rebloom.",
+      "Poison control and ASPCA sources describe poinsettias as mildly irritating, not deadly."],
      "christmas tips", minutes=(10, 14.5), voice="en_US-lessac-high")

@@ -1,3 +1,3 @@
 - Grandma Ruth is a narrated character built from real memories and records of the era.
-- USDA guidance: reheat fully cooked (packaged in USDA-inspected plants) ham to 140F at 325F.
-- Recipe as written by Grandma Ruth: 8-10 lb bone-in fully cooked ham, 1 bottle ginger ale plus 1/2 cup water in the pan, foil tent, 325F about 10-15 min per lb; glaze of 1 cup brown sugar, 1/4 cup honey, 2 tbsp mustard, 2 tbsp cider vinegar, 1/2 tsp cloves, pinch cinnamon, applied in the last 20 minutes at 400F.
+- Spritzgebäck is a German and Scandinavian pressed butter cookie; the name comes from the German verb spritzen, to squirt.
+- Recipe as written by Grandma Ruth: 1 cup butter, 2/3 cup sugar, 1 egg, 1 tsp vanilla, 1/2 tsp almond extract, 2 1/4 cups flour, 1/2 tsp salt; pressed onto cold ungreased metal sheets, 375F for 6-8 minutes.
