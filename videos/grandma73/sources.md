@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Banana bread became popular in the US in the 1930s with the spread of baking soda and baking powder; it appeared in Pillsbury's Balanced Recipes cookbook in 1933.
+- Recipe as written by Grandma Ruth: 3 very ripe bananas, 1/3 cup melted butter, 3/4 cup brown sugar, 1 egg, 1 tsp vanilla, 1 tsp baking soda, pinch of salt, 1/2 tsp cinnamon, 1 1/2 cups flour; 9x5 metal pan at 350F for 55-65 minutes.

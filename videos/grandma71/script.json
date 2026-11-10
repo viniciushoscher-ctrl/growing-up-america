@@ -1,0 +1,195 @@
+{
+ "id": "grandma71",
+ "angle": "christmas with tips",
+ "length_scale": 1.45,
+ "title": "7 Christmas Morning Mistakes That Ruin the Whole DAY",
+ "scenes": [
+  {
+   "text": "Sweetheart, I've had eighty-two Christmas mornings. Some were perfect, and some were a disaster. Children crying by eight o'clock, wrapping paper up to your knees, a toy with no batteries, a burnt breakfast, and everybody cranky and exhausted by noon. And I've learned that the difference between the two almost never has anything to do with the presents.",
+   "query": "Christmas morning wrapping paper mess",
+   "caption": "EIGHTY-TWO CHRISTMAS MORNINGS",
+   "cuts": 8,
+   "moves": true,
+   "chapter": "Intro"
+  },
+  {
+   "text": "So tonight I'm giving you seven Christmas morning mistakes that ruin the whole day, and the old-fashioned fixes that make it the morning your family remembers. And stay with me, because the last one is the most important tradition in my house, and it takes about ten minutes.",
+   "query": "happy family Christmas morning tree",
+   "caption": "SEVEN MISTAKES",
+   "cuts": 8,
+   "moves": true
+  },
+  {
+   "text": "When I was a girl, Christmas morning had rules, and my father made them. Nobody went downstairs before six o'clock. Danny and I had to wait at the top of the stairs until my father went down first, plugged in the tree lights, and lit the fire in the stove. Then he'd call up, I think he's been here. And we'd fly down those stairs like rockets.",
+   "query": "children at top of stairs Christmas",
+   "caption": "I THINK HE'S BEEN HERE",
+   "cuts": 5,
+   "chapter": "Christmas morning on Elm Street",
+   "moves": true
+  },
+  {
+   "text": "We had maybe three presents each. But that morning lasted until noon, honey, because we took our time. Every present was opened one at a time, while everybody watched. My mother wrote down who gave what in a little notebook. In a minute I'll tell you the first mistake, and it's the one almost every family makes now.",
+   "query": "family watching child open present",
+   "caption": "ONE AT A TIME",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Mistake number one. Everybody tearing into everything at once. Five minutes of ripping paper, and it's all over. Nobody sees what anybody else got. Nobody says thank you. And the children look around and say, is that all? The fix is simple. Open presents one at a time, taking turns, going around the room, starting with the youngest.",
+   "query": "kids ripping paper frenzy",
+   "caption": "IS THAT ALL?",
+   "cuts": 4,
+   "chapter": "1. The paper frenzy",
+   "moves": true
+  },
+  {
+   "text": "It makes the morning last, sweetheart, and it makes every present special. Everybody watches, everybody oohs and aahs, and the giver gets to see the face of the person they chose it for. That's the best part of giving. And the children learn to wait their turn and be happy for somebody else. That's a lesson worth more than any toy.",
+   "query": "grandmother watching child open gift",
+   "caption": "THE BEST PART OF GIVING",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And here's a little secret from Grandma Pearl. She put a tiny bell on the last present for each child, hidden way in the back of the tree. When everybody was done, she'd ring her own little bell and say, wait, I think somebody missed one. The children would crawl under the branches looking for it. It made the very end of the morning the most exciting part, instead of the saddest.",
+   "query": "small bell hidden in Christmas tree",
+   "caption": "THE LAST PRESENT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Mistake number two. Toys with no batteries, and toys you can't get out of the package. Some toys come wrapped in plastic and wire twist ties like they're in prison. A child stands there for half an hour while Dad fights it with scissors. Open the hard packages the night before, put the batteries in, and wrap it again. And keep a screwdriver and scissors handy.",
+   "query": "toy package twist ties scissors",
+   "caption": "LIKE THEY'RE IN PRISON",
+   "cuts": 4,
+   "chapter": "2. No batteries",
+   "moves": true
+  },
+  {
+   "text": "Make a little Christmas morning kit, honey. A basket with batteries of every size, a small screwdriver, scissors, tape, a pen, and a trash bag. Put it under the tree on Christmas Eve. My son-in-law calls it Grandma's emergency kit. In two thousand twelve, it saved a remote control car, a doll that talks, and my husband's new electric razor.",
+   "query": "basket batteries screwdriver scissors",
+   "caption": "THE EMERGENCY KIT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Mistake number three. The mountain of paper. By eight o'clock, the living room is buried, and somebody throws away a tiny present or a gift card by accident. Put a big trash bag right next to the tree before you start, and one person in charge of it. And save the nice bows and gift bags in a separate box for next year. My mother ironed the ribbons.",
+   "query": "trash bag wrapping paper tree",
+   "caption": "A TRASH BAG READY",
+   "cuts": 4,
+   "chapter": "3. The mess",
+   "moves": true
+  },
+  {
+   "text": "If this is helping you, honey, tap the like button for me. It helps Grandma more than you know. And check every box and every bit of paper before it goes in the bag. In nineteen eighty-seven, my husband threw away a pair of earrings he'd bought for me, still in their tiny box, wrapped in tissue. We found them at the bottom of the trash can at nine o'clock that night.",
+   "query": "searching trash can tissue paper",
+   "caption": "AT THE BOTTOM",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Mistake number four. Starting the day with nothing in anybody's stomach but candy from the stockings. By ten o'clock, the children are wild, and by eleven, they're crying. Eat breakfast first, or right after the stockings, before the big presents. And make it something you prepared the night before, so nobody's cooking while the family's opening presents.",
+   "query": "Christmas breakfast table morning",
+   "caption": "EAT FIRST",
+   "cuts": 4,
+   "chapter": "4. No breakfast",
+   "moves": true
+  },
+  {
+   "text": "An overnight breakfast casserole, a pan of cinnamon rolls risen in the icebox overnight, which I showed you in another video, or a coffee cake baked the day before. Put the coffee on a timer. Set the table on Christmas Eve. Then on Christmas morning, you just warm it up and everybody eats. My rule is simple. The cook gets to open presents too.",
+   "query": "breakfast casserole coffee timer",
+   "caption": "THE COOK OPENS PRESENTS TOO",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And here's a trick my mother used for the stockings. Let the children open their stockings in bed, or at the top of the stairs, as soon as they wake up. A little orange in the toe, a candy cane, a small toy, some nuts in the shell. It keeps them busy and quiet for half an hour, and it gives the grown-ups time to start the coffee and warm up breakfast in peace.",
+   "query": "child opening stocking in bed morning",
+   "caption": "STOCKINGS IN BED",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So far, one at a time, batteries and a kit, a trash bag ready, and breakfast first. Mistake number five. Watching the whole morning through a phone. Somebody films everything, and they never actually see it. Take a few photos, sweetheart, and then put the phone in a drawer. Pick one person to take pictures for the first half hour, and then let them put it down too.",
+   "query": "parent filming with phone Christmas",
+   "caption": "PUT THE PHONE AWAY",
+   "cuts": 4,
+   "chapter": "5. The camera",
+   "moves": true
+  },
+  {
+   "text": "And take one picture every single year, the same way. Everybody in their pajamas in front of the tree, at the same spot. I have one from every Christmas since nineteen sixty-three. Sixty-three pictures. You can watch the children grow, and the grandparents shrink, and the hairdos change. It's the most precious thing I own.",
+   "query": "family pajamas photo in front of tree",
+   "caption": "THE SAME PICTURE EVERY YEAR",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Mistake number six. Too many presents. Children with a mountain of gifts get overwhelmed. They tear through them, barely look, and end up playing with the box. The old rule for children works best. Something they want, something they need, something to wear, and something to read. Four presents, plus their stocking. They'll love every one, because each one gets attention.",
+   "query": "child overwhelmed pile of presents",
+   "caption": "SOMETHING THEY WANT",
+   "cuts": 4,
+   "chapter": "6. Too much",
+   "moves": true
+  },
+  {
+   "text": "And save a present or two for later, honey. A new board game or a puzzle, opened in the afternoon when everybody's sleepy and the excitement is wearing off. It gives the whole family something to do together in the long, quiet afternoon. My family has played the same board game every Christmas afternoon since nineteen seventy-one. Danny still cheats.",
+   "query": "family playing board game afternoon",
+   "caption": "DANNY STILL CHEATS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And now mistake number seven, the most important one, the tradition I promised you. Forgetting what the day is about. Before a single present is opened in my house, the whole family sits down, and the youngest child who can read reads the Christmas story out loud, from the Gospel of Luke. Then we say a short prayer for the people who aren't with us this year.",
+   "query": "child reading Christmas story Bible",
+   "caption": "BEFORE A SINGLE PRESENT",
+   "cuts": 4,
+   "chapter": "7. The most important tradition",
+   "moves": true
+  },
+  {
+   "text": "It takes about ten minutes, sweetheart. And it changes the whole morning. Everybody calms down. The children listen, even the wiggly ones. And then the presents feel like what they're supposed to be, a little reflection of the first gift. Whatever your family believes, take ten quiet minutes together before the paper flies. Say what you're thankful for. Remember who's missing. Then begin.",
+   "query": "family quiet moment by tree morning",
+   "caption": "TEN QUIET MINUTES",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And remember the people who are alone on Christmas morning, sweetheart. Every year my mother made a plate of breakfast for old Mrs. Kowalski next door, a widow with no family nearby. Danny and I carried it over in our new mittens before we opened a single present. She cried every year. Call a lonely neighbor, or bring them a plate. It'll be the best gift you give all day.",
+   "query": "children bringing plate to elderly neighbor snow",
+   "caption": "A PLATE FOR A NEIGHBOR",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And after the presents, let everybody rest. Christmas afternoon is for naps, new books, leftover breakfast, and a walk around the block in the cold. Don't plan anything. My father used to fall asleep in his chair with his new slippers on by two o'clock, and my mother said that was the sign Christmas had been a success.",
+   "query": "man asleep armchair slippers Christmas",
+   "caption": "THE SIGN OF SUCCESS",
+   "cuts": 4,
+   "chapter": "The afternoon",
+   "moves": true
+  },
+  {
+   "text": "And before bed, honey, sit down with the children and make a list of who gave them what, so they can write thank-you notes the next day. My mother's little notebook from Christmas morning made that easy. A thank-you note written on December twenty-sixth means more than one written in March. Grandmothers notice.",
+   "query": "child writing thank you notes",
+   "caption": "GRANDMOTHERS NOTICE",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So one more time. Open presents one at a time, youngest first. Batteries in and packages opened the night before, with an emergency kit. A trash bag ready, and check the paper. Breakfast first, made ahead. One photo, then the phones away. Four gifts for the children, and one saved for the afternoon. And ten quiet minutes together before the paper flies. That's a Christmas morning your family will remember.",
+   "query": "peaceful family Christmas morning",
+   "caption": "A MORNING TO REMEMBER",
+   "cuts": 4,
+   "chapter": "Grandma's Christmas morning",
+   "moves": true
+  },
+  {
+   "text": "Tell me in the comments, sweetheart. What's one Christmas morning rule in your family? I'd love to hear it. The whole playlist of Grandma's Christmas tips is right there on your screen, and I'll see you in the next video. Good night, honey. Merry Christmas.",
+   "query": "Christmas tree morning light",
+   "caption": "YOUR FAMILY'S RULE?",
+   "cuts": 4,
+   "moves": true
+  }
+ ],
+ "voice": "en_US-lessac-high"
+}
