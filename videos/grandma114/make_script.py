@@ -1,0 +1,74 @@
+import sys; sys.path.insert(0, __import__("os").path.join(__import__("os").path.dirname(__file__), "..", "..", "pipeline"))
+from scriptkit import sc, ch, save, S
+
+# Grandma Ruth 114 · Everyday recipe: biscuits and sausage gravy
+
+sc("""Sweetheart, biscuits and sausage gravy is the breakfast that built this country. Tall, flaky buttermilk biscuits, split open and smothered in a thick, peppery, creamy gravy full of sausage. But most of what I'm served in restaurants is a flat hockey puck under a gluey, gray paste that tastes like flour. And it's always the same five mistakes. Every one is easy to fix.""",
+   "biscuits smothered in sausage gravy", "GLUEY AND GRAY")
+sc("""So tonight I'm giving you the biscuits and gravy my mother made every Saturday morning on Elm Street, step by step. And stay with me, because the last secret is what she did with a plain drinking glass, and it's why her biscuits rose up so tall that my father called them skyscrapers.""",
+   "tall flaky biscuits on baking sheet", "SKYSCRAPERS")
+
+ch("Saturday mornings")
+sc("""Saturday was the only morning my father didn't have to be at the plant by six, honey. So Saturday was biscuit day. My mother was up at five-thirty anyway, out of habit, and by the time Danny and I came downstairs in our pajamas, the whole house smelled like sausage and butter. My father would be at the table with his coffee and the newspaper, already on his second biscuit.""",
+   "family at breakfast table Saturday 1950s", "BISCUIT DAY")
+sc("""Biscuits and gravy comes from the South and Appalachia, honey, back in the seventeen hundreds and eighteen hundreds. Working families needed a breakfast that was cheap, filling, and would hold them through a long day in the fields or the mines. Flour, lard, and a little pork were all most families had. The gravy was called sawmill gravy, because the loggers ate it at the sawmills. In a minute I'll tell you how it got that name.""",
+   "old sawmill camp breakfast 1800s", "SAWMILL GRAVY")
+sc("""Some people say it got the name because it was so thick and lumpy it looked like sawdust. Others say the cooks at the logging camps made it in huge kettles for the men at the mills. My father said it was because after a plate of it, you could saw wood all day. Whatever the reason, honey, it kept half the country going for two hundred years. And it only costs about two dollars to feed a family.""",
+   "loggers eating breakfast at long table", "SAW WOOD ALL DAY")
+
+ch("What you need")
+sc("""For the biscuits, you need two cups of all-purpose flour, one tablespoon of baking powder, a half teaspoon of baking soda, one teaspoon of salt, one stick of very cold butter, and three quarters of a cup of cold buttermilk. That's it. Six ingredients. My mother used lard, but butter tastes better and it's easier to find. Some people use half and half, half butter and half shortening.""",
+   "biscuit ingredients flour butter buttermilk", "SIX INGREDIENTS")
+sc("""For the gravy, one pound of breakfast sausage, the plain kind in a roll, not links. A quarter cup of flour. Two and a half to three cups of whole milk. A half teaspoon of salt, and a full teaspoon of black pepper, freshly ground if you have it. And a little pinch of something at the end, which I'll tell you about. That's all. Biscuits and gravy is about technique, honey, not ingredients.""",
+   "roll of breakfast sausage and milk", "TECHNIQUE, NOT INGREDIENTS")
+
+sc("""About the buttermilk, honey. Real buttermilk makes the biscuits tender and a little tangy, and the acid makes them rise. If you don't have any, put a tablespoon of lemon juice or white vinegar in a measuring cup, fill it to three quarters of a cup with cold milk, and let it sit five minutes until it thickens a little. That's what my mother did during the war, when buttermilk was hard to get.""",
+   "milk and lemon juice in measuring cup", "NO BUTTERMILK?")
+ch("Biscuit mistakes")
+sc("""Mistake number one is warm butter. If your butter is soft, it melts into the flour, and you get flat, dense biscuits. The butter has to be ice cold, so it stays in little pieces. In the oven, those pieces melt and make steam, and the steam is what makes the flaky layers. Put your stick of butter in the freezer for twenty minutes, then grate it on a cheese grater right into the flour.""",
+   "grating frozen butter into flour", "GRATE IT FROZEN")
+sc("""If Grandma's recipe is helping you, tap the like button for me, sweetheart. It helps more people find these videos. Mistake number two is overworking the dough. Stir in the buttermilk with a fork, just until it comes together in a shaggy mess. Don't knead it like bread. Every extra stir makes the biscuits tougher. My mother said, treat biscuit dough like a sleeping baby, honey. Touch it as little as you can.""",
+   "shaggy biscuit dough in mixing bowl", "LIKE A SLEEPING BABY")
+sc("""Turn the dough out on a floured counter and pat it into a rectangle about an inch thick. Then fold it in thirds, like a letter. Pat it out again. Fold it again. Do that three times. That's how you get those layers you can peel apart, one by one, with your fingers. Then pat it to about an inch thick one more time. In a minute I'll tell you how to cut them.""",
+   "folding biscuit dough like a letter", "FOLD IT LIKE A LETTER")
+
+ch("Mistake three")
+sc("""Mistake number three is twisting the cutter. Almost everybody does it. You press the cutter down, and then you give it a little twist to free it. But that twist seals the edges of the biscuit shut, and it can't rise. Press straight down, and lift straight up. No twisting. And put them on the baking sheet touching each other, honey, shoulder to shoulder. They hold each other up and rise taller.""",
+   "biscuits touching on baking sheet", "NO TWISTING")
+sc("""Brush the tops with a little melted butter or buttermilk. Bake them at four hundred twenty-five degrees for about fifteen minutes, until they're tall and golden brown on top. While they bake, you make the gravy. It takes exactly the same amount of time, honey. That's why this breakfast works so well. Everything comes out hot at the same time.""",
+   "golden biscuits coming out of oven", "425 FOR 15 MINUTES")
+
+ch("Gravy mistakes")
+sc("""So far, frozen butter, gentle hands, fold it like a letter, and no twisting. Now the gravy. Mistake number four is draining the sausage fat. Brown the sausage in a big skillet over medium heat, breaking it into small pieces, until there's no pink left. And leave every drop of that fat in the pan, honey. That fat is your gravy. Without it, the flour has nothing to cook in, and you get paste.""",
+   "sausage browning in cast iron skillet", "KEEP THE FAT")
+sc("""Sprinkle the quarter cup of flour right over the sausage and stir it in. And now cook it, stirring, for a full two minutes, until the flour smells toasty and nutty. That's mistake number five, sweetheart. Raw flour. People add the milk right away, and the gravy tastes like library paste. Two whole minutes. Count them. Then pour in the milk, about a half cup at a time, stirring constantly.""",
+   "flour cooking with sausage in skillet", "TWO WHOLE MINUTES")
+sc("""Keep stirring and adding milk as it thickens, honey. It looks too thin at first. Don't panic. It thickens as it simmers. Let it bubble gently for about five minutes, until it coats the back of a spoon. Add the salt and all that black pepper. Sausage gravy should be peppery. If it gets too thick sitting on the stove, just splash in a little more milk. Stay with me, because now comes the secret.""",
+   "creamy peppery gravy simmering in skillet", "IT SHOULD BE PEPPERY")
+
+ch("The secret")
+sc("""Here's my mother's secret, sweetheart. She didn't use a biscuit cutter at all. We couldn't afford one. She used a plain drinking glass, the jelly glass, dipped in flour. But the trick wasn't the glass. It was what she did right before. She put the cut biscuits, on their baking sheet, into the icebox for fifteen minutes before they went in the oven. Cold biscuits into a hot oven.""",
+   "drinking glass cutting biscuit dough", "THE JELLY GLASS")
+sc("""Those fifteen minutes in the cold firm up the butter again, after all your patting and folding warmed it up. So when they hit that hot oven, the steam bursts out all at once, and they shoot straight up, honey. Twice as tall. That's what my father called skyscrapers. And at the very end, she stirred a tiny pinch of cayenne into the gravy. You don't taste the heat. It just makes the pepper sing.""",
+   "tall biscuits split open with steam rising", "TWICE AS TALL")
+
+sc("""And if you want to make them ahead, sweetheart, here's what I do. Cut the biscuits, put them on a sheet pan, and freeze them solid. Then put them in a freezer bag. On Saturday morning, put them straight from the freezer into the hot oven, no thawing, and add about five minutes to the baking time. Frozen biscuits rise even taller than chilled ones. Keep a bag in your freezer, and you're never more than twenty minutes from breakfast.""",
+   "frozen biscuits in freezer bag", "STRAIGHT FROM THE FREEZER")
+ch("Serving")
+sc("""Split the biscuits open while they're hot, two halves on the plate, cut side up. Ladle that gravy right over the top, all the way to the edges. A fried egg on the side if it's a special Saturday. My father ate four. Danny ate three and pretended he'd only had two. And any leftover biscuits got split, toasted in butter, and spread with my mother's apple butter for an afternoon snack.""",
+   "plate of biscuits and gravy with fried egg", "MY FATHER ATE FOUR")
+sc("""When I married Harold, the very first breakfast I made him was biscuits and gravy, with my mother's jelly glass, which she gave me as a wedding present. He ate five, honey. Five. And he said, Ruthie, I'm never leaving. And he didn't. Forty-five years. I still have that jelly glass. It's in my cupboard right now. I use it every single time.""",
+   "old jelly glass on kitchen shelf", "THE JELLY GLASS STILL")
+
+ch("Grandma's kitchen")
+sc("""Make it this Saturday, sweetheart, and chill those biscuits first. Tell me in the comments, what did your family eat on Saturday mornings? There are more of my everyday recipes in the playlist right there on your screen. Good night, honey.""",
+   "Saturday breakfast table biscuits and coffee", "SATURDAY MORNINGS")
+
+for s in S:
+    s["cuts"], s["moves"] = 4, True
+
+save("grandma114", "Biscuits and Gravy EVERYONE's Grandma Made (Why Yours Is GLUEY)",
+     ["Grandma Ruth is a narrated character built from real memories and records of the era.",
+      "Biscuits and sausage (sawmill) gravy is a Southern and Appalachian breakfast dating to the 18th and 19th centuries; the origin of the name 'sawmill gravy' is uncertain.",
+      "Recipe as written by Grandma Ruth: biscuits of 2 cups flour, 1 tbsp baking powder, 1/2 tsp soda, 1 tsp salt, 1 stick frozen grated butter, 3/4 cup buttermilk, chilled 15 min, 425F for 15 min; gravy of 1 lb sausage, 1/4 cup flour cooked 2 min, 2 1/2-3 cups whole milk, salt, 1 tsp pepper, pinch cayenne."],
+     "everyday recipe", minutes=(10, 14.5), voice="en_US-lessac-high")
