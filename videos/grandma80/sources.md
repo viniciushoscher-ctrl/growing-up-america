@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Cranberries are native to North America; canned cranberry sauce was introduced in 1912 by a Massachusetts grower (later Ocean Spray).
+- Recipe as written by Grandma Ruth: 12 oz cranberries, 1 cup sugar, 1/2 cup water, 1/2 cup orange juice, orange zest, pinch of salt, cinnamon stick; about 10 minutes at a gentle boil; finished with 1 tbsp butter and a splash of vanilla.
