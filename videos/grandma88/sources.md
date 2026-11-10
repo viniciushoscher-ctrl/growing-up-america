@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Molasses was the common, cheap sweetener in American kitchens through the 19th century; blackstrap is the final, most bitter boiling.
+- Recipe as written by Grandma Ruth: 3/4 cup butter, 1 cup brown sugar, 1 egg, 1/4 cup mild molasses, 2 1/4 cups flour, 2 tsp baking soda, 1/4 tsp salt, 2 tsp ginger, 1 tsp cinnamon, 1/2 tsp cloves; chilled, rolled in sugar, 350F for 9-10 minutes.

@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Bean soup made with ham has been served in the U.S. Senate dining room daily since the early 20th century.
+- Recipe as written by Grandma Ruth: 1 meaty ham bone or 2 smoked ham hocks, 1 lb dried navy or great northern beans (soaked), onion, 2 carrots, 2 celery stalks, 3 garlic cloves, 2 bay leaves, 1 tsp thyme, 10 cups water or broth; 2 cups beans mashed and returned; salt and 1 tsp cider vinegar at the end.
