@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Biscuits and sausage (sawmill) gravy is a Southern and Appalachian breakfast dating to the 18th and 19th centuries; the origin of the name 'sawmill gravy' is uncertain.
+- Recipe as written by Grandma Ruth: biscuits of 2 cups flour, 1 tbsp baking powder, 1/2 tsp soda, 1 tsp salt, 1 stick frozen grated butter, 3/4 cup buttermilk, chilled 15 min, 425F for 15 min; gravy of 1 lb sausage, 1/4 cup flour cooked 2 min, 2 1/2-3 cups whole milk, salt, 1 tsp pepper, pinch cayenne.

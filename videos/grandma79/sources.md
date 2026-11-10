@@ -1,0 +1,2 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Holiday fire safety: candles and decorations near fireplaces are a leading cause of December home fires (NFPA).

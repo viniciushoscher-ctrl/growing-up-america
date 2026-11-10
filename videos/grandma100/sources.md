@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Strata, a layered bread-and-egg casserole, became popular in American home cooking in the 20th century as a way to use stale bread.
+- Recipe as written by Grandma Ruth: 1 lb sausage, 8 cups stale bread cubes, 2 cups sharp cheddar, 10 eggs, 2 1/2 cups milk, 1 tsp dry mustard, 1 tsp salt, 1/2 tsp pepper, green onions; refrigerated overnight; 350F covered 30 min, uncovered 20-30 min.

@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Hungarian gulyás is a paprika beef stew named after herdsmen; the American macaroni-and-beef 'goulash' is an unrelated one-pot dish popular from the Depression through the 1950s.
+- Recipe as written by Grandma Ruth: 1 1/2 lb ground beef, onion, green pepper, 3 garlic cloves, 28 oz crushed tomatoes, 15 oz tomato sauce, 2 tbsp tomato paste, 2 cups beef broth, 2 cups elbow macaroni, 1 tbsp paprika, 1 tsp Italian seasoning, 1 tbsp Worcestershire, 2 bay leaves, salt, pepper, 1 tsp sugar, 1 tsp cider vinegar.

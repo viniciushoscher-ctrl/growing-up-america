@@ -1,0 +1,2 @@
+- Grandma Ruth is a fictional narrator, and this is a fictional story. All names are invented.
+- If you or someone you know is experiencing domestic violence in the U.S., the National Domestic Violence Hotline is 1-800-799-7233.

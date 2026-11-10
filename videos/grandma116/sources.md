@@ -1,0 +1,4 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Euphorbia pulcherrima is native to Mexico and named for Joel Roberts Poinsett, first US minister to Mexico (1825-1829).
+- University extension services (e.g. University of Illinois, Purdue) advise temperatures of 60-70F, protection from cold below 50F, draining foil wraps, and about 14 hours of darkness nightly from early October to rebloom.
+- Poison control and ASPCA sources describe poinsettias as mildly irritating, not deadly.

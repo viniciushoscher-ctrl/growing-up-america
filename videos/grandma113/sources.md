@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Spritzgebäck is a German and Scandinavian pressed butter cookie; the name comes from the German verb spritzen, to squirt.
+- Recipe as written by Grandma Ruth: 1 cup butter, 2/3 cup sugar, 1 egg, 1 tsp vanilla, 1/2 tsp almond extract, 2 1/4 cups flour, 1/2 tsp salt; pressed onto cold ungreased metal sheets, 375F for 6-8 minutes.

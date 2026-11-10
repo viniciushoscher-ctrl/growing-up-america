@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Parker House rolls are named for the Parker House Hotel in Boston, where they were created in the 1870s.
+- Recipe as written by Grandma Ruth: 1 cup whole milk, 1/2 cup butter, 1/4 cup sugar, 1 packet active dry yeast, 1/4 cup warm water, 2 eggs, 1 1/2 tsp salt, about 4 cups flour; kneaded 8 minutes, two rises; 375F for 15-18 minutes, brushed with butter and flaky salt.

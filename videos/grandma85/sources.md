@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Pomanders (clove-studded oranges) have been used as natural fragrance since medieval times.
+- Smell and memory: the olfactory system connects directly to brain areas involved in emotion and memory (amygdala, hippocampus).

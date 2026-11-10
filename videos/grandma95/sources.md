@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Shepherd's pie (lamb) and cottage pie (beef) originated in 18th-19th century Britain and Ireland as a way to use leftover roast meat.
+- Recipe as written by Grandma Ruth: 1 1/2 lb ground beef or lamb, onion, 2 carrots, 2 celery, garlic, 2 tbsp tomato paste, 2 tbsp flour, 1 cup broth, 1 tbsp Worcestershire, thyme, 1 cup peas; 2 1/2 lb russet potatoes, 4 tbsp butter, 1/2 cup milk, 1 egg yolk; 400F for 25 minutes.

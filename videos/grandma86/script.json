@@ -1,0 +1,207 @@
+{
+ "id": "grandma86",
+ "angle": "stranger returns story",
+ "length_scale": 1.45,
+ "title": "I Knitted Mittens for Poor Kids. 42 Years Later One Came BACK",
+ "scenes": [
+  {
+   "text": "Sweetheart, for twenty-six winters, I knitted mittens for every child at Lincoln Elementary who came to school with bare hands. Nobody asked me to. Most people thought I was a silly old woman with too much yarn. And then, on Christmas Eve of two thousand twenty-three, a black car pulled up in front of my house, and a man got out holding a pair of red mittens I had knitted in nineteen eighty-one.",
+   "query": "pair of hand-knitted red mittens",
+   "caption": "A PAIR OF RED MITTENS",
+   "cuts": 8,
+   "moves": true,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Tonight I'm going to tell you how it started, the little boy who wore those red mittens, and what he told me on my porch forty-two years later. Stay with me, honey, because what he did next made the evening news in Columbus. And I still can't talk about it without needing a handkerchief.",
+   "query": "black car in front of small house snow",
+   "caption": "FORTY-TWO YEARS LATER",
+   "cuts": 8,
+   "moves": true
+  },
+  {
+   "text": "It started in nineteen seventy-eight. I was walking past Lincoln Elementary on a morning so cold the air hurt your teeth, and I saw a little girl at the bus stop with her hands pulled up inside her coat sleeves. No mittens. Her fingers were red and cracked. And I asked her, honey, where are your mittens? And she said, my brother has them today. We take turns.",
+   "query": "little girl at bus stop hands in sleeves cold",
+   "caption": "WE TAKE TURNS",
+   "cuts": 5,
+   "chapter": "How it started",
+   "moves": true
+  },
+  {
+   "text": "We take turns. I went straight home and dug out every scrap of yarn I owned. Grandma Pearl had taught me to knit when I was seven. That night, I made her a pair of mittens. Purple, because it was all I had enough of. And the next morning, I gave them to her at the bus stop. She put them on and held her hands up to her face like they were made of gold.",
+   "query": "elderly hands knitting purple mittens by lamp",
+   "caption": "LIKE THEY WERE GOLD",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Then I went to the principal, Mr. Daniels, and I asked him how many children at Lincoln didn't have mittens. He looked at me and said, Mrs. Miller, about sixty. And I thought, sixty. I can do sixty. It takes me about three hours to knit a pair. In a minute I'll tell you how many pairs I ended up making. I didn't believe the number myself.",
+   "query": "school principal office 1970s",
+   "caption": "ABOUT SIXTY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "I knitted every night that winter, sweetheart, after the children were in bed. Harold would read the paper, and I'd knit. Red, blue, green, striped, whatever yarn I could find. I bought yarn at rummage sales. I unraveled old sweaters. Ladies at church started bringing me bags of yarn. And every Monday, I took a grocery sack of mittens to Mr. Daniels's office.",
+   "query": "grocery sack full of knitted mittens",
+   "caption": "A SACK EVERY MONDAY",
+   "cuts": 4,
+   "chapter": "The mitten lady",
+   "moves": true
+  },
+  {
+   "text": "The children started calling me the mitten lady. When I walked past the playground, they'd wave their mittens at me. Some of the other mothers at church weren't so kind, honey. One said, Ruth, those people should buy their own children mittens. You're just encouraging them. And another said, it's a waste of good yarn. They'll lose them in a week.",
+   "query": "children waving mittens on playground",
+   "caption": "THE MITTEN LADY",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "If you're enjoying Grandma's story, tap the like button for me, sweetheart. It helps more people find these stories. And yes, some of them lost them. Children lose mittens. That's what children do. So I knitted more. I sewed little name tags inside. And I tied them together with a long string through the coat sleeves, the way my mother did for me, so they couldn't lose them.",
+   "query": "mittens on a string through coat sleeves",
+   "caption": "A STRING THROUGH THE SLEEVES",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And here's how I knew it mattered, honey. In February, Mr. Daniels called me into his office. He said, Mrs. Miller, our absences are down by a third this winter. The nurse says she's seeing half the frostbite. And the children are coming to school on the coldest days, because they're not afraid of the bus stop anymore. Mittens, sweetheart. Just mittens.",
+   "query": "school nurse office 1970s",
+   "caption": "ABSENCES DOWN BY A THIRD",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "In the winter of nineteen eighty-one, there was a boy in the second grade named Tommy Kessler. Tommy was small for his age, and quiet, and he wore the same thin jacket every single day. His father had left. His mother cleaned motel rooms out on Route Thirty. And Tommy had a habit that broke my heart. He'd stand at the back of the line every Monday, and he'd never ask.",
+   "query": "small quiet boy at back of line school",
+   "caption": "HE NEVER ASKED",
+   "cuts": 4,
+   "chapter": "Tommy",
+   "moves": true
+  },
+  {
+   "text": "Every other child would crowd around the sack. Tommy would stand back, with his hands in his pockets, and watch. So one Monday, I knelt down in front of him and said, Tommy, what's your favorite color? And he whispered, red. Like a fire truck. So that week, I knitted Tommy Kessler a pair of red mittens, with a little white star on the back of each one.",
+   "query": "red mittens with white star knitting",
+   "caption": "RED, LIKE A FIRE TRUCK",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "When I gave them to him, honey, he didn't say a word. He put them on, and he looked at the little stars, and then he threw his arms around my neck so hard he knocked my hat off. And then he ran off across the playground with his hands up in the air, yelling, I got stars! I got stars! I never forgot that. And I never saw Tommy Kessler again after that spring.",
+   "query": "boy running on playground arms up joyful",
+   "caption": "I GOT STARS!",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "His mother moved them away that summer, sweetheart, to somewhere in Indiana, and nobody knew where. I kept knitting. Twenty-six winters. When my hands got too stiff with arthritis, the ladies at church took over half the work, and I did the other half. When I finally stopped, in two thousand four, the principal at Lincoln counted up the old records.",
+   "query": "elderly woman knitting arthritis hands",
+   "caption": "TWENTY-SIX WINTERS",
+   "cuts": 4,
+   "chapter": "Twenty-six winters",
+   "moves": true
+  },
+  {
+   "text": "Four thousand one hundred and twelve pairs of mittens, honey. Four thousand. I sat down when he told me. I thought maybe a thousand. Four thousand pairs of little hands that didn't freeze at the bus stop. And the lady from church who'd said they'd lose them in a week? She came up to me at the coffee hour and said, Ruth, I was wrong. And she handed me a bag of yarn.",
+   "query": "school records ledger handwritten numbers",
+   "caption": "FOUR THOUSAND PAIRS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And every single winter, I thought about Tommy Kessler. I prayed for him at Christmas, honey, along with all the others whose names I'd sewn into mittens. I wondered if he was warm. If anybody ever asked him his favorite color again. If those red mittens had made it to Indiana. Harold used to say, Ruthie, you can't save them all. And I'd say, no, but I can keep their hands warm.",
+   "query": "elderly woman praying by window winter",
+   "caption": "KEEP THEIR HANDS WARM",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So far, the bus stop, the sacks, and the boy with the stars. On Christmas Eve of two thousand twenty-three, I was seventy-nine, and alone, because Harold had passed and my children were coming the next day. At four o'clock, a long black car pulled up in front of my house. A man in a dark wool coat got out, maybe fifty, with gray in his hair. And he was carrying a little frame.",
+   "query": "man in dark coat walking to door with frame",
+   "caption": "A LITTLE FRAME",
+   "cuts": 4,
+   "chapter": "Christmas Eve",
+   "moves": true
+  },
+  {
+   "text": "When I opened the door, he said, Mrs. Miller? The mitten lady? And he held up the frame. Inside, under glass, was a pair of tiny red mittens. Worn thin. With a little white star on the back of each one. I knew them instantly, sweetheart. I'd know my own knitting anywhere. And I looked up at his face, and I said, Tommy? Tommy Kessler?",
+   "query": "framed tiny red mittens with stars",
+   "caption": "TOMMY?",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "He came in and sat at my kitchen table, and he told me everything. After they moved to Indiana, things got worse. His mother got sick. He spent two years in foster homes. And he said, Mrs. Miller, I didn't have much in those years. I didn't have a coat that fit, or a bed that was mine. But I had those red mittens. I carried them everywhere, in every move.",
+   "query": "man talking at kitchen table elderly woman",
+   "caption": "I CARRIED THEM EVERYWHERE",
+   "cuts": 4,
+   "chapter": "What he told me",
+   "moves": true
+  },
+  {
+   "text": "He said, when things got really bad, I'd look at the little stars and think, somebody once knelt down and asked me my favorite color. Somebody I wasn't related to, who didn't have to. That meant somebody thought I was worth it. I held on to that, Mrs. Miller. Some nights, that was the only thing I had to hold on to.",
+   "query": "boy alone holding red mittens at night",
+   "caption": "I WAS WORTH IT",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Tommy grew up, honey. He worked his way through Purdue University washing dishes. He became an engineer. And then he started a company that makes heating systems. Furnaces and boilers. He said, I guess I spent my whole life trying to make sure nobody's cold. And his company, I found out later, was worth over two hundred million dollars.",
+   "query": "engineer in factory heating systems",
+   "caption": "SO NOBODY'S COLD",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And he told me about the day he finally outgrew them. He was nine, in a foster home in Fort Wayne, and the mittens wouldn't go over his knuckles anymore. He said, I cried harder that day than when I left my mother. So his foster mother, a kind woman named Mrs. Ortiz, took them and put them in a frame for him. And he'd had them on his office wall ever since.",
+   "query": "foster mother framing small mittens",
+   "caption": "WHEN HE OUTGREW THEM",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Then Tommy took out an envelope and slid it across my kitchen table. He said, Mrs. Miller, I went to Lincoln Elementary this morning. It's still there. It's still poor. Seventy percent of the kids are on free lunch. And I made them a promise. Inside that envelope was a letter from the school. Tommy's company had paid for a brand-new heating system for the whole building.",
+   "query": "envelope with letter on kitchen table",
+   "caption": "A NEW HEATING SYSTEM",
+   "cuts": 4,
+   "chapter": "What he did",
+   "moves": true
+  },
+  {
+   "text": "And not only that, sweetheart. Every child at Lincoln Elementary, every year, for as long as Tommy's company exists, gets a new winter coat, boots, a hat, and a pair of mittens. He'd set up a fund. And he'd named it. I didn't find out until the newspaper ran the story the day after Christmas. He called it the Mitten Lady Fund. With my picture on the website.",
+   "query": "children receiving new winter coats at school",
+   "caption": "THE MITTEN LADY FUND",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "The Columbus news came out to Lincoln to film the children getting their coats that January, and they asked me to be there. I sat in a folding chair in the gym, and four hundred children walked past me, one by one, in their new coats. And every single one of them was wearing a pair of red mittens with a little white star on the back. Tommy had them made special.",
+   "query": "line of children in red mittens with stars",
+   "caption": "RED MITTENS WITH STARS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Tommy calls me every Sunday now. He and his wife and their three children come every Christmas Eve. And every year, I knit one more pair of red mittens with white stars, and I give them to his youngest. She's nine. She says when she grows up, she's going to be the mitten lady too. I told her she'd better start practicing.",
+   "query": "grandmother teaching girl to knit",
+   "caption": "SHE'LL BE THE MITTEN LADY",
+   "cuts": 4,
+   "chapter": "Grandma's lesson",
+   "moves": true
+  },
+  {
+   "text": "Here's what I want you to remember, honey. You never know which small kindness is going to be the one somebody holds on to for forty years. A pair of mittens. A sandwich. Asking a quiet child their favorite color. Do the small thing anyway, even if people say it's a waste of yarn. Especially then.",
+   "query": "red mittens on snowy windowsill",
+   "caption": "DO THE SMALL THING",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Tell me in the comments, sweetheart. Was there somebody like the mitten lady in your life? A teacher, a neighbor, a stranger? I'd love to hear about them. There are more of my family's stories in the playlist right there on your screen, and I'll see you in the next one. Good night, honey. Merry Christmas.",
+   "query": "cozy window knitting basket night",
+   "caption": "WHO WAS YOURS?",
+   "cuts": 4,
+   "moves": true
+  }
+ ],
+ "voice": "en_US-lessac-high"
+}

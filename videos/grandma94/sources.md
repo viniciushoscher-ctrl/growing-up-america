@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Tree care guidance consistent with the National Christmas Tree Association and university extension services: fresh cut, at least 1 quart of water per inch of trunk diameter, plain water, away from heat.
+- Fire safety: dry Christmas trees ignite rapidly (NFPA, U.S. Fire Administration).

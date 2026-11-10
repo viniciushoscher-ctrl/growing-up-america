@@ -1,0 +1,1 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.

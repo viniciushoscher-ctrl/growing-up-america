@@ -1,0 +1,2 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Recipe as written by Grandma Ruth: 2 1/2 lb beef chuck in 2-inch chunks, flour, oil, onion, garlic, 2 tbsp tomato paste, 4 cups beef broth, bay leaf, thyme, potatoes, carrots, celery; gentle simmer or 325F oven about 2 1/2 hours; finished with 1 tbsp vinegar, peas and parsley.

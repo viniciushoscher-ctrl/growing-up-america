@@ -1,0 +1,80 @@
+import sys; sys.path.insert(0, __import__("os").path.join(__import__("os").path.dirname(__file__), "..", "..", "pipeline"))
+from scriptkit import sc, ch, save, S
+
+# Grandma Ruth 97 · ANGLE: mean neighbor turned (he reported her constantly; then his house burned on Christmas Eve)
+
+sc("""Sweetheart, for three years, my neighbor Walter Briggs called the city on me every single week. My grass was too long. My Christmas lights were too bright. He even called the police once because my grandchildren were laughing too loud in the backyard. And then, on Christmas Eve of two thousand fourteen, his house caught fire at midnight. And I was the only one on the street who opened her door to him.""",
+   "angry old man on porch pointing", "HE CALLED THE CITY")
+sc("""Tonight I'm going to tell you what that man did to me for three years, what I found out about him that Christmas, and the thing he left on my porch in a shoebox the following spring. Stay with me, honey, because I've never been so wrong about a person in my life. And I've been alive a long time.""",
+   "shoebox on porch step", "A SHOEBOX ON MY PORCH")
+
+ch("Mr. Briggs")
+sc("""Walter Briggs moved into the yellow house next door in the spring of twenty eleven. A big, gray, scowling man, maybe seventy-five, who lived alone. When I took him a plate of cinnamon rolls to welcome him, he opened the door two inches and said, I don't eat sugar. And shut it. Harold had passed by then, and I was lonely, honey, so I'd been looking forward to a neighbor.""",
+   "scowling old man at door half open", "I DON'T EAT SUGAR")
+sc("""The first complaint came a month later. A letter from the city. Grass exceeding six inches. Then another. Leaves on the sidewalk. Then my Christmas lights, which I'd hung on the porch the same way for forty years. Excessive illumination, the letter said. Excessive illumination! I'd had those same old colored bulbs since nineteen seventy. In a minute I'll tell you why those lights bothered him so much. It wasn't what I thought.""",
+   "old colored Christmas bulbs on porch", "EXCESSIVE ILLUMINATION")
+sc("""It went on for three years, sweetheart. The bird feeder, the rats. My car parked too close to his driveway. My wind chimes. My trash cans out too early. Every week, a new letter, or a man from the city with a clipboard, looking embarrassed. And the worst one, the police. Two officers at my door on a summer evening because my grandchildren were playing in the sprinkler and laughing. Laughing, honey.""",
+   "police officers at door summer evening", "LAUGHING TOO LOUD")
+
+ch("What the street said")
+sc("""The other neighbors hated him. Mrs. Patterson across the street called him the old crab. The young couple on the corner said he'd called the city about their dog barking, eleven times. People crossed the street when they saw him coming with his cane. At the block party, nobody invited him. And to be honest, honey, I started crossing the street too.""",
+   "neighbors gossiping on sidewalk", "THE OLD CRAB")
+sc("""But there was one thing that bothered me. Every evening at six o'clock, Walter Briggs sat on his porch in the same chair, with a cup of coffee, and looked down the street toward the bus stop. Every evening, rain or snow, for an hour. Never waved at anybody. Never read a paper. Just sat there, looking at that bus stop. I wondered about it for three years.""",
+   "old man sitting on porch alone at dusk", "WATCHING THE BUS STOP")
+sc("""If you're enjoying Grandma's story, tap the like button for me, sweetheart. It helps more people find these stories. My daughter said, Mom, just ignore him. Some people are just mean. And my son said, Mom, call a lawyer. That's harassment. But I'd been raised by Dorothy, honey, and my mother always said, nobody is born mean. Something makes them that way. Find out what it was.""",
+   "elderly woman thinking at window", "NOBODY IS BORN MEAN")
+
+sc("""So that November, sweetheart, I tried one more time. I baked a loaf of my mother's bread, no sugar in it at all, and I walked it over and knocked. He opened the door two inches. I said, Walter, it's plain bread. No sugar. I just thought you might like a neighbor. He looked at the bread for a long time. Then he said, I don't need a neighbor, Mrs. Miller. And he shut the door.""",
+   "woman holding loaf of bread at closed door", "I DON'T NEED A NEIGHBOR")
+ch("Christmas Eve")
+sc("""On Christmas Eve, two thousand fourteen, I woke up at midnight to sirens and an orange light flickering on my bedroom wall. I looked out the window, and Walter Briggs's yellow house was on fire. Smoke pouring out of the kitchen windows. And there was Walter, standing in his front yard in the snow, in his pajamas and bare feet, holding his cane and a little cardboard box.""",
+   "house on fire at night in snow", "HIS HOUSE WAS ON FIRE")
+sc("""The fire trucks came. The whole street came out on their porches in their bathrobes and watched. And nobody went to him, honey. Not one person. Mrs. Patterson said, loud enough to hear, well, I guess he can call the city about that. Somebody laughed. And Walter Briggs just stood there in the snow in his bare feet, seventy-eight years old, holding that little box against his chest.""",
+   "old man barefoot in snow watching fire", "NOBODY WENT TO HIM")
+sc("""I put on my boots and my coat, and I grabbed Harold's old wool overcoat and a pair of his slippers that I'd never been able to throw away. And I walked across my lawn and put that coat around Walter Briggs's shoulders and those slippers at his feet. He looked at me like he didn't know who I was. And I said, Walter, you're coming to my house. And he didn't argue.""",
+   "woman putting coat on old man in snow", "YOU'RE COMING TO MY HOUSE")
+
+ch("The box")
+sc("""The fire department saved most of the house, but the kitchen was gone, and the smoke ruined the rest. So Walter Briggs spent Christmas in my spare room, honey. The man who'd called the police on my grandchildren. That first night, I made him hot tea, and he sat at my kitchen table, still clutching that little cardboard box, shaking. I asked him what was in it.""",
+   "old man at kitchen table holding cardboard box", "WHAT'S IN THE BOX?")
+sc("""He opened it. Inside were letters, sweetheart. Dozens of them, tied with string. And photographs of a little boy, and then a teenage boy, and then a young man in a soldier's uniform. And on top, a folded American flag, the triangle kind they give the family at a military funeral. Walter said, this is my son, Danny. He took the bus to the recruiting office from that bus stop in nineteen sixty-seven.""",
+   "box of letters photos and folded flag", "THIS IS MY SON")
+sc("""Danny Briggs was killed in Vietnam in nineteen sixty-eight. He was nineteen. Walter's wife died of grief, he said, a few years later. And Walter had sat on a porch every evening at six o'clock for forty-six years, at three different houses, looking at a bus stop. Because that's the time Danny's bus used to come home from school. And he still couldn't stop watching for it.""",
+   "young soldier portrait 1960s photograph", "HE STILL WATCHED FOR HIM")
+
+sc("""I asked him why he'd moved to our street, honey, of all the streets in Mansfield. He said, because you can see the old bus stop from this porch. The one Danny took. When they built the new road, they moved the stop. But the old bench is still there, by the drugstore. I'd been living three blocks away for forty years. When the yellow house came up for sale, I bought it the same day.""",
+   "old bus stop bench by drugstore", "THE OLD BUS STOP")
+ch("Why he did it")
+sc("""So far, the complaints, the police, the fire, and the box. And then he told me about the lights. He said, Ruth, the last Christmas Danny was home, before he shipped out, we hung those same old colored bulbs on our porch. Exactly like yours. When I see your lights, I see that porch. I can't breathe. And I didn't know how to tell anybody that. So I called the city.""",
+   "old colored Christmas lights on porch at night", "I CAN'T BREATHE")
+sc("""And the children laughing, honey. He said, Danny used to play in the sprinkler exactly like that. I'd hear your grandchildren and I'd run to the window thinking it was him. Every time. And then I'd see it wasn't, and it was like losing him again. I'm not a mean man, Ruth. I'm a man who can't stand the sound of a happy family. There's a difference.""",
+   "children playing in sprinkler summer", "IT WAS LIKE LOSING HIM")
+sc("""We sat at my kitchen table until four in the morning, honey. He told me everything about Danny. That he loved baseball and hated peas. That he wanted to be a veterinarian. That he'd written his father a letter every week from Vietnam, and every single one ended, save me a seat on the porch, Dad. Walter had saved him a seat for forty-six years.""",
+   "two empty chairs on old porch", "SAVE ME A SEAT")
+
+ch("Christmas morning")
+sc("""On Christmas morning, my children and grandchildren came, and found Walter Briggs at my breakfast table in Harold's bathrobe. My son nearly dropped the presents. I pulled him into the kitchen and told him everything. And my son, who'd wanted me to call a lawyer, went out and sat down next to that old man, and asked him about Danny. And then he asked him about Vietnam. My son served in the Gulf War, sweetheart.""",
+   "two men talking at breakfast table Christmas", "MY SON SAT DOWN")
+sc("""And then my youngest grandson, Charlie, who was eight, climbed up on the chair next to Walter, and showed him his new baseball glove. And Walter Briggs, the old crab of Maple Drive, took that glove in his hands and turned it over and smelled the leather. And he said, Charlie, would you like me to show you how to break this in? It's how I taught my boy.""",
+   "old man showing boy baseball glove", "HOW I TAUGHT MY BOY")
+
+sc("""And for those three months, honey, I learned something about Walter Briggs. He fixed everything in my house that Harold had left broken. The drip in the bathroom sink. The squeak in the back door. The loose step on the porch. He made breakfast every morning at six, eggs and plain toast, no sugar. And he started, very slowly, to smile. The first time he laughed out loud, at something Charlie said, he looked surprised at himself.""",
+   "old man fixing kitchen sink", "THE FIRST TIME HE LAUGHED")
+ch("The shoebox")
+sc("""Walter lived in my spare room for three months while his house was repaired. He and Charlie broke in that glove in my backyard every Saturday. And in April, he moved back next door. The next morning, I found a shoebox on my porch. Inside was a brand new string of old-fashioned colored Christmas bulbs, the big kind, still in the package. And a note.""",
+   "shoebox with old fashioned Christmas bulbs", "A NEW STRING OF LIGHTS")
+sc("""The note said, Ruth, for next Christmas. Please hang them bright. Danny would want me to see them. And thank you for the coat. Walter. And that next Christmas, honey, we hung those lights together, on both of our porches. And the whole street came over. Even Mrs. Patterson. And Walter said hello to every one of them by name.""",
+   "two porches with matching colored lights", "HANG THEM BRIGHT")
+
+ch("Grandma's lesson")
+sc("""Walter passed four years later, at eighty-two. At the end, he asked to be buried with Danny's letters, and he asked Charlie to have his old baseball glove. Charlie plays college baseball now. He wears it in every game. And on my porch, every evening at six o'clock, there's an empty chair. I've saved Walter a seat, sweetheart. And Danny, too.""",
+   "empty chair on porch at dusk with lights", "I SAVED THEM A SEAT")
+sc("""Here's what I want you to remember, honey. Behind every mean neighbor, there's a story you don't know. My mother was right. Nobody is born mean. Tell me in the comments, sweetheart, have you ever been wrong about someone? There are more of my family's stories in the playlist right there on your screen, and I'll see you in the next one. Good night. Merry Christmas.""",
+   "neighborhood Christmas lights at night snow", "HAVE YOU BEEN WRONG?")
+
+for s in S:
+    s["cuts"], s["moves"] = 4, True
+
+save("grandma97", "My Mean Neighbor Called the Cops on Me for YEARS. Then His House...",
+     ["Grandma Ruth is a fictional narrator, and this is a fictional story. All names are invented."],
+     "mean neighbor turned story", minutes=(12, 14.5), voice="en_US-lessac-high")

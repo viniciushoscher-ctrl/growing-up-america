@@ -1,0 +1,193 @@
+{
+ "id": "grandma119",
+ "angle": "family secret story",
+ "length_scale": 1.45,
+ "title": "She HATED Her Stepmother for 40 Years. Then She Read Her Diaries",
+ "scenes": [
+  {
+   "text": "Sweetheart, my sister-in-law Joan raised a little girl who wasn't hers for six years. Packed her lunches, sewed her prom dress, sat up with her through every fever. And that girl hated her. For forty years. She didn't invite Joan to her wedding. She didn't send a card when Joan's husband died. And then, in two thousand fifteen, she opened a box of Joan's old diaries. And she found out what Joan had been hiding.",
+   "query": "stack of old diaries in a cardboard box",
+   "caption": "FORTY YEARS",
+   "cuts": 8,
+   "moves": true,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Tonight I'm going to tell you the secret Joan kept for forty years, why she kept it even though it cost her that girl's love, and the phone call at three in the morning, from a hospital, that ended it all. Stay with me, honey, because I was in the room when they finally saw each other again.",
+   "query": "hospital corridor at night",
+   "caption": "THE PHONE CALL",
+   "cuts": 8,
+   "moves": true
+  },
+  {
+   "text": "Joan is Harold's younger sister, honey. She married late, at thirty-two, in nineteen seventy-five, to a widower named Dale, a quiet man who drove a delivery truck. And Dale had a daughter, Kim, who was twelve. Dale told everybody that Kim's mother had died, two years before. Kim had her mother's picture on her nightstand, in a silver frame. And she looked at Joan, the day of the wedding, like Joan was a burglar.",
+   "query": "1970s wedding photo with sullen girl",
+   "caption": "LIKE A BURGLAR",
+   "cuts": 5,
+   "chapter": "Joan",
+   "moves": true
+  },
+  {
+   "text": "It was hard from the very first day, sweetheart. Kim wouldn't eat Joan's cooking. She called her that woman. She said, you're not my mother, and you never will be, at least once a week. When Joan sewed her a dress for the eighth-grade dance, Kim cut the sleeves off with scissors and wore a T-shirt instead. And Joan never said one word back. Not one. I didn't understand it at the time.",
+   "query": "dress with cut off sleeves on bed",
+   "caption": "YOU'RE NOT MY MOTHER",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "I used to tell her, Joan, that girl needs to hear the word no. And Joan would just shake her head and say, Ruth, she's lost enough. Let her be angry at me. I can take it. It made me furious, honey, watching my sister-in-law get treated like that in her own house. But Joan had a look in her eyes, like she knew something we didn't. In a minute I'll tell you what it was.",
+   "query": "two women talking in 1970s kitchen",
+   "caption": "SHE'S LOST ENOUGH",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "There was one Christmas I'll never forget, honey. Nineteen seventy-seven. Kim was fourteen. Joan had saved for months to buy her a record player, the one Kim had circled in the Sears catalog. And Kim opened it on Christmas morning, in front of all of us, looked at the card, and said, I don't want anything from you. And she walked upstairs and left it there on the floor. Joan picked up the wrapping paper and folded it, very carefully. I'll tell you what she wrote that night in a minute.",
+   "query": "1970s record player in opened gift box",
+   "caption": "I DON'T WANT ANYTHING",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Joan started keeping a diary the year she married Dale, honey. Every night, before bed, she wrote one page, in a little cloth notebook. She bought a new one every January at the dime store. By the time all this happened, she had forty of them, in a cardboard box in her closet. She never let anybody read them. Not even Dale. She said, a diary is where you put the things you can't say.",
+   "query": "woman writing in small cloth notebook at night",
+   "caption": "THE THINGS YOU CAN'T SAY",
+   "cuts": 4,
+   "chapter": "The diaries",
+   "moves": true
+  },
+  {
+   "text": "If Grandma's story is touching your heart, tap the like button for me, sweetheart. It helps more people find these stories. And Kim grew up, honey. She graduated high school, and she went off to college in Cleveland, and she called her father once a week. She never once asked for Joan. She married in nineteen eighty-seven, and she sent the invitation only to her father. Dale went alone. Joan stayed home and wrote in her diary.",
+   "query": "wedding invitation addressed to one person",
+   "caption": "ONLY TO HER FATHER",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Dale passed in nineteen ninety-eight, of a heart attack. And Kim blamed Joan. She said Joan should have made him see a doctor. At the funeral, she sat on the opposite side of the church, and she left before the luncheon. And for seventeen years after that, sweetheart, she never called Joan, not once. Not on Christmas. Not on her birthday. Joan sent a card every Christmas anyway. They never came back. But they were never answered.",
+   "query": "Christmas cards in mailbox unanswered",
+   "caption": "SEVENTEEN YEARS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "I asked Joan once, honey, in about two thousand ten, sitting on her porch. I said, Joan, after everything, don't you hate that girl, just a little? And Joan looked out at the street for a long time. And she said, Ruth, I've never hated her for one second. I just miss her. Every single day. Then she changed the subject to her tomatoes. I didn't understand that either. Not until the diaries.",
+   "query": "two elderly women on porch talking",
+   "caption": "I JUST MISS HER",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "So far, a stepdaughter, a cut-up dress, a wedding invitation, and a box of forty diaries. In November of two thousand fifteen, Joan had a stroke, honey. She was seventy-two. Her neighbor found her on the kitchen floor. And in the hospital, the doctors said she might not wake up. Kim was still listed in Dale's old papers as next of kin. So the hospital called her. At three in the morning. Stay with me.",
+   "query": "elderly woman in hospital bed unconscious",
+   "caption": "THREE IN THE MORNING",
+   "cuts": 4,
+   "chapter": "The stroke",
+   "moves": true
+  },
+  {
+   "text": "Kim drove down from Cleveland, sweetheart, but she didn't go to the hospital first. She went to Joan's house to find the insurance papers, because somebody had to. She told me later she felt nothing. Like she was handling a stranger's affairs. And in Joan's closet, looking for a folder, she knocked over a cardboard box. And forty little cloth diaries spilled out all over the floor.",
+   "query": "cloth diaries spilled on closet floor",
+   "caption": "FORTY DIARIES",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "She picked up the first one, honey. Nineteen seventy-five. And it fell open to the week before the wedding. And she sat down on the closet floor, and she read it. It said, Dale told me the truth tonight. Kim's mother didn't die. She left. She ran off to California with a man from the plant, and she never came back, and she never wrote, not even on Kim's birthday.",
+   "query": "1970s diary page handwritten",
+   "caption": "SHE DIDN'T DIE",
+   "cuts": 4,
+   "chapter": "Nineteen seventy-five",
+   "moves": true
+  },
+  {
+   "text": "It said, Dale told Kim her mother died, because he couldn't bear for her to know her mother didn't want her. And now I'm going to marry him, and I'm going to have to keep that secret too. That little girl is going to hate me, because she thinks I'm replacing her mother. And I can never tell her the truth. Because the truth would break her heart worse than hating me ever could. So let her hate me.",
+   "query": "woman writing diary by lamp with tears",
+   "caption": "SO LET HER HATE ME",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Kim told me she read that page four times, sweetheart. Then she turned to Christmas, nineteen seventy-seven. The record player. Joan had written, she didn't want it. That's all right. She played it tonight, though, very quietly, after she thought we were asleep. I heard it through the floor. She played her mother's favorite song, over and over. So I'm glad I bought it. And Kim remembered. She had played that song, all night, crying into her pillow.",
+   "query": "teenage girl listening to record player at night",
+   "caption": "THROUGH THE FLOOR",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Kim read all night, sweetheart, on that closet floor. Forty years of pages. And every single page had her name in it. Kim had a cold, I made her soup, she wouldn't eat it, but she ate the crackers. Kim cut the sleeves off the dress. I think she looked beautiful anyway. Kim got an A in chemistry. I'm so proud I could burst, but I can't tell her, she'll just be angry.",
+   "query": "pages of diary with the name Kim",
+   "caption": "EVERY PAGE",
+   "cuts": 4,
+   "chapter": "Every page",
+   "moves": true
+  },
+  {
+   "text": "And then, nineteen eighty-one, honey. Joan had been cleaning houses on Saturdays. Kim's father thought it was for pin money. It wasn't. Every dollar went into a savings account, under Dale's name, for Kim's college. Eleven thousand dollars over six years. Kim had always thought her father paid for college. He couldn't have. He drove a delivery truck. Joan scrubbed other people's floors for her.",
+   "query": "woman scrubbing floor on hands and knees",
+   "caption": "SHE SCRUBBED FLOORS",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Nineteen eighty-seven. Kim's wedding. Joan wrote, I wasn't invited. I drove to Cleveland anyway, and I parked across the street from the church, and I watched her come out on Dale's arm. She was so beautiful. I hope he's good to her. I drove home before anybody saw me. And Kim told me she put her face in her hands, on that closet floor, and she sobbed until the sun came up.",
+   "query": "woman in parked car watching church wedding",
+   "caption": "FROM ACROSS THE STREET",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "In the morning, Kim drove to the hospital, and she called me from the parking lot, honey. I'd been sitting with Joan for two days. I met her in the hallway. She was fifty-two, with gray in her hair, holding the nineteen seventy-five diary against her chest. She said, Aunt Ruth, did you know? And I said, no, sweetheart. Nobody knew. Joan made sure of it. And Kim walked into that room.",
+   "query": "woman in hospital hallway holding diary",
+   "caption": "DID YOU KNOW?",
+   "cuts": 4,
+   "chapter": "The hospital",
+   "moves": true
+  },
+  {
+   "text": "Joan was lying there with her eyes closed, with tubes and wires everywhere. And Kim sat down beside the bed and took her hand, that old, rough hand that scrubbed all those floors. And she said, Joan, I read the diaries. I know about my mother. I know about the floors. I know about the church. And then she said a word she had never, ever said to Joan in forty years. She said, Mom. I'm so sorry, Mom.",
+   "query": "woman holding unconscious mother's hand in hospital",
+   "caption": "I'M SO SORRY, MOM",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "And Joan's fingers moved, honey. I saw it with my own eyes. Her fingers closed around Kim's hand. The nurse came running when the monitor changed. And two days later, Joan opened her eyes. The first thing she saw was Kim, asleep in the chair, with that nineteen seventy-five diary on her lap. And Joan couldn't talk yet, because of the stroke. So she just looked at her, and cried.",
+   "query": "elderly woman waking in hospital crying",
+   "caption": "SHE OPENED HER EYES",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Later that week, honey, Kim asked me the question I'd been dreading. She said, Aunt Ruth, why didn't Daddy ever tell me? And I said, sweetheart, I think your father was ashamed. Ashamed that he couldn't keep your mother. And he let Joan carry that for him, because she was stronger than he was. Kim said, she was stronger than all of us. And I said, yes, honey. She still is.",
+   "query": "two women talking in hospital cafeteria",
+   "caption": "STRONGER THAN ALL OF US",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Kim took Joan home to Cleveland that December, sweetheart, to recover. She turned her own dining room into a bedroom. And on Christmas morning, Kim's children, Joan's step-grandchildren she'd never been allowed to meet, climbed into her bed with their presents. Joan's speech came back slowly, over that winter. And the first full sentence she said, Kim told me, was, I always wanted to be your mother.",
+   "query": "grandchildren climbing into bed with presents",
+   "caption": "I ALWAYS WANTED YOU",
+   "cuts": 4,
+   "chapter": "Christmas",
+   "moves": true
+  },
+  {
+   "text": "Joan is eighty-three now, honey, and she lives with Kim. And every night before bed, she still writes one page in a little cloth diary. But now, Kim reads it the next morning, over coffee, with her permission. Kim says she's catching up on forty years. And last Christmas, Kim gave Joan a present. A brand-new cloth diary, and on the first page, in Kim's handwriting, it said, Mom. You can tell me everything now.",
+   "query": "new cloth diary with handwritten first page",
+   "caption": "TELL ME EVERYTHING NOW",
+   "cuts": 4,
+   "moves": true
+  },
+  {
+   "text": "Here's what I want you to remember, honey. Sometimes the person you blame the most is the one who's been protecting you the longest. Tell me in the comments, sweetheart, is there someone you misjudged for years? There are more of my family's stories in the playlist right there on your screen. Good night. Merry Christmas.",
+   "query": "two women hugging by Christmas tree",
+   "caption": "SHE WAS PROTECTING YOU",
+   "cuts": 4,
+   "chapter": "Grandma's lesson",
+   "moves": true
+  }
+ ],
+ "voice": "en_US-lessac-high"
+}

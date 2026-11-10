@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Cornmeal dishes in the American South descend from Native American corn cookery; cornbread dressing became a Southern holiday staple because cornmeal was cheaper than wheat flour.
+- Recipe as written by Grandma Ruth: 8 cups stale unsweetened cornbread, 4 slices dried white bread, 1 stick butter, 2 cups onion, 2 cups celery, 2 tbsp fresh sage, 1 tsp thyme, 1 tsp pepper, salt, about 4 cups broth, 2 eggs; 375F for 40-45 minutes uncovered.
