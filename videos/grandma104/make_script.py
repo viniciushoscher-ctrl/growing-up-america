@@ -3,17 +3,17 @@ from scriptkit import sc, ch, save, S
 
 # Grandma Ruth 104 · ANGLE: pay-it-forward story (a stranger paid for her groceries on Christmas Eve 1975; 40 years later)
 
-sc("""Sweetheart, on Christmas Eve of nineteen seventy-five, I was six dollars short at the grocery checkout, with two crying children and a line of impatient people behind me. I was about to put back the Christmas ham. And a gruff old farmer in overalls, who I'd never seen before, slapped a ten-dollar bill on the counter and walked out before I could even say thank you. I never knew his name. For forty years.""",
+sc("""Sweetheart, on Christmas Eve of nineteen seventy-five, I was six dollars short at the grocery checkout, with two tired children and a line of impatient people behind me. I was about to put back the Christmas ham. And a gruff old farmer in overalls, who I'd never seen before, slapped a ten-dollar bill on the counter and walked out before I could even say thank you. I never knew his name. For forty years.""",
    "young mother at grocery checkout 1970s", "SIX DOLLARS SHORT")
 sc("""Tonight I'm going to tell you what I did every Christmas Eve after that, for forty years, to pay that man back. And who I met at that same grocery store on Christmas Eve of two thousand fifteen, who finally told me his name. Stay with me, honey, because what she told me made me sit down right on the floor of aisle three.""",
    "grocery store aisle Christmas decorations", "AISLE THREE")
 
 ch("Nineteen seventy-five")
-sc("""It was a hard winter for us, sweetheart. The plant had cut Harold to three days a week, and we had two little ones, five and three. I'd been saving all month for Christmas dinner. I had exactly twenty-two dollars in my coin purse, and a list written on the back of an envelope, and I'd added it up three times. A small ham, potatoes, green beans, a pie, and a bag of oranges for the stockings.""",
+sc("""It was a hard winter for us, sweetheart. The plant had cut Harold to three days a week, and we had two children, eleven and seven. I'd been saving all month for Christmas dinner. I had exactly twenty-two dollars in my coin purse, and a list written on the back of an envelope, and I'd added it up three times. A small ham, potatoes, green beans, a pie, and a bag of oranges for the stockings.""",
    "handwritten grocery list on envelope", "TWENTY-TWO DOLLARS")
 sc("""But prices had gone up that week, honey. Nineteen seventy-five was a terrible year for prices. Everything was more than I'd figured. And when the girl at the register at the Buehler's on Park Avenue rang it all up, it came to twenty-eight dollars and forty cents. Six dollars and forty cents more than I had. I stood there counting my coins again, like they might have multiplied. In a minute I'll tell you what I almost put back.""",
    "cash register 1970s total display", "TWENTY-EIGHT FORTY")
-sc("""Behind me, there were six people in line, all with full carts, all in a hurry, on Christmas Eve. A man in a nice coat sighed loud. A woman said, some of us have places to be. Mark was crying because he was tired. Susan was pulling on my coat. My face was burning, sweetheart. I reached for the ham, the most expensive thing on the belt. And then a big hand came down on the counter.""",
+sc("""Behind me, there were six people in line, all with full carts, all in a hurry, on Christmas Eve. A man in a nice coat sighed loud. A woman said, some of us have places to be. Mark was whining because he was tired. Susan was tugging my sleeve, embarrassed. My face was burning, sweetheart. I reached for the ham, the most expensive thing on the belt. And then a big hand came down on the counter.""",
    "impatient people in grocery line", "PLACES TO BE")
 
 sc("""I remember every face in that line, honey. The man in the nice coat had a cart full of bottles for a party. The woman who complained had a fur collar and a turkey the size of a suitcase. And the cashier, a teenage girl with a red bow in her hair, looked at me like she wanted to help but didn't dare. Her manager was watching from the office window. I'll tell you about that girl later, because she mattered too.""",

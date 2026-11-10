@@ -1,0 +1,78 @@
+import sys; sys.path.insert(0, __import__("os").path.join(__import__("os").path.dirname(__file__), "..", "..", "pipeline"))
+from scriptkit import sc, ch, save, S
+
+# Grandma Ruth 118 · ANGLE: kindness returns after decades (orphan girl hosted for one Christmas in 1968; returns 50 years later)
+
+sc("""Sweetheart, in December of nineteen sixty-eight, Harold and I brought a little girl home from the county children's home for five days. Just for Christmas. Her name was Marie. She was eight years old, and she had never had a Christmas in a real house. On the twenty-sixth, we had to drive her back. She screamed in the back seat the whole way. And fifty years later, she knocked on my door.""",
+   "little girl in back seat of 1960s car crying", "JUST FOR CHRISTMAS")
+sc("""Tonight I'm going to tell you what happened during those five days, why we couldn't keep her, and what she was holding in her arms when I opened my door in two thousand eighteen. Stay with me, honey, because it's something Harold made with his own hands, and I thought it had been lost forever.""",
+   "elderly woman opening front door surprised", "WHAT SHE WAS HOLDING")
+
+ch("The children's home")
+sc("""Our pastor announced it from the pulpit in November, honey. The county children's home had thirty-one children, and the state could only afford a small party for them on Christmas Day. So the church was asking families to take one child home for Christmas. Just five days. The twenty-second to the twenty-sixth. Harold looked at me in the pew, and I looked at him, and we didn't even have to say it.""",
+   "1960s church congregation in pews", "FIVE DAYS")
+sc("""We had Susan by then, honey, she was four, and Mark was just a baby. We didn't have much. Harold was working at the plant and we were living in our first little house on Maple Drive, with one bathroom and a furnace that groaned like a ghost. But we had a spare cot, and we had enough. And I thought, if a child has to spend Christmas in an institution, then we've all failed her.""",
+   "small 1960s house in snow", "WE HAD ENOUGH")
+sc("""The children's home was a big brick building on the edge of town, with a chain-link fence and a playground with no swings, because the chains had rusted. The matron brought Marie out to us in the front hall. She had a little paper bag with everything she owned in it. A nightgown, a toothbrush, a comb, and a picture of a woman, torn out of a magazine. In a minute I'll tell you who she said that woman was.""",
+   "brick orphanage building 1960s winter", "A LITTLE PAPER BAG")
+
+ch("Marie")
+sc("""She was small for eight, honey, with dark braids and big, careful eyes. She didn't smile. She didn't talk in the car. When we got home, she stood in the doorway of our living room and looked at the Christmas tree for a very long time, without moving. Then she said, very quietly, is that yours? Like she couldn't believe a family could have their own tree.""",
+   "little girl staring at Christmas tree in doorway", "IS THAT YOURS?")
+sc("""That night, when I tucked her in on the cot in Susan's room, I asked her about the picture from the magazine. It was a lady in an advertisement for soap, smiling, with a little girl. And Marie said, that's my mom. I knew she wasn't, sweetheart. Marie had been left at the hospital as a baby. She'd been in the home her whole life. She'd just picked a lady with a kind face. I went in the hall and cried.""",
+   "torn magazine ad of smiling mother", "THAT'S MY MOM")
+
+sc("""The next morning, honey, I found her sitting on the edge of the cot, fully dressed, with her shoes on and her paper bag in her lap, at six o'clock. I asked her why she was up so early. She said, at the home, if you're not ready when they call, you don't get breakfast. I sat down next to her and said, sweetheart, in this house, breakfast waits for you. She didn't believe me. I'll tell you how long it took her to believe me in a minute.""",
+   "little girl sitting dressed on cot at dawn", "BREAKFAST WAITS FOR YOU")
+ch("Five days")
+sc("""If Grandma's story is touching your heart, tap the like button for me, sweetheart. It helps more people find these stories. Those five days, honey, we tried to give that child a whole lifetime of Christmas. We made cookies, and she ate the dough off the spoon, and she laughed for the first time. We went caroling with the church. Susan followed her everywhere like a puppy. And Marie held Mark like he was made of glass.""",
+   "little girls making Christmas cookies 1960s", "SHE LAUGHED")
+sc("""But Harold, honey. Harold went down to the basement every night after supper, and he wouldn't tell me what he was doing. I heard sawing and hammering until midnight. On the twenty-third, the twenty-fourth. He came to bed with sawdust in his hair. And on Christmas morning, I found out. He'd built her a dollhouse. Two stories, with a front porch, painted white with green shutters.""",
+   "man building wooden dollhouse in basement", "SAWDUST IN HIS HAIR")
+sc("""And it was our house, sweetheart. Our little house on Maple Drive, exactly, down to the front porch and the crooked mailbox. He'd painted the number on the door. And inside, I'd sewn four little cloth dolls. A mother, a father, a little girl, and a baby. And Harold had written on the bottom, in pencil, for Marie, who will always have a home here. Stay with me, honey, because that's the part I'll never forget.""",
+   "white wooden dollhouse with green shutters", "ALWAYS HAVE A HOME HERE")
+
+sc("""It took her until the third morning, sweetheart. On the twenty-fourth, she slept until eight o'clock, and she came down the stairs in her nightgown, rubbing her eyes, and she stopped on the bottom step and looked at the table. Her plate was there, with pancakes under a dish towel, keeping warm. And she just stood there. Then she walked over and lifted the towel, and she looked up at me like I'd done a magic trick.""",
+   "pancakes under dish towel on 1960s table", "IT WAITED")
+ch("The twenty-sixth")
+sc("""Marie sat in front of that dollhouse all of Christmas Day. She didn't play with anything else. She moved the four little dolls from room to room, all day long, whispering to them. And that night, she asked me, can I stay? And I didn't know what to say, honey. Because the rules said five days. And the rules said families like ours, with a baby and a new mortgage, weren't approved for fostering.""",
+   "little girl playing with dollhouse dolls", "CAN I STAY?")
+sc("""On the twenty-sixth, we drove her back. She held that dollhouse on her lap in the back seat, and when she realized where we were going, she screamed. She screamed the whole way. And at the children's home, the matron said, she can't keep that. There's no room for private toys. It'll be shared with the others. And Marie held onto that dollhouse with both arms until they pried her fingers off it.""",
+   "matron taking dollhouse from crying girl", "THEY PRIED HER FINGERS")
+sc("""Harold didn't say a word the whole drive home, sweetheart. He just gripped the steering wheel. And when we got in the driveway, he sat there with the engine off for a long time, and then he put his head on the wheel. My Harold, who never cried. He said, Ruthie, I want to get her back. And we tried, honey. We tried so hard. In a minute I'll tell you what happened.""",
+   "man with head on steering wheel in driveway", "I WANT HER BACK")
+
+ch("Trying")
+sc("""Harold went to the county office the very next week. He filled out every form. We had a social worker come to the house and inspect everything, the bedrooms, the kitchen, the furnace. Our pastor wrote a letter. But in March, the letter came back. Marie had been placed with a family in Michigan, who were going to adopt her. The county wouldn't tell us their name. It was the rules, back then.""",
+   "official county letter on kitchen table", "PLACED IN MICHIGAN")
+sc("""I told myself it was good news, honey. A real family. A forever home. But Harold never got over it, not really. Every Christmas, for forty years, he'd go quiet for a minute on Christmas morning, and I knew he was thinking about her. About that dollhouse with somebody else's children playing with it. He passed in two thousand eight, still wondering. That's the part that hurts the most.""",
+   "elderly man quiet by Christmas tree", "STILL WONDERING")
+
+ch("Two thousand eighteen")
+sc("""So far, the five days, the soap lady, the dollhouse, and the screaming in the back seat. Ten years after Harold passed, on the twenty-second of December, two thousand eighteen, exactly fifty years to the day, my doorbell rang. I was seventy-four. And standing on my porch was a woman of about fifty-eight, with gray in her dark hair, and big, careful eyes. And in her arms, wrapped in a quilt, was a white dollhouse with green shutters.""",
+   "woman on porch holding dollhouse in quilt", "FIFTY YEARS TO THE DAY")
+sc("""I couldn't breathe, honey. I put my hand on the doorframe. And she said, Mrs. Ruth? I don't know if you remember me. And I said, Marie. Oh, Marie. Of course I remember you. And she said, I think this belongs here. And she turned the dollhouse around, and there was the crooked mailbox, and our house number on the front door, faded, but still there, in Harold's paint.""",
+   "faded house number on dollhouse door", "IT BELONGS HERE")
+
+ch("Her story")
+sc("""She told me at my kitchen table, sweetheart, with the dollhouse between us. When the children's home closed in nineteen seventy-four, a woman who'd worked there found that dollhouse in a storage room, with the pencil writing on the bottom. She kept it for forty years. And when she was dying, her daughter found Marie's name on the bottom and tracked her down through an adoption registry. It had taken a year.""",
+   "pencil writing on bottom of wooden dollhouse", "FOR MARIE")
+sc("""Marie's adoptive family in Michigan were good people, honey. She had a good life. She became a teacher, and then a principal. She has three children and five grandchildren. But she told me she'd dreamed about our house her whole life. The cookies. The caroling. A man with sawdust in his hair. She said, for five days, I knew what it felt like to be wanted. Everything good in my life grew out of those five days.""",
+   "school principal woman with family photo", "WHAT IT FELT LIKE")
+sc("""And then she said, Mrs. Ruth, is Harold here? I'd like to thank him. And I had to tell her. And she cried, honey, for a man she'd known for five days, fifty years ago. So the next morning, we drove out to the cemetery together, in the snow. And Marie knelt down by his stone, and she put one of those little cloth dolls on top. The father. She'd kept it in her pocket for fifty years.""",
+   "small cloth doll on snowy gravestone", "THE FATHER DOLL")
+
+ch("Today")
+sc("""Marie comes every Christmas now, sweetheart, with her grandchildren. The dollhouse sits on a table in my living room, right in front of the window, where Harold would want it. And every year, her grandchildren move the little dolls from room to room, whispering to them. And every year, I tell them about the man who built it in the basement, in five days, with sawdust in his hair.""",
+   "grandchildren playing with dollhouse by window", "EVERY CHRISTMAS NOW")
+
+ch("Grandma's lesson")
+sc("""Here's what I want you to remember, honey. Five days of love can last fifty years. You never know what a child will carry with her for the rest of her life. Tell me in the comments, sweetheart, who made you feel wanted when you were a child? There are more of my family's stories in the playlist right there on your screen. Good night. Merry Christmas.""",
+   "white dollhouse lit by Christmas tree", "FIVE DAYS, FIFTY YEARS")
+
+for s in S:
+    s["cuts"], s["moves"] = 4, True
+
+save("grandma118", "We Took In an Orphan Girl for ONE Christmas in 1968. 50 Years Later...",
+     ["Grandma Ruth is a fictional narrator, and this is a fictional story. All names are invented."],
+     "kindness returns story", minutes=(12, 14.5), voice="en_US-lessac-high")
