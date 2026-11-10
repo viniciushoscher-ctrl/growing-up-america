@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Rum balls and bourbon balls, no-bake confections made from cookie crumbs, nuts, cocoa and spirits, common in mid-century American church cookbooks.
+- Recipe as written by Grandma Ruth: 2 1/2 cups fine vanilla wafer crumbs, 1 cup powdered sugar, 1 cup finely chopped toasted pecans, 2 tbsp cocoa, 3 tbsp corn syrup or honey, 1/2 cup dark rum; rested at least 3 days.

@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- The children's table at American holiday dinners; Christmas crackers, an English tradition from the 1840s.
+- Hosting ideas as described by Grandma Ruth: paper tablecloths with crayons, place cards, small portions, jobs for children, and an after-dinner gingerbread project.

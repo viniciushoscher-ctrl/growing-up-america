@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- The sloppy joe, an American loose-meat sandwich in tomato sauce; one origin story credits a cook named Joe in Sioux City, Iowa, in the 1930s.
+- Recipe as written by Grandma Ruth: 1 1/2 lb ground beef, 1 onion, 1 green pepper, 2 garlic cloves, 8 oz tomato sauce, 1/2 cup ketchup, 1 tbsp brown sugar, 1 tbsp Worcestershire, 1 tbsp mustard, 1 tsp chili powder, 1 tbsp cider vinegar or pickle juice; simmered 10 to 15 minutes; buttered toasted buns.

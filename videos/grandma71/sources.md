@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- The Christmas story read from the Gospel of Luke, chapter 2, as a family tradition.
+- Gift guidance as described by Grandma Ruth: something they want, something they need, something to wear, something to read.

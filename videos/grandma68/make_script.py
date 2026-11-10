@@ -1,0 +1,92 @@
+import sys; sys.path.insert(0, __import__("os").path.join(__import__("os").path.dirname(__file__), "..", "..", "pipeline"))
+from scriptkit import sc, ch, save, S
+
+# Grandma Ruth 68 · Christmas tips: the children's table at Christmas dinner (Google Trends 3/11: holiday hosting, Thanksgiving dinner rising)
+# Grandma Ruth: born 1944 in Mansfield, Ohio; mother Dorothy, father Walter, brother Danny, Grandma Pearl.
+
+sc("""Sweetheart, I sat at the children's table at Christmas dinner until I was nineteen years old. A card table in the doorway between the kitchen and the dining room, with a wobbly leg and a paper tablecloth. Danny, me, and five cousins, elbow to elbow. And I'll tell you a secret. It was the best seat in the house. All the fun happened at that little table.""",
+   "children's table Christmas dinner", "THE BEST SEAT")
+sc("""So tonight I'm giving you nine ways to make the children's table at Christmas the place every child wants to sit, and keep them busy and happy so the grown-ups can finish their coffee in peace. Most of it costs nothing. And stay with me, because the last idea is the one that turns a crowd of wiggly children into a quiet table for a whole hour.""",
+   "happy kids at holiday table", "A QUIET TABLE")
+
+ch("The card table")
+sc("""At Grandma Pearl's farm, the grown-up table was the big oak table with the white cloth and the good china. And the children's table was a card table, a sheet of plywood on two sawhorses, and whatever chairs and crates we could find. My cousin Gary sat on a milk crate for six Christmases in a row. He said it was a throne.""",
+   "card table sawhorses farmhouse", "A MILK CRATE THRONE")
+sc("""The grown-ups thought they were sending us away. But we had our own jokes, our own rules, and nobody telling us to sit up straight. We made faces, traded food, and whispered about the grown-ups. In a minute I'll tell you the first rule for a good children's table, and it's where you put it.""",
+   "children whispering at table", "OUR OWN RULES")
+
+ch("1. Close, but not too close")
+sc("""Number one. Put the children's table close to the grown-ups, but not right next to them. In the same room, or in the doorway, where the children can see and hear the family, and the grown-ups can keep an eye on them. Don't send them off to the basement. A child stuck alone in another room feels punished, not special.""",
+   "kids table in doorway dining room", "CLOSE, NOT TOO CLOSE")
+
+sc("""And get the right height, honey. A small child at a grown-up table can barely see over the plate, and a teenager at a little card table looks like a bear at a tea party. Use a card table or a folding table for the little ones, with a couple of thick books or a cushion on the chairs for the smallest. Put a tablecloth that hangs low to hide the folding legs.""",
+   "small child booster cushion table", "THE RIGHT HEIGHT")
+
+ch("2. A real table setting")
+sc("""Number two. Make it a real table, honey, not an afterthought. A tablecloth, even a paper one. Real plates, or nice paper ones. Their own little centerpiece. A candle, a battery one for safety. Children notice when they get the leftovers of everything. Give them their own pretty table, and they'll behave like they're at a fancy restaurant.""",
+   "kids Christmas table setting", "A REAL TABLE")
+
+ch("3. Paper tablecloth")
+sc("""Number three, and this is my favorite. Cover the table with plain white or brown butcher paper, and put a cup of crayons in the middle. Then the whole table is a drawing pad. They draw while they wait for dinner, draw on their placemat, and play tic-tac-toe with their cousins. And when it's over, you just roll it up and throw it away. No stains.""",
+   "butcher paper tablecloth crayons", "A TABLE TO DRAW ON")
+sc("""If this is helping you, honey, tap the like button for me. It helps Grandma more than you know. And here's a trick for the paper tablecloth. Draw a big circle at each place, and write each child's name in fancy letters. Then let them decorate their own place. My grandchildren spend twenty minutes on their name before dinner, and nobody fights over seats.""",
+   "child decorating name place paper", "THEIR OWN PLACE")
+
+ch("4. Place cards")
+sc("""Number four. Place cards. Children love seeing their name on a card at the table. It makes them feel important. Write each name on a folded card, or a paper star, or a pinecone with a little tag. And seat them carefully. Put the shy one next to the friendly one. Keep the two who fight at opposite ends. And put the oldest one in charge.""",
+   "place cards kids names", "PUT THE OLDEST IN CHARGE")
+sc("""That's how I got promoted, sweetheart. In nineteen fifty-six, when I was twelve, Grandma Pearl made me head of the children's table. My job was to say grace, pass the rolls, and make sure Danny didn't put olives on his fingers. I took it so seriously. I still think it was the most important job I ever had.""",
+   "girl saying grace children table", "HEAD OF THE TABLE")
+
+ch("5. Food they'll eat")
+sc("""Number five. Food they'll actually eat. Put a few things on their table that every child likes. A little basket of rolls with butter. A bowl of black olives, for the fingers. Carrot sticks. Cranberry sauce with the ridges from the can. Mashed potatoes they can make a volcano with. And small portions. A child faced with a giant plate gives up before they start.""",
+   "kids plate rolls olives carrot sticks", "OLIVES FOR THE FINGERS")
+sc("""And serve them their drinks in something special. Little glasses with a candy cane hooked on the side, or a cup with a paper straw. Sparkling cider or ginger ale in a real glass, so they can toast like the grown-ups. When my father stood up to give the toast, the children's table stood up too, with their ginger ale. Every year.""",
+   "children toasting sparkling cider", "THEY TOAST TOO")
+
+sc("""And plan for spills, sweetheart. There will be spills. Put a washable tablecloth or a sheet of plastic under the paper one. Give the little ones cups with lids or short, heavy glasses that don't tip. Keep a roll of paper towels on the floor under the table. And never put the gravy boat at the children's table. I learned that one in nineteen sixty-nine.""",
+   "spilled milk kids table paper towels", "PLAN FOR SPILLS")
+
+ch("6. Crackers and hats")
+sc("""Number six. Christmas crackers. Those paper tubes you pull with a friend, and they pop, with a paper crown, a joke and a little toy inside. They're an old English tradition. Put one at every place. Every child wears the paper crown through the whole dinner, reads the silly joke out loud, and trades the toys. It's the happiest noise at Christmas.""",
+   "Christmas crackers paper crowns kids", "THE HAPPIEST NOISE")
+
+ch("7. Little jobs")
+sc("""So far, close to the family, a real table, a paper tablecloth to draw on, place cards, food they'll eat, and crackers with crowns. Number seven. Give them jobs. Children love to help. One fills the water glasses. One puts the rolls in the basket. One carries the cranberry sauce. One rings a little bell to call everyone to dinner. A child with a job is a child who isn't bored.""",
+   "child carrying dish to table", "GIVE THEM JOBS")
+
+ch("8. The grown-up visit")
+sc("""Number eight. Have each grown-up visit the children's table during dinner. Grandpa comes and sits for five minutes and tells a story. Aunt Margaret asks everybody what they're most excited about. It makes the children feel included, and honestly, it's the most fun the grown-ups will have all day. My husband used to spend half of every Christmas dinner at the children's table.""",
+   "grandfather sitting with grandchildren table", "GRANDPA COMES TO VISIT")
+
+ch("9. The quiet hour")
+sc("""And now number nine, the one I promised, the idea that turns wiggly children into a quiet table for a whole hour. After dinner, while the grown-ups have their coffee and pie, give the children's table its own project. A gingerbread house kit, or graham crackers, frosting and candy to build their own. Put it out on the paper tablecloth. And then watch.""",
+   "children building gingerbread houses", "THE QUIET HOUR")
+sc("""Every child goes quiet, honey. They build, they decorate, they eat half the candy, and they don't get up for an hour. And the grown-ups get to finish their coffee and talk. At the end, everybody votes for the best house, and the winner gets to take it home. My granddaughter won in two thousand four with a house that had a candy swimming pool. She still talks about it.""",
+   "gingerbread house candy decorations", "A CANDY SWIMMING POOL")
+sc("""Other quiet projects work too. Coloring pages of Christmas pictures. Paper snowflakes with safety scissors. Making thank-you cards for Grandma, right there at the table. Or a big puzzle that everybody works on together. Anything that keeps their hands busy and the table quiet. Just put it out before they start getting restless, not after.""",
+   "kids cutting paper snowflakes table", "KEEP THEIR HANDS BUSY")
+
+sc("""And after the quiet hour, honey, the children need to run. Send them outside in their coats to build a snowman or play tag in the yard for half an hour, with the oldest cousin in charge. Or put on Christmas music in the living room and let them dance. Tired children are happy children, and they'll fall asleep in the car on the way home.""",
+   "children playing in snow yard", "LET THEM RUN")
+
+ch("Growing up")
+sc("""And one day, sweetheart, a child will be promoted to the grown-up table. Make it a big deal. In our family, it happened the Christmas after you turned sixteen, and Grandma Pearl set a place for you at the big table with a card that said, Welcome, Miss Ruth. I sat down so proud. And I missed the children's table so much I went back to visit every year.""",
+   "teenager joining adult holiday table", "WELCOME, MISS RUTH")
+sc("""Now I'm the oldest person at the grown-up table, honey. And every Christmas, after the pie, I take my coffee and go sit at the children's table for a while. It's still the best seat in the house. The grandchildren tell me their jokes, show me their drawings, and let me have a candy off their gingerbread house. That's my favorite part of Christmas.""",
+   "grandmother at children's table smiling", "STILL THE BEST SEAT")
+
+ch("Grandma's table")
+sc("""So one more time. Close to the family, but not too close. A real table, with a paper tablecloth and crayons. Their names on place cards, and the oldest in charge. Food they'll eat and a drink to toast with. Christmas crackers and paper crowns. Little jobs. A grown-up visit. And a gingerbread project after dinner, for the quiet hour. That's the children's table every child wants to sit at.""",
+   "Christmas dinner kids table fun", "EVERY CHILD WANTS IT")
+sc("""Tell me in the comments, sweetheart. Did you sit at the children's table? How old were you when you finally got promoted? The whole playlist of Grandma's Christmas tips is right there on your screen, and I'll see you in the next video. Good night, honey. Merry Christmas.""",
+   "family Christmas dinner evening", "WHEN WERE YOU PROMOTED?")
+
+for s in S:
+    s["cuts"], s["moves"] = 4, True
+
+save("grandma68", "9 Christmas Kids' Table Ideas That Keep Them Busy for HOURS",
+     ["Grandma Ruth is a narrated character built from real memories and records of the era.",
+      "The children's table at American holiday dinners; Christmas crackers, an English tradition from the 1840s.",
+      "Hosting ideas as described by Grandma Ruth: paper tablecloths with crayons, place cards, small portions, jobs for children, and an after-dinner gingerbread project."],
+     "christmas with tips", minutes=(10, 14.5), voice="en_US-lessac-high")
