@@ -1,0 +1,3 @@
+- Grandma Ruth is a narrated character built from real memories and records of the era.
+- Candles in windows are a long-standing American and Irish Christmas tradition of welcome.
+- Glass Wax, a window cleaner sold with Christmas stencils, was a popular 1950s holiday window decoration.
