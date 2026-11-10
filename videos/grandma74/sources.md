@@ -1,0 +1,2 @@
+- Grandma Ruth is a fictional narrator and this is a fictional story, inspired by the kind of Christmas kindness stories families tell.
+- First aid detail: frostbitten hands should be rewarmed in warm, not hot, water (modern guidance: about 98-102F / 37-39C).
