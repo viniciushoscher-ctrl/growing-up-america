@@ -1,0 +1,70 @@
+import sys; sys.path.insert(0, __import__("os").path.join(__import__("os").path.dirname(__file__), "..", "..", "pipeline"))
+from scriptkit import sc, ch, save, S
+
+# Grandma Ruth 116 · Christmas tips: Depression-era money-saving tricks
+
+sc("""Sweetheart, the average American today spends almost a thousand dollars on Christmas, and half of them are still paying it off in March. My mother raised two children through the war years and the lean times after, on my father's factory wages, and she never owed a penny after Christmas. Not once. And our Christmases were the happiest I've ever known. Tonight I'm going to show you exactly how she did it.""",
+   "stack of bills and credit card statements January", "STILL PAYING IN MARCH")
+sc("""So tonight I'm giving you eleven Depression-era Christmas tricks that can save you hundreds of dollars this year. And stay with me, because number eleven is the envelope system my mother kept in the flour tin, and it's the one thing that would fix most families' Christmas budgets in a single year.""",
+   "old envelopes with handwritten labels in tin", "THE FLOUR TIN")
+
+ch("How they did it")
+sc("""People think the folks who lived through the Depression just went without, honey. That's not true. They had wonderful Christmases. They just planned them differently. They saved first and spent later, instead of spending first and paying later. They made things instead of buying them. And they understood something we've forgotten. Children don't remember how much you spent. They remember how it felt.""",
+   "1940s family around modest Christmas tree", "HOW IT FELT")
+sc("""My mother had a saying, sweetheart. She said, Christmas is a feeling, not a receipt. And she meant it. We had one gift each, an orange and a candy cane in our stockings, a ham, and a house that smelled like cookies for three weeks. I didn't know we were poor, honey. I thought we were the luckiest family on Elm Street. In a minute I'll tell you the first trick, and it starts in January.""",
+   "orange and candy cane in Christmas stocking", "A FEELING, NOT A RECEIPT")
+
+sc("""My mother grew up in the worst of it, honey, in the nineteen thirties. Her father lost his job at the rubber plant in nineteen thirty-one, and for two Christmases, there were no presents at all. Just a church supper and a bag of hard candy from the Salvation Army. She told me she promised herself, standing in that soup line as a girl, that her own children would always have Christmas. And she found a way, every single year.""",
+   "1930s family in Depression soup line", "SHE MADE A PROMISE")
+ch("One to three")
+sc("""Number one, the Christmas club. Banks used to have them, honey. You'd open a little account in January, and put in fifty cents or a dollar every week, and in late November, the bank sent you a check. You can do the same thing today. Open a separate savings account, or just use a jar, and put in a set amount every single payday, starting now. Twenty dollars a week is over a thousand by next Christmas.""",
+   "vintage Christmas club bank coupon book", "THE CHRISTMAS CLUB")
+sc("""Number two, draw names. In my husband's family, there were eleven grown-ups and fourteen children, and everybody bought for everybody, and it was a disaster. So my mother-in-law put everyone's name in a hat at Thanksgiving. Each grown-up drew one name and bought one good gift, with a limit. The children still got a gift from everybody. It saved every family hundreds of dollars, and the gifts got better, because you could think about one person.""",
+   "names on paper slips in a hat", "DRAW NAMES")
+sc("""Number three, save the paper. My mother unwrapped every present carefully, with a butter knife under the tape. Then she ironed the wrapping paper flat on a low setting, folded it, and put it in a drawer for next year. Same with the ribbons and bows. Some of our paper was ten years old, honey. Today, you can do the same, or wrap in brown paper, newspaper, or the comics, with a sprig of pine on top.""",
+   "ironing used wrapping paper flat", "IRON IT FLAT")
+
+ch("Four to six")
+sc("""If Grandma's tips are helping you, tap the like button for me, sweetheart. It helps more people find these videos. Number four, decorate with food. Popcorn and cranberry garland on a string. Gingerbread ornaments with a hole poked at the top before baking. Dried orange slices. Cinnamon sticks tied with red yarn. Candy canes. A big bag of popcorn kernels and two bags of cranberries can trim a whole tree for about five dollars.""",
+   "popcorn and cranberry garland on tree", "DECORATE WITH FOOD")
+sc("""Number five, turn the old cards into gift tags. Every year, my mother saved the Christmas cards we received. Then the next December, she cut out the prettiest pictures with pinking shears, punched a hole in the corner, threaded red yarn through, and wrote names on the back. Free gift tags, and they're prettier than anything you can buy. Children love doing this, honey. It's a whole afternoon of entertainment for nothing.""",
+   "old Christmas cards cut into gift tags", "FREE GIFT TAGS")
+sc("""Number six, the gift of time. When I was ten, I gave my father a little book I'd made, with ten coupons inside. One coupon was good for shining his shoes. One was for a back rub. One was for being quiet for a whole hour while he read the paper. He kept that book in his dresser drawer until the day he died, honey. In a minute I'll tell you which coupon he never used.""",
+   "handmade coupon book from a child", "THE GIFT OF TIME")
+
+sc("""A few more gift-of-time ideas, sweetheart, because they're the ones people remember. A coupon for a Saturday fishing trip with Grandpa. A coupon to teach your granddaughter to make your pie, in your kitchen, side by side. A coupon for one long letter, handwritten, every month for a year. Those cost nothing, and I promise you, they'll be kept in a drawer long after every sweater from the department store is gone.""",
+   "grandmother teaching granddaughter to bake pie", "KEPT IN A DRAWER")
+ch("Seven and eight")
+sc("""He never used the coupon for being quiet for a whole hour, sweetheart. He told me when I was grown that he'd saved it, because he liked hearing me chatter. I found it in his drawer after he passed, still in the book, never torn out. Number seven, potluck Christmas. Don't cook the whole dinner yourself. Assign every family one dish. You make the ham. Somebody brings potatoes, somebody brings pie. It costs everybody less, and nobody's exhausted.""",
+   "potluck Christmas dinner covered dishes on table", "POTLUCK CHRISTMAS")
+sc("""Number eight, stretch the roast. Plan your leftovers before Christmas, not after. A ten-pound ham is Christmas dinner, then sandwiches, then ham and eggs, then ham and macaroni, then the bone makes a pot of bean soup for New Year's. My mother got six meals out of one Christmas ham, honey. Nothing was ever thrown away. Write the leftover meals on your shopping list before you go to the store.""",
+   "ham bone soup pot New Year's", "SIX MEALS FROM ONE HAM")
+
+ch("Nine and ten")
+sc("""So far, the Christmas club, draw names, save the paper, decorate with food, old cards as tags, the gift of time, potluck, and stretch the roast. Number nine, shop the day after. On December twenty-sixth, everything Christmas is half price or less. Paper, ribbon, lights, ornaments, cards. My mother bought next year's wrapping and cards every December twenty-sixth, and put them in the attic. She never paid full price for any of it in her life.""",
+   "after Christmas clearance sale signs", "HALF PRICE ON THE 26TH")
+sc("""Number ten, cash only. My mother never used credit for Christmas, honey, and back then there wasn't much credit to use anyway. When the money was gone, Christmas shopping was done. Here's what I tell my grandchildren. Take out your Christmas money in cash, in December. Leave your credit cards at home. It's much harder to hand over a twenty-dollar bill than to tap a card. You'll spend a third less, I promise you.""",
+   "cash in hand at store checkout", "CASH ONLY")
+
+sc("""And one more, for the children, honey. My mother had a rule. Every child gave one gift that they made with their own hands. Danny carved a crooked wooden spoon for my mother when he was eight. She used it every Christmas morning to stir the cocoa until the year she died. It cost nothing. It meant everything. Children who make gifts learn that Christmas is about giving, not getting, and that lesson is worth more than any present under the tree.""",
+   "crooked hand carved wooden spoon", "MADE WITH THEIR HANDS")
+ch("Number eleven")
+sc("""Stay with me, because here's number eleven, my mother's envelope system. On the first of November, she took all the money from her Christmas jar and spread it out on the kitchen table. Then she took a stack of old envelopes and wrote one word on each. Gifts. Food. Tree. Church. Stockings. And one more envelope that said, somebody else. And she divided the money into those envelopes.""",
+   "money divided into labeled envelopes on table", "THE ENVELOPES")
+sc("""She kept them in the old flour tin on the top shelf, honey. When she went shopping for gifts, she took only the gifts envelope. When it was empty, gift shopping was done. No borrowing from the food envelope. Ever. And the somebody else envelope was for a family in need, a neighbor, a widow at church. Even in the hardest years, there was always something in that envelope. She said, that one's the most important.""",
+   "old flour tin on high kitchen shelf", "SOMEBODY ELSE")
+sc("""I've used that envelope system every Christmas of my life, sweetheart. When Harold and I had nothing, and when we had a little more. And I've never once owed a penny in January. You can do it today, with real envelopes, or with separate accounts on your phone. Decide before you shop. When the envelope's empty, you're done. And always, always have a somebody else envelope.""",
+   "elderly woman labeling envelopes at kitchen table", "EMPTY MEANS DONE")
+
+ch("Grandma's lesson")
+sc("""Try one of these this year, sweetheart, just one, and see how it feels to start January with nothing owed. Tell me in the comments, which Depression-era trick did your grandmother use? There are more of my Christmas tips in the playlist right there on your screen. Good night, honey. Merry Christmas.""",
+   "cozy modest Christmas living room", "START JANUARY FREE")
+
+for s in S:
+    s["cuts"], s["moves"] = 4, True
+
+save("grandma116", "11 Depression-Era Christmas Tricks That Save You HUNDREDS This Year",
+     ["Grandma Ruth is a narrated character built from real memories and records of the era.",
+      "Christmas club savings accounts were offered by American banks from the early 1900s.",
+      "Spending figures vary by survey; recent US holiday surveys commonly estimate around $900-1,000 per person."],
+     "christmas tips", minutes=(10, 14.5), voice="en_US-lessac-high")
