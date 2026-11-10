@@ -1,0 +1,1 @@
+- Grandma Ruth is a fictional narrator, and this is a fictional story. All names are invented, including the soup kitchen.
